@@ -19,7 +19,7 @@ Here's an example of prompt that generates anthros with 5-20 random tags, in a r
 
 	{5-20$$__e621_all_tags_above_100__}
 
-	({__e621_locations__}, detailed backfround:1.2)
+	({__e621_locations__}, detailed background:1.2)
 
 	{__e621_angles__}
 	{__e621_framing__}
