@@ -1,0 +1,999 @@
+animal, mammal
+canine, canid
+domestic dog, canine
+feline, felid
+wolf, canis
+generation 1, pokemon \(species\)
+horse, equid
+humanoid, humanoid
+reptile, scalie
+horse, equine
+domestic cat, feline
+humanoid, human
+vulpine, fox
+dragon, dragon
+canine, domestic dog
+lupine, wolf
+domestic cat, felis
+feline, domestic cat
+rabbit, lagomorph
+scaly, reptile
+rabbit, leporid
+lagomorph, rabbit
+equine, horse
+feline, pantherine
+bird, avian
+goat, bovid
+humanoid, animal humanoid
+mixed, hybrid
+pokemon, generation 1 pokemon
+murid, rodent
+equine, pony
+fish, marine
+avian, bird
+equine, unicorn
+ursine, bear
+humanoid, mammal humanoid
+pokemon, generation 4 pokemon
+goat, caprine
+demonic, demon
+pantherine, tiger
+pokemon, generation 3 pokemon
+equine, pegasus
+equine, earth pony
+marine, fish
+cervine, deer
+extraterrestrial, alien
+insect, arthropod
+rodent, murid
+rodent, murine
+pokemon, generation 2 pokemon
+cattle, bovine
+weasel, mustelid
+machine, robot
+feline, lion
+eevee, eeveelution
+pokemon generation6, generation 6 pokemon
+pokemon generation5, generation 5 pokemon
+digital, digimon \(species\)
+legendary, legendary pokemon
+chiropteran, bat
+reptile, lizard
+canine, spitz
+pegasus, winged unicorn
+selachian, shark
+insectivore, eulipotyphlan
+caprine, goat
+vulpine, red fox
+serpent, snake
+Erinaceinae, hedgehog
+murine, mouse
+pouched, marsupial
+catfolk, felid humanoid
+raccoon, procyonid
+prehistoric, dinosaur
+pokemon generation7, generation 7 pokemon
+creature, monster
+Hyaenidae, hyena
+procyonid, raccoon
+insect, insect
+squirrel, sciurid
+husky, nordic sled dog
+herding, pastoral dog
+catfolk, feline humanoid
+herding, herding dog
+shapeshifter, were
+dragon, western dragon
+nordic sled dog, husky
+catfolk, cat humanoid
+shapeshifter, werecanid
+dogfolk, canid humanoid
+legendary bird, mythological avian
+lutrine, otter
+mustelid, musteline
+dogfolk, canine humanoid
+elemental, elemental creature
+crocodile, crocodilian
+Pokémon, lucario
+dragon, furred dragon
+ovine, sheep
+skunk, mephitid
+murine, rat
+mephitid, skunk
+digimon, renamon
+bear, ursine
+pokemon generation8, generation 8 pokemon
+shapeshifter, werecanine
+fox, fennec
+pig, suina
+red panda, ailurid
+shapeshifter, werewolf
+ailurid, red panda
+monkey, primate
+robotic, animatronic
+pig, suid
+mythical, gryphon
+natural, flora fauna
+hunter, hunting dog
+pig, sus \(pig\)
+squirrel, tree squirrel
+canid, raccoon dog
+hyena, spotted hyena
+mythical, kobold
+mythical, tanuki
+unidentified, unknown
+formidable, boss monster
+canid, jackal
+bear, giant panda
+aquatic, amphibian
+dinosaur, theropod
+feline, lynx
+humanoid, elf
+feline, snow leopard
+shellfish, mollusk
+feline, cheetah
+mythical, horned humanoid
+supernatural, spirit
+Pokémon, gardevoir
+demonic, canid demon
+rare, shiny pokemon
+amorphous, goo creature
+kangaroo, macropod
+fowl, galliform
+demonic, hellhound
+fowl, phasianid
+mythical, koopa
+dog, german shepherd
+Pokémon, pikachu
+mustelid, true musteline
+feline, leopard
+anthropomorphic, animate inanimate
+hybrid, taur
+deer, capreoline
+fox, fox humanoid
+bird, passerine
+bird, oscine
+primate, haplorhine
+macropod, kangaroo
+merfolk, marine humanoid
+mythical, imp
+equine, zebra
+Pokémon, umbreon
+supernatural, ghost
+bear, polar bear
+mollusk, cephalopod
+Pokémon, eevee
+supernatural, undead
+dog, toy dog
+shapeshifter, changeling
+crocodile, crocodylid
+crocodylid, crocodile
+aquatic, cetacean
+chicken, gallus \(genus\)
+gallus, chicken
+mustelid, weasel
+extraterrestrial, alien humanoid
+mythical, sergal
+canid, coyote
+dragon, eastern dragon
+Pokémon, lopunny
+alligator, alligatorid
+cetacean, toothed whale
+Pokémon, sylveon
+divine, deity
+dog, pinscher
+dog, dobermann
+alligatorid, alligator
+cetacean, dolphin
+bird, corvid
+dog, bird dog
+Pokémon, braixen
+deer, reindeer
+Pokémon, vaporeon
+bird, owl
+dog, sheepdog
+cetacean, oceanic dolphin
+pig, domestic pig
+spider, arachnid
+mythical, yordle
+variation, regional form \(pokemon\)
+pokemon generation9, generation 9 pokemon
+dog, shih tzu
+mythical, draconcopode
+primate, monkey
+pig, wild boar
+bird, accipitriform
+insect, lepidopteran
+alien, experiment \(Lilo and Stitch\)
+Pokémon, zoroark
+dragon, wingless dragon
+Pokémon, charizard
+dinosaur, dromaeosaurid
+Pokémon, glaceon
+squirrel, ground squirrel
+robotic, android
+robotic, cyborg
+ungulate, antelope
+evolution, mega evolution
+hybrid, mammal taur
+squirrel, chipmunk
+mythical, goblin
+donkey, asinus
+marsupial, bandicoot
+mythical, bovid humanoid
+asinus, donkey
+dog, molosser
+mythical, mollusk humanoid
+insect, hymenopteran
+amphibian, frog
+mythical, lagomorph humanoid
+bird, accipitrid
+mythical, demon humanoid
+mythical, cephalopod humanoid
+dog, dalmatian
+mythical, anubian jackal
+sheep, domestic sheep
+mythical, chimera
+arachnid, spider
+mustelid, badger
+dog, retriever
+unknown, ambiguous
+dog, collie
+fox, arctic fox
+deer, cervine
+Pokémon, arcanine
+bird, anseriform
+bird, anatid
+mythical, bat pony
+feline, cougar
+dolphin, orca
+giraffe, giraffid
+mythical, leporid humanoid
+mythical, rabbit humanoid
+dog, shiba inu
+Pokémon, lycanroc
+Pokémon, blaziken
+mythical, machairodontine
+mythical, dragon humanoid
+mythical, yokai
+mammal, monotreme
+marsupial, didelphid
+Pokémon, espeon
+Pokémon, lugia
+mythical, worgen
+humanoid, orc
+humanoid, hylian
+bird, corvus \(genus\)
+bird, duck
+Pokémon, zangoose
+reptile, turtle
+mythical, wyvern
+elephant, proboscidean
+robotic, robot humanoid
+mythical, elemental humanoid
+mammal, echidna
+Pokémon, cinderace
+mythical, bovine humanoid
+ferret, domestic ferret
+elephant, elephantid
+mammal, giraffe
+snake, cobra
+Pokémon, goodra
+mythical, inkling
+mythical, naga
+mythical, vampire
+dog, border collie
+Pokémon, raichu
+mammal, elephant
+unknown, food creature
+Pokémon, leafeon
+insect, bee
+dinosaur, velociraptor
+Pokémon, typhlosion
+Pokémon variation, alolan form
+dinosaur, tyrannosaurid
+mythical, arthropod humanoid
+bird, eagle
+mythical, angel
+Pokémon, jolteon
+primate, ape
+dinosaur, tyrannosaurus
+mythical, yoshi
+dog, mastiff
+bear, brown bear
+Pokémon, flareon
+Pokémon, absol
+mythical, wolf humanoid
+mythical, twili
+ungulate, rhinoceros
+undead, animated skeleton
+mythical, fairy
+mythical, lombax
+mammal, pinniped
+dinosaur, tyrannosaurus rex
+mythical, cattle humanoid
+mythical, scalie humanoid
+mythical, protogen
+mythical, merfolk
+mythical, minotaur
+mythical, argonian
+Pokémon, midnight lycanroc
+dinosaur, ornithischian
+mythical, winged humanoid
+ungulate, gazelle
+robotic, living machine
+Pokémon, mewtwo
+mythical, fish humanoid
+Pokémon, riolu
+bird, crow
+Pokémon, delphox
+mythical, khajiit
+mollusk, coleoid
+mythical, keidran
+Pokémon, incineroar
+hybrid, humanoid taur
+mythical, feathered dragon
+insect, butterfly
+insect, moth
+amphibian, salamander
+mythical, plant humanoid
+cat, calico cat
+mammal, maned wolf
+mythical, pandaren
+mythical, waddling head
+mythical, guilmon
+dog, welsh corgi
+hybrid, equid taur
+mythical, rito
+dog, golden retriever
+mythical, dog humanoid
+dog, african wild dog
+mythical, lamia
+mollusk, gastropod
+rabbit, oryctolagus
+rabbit, domestic rabbit
+mammal, herpestid
+dog, sighthound
+mammal, gulonine
+reptile, chameleon
+primate, strepsirrhine
+hyena, striped hyena
+primate, lemur
+mythical, draconequus
+mythical, tauren
+Pokémon, vulpix
+Pokémon, mew \(pokemon\)
+mythical, living inflatable
+mammal, camelid
+mythical, rodent humanoid
+mythical, sangheili
+Pokémon, salazzle
+dog, poodle
+feline, jaguar
+mythical, flying wyvern
+mythical, draenei
+mythical, tentacle monster
+Pokémon, latias
+mammal, hare
+cat, siamese
+bird, penguin
+mythical, centaur
+Pokémon, luxray
+dog, labrador
+Pokémon, greninja
+mythical, aquatic dragon
+bird, parrot
+marsupial, virginia opossum
+Pokémon variation, hisuian form
+mythical, living vehicle
+mammal, mink
+rodent, beaver
+Pokémon, ninetales
+bird, jay \(bird\)
+mythical, avian humanoid
+bird, new world jay
+primate, gorilla
+mammal, xenarthran
+rodent, cricetid
+mythical, octarian
+Pokémon, quilava
+mythical, octoling
+Pokémon, zeraora
+mythical, monstrous humanoid
+bear, grizzly bear
+mythical, charr
+Pokémon, snivy
+Pokémon, gengar
+bird, blue jay
+mythical, octopodiform
+Pokémon, kirlia
+Pokémon, zorua
+Pokémon, buizel
+mythical, kaiju
+undead, zombie
+mythical, turian
+mythical, genie
+mythical, gatomon
+mythical, miqo'te
+dog, dingo
+Pokémon, mienshao
+rodent, hamster
+mythical, caprine demon
+mythical, xenomorph
+mythical, meowscarada
+aquatic, crustacean
+Pokémon, weavile
+Pokémon, serperior
+Pokémon, floatzel
+mythical, tem
+dog, rottweiler
+mythical, night fury
+Pokémon, charmander
+mythical, living aircraft
+Pokémon, reshiram
+mythical, succubus
+mythical, equid humanoid
+mythical, ambient arthropod
+dog, spaniel
+Pokémon, scorbunny
+mythical, gargoyle
+dinosaur, ceratopsian
+unknown, request
+dog, scent hound
+dog, mountain dog
+Pokémon, charmeleon
+mythical, jackalope
+insect, beetle
+deer, red deer
+mythical, oni
+dog, terrier
+hippopotamus, hippopotamid
+Pokémon, shinx
+mythical, reptile humanoid
+reptile, gecko
+mythical, satyr
+mythical, darkner
+Pokémon, mightyena
+mythical, insect humanoid
+mythical, owl demon
+mammal, marten
+mythical, sprigatito
+mythical, ambient flier
+hybrid, wolfdog
+Pokémon, fennekin
+mythical, goat demon
+mythical, green yoshi
+mythical, living plushie
+mythical, cyclops
+mythical, mythological firebird
+mythical, elder dragon
+mythical, avali
+Pokémon, dragonite
+mythical, mineral fauna
+mythical, kirin
+Pokémon, garchomp
+mythical, arachnid humanoid
+dinosaur, triceratops
+Pokémon, shaymin
+mythical, impmon
+hybrid, mixed breed
+dog, alaskan malamute
+mythical, equine humanoid
+Pokémon, ampharos
+Pokémon, alolan vulpix
+horse, draft horse
+cat, hairless cat
+hippopotamus, common hippopotamus
+mythical, lizardman
+cat, tabby cat
+mythical, ambient insect
+Pokémon, primarina
+Pokémon, fossil pokemon
+bird, falconid
+mythical, night elf
+mammal, serval
+mythical, harpy
+mammal, dasyuromorph
+mythical, hippogriff
+bird, falcon
+mythical, malo
+Pokémon, nidoqueen
+mythical, pantherine humanoid
+mythical, deathclaw
+Pokémon, flygon
+aquatic, echinoderm
+Pokémon, meowstic
+Pokémon, houndoom
+mythical, sphynx \(cat\)
+mollusk, slug
+bird, sea eagle
+Pokémon, audino
+dog, saluki
+mythical, goo humanoid
+crustacean, malacostracan
+mythical, spider humanoid
+mythical, caprine humanoid
+dinosaur, pterosaur
+Pokémon, mawile
+Pokémon, feraligatr
+bird, bald eagle
+mythical, phoenix
+Pokémon, meowth
+Pokémon, latios
+mythical, veemon
+mythical, flamedramon
+shark, requiem shark
+mythical, burmecian
+bird, raven
+dog, australian shepherd
+dinosaur, feathered dinosaur
+mammal, mongoose
+mammal, stoat
+Pokémon, inteleon
+Pokémon, pichu
+mythical, gnoll
+mythical, object head
+reptile, monitor lizard
+Pokémon, samurott
+bird, peafowl
+mythical, zora
+Pokémon, machoke
+mythical, ultra beast
+mammal, alpaca
+Pokémon, sky forme shaymin
+mythical, lynian
+mythical, caracal \(genus\)
+mythical, symbiote
+mythical, felyne
+aquatic, cnidarian
+mythical, flower creature
+mammal, meerkat
+mammal, vombatiform
+mythical, blood elf
+mythical, duel monster
+bird, columbid
+mythical, sciurid humanoid
+Pokémon, furret
+crustacean, decapoda
+mammal, moose
+mythical, pilosan
+mythical, basitin
+mammal, cape buffalo
+amphibian, mole salamander
+wolf, arctic wolf
+cat, tuxedo cat
+mythical, fanged wyvern
+aquatic, asterozoan
+mythical, caracal
+mythical, chinchillid
+mythical, leopardus
+Pokémon, bulbasaur
+bird, true parrot
+Pokémon, scolipede
+aquatic, decapodiform
+dog, great dane
+mythical, vulpera
+amphibian, axolotl
+mythical, murid humanoid
+mythical, murine humanoid
+mythical, ambient bird
+dog, akita
+Pokémon, dewott
+aquatic, starfish
+dog, cattledog
+dog, pomeranian
+mammal, ring-tailed lemur
+mammal, chinchilla
+mythical, skaven
+mythical, viverrid
+dog, australian cattle dog
+mammal, possum
+reptile, komodo dragon
+mythical, paradox pokemon
+mythical, tree squirrel humanoid
+bear, black bear
+Pokémon, noivern
+Pokémon, dragonair
+Pokémon, mega lopunny
+snake, viper
+mythical, eldritch abomination
+digital, digital creature
+mythical, felkin
+aquatic, seal
+bird, lari
+Pokémon, nidoking
+dog, beagle
+mythical, narehate
+mammal, koala
+mythical, piranha plant
+mythical, troll
+mythical, nargacuga
+Pokémon, scrafty
+crustacean, crab
+Pokémon, midday lycanroc
+dog, pit bull
+aquatic, ambient sealife
+mammal, wolverine
+mammal, porcupine
+dog, cocker spaniel
+dinosaur, sauropod
+mammal, holstein friesian cattle
+mythical, furred reptilian
+robotic, synth \(vader-san\)
+aquatic, tiger shark
+cat, ocelot
+deer, white-tailed deer
+hybrid, canid taur
+mythical, hydra
+mammal, striped skunk
+bird, hirundinid
+unknown, inanimate object
+mythical, boo \(mario\)
+Pokémon, suicune
+mythical, nimbat
+Pokémon, yveltal
+hybrid, canine taur
+bird, swallow \(bird\)
+mythical, mythological sphinx
+Pokémon, litten
+Pokémon, milotic
+dinosaur, pterodactylus
+mythical, mouse humanoid
+mythical, koopa troopa
+mythical, moogle
+Pokémon, lapras
+mammal, dwarf rabbit
+insect, dipteran
+Pokémon variation, galarian form
+Pokémon, totodile
+mammal, llama
+bat, pteropodid
+mythical, living fruit
+bird, vulture
+mammal, silver fox
+dog, swiss mountain dog
+mammal, armadillo
+Pokémon, jirachi
+mythical, foo dog
+Pokémon, emolga
+hybrid, felid taur
+mythical, chao \(sonic\)
+dog, bernese mountain dog
+Pokémon, sneasel
+Pokémon, grovyle
+Pokémon, poochyena
+mythical, gabumon
+mythical, cerberus
+Pokémon, salandit
+Pokémon, ditto \(pokemon\)
+mammal, lop rabbit
+mythical, kaka \(blazblue\)
+Pokémon, hypno \(pokemon\)
+mythical, tenno
+mythical, living clothing
+dog, samoyed
+Pokémon, smeargle
+mythical, kig-yar
+mythical, faun \(spyro\)
+aquatic, lamniform
+mythical, fungi fauna
+reptile, iguanid
+mythical, inkblot
+mythical, guardian spirit
+Pokémon, growlithe
+mythical, minkmen \(one piece\)
+cat, clouded leopard
+Pokémon, decidueye
+mythical, worm
+Pokémon, hatterene
+insect, mantis
+Pokémon, zebstrika
+aquatic, octopus
+mythical, wereeulipotyphlan
+mythical, werehog
+Pokémon, mega charizard
+mythical, sharpclaw \(star fox\)
+Pokémon, mudkip
+mammal, eurasian red squirrel
+mammal, afrosoricid
+mythical, kremling
+hybrid, liger
+mythical, asari
+dinosaur, hadrosaurid
+dog, bull terrier
+mammal, tenrec
+Pokémon, rattata
+mammal, pine marten
+Pokémon, chespin
+mythical, tiger humanoid
+mythical, leomon
+insect, ant
+wolf, red wolf
+Pokémon, nidorina
+mythical, vessel \(species\)
+dog, borzoi
+Pokémon, giratina
+Pokémon, pheromosa
+Pokémon, miltank
+insect, elateroid
+mammal, thylacine
+mythical, chocobo
+insect, firefly
+mythical, krogan
+rodent, dipodid
+bird, true owl
+insect, wasp
+Pokémon, sandslash
+snake, python
+Pokémon, pachirisu
+mammal, jerboa
+mythical, au ra
+fish, cypriniform
+mythical, food humanoid
+mythical, gerudo
+mythical, fire creature
+mythical, yinglet
+mythical, mummy
+bird, larid
+fish, cyprinid
+Pokémon, gallade
+mythical, rath wyvern
+mammal, wallaby
+snake, pit viper
+dog, siberian husky
+bird, turkey
+mammal, river otter
+Pokémon, ancient pokemon
+bird, gull
+Pokémon, rockruff
+Pokémon, squirtle
+dinosaur, thyreophoran
+Pokémon, arbok
+bird, pigeon
+mythical, ambient butterfly
+mythical, gammamon
+Pokémon, snorlax
+Pokémon, raboot
+Pokémon, hisuian typhlosion
+mammal, grazing antelope
+Pokémon, meloetta
+mythical, neopet \(species\)
+mythical, exveemon
+mythical, leviathan \(mh\)
+bird, anserinae
+mythical, red pandaren
+mythical, snake humanoid
+mythical, troll \(homestuck\)
+mythical, palico
+Pokémon, obstagoon
+Pokémon, mega lucario
+mythical, yautja
+Pokémon, swampert
+Pokémon, aggron
+mythical, asura
+insect, myriapod
+mythical, angel humanoid
+bird, bubo \(genus\)
+Pokémon, sceptile
+mythical, komainu
+mollusk, snail
+mythical, dragonborn \(dnd\)
+mythical, bird humanoid
+Pokémon, alolan ninetales
+mythical, animal head
+mythical, pokemon humanoid
+Pokémon, mega absol
+mythical, wendigo
+dinosaur, parasaurolophus
+Pokémon, zekrom
+mammal, oryx
+Pokémon, mismagius
+mythical, dark elf
+snake, rattlesnake
+mammal, walrus
+amphibian, newt
+Pokémon, luxio
+tiger, bengal tiger
+Pokémon, blastoise
+horse, clydesdale
+mythical, shyguy
+mythical, patamon
+mythical, space dragon \(metroid\)
+Pokémon, minun
+mythical, breegull
+mythical, nekomata
+rodent, caviid
+Pokémon, toxtricity
+Pokémon, hisuian zoroark
+bird, cockatoo
+mythical, urocyon
+robotic, cybertronian
+mythical, shark humanoid
+Pokémon, plusle
+Pokémon, arceus
+hybrid, arthropod taur
+mythical, sheep humanoid
+mammal, mole \(animal\)
+Pokémon, tyranitar
+Pokémon, oshawott
+mythical, viper \(x-com\)
+Pokémon, torracat
+Pokémon, haunter
+Pokémon, dusk lycanroc
+Pokémon, banette
+mammal, netherland dwarf rabbit
+cat, bobcat
+Pokémon, machamp
+mythical, quarian
+dog, chihuahua
+mythical, ogre
+mythical, weregarurumon
+hybrid, fox taur
+mythical, angoramon
+Pokémon, bayleef
+Pokémon, sableye
+mammal, dasyurid
+mythical, kong
+hybrid, deer taur
+mythical, viera
+Pokémon, wooloo
+Pokémon, infernape
+mythical, medusozoan
+mythical, mimiga
+bird, secretary bird
+mythical, goomba
+Pokémon, seviper
+mythical, shadow pokemon
+bird, toucan
+mythical, gomamon
+Pokémon, victini
+mythical, hrothgar
+cat, maine coon
+Pokémon, flaaffy
+mammal, sloth
+mythical, x-digimon
+bear, sloth bear
+Pokémon, skitty
+bear, american black bear
+mammal, grey fox
+Pokémon, wartortle
+mammal, microbat
+bird, old world vulture
+mythical, birdo
+mammal, anteater
+mythical, toad \(mario\)
+mythical, witch \(the owl house\)
+mythical, sparkledog
+Pokémon, roserade
+deer, mule deer
+amphibian, toad \(frog\)
+Pokémon, jigglypuff
+cat, wildcat
+Pokémon, minccino
+Pokémon, ivysaur
+mythical, living doll
+Pokémon, mimikyu
+Pokémon, pangoro
+mammal, cross fox
+Pokémon, mega charizard x
+Pokémon, rapidash
+Pokémon, brionne
+Pokémon, whimsicott
+mythical, yangochiropteran
+bird, neotropical parrot
+Pokémon, celebi
+mythical, majin
+aquatic, lamnid
+mythical, agumon
+hybrid, arachnid taur
+aquatic, jellyfish
+dog, basset hound
+mythical, penis creature
+mythical, light fury
+mythical, alpha pokemon
+aquatic, anthozoan
+Pokémon, treecko
+mammal, true antelope
+mythical, bird wyvern
+mythical, goat humanoid
+mythical, zinogre
+mammal, aardwolf
+Pokémon, meloetta \(aria form\)
+Pokémon, ralts
+bird, parakeet
+aquatic, sea sponge
+fish, carp
+mythical, flesh creature
+mythical, koraidon
+mythical, chakat
+Pokémon, sobble
+bird, philippine eagle
+mythical, diamond dog \(mlp\)
+Pokémon, kecleon
+Pokémon, alolan meowth
+Pokémon, mega gardevoir
+Pokémon, mudsdale
+mammal, phyllostomid
+bird, macaw
+mythical, procyonid humanoid
+Pokémon, cubone
+Pokémon, popplio
+mythical, wargreymon
+mythical, shadow lugia
+mythical, raccoon humanoid
+mythical, terriermon
+Pokémon, furfrou
+Pokémon, tsareena
+dinosaur, stegosaurian
+mythical, chua
+mammal, euplerid
+mythical, future pokemon
+mythical, micro organism \(organism\)
+Pokémon, rayquaza
+reptile, agamid
+mythical, blin \(tloz\)
+Pokémon, alolan raichu
+mammal, yak
+mythical, slugcat \(rain world\)
+aquatic, eel
+bird, flamingo
+mythical, felineko
+mammal, old world monkey
+bird, thrush \(bird\)
+mythical, primate humanoid
+mythical, annelid
+mythical, lizard humanoid
+mythical, cell \(organism\)
+bird, snowy owl
+mythical, enderman
+Pokémon, piplup
+mythical, shadow creature
+Pokémon, nickit
+mammal, aardvark
+Pokémon, cyndaquil
+Pokémon, chesnaught
+aquatic, aquatic gastropod
+mythical, rock creature
+Pokémon, chikorita
+dinosaur, diplodocid
+dog, rough collie
+mythical, ecaflip
+Pokémon, rillaboom
+bird, pelecaniform
+fish, typical carp
+fish, amur carp
+Pokémon, ursaring
+fish, koi
+hybrid, spider taur
+Pokémon, buneary
+mythical, dorumon
+hybrid, equine taur
+mythical, caninu
+bird, magpie \(corvid\)
+mammal, genet
+dog, cavalier king charles spaniel
+mythical, irken
+mythical, t'vaoan
+mythical, koopa humanoid
+mythical, rotom
+mythical, werefox
+aquatic, sea slug
+mythical, small molosser
+mythical, gaomon
+mammal, capybara
+dinosaur, stegosaurus
+mythical, rainicorn
+aquatic, batoid
+mammal, honey badger
+mythical, pomsky
+mythical, horse humanoid
+Pokémon, larvitar
+mythical, hymenopteran humanoid
+mythical, rathalos
+mythical, tailed humanoid
+Pokémon, darkrai
+mythical, living candy
+mythical, living pinata
+mythical, dire wolf
+mythical, zonai
+mammal, okapi

@@ -1,6 +1,9 @@
 adventurer outfit
+african outfit
 aikidogi outfit
+ancient outfit
 animal costume
+arab outfit
 archaeologist outfit
 archaeologist uniform
 archer outfit
@@ -12,10 +15,12 @@ basketball uniform
 belly dancer outfit
 black tie \(suit\)
 bodyguard outfit
+british outfit
 bunny costume
 business suit
 chef outfit
 chef uniform
+chinese outfit
 cleaning uniform
 cleric outfit
 clerk outfit
@@ -24,8 +29,10 @@ college clothing
 cook outfit
 costume
 counselor outfit
+country outfit
 cowboy outfit
 dancer outfit
+decora outfit
 dj outfit
 doctor outfit
 druid outfit
@@ -34,17 +41,27 @@ engineer outfit
 entertainment outfit
 explorer outfit
 farmer outfit
+femboy outfit
 firefighter uniform
+french outfit
 fursuit costume
 gardener outfit
 gerudo outfit
+girly outfit
+goth outfit
+greek outfit
 guard uniform
+gyaru outfit
 gym uniform
 harem outfit
 high school uniform
 holy spellcaster
 hula dancer
+indian outfit
+islamic outfit
+italian outfit
 janitor outfit
+japanese outfit
 jester outfit
 journalist outfit
 keikogi outfit
@@ -54,19 +71,23 @@ lab coat
 leotard
 librarian outfit
 lifeguard outfit
+lolita \(fashion\) outfit
 mad scientist outfit
 magic user outfit
 magical girl outfit
 maid outfit
 maid uniform
 mail carrier
+manly outfit
 martial arts uniform
 mechanic outfit
 medical outfit
+mexican outfit
 miko outfit
 military outfit
 military uniform
 musician outfit
+native american outfit
 necromancer outfit
 newscaster outfit
 ninja outfit
@@ -88,9 +109,11 @@ princess outfit
 principal outfit
 prisoner outfit
 psychologist outfit
+punk outfit
 queen outfit
 raver outfit
 reporter outfit
+roman outfit
 rouge outfit
 royalty outfit
 sailor outfit
@@ -110,6 +133,7 @@ singer outfit
 soccer uniform
 soldier outfit
 sportswear
+steampunk outfit
 stripper outfit
 student uniform
 suit
@@ -117,13 +141,15 @@ tanuki costume
 teacher outfit
 tennis uniform
 thief outfit
+tomboy outfit
 tribal spellcaster
 uniform
 veterinarian outfit
+viking outfit
 waiter outfit
 warrior outfit
-witch outfit
 witch doctor outfit
+witch outfit
 work outfit
 work uniform
 wrestling outfit

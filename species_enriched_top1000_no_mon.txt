@@ -1,0 +1,1041 @@
+animal, mammal
+canine, canid
+domestic dog, canine
+feline, felid
+wolf, canis
+horse, equid
+humanoid, humanoid
+reptile, scalie
+horse, equine
+domestic cat, feline
+humanoid, human
+vulpine, fox
+dragon, dragon
+canine, domestic dog
+lupine, wolf
+domestic cat, felis
+feline, domestic cat
+rabbit, lagomorph
+scaly, reptile
+rabbit, leporid
+lagomorph, rabbit
+equine, horse
+feline, pantherine
+bird, avian
+goat, bovid
+humanoid, animal humanoid
+mixed, hybrid
+murid, rodent
+equine, pony
+fish, marine
+avian, bird
+equine, unicorn
+ursine, bear
+humanoid, mammal humanoid
+goat, caprine
+demonic, demon
+pantherine, tiger
+equine, pegasus
+equine, earth pony
+marine, fish
+cervine, deer
+extraterrestrial, alien
+insect, arthropod
+rodent, murid
+rodent, murine
+cattle, bovine
+weasel, mustelid
+machine, robot
+feline, lion
+chiropteran, bat
+reptile, lizard
+canine, spitz
+pegasus, winged unicorn
+selachian, shark
+insectivore, eulipotyphlan
+caprine, goat
+vulpine, red fox
+serpent, snake
+Erinaceinae, hedgehog
+murine, mouse
+pouched, marsupial
+catfolk, felid humanoid
+raccoon, procyonid
+prehistoric, dinosaur
+creature, monster
+Hyaenidae, hyena
+procyonid, raccoon
+insect, insect
+squirrel, sciurid
+husky, nordic sled dog
+herding, pastoral dog
+catfolk, feline humanoid
+herding, herding dog
+shapeshifter, were
+dragon, western dragon
+nordic sled dog, husky
+catfolk, cat humanoid
+shapeshifter, werecanid
+dogfolk, canid humanoid
+legendary bird, mythological avian
+lutrine, otter
+mustelid, musteline
+dogfolk, canine humanoid
+elemental, elemental creature
+crocodile, crocodilian
+dragon, furred dragon
+ovine, sheep
+skunk, mephitid
+murine, rat
+mephitid, skunk
+bear, ursine
+shapeshifter, werecanine
+fox, fennec
+pig, suina
+red panda, ailurid
+shapeshifter, werewolf
+ailurid, red panda
+monkey, primate
+robotic, animatronic
+pig, suid
+mythical, gryphon
+natural, flora fauna
+hunter, hunting dog
+pig, sus \(pig\)
+squirrel, tree squirrel
+canid, raccoon dog
+hyena, spotted hyena
+mythical, kobold
+mythical, tanuki
+unidentified, unknown
+formidable, boss monster
+canid, jackal
+bear, giant panda
+aquatic, amphibian
+dinosaur, theropod
+feline, lynx
+humanoid, elf
+feline, snow leopard
+shellfish, mollusk
+feline, cheetah
+mythical, horned humanoid
+supernatural, spirit
+demonic, canid demon
+amorphous, goo creature
+kangaroo, macropod
+fowl, galliform
+demonic, hellhound
+fowl, phasianid
+mythical, koopa
+dog, german shepherd
+mustelid, true musteline
+feline, leopard
+anthropomorphic, animate inanimate
+hybrid, taur
+deer, capreoline
+fox, fox humanoid
+bird, passerine
+bird, oscine
+primate, haplorhine
+macropod, kangaroo
+merfolk, marine humanoid
+mythical, imp
+equine, zebra
+supernatural, ghost
+bear, polar bear
+mollusk, cephalopod
+supernatural, undead
+dog, toy dog
+shapeshifter, changeling
+crocodile, crocodylid
+crocodylid, crocodile
+aquatic, cetacean
+chicken, gallus \(genus\)
+gallus, chicken
+mustelid, weasel
+extraterrestrial, alien humanoid
+mythical, sergal
+canid, coyote
+dragon, eastern dragon
+alligator, alligatorid
+cetacean, toothed whale
+divine, deity
+dog, pinscher
+dog, dobermann
+alligatorid, alligator
+cetacean, dolphin
+bird, corvid
+dog, bird dog
+deer, reindeer
+bird, owl
+dog, sheepdog
+cetacean, oceanic dolphin
+pig, domestic pig
+spider, arachnid
+mythical, yordle
+dog, shih tzu
+mythical, draconcopode
+primate, monkey
+pig, wild boar
+bird, accipitriform
+insect, lepidopteran
+alien, experiment \(Lilo and Stitch\)
+dragon, wingless dragon
+dinosaur, dromaeosaurid
+squirrel, ground squirrel
+robotic, android
+robotic, cyborg
+ungulate, antelope
+evolution, mega evolution
+hybrid, mammal taur
+squirrel, chipmunk
+mythical, goblin
+donkey, asinus
+marsupial, bandicoot
+mythical, bovid humanoid
+asinus, donkey
+dog, molosser
+mythical, mollusk humanoid
+insect, hymenopteran
+amphibian, frog
+mythical, lagomorph humanoid
+bird, accipitrid
+mythical, demon humanoid
+mythical, cephalopod humanoid
+dog, dalmatian
+mythical, anubian jackal
+sheep, domestic sheep
+mythical, chimera
+arachnid, spider
+mustelid, badger
+dog, retriever
+unknown, ambiguous
+dog, collie
+fox, arctic fox
+deer, cervine
+bird, anseriform
+bird, anatid
+mythical, bat pony
+feline, cougar
+dolphin, orca
+giraffe, giraffid
+mythical, leporid humanoid
+mythical, rabbit humanoid
+dog, shiba inu
+mythical, machairodontine
+mythical, dragon humanoid
+mythical, yokai
+mammal, monotreme
+marsupial, didelphid
+mythical, worgen
+humanoid, orc
+humanoid, hylian
+bird, corvus \(genus\)
+bird, duck
+reptile, turtle
+mythical, wyvern
+elephant, proboscidean
+robotic, robot humanoid
+mythical, elemental humanoid
+mammal, echidna
+mythical, bovine humanoid
+ferret, domestic ferret
+elephant, elephantid
+mammal, giraffe
+snake, cobra
+mythical, inkling
+mythical, naga
+mythical, vampire
+dog, border collie
+mammal, elephant
+unknown, food creature
+insect, bee
+dinosaur, velociraptor
+dinosaur, tyrannosaurid
+mythical, arthropod humanoid
+bird, eagle
+mythical, angel
+primate, ape
+dinosaur, tyrannosaurus
+mythical, yoshi
+dog, mastiff
+bear, brown bear
+mythical, wolf humanoid
+mythical, twili
+ungulate, rhinoceros
+undead, animated skeleton
+mythical, fairy
+mythical, lombax
+mammal, pinniped
+dinosaur, tyrannosaurus rex
+mythical, cattle humanoid
+mythical, scalie humanoid
+mythical, protogen
+mythical, merfolk
+mythical, minotaur
+mythical, argonian
+dinosaur, ornithischian
+mythical, winged humanoid
+ungulate, gazelle
+robotic, living machine
+mythical, fish humanoid
+bird, crow
+mythical, khajiit
+mollusk, coleoid
+mythical, keidran
+hybrid, humanoid taur
+mythical, feathered dragon
+insect, butterfly
+insect, moth
+amphibian, salamander
+mythical, plant humanoid
+cat, calico cat
+mammal, maned wolf
+mythical, pandaren
+mythical, waddling head
+dog, welsh corgi
+hybrid, equid taur
+mythical, rito
+dog, golden retriever
+mythical, dog humanoid
+dog, african wild dog
+mythical, lamia
+mollusk, gastropod
+rabbit, oryctolagus
+rabbit, domestic rabbit
+mammal, herpestid
+dog, sighthound
+mammal, gulonine
+reptile, chameleon
+primate, strepsirrhine
+hyena, striped hyena
+primate, lemur
+mythical, draconequus
+mythical, tauren
+mythical, living inflatable
+mammal, camelid
+mythical, rodent humanoid
+mythical, sangheili
+dog, poodle
+feline, jaguar
+mythical, flying wyvern
+mythical, draenei
+mythical, tentacle monster
+mammal, hare
+cat, siamese
+bird, penguin
+mythical, centaur
+dog, labrador
+mythical, aquatic dragon
+bird, parrot
+marsupial, virginia opossum
+mythical, living vehicle
+mammal, mink
+rodent, beaver
+bird, jay \(bird\)
+mythical, avian humanoid
+bird, new world jay
+primate, gorilla
+mammal, xenarthran
+rodent, cricetid
+mythical, octarian
+mythical, octoling
+mythical, monstrous humanoid
+bear, grizzly bear
+mythical, charr
+bird, blue jay
+mythical, octopodiform
+mythical, kaiju
+undead, zombie
+mythical, turian
+mythical, genie
+mythical, miqo'te
+dog, dingo
+rodent, hamster
+mythical, caprine demon
+mythical, xenomorph
+mythical, meowscarada
+aquatic, crustacean
+mythical, tem
+dog, rottweiler
+mythical, night fury
+mythical, living aircraft
+mythical, succubus
+mythical, equid humanoid
+mythical, ambient arthropod
+dog, spaniel
+mythical, gargoyle
+dinosaur, ceratopsian
+unknown, request
+dog, scent hound
+dog, mountain dog
+mythical, jackalope
+insect, beetle
+deer, red deer
+mythical, oni
+dog, terrier
+hippopotamus, hippopotamid
+mythical, reptile humanoid
+reptile, gecko
+mythical, satyr
+mythical, darkner
+mythical, insect humanoid
+mythical, owl demon
+mammal, marten
+mythical, sprigatito
+mythical, ambient flier
+hybrid, wolfdog
+mythical, goat demon
+mythical, green yoshi
+mythical, living plushie
+mythical, cyclops
+mythical, mythological firebird
+mythical, elder dragon
+mythical, avali
+mythical, mineral fauna
+mythical, kirin
+mythical, arachnid humanoid
+dinosaur, triceratops
+hybrid, mixed breed
+dog, alaskan malamute
+mythical, equine humanoid
+horse, draft horse
+cat, hairless cat
+hippopotamus, common hippopotamus
+mythical, lizardman
+cat, tabby cat
+mythical, ambient insect
+bird, falconid
+mythical, night elf
+mammal, serval
+mythical, harpy
+mammal, dasyuromorph
+mythical, hippogriff
+bird, falcon
+mythical, malo
+mythical, pantherine humanoid
+mythical, deathclaw
+aquatic, echinoderm
+mythical, sphynx \(cat\)
+mollusk, slug
+bird, sea eagle
+dog, saluki
+mythical, goo humanoid
+crustacean, malacostracan
+mythical, spider humanoid
+mythical, caprine humanoid
+dinosaur, pterosaur
+bird, bald eagle
+mythical, phoenix
+shark, requiem shark
+mythical, burmecian
+bird, raven
+dog, australian shepherd
+dinosaur, feathered dinosaur
+mammal, mongoose
+mammal, stoat
+mythical, gnoll
+mythical, object head
+reptile, monitor lizard
+bird, peafowl
+mythical, zora
+mythical, ultra beast
+mammal, alpaca
+mythical, lynian
+mythical, caracal \(genus\)
+mythical, symbiote
+mythical, felyne
+aquatic, cnidarian
+mythical, flower creature
+mammal, meerkat
+mammal, vombatiform
+mythical, blood elf
+mythical, duel monster
+bird, columbid
+mythical, sciurid humanoid
+crustacean, decapoda
+mammal, moose
+mythical, pilosan
+mythical, basitin
+mammal, cape buffalo
+amphibian, mole salamander
+wolf, arctic wolf
+cat, tuxedo cat
+mythical, fanged wyvern
+aquatic, asterozoan
+mythical, caracal
+mythical, chinchillid
+mythical, leopardus
+bird, true parrot
+aquatic, decapodiform
+dog, great dane
+mythical, vulpera
+amphibian, axolotl
+mythical, murid humanoid
+mythical, murine humanoid
+mythical, ambient bird
+dog, akita
+aquatic, starfish
+dog, cattledog
+dog, pomeranian
+mammal, ring-tailed lemur
+mammal, chinchilla
+mythical, skaven
+mythical, viverrid
+dog, australian cattle dog
+mammal, possum
+reptile, komodo dragon
+mythical, tree squirrel humanoid
+bear, black bear
+snake, viper
+mythical, eldritch abomination
+digital, digital creature
+mythical, felkin
+aquatic, seal
+bird, lari
+dog, beagle
+mythical, narehate
+mammal, koala
+mythical, piranha plant
+mythical, troll
+mythical, nargacuga
+crustacean, crab
+dog, pit bull
+aquatic, ambient sealife
+mammal, wolverine
+mammal, porcupine
+dog, cocker spaniel
+dinosaur, sauropod
+mammal, holstein friesian cattle
+mythical, furred reptilian
+robotic, synth \(vader-san\)
+aquatic, tiger shark
+cat, ocelot
+deer, white-tailed deer
+hybrid, canid taur
+mythical, hydra
+mammal, striped skunk
+bird, hirundinid
+unknown, inanimate object
+mythical, boo \(mario\)
+mythical, nimbat
+hybrid, canine taur
+bird, swallow \(bird\)
+mythical, mythological sphinx
+dinosaur, pterodactylus
+mythical, mouse humanoid
+mythical, koopa troopa
+mythical, moogle
+mammal, dwarf rabbit
+insect, dipteran
+mammal, llama
+bat, pteropodid
+mythical, living fruit
+bird, vulture
+mammal, silver fox
+dog, swiss mountain dog
+mammal, armadillo
+mythical, foo dog
+hybrid, felid taur
+mythical, chao \(sonic\)
+dog, bernese mountain dog
+mythical, cerberus
+mammal, lop rabbit
+mythical, kaka \(blazblue\)
+mythical, tenno
+mythical, living clothing
+dog, samoyed
+mythical, kig-yar
+mythical, faun \(spyro\)
+aquatic, lamniform
+mythical, fungi fauna
+reptile, iguanid
+mythical, inkblot
+mythical, guardian spirit
+mythical, minkmen \(one piece\)
+cat, clouded leopard
+mythical, worm
+insect, mantis
+aquatic, octopus
+mythical, wereeulipotyphlan
+mythical, werehog
+mythical, sharpclaw \(star fox\)
+mammal, eurasian red squirrel
+mammal, afrosoricid
+mythical, kremling
+hybrid, liger
+mythical, asari
+dinosaur, hadrosaurid
+dog, bull terrier
+mammal, tenrec
+mammal, pine marten
+mythical, tiger humanoid
+insect, ant
+wolf, red wolf
+mythical, vessel \(species\)
+dog, borzoi
+insect, elateroid
+mammal, thylacine
+mythical, chocobo
+insect, firefly
+mythical, krogan
+rodent, dipodid
+bird, true owl
+insect, wasp
+snake, python
+mammal, jerboa
+mythical, au ra
+fish, cypriniform
+mythical, food humanoid
+mythical, gerudo
+mythical, fire creature
+mythical, yinglet
+mythical, mummy
+bird, larid
+fish, cyprinid
+mythical, rath wyvern
+mammal, wallaby
+snake, pit viper
+dog, siberian husky
+bird, turkey
+mammal, river otter
+bird, gull
+dinosaur, thyreophoran
+bird, pigeon
+mythical, ambient butterfly
+mammal, grazing antelope
+mythical, neopet \(species\)
+mythical, leviathan \(mh\)
+bird, anserinae
+mythical, red pandaren
+mythical, snake humanoid
+mythical, troll \(homestuck\)
+mythical, palico
+mythical, yautja
+mythical, asura
+insect, myriapod
+mythical, angel humanoid
+bird, bubo \(genus\)
+mythical, komainu
+mollusk, snail
+mythical, dragonborn \(dnd\)
+mythical, bird humanoid
+mythical, animal head
+mythical, wendigo
+dinosaur, parasaurolophus
+mammal, oryx
+mythical, dark elf
+snake, rattlesnake
+mammal, walrus
+amphibian, newt
+tiger, bengal tiger
+horse, clydesdale
+mythical, shyguy
+mythical, space dragon \(metroid\)
+mythical, breegull
+mythical, nekomata
+rodent, caviid
+bird, cockatoo
+mythical, urocyon
+robotic, cybertronian
+mythical, shark humanoid
+hybrid, arthropod taur
+mythical, sheep humanoid
+mammal, mole \(animal\)
+mythical, viper \(x-com\)
+mammal, netherland dwarf rabbit
+cat, bobcat
+mythical, quarian
+dog, chihuahua
+mythical, ogre
+hybrid, fox taur
+mammal, dasyurid
+mythical, kong
+hybrid, deer taur
+mythical, viera
+mythical, medusozoan
+mythical, mimiga
+bird, secretary bird
+mythical, goomba
+bird, toucan
+mythical, hrothgar
+cat, maine coon
+mammal, sloth
+bear, sloth bear
+bear, american black bear
+mammal, grey fox
+mammal, microbat
+bird, old world vulture
+mythical, birdo
+mammal, anteater
+mythical, toad \(mario\)
+mythical, witch \(the owl house\)
+mythical, sparkledog
+deer, mule deer
+amphibian, toad \(frog\)
+cat, wildcat
+mythical, living doll
+mammal, cross fox
+mythical, yangochiropteran
+bird, neotropical parrot
+mythical, majin
+aquatic, lamnid
+hybrid, arachnid taur
+aquatic, jellyfish
+dog, basset hound
+mythical, penis creature
+mythical, light fury
+aquatic, anthozoan
+mammal, true antelope
+mythical, bird wyvern
+mythical, goat humanoid
+mythical, zinogre
+mammal, aardwolf
+bird, parakeet
+aquatic, sea sponge
+fish, carp
+mythical, flesh creature
+mythical, koraidon
+mythical, chakat
+bird, philippine eagle
+mythical, diamond dog \(mlp\)
+mammal, phyllostomid
+bird, macaw
+mythical, procyonid humanoid
+mythical, shadow lugia
+mythical, raccoon humanoid
+dinosaur, stegosaurian
+mythical, chua
+mammal, euplerid
+mythical, micro organism \(organism\)
+reptile, agamid
+mythical, blin \(tloz\)
+mammal, yak
+mythical, slugcat \(rain world\)
+aquatic, eel
+bird, flamingo
+mythical, felineko
+mammal, old world monkey
+bird, thrush \(bird\)
+mythical, primate humanoid
+mythical, annelid
+mythical, lizard humanoid
+mythical, cell \(organism\)
+bird, snowy owl
+mythical, enderman
+mythical, shadow creature
+mammal, aardvark
+aquatic, aquatic gastropod
+mythical, rock creature
+dinosaur, diplodocid
+dog, rough collie
+mythical, ecaflip
+bird, pelecaniform
+fish, typical carp
+fish, amur carp
+fish, koi
+hybrid, spider taur
+hybrid, equine taur
+mythical, caninu
+bird, magpie \(corvid\)
+mammal, genet
+dog, cavalier king charles spaniel
+mythical, irken
+mythical, t'vaoan
+mythical, koopa humanoid
+mythical, rotom
+mythical, werefox
+aquatic, sea slug
+mythical, small molosser
+mammal, capybara
+dinosaur, stegosaurus
+mythical, rainicorn
+aquatic, batoid
+mammal, honey badger
+mythical, pomsky
+mythical, horse humanoid
+mythical, hymenopteran humanoid
+mythical, rathalos
+mythical, tailed humanoid
+mythical, living candy
+mythical, living pinata
+mythical, dire wolf
+mythical, zonai
+mammal, okapi
+dinosaur, utahraptor
+mythical, lizardman (overlord)
+mythical, nergigante
+mythical, creeper (minecraft)
+mythical, lepidopteran humanoid
+bird, swan
+mythical, living sex doll
+fish, syngnathiform
+insect, dragonfly
+fish, syngnathid
+mythical, flemish giant
+mythical, ottsel
+mythical, mizutsune
+mammal, elk
+bird, bluebird
+mammal, bison
+bird, cardinal (bird)
+mammal, platypus
+mythical, mimic
+mythical, tanuki humanoid
+mythical, angel dragon
+mythical, mygalomorph
+mythical, tarantula
+reptile, boa (snake)
+mythical, martian
+mythical, puwa
+mythical, pan (genus)
+mythical, faun
+mammal, chimpanzee
+mythical, ursid humanoid
+mythical, gorgon
+fish, seahorse
+mythical, shadow siren
+mammal, pangolin
+mammal, prionailurus
+mythical, togruta
+mythical, amphibian humanoid
+mythical, apex build koraidon
+mammal, fossa
+mythical, dwarf
+mythical, avian (starbound)
+mythical, tailed beast
+mythical, monkey humanoid
+mythical, gem (species)
+mythical, flower humanoid
+dog, saint bernard
+mammal, black-backed jackal
+mammal, tasmanian devil
+insect, blattodea
+mythical, rexouium
+mythical, sneasler
+mythical, rabbid
+mythical, brute wyvern
+mythical, caitian
+mammal, leopard cat
+mythical, tiefling
+dog, livestock guardian dog
+mammal, domestic goat
+mythical, tabaxi
+mythical, bamfear
+dog, bulldog
+mythical, zebroid
+mythical, jackal humanoid
+mammal, civet
+aquatic, carpet shark
+mythical, boinae
+aquatic, coral
+mythical, ambient firefly
+mythical, ender dragon
+dinosaur, allosaurid
+mythical, twi'lek
+mythical, ambient fish
+mythical, bow experiment (resident evil)
+mammal, king cheetah
+mythical, vampire bat
+mythical, omnic
+mythical, fungi humanoid
+mythical, lalafell
+mythical, furred kobold
+reptile, skink
+fish, catfish
+fish, great white shark
+bird, tytonid
+bird, masked owl
+mythical, lion humanoid
+mythical, blue yoshi
+bird, ratite
+mythical, chain chomp
+mythical, floragato
+mythical, scorpion
+bird, gruiform
+mythical, rathian
+mythical, demigod
+mythical, betelgeusian
+mythical, sphere creature
+insect, cockroach
+mythical, werefelid
+bird, barn owl
+mythical, miraidon
+bird, crane (bird)
+mythical, cockapoo
+mythical, mythological carbuncle
+mythical, cryptid
+bird, true eagle
+mythical, cocotama
+mythical, wickerbeast
+mythical, aircraft humanoid
+dinosaur, allosaurus
+mythical, cucujoid
+mythical, siren
+mythical, moth humanoid
+mythical, rubber creature
+mammal, moon bear
+mythical, mineral humanoid
+mythical, prime (las lindas)
+insect, ladybug
+mythical, mustelid humanoid
+mythical, dullahan
+mammal, warthog
+mythical, zeti
+mythical, dire machine
+dog, jack russell terrier
+bird, golden eagle
+mythical, pink yoshi
+dinosaur, spinosaurid
+bird, bearded vulture
+mythical, bat humanoid
+mammal, bighorn sheep
+aquatic, manta ray
+mythical, lepi
+mythical, manticore
+mythical, ruuhtian (kig-yar)
+mythical, tobi-kadachi
+mythical, behemoth (ff)
+mammal, cacomistle
+mythical, bee humanoid
+mythical, rito humanoid
+mythical, ventrexian
+mammal, new world monkey
+mythical, water creature
+mythical, iradeon
+mythical, saiyan
+mythical, laquine
+mythical, hoopa
+bird, alcid
+mythical, air creature
+mammal, camel
+mythical, dire vehicle
+aquatic, whale shark
+mammal, canadian lynx
+mythical, salmonid (splatoon)
+mythical, indominus rex
+mythical, mobian hedgehog
+mammal, hereford cattle
+mythical, mobian bat
+mythical, abyssal wolf
+mammal, flying squirrel
+mythical, roswell grey
+mythical, dragon taur
+mythical, mythological golem
+mythical, frog humanoid
+mythical, colubrid
+mammal, hairless dog
+mythical, ultimate mode miraidon
+mythical, smilodon
+mythical, magikoopa
+mythical, dryad
+mythical, bokoblin
+mythical, zerg
+mythical, kulve taroth
+mythical, lampropeltini
+mythical, night stalker (fallout)
+mythical, tatzlpony
+mammal, highland cattle
+mammal, spiral-horned antelope
+mythical, tarunah
+mythical, crux
+dog, dachshund
+mythical, faraden
+bird, puffin
+mammal, heteromyid
+mammal, dipodomyine
+mythical, cyan yoshi
+mythical, patchwork creature
+reptile, tortoise
+mammal, ring-tailed cat
+mythical, bangaa
+bird, goose
+mythical, gremlin (spiral knights)
+mythical, quaquaval
+mythical, palamute
+mythical, canyne
+mythical, na'vi
+mammal, north american river otter
+mammal, lontra
+mythical, mythological canine
+mythical, seedrian
+mythical, ambient bat
+bird, cuculiform
+mythical, gnome
+aquatic, stingray
+mythical, tinkaton
+mythical, mythological fox
+mammal, red kangaroo
+mythical, fruit humanoid
+mythical, zonkey
+floran: mythical
+shrimp: aquatic
+finch: bird
+stand (jjba): mythical
+jakkai: mythical
+metroid (species): mythical
+nightwing (wof): mythical
+kweltikwan: mythical
+pooka: mythical
+deinonychus: dinosaur
+marble fox: mammal
+dhole: mammal
+swatchling: mythical
+nardoragon: mythical
+afghan hound: mammal
+bovid taur: mythical
+ground shark: aquatic
+serrasalmid: fish
+rat snake: reptile
+nihallaks (species): mythical
+piranha (fish): aquatic
+draph: mythical
+corsac fox: mammal
+longma: mythical
+beast (bloodborne): mythical
+petaurid: mammal
+origin forme giratina: mythical
+mimic chest: mythical
+pteranodontid: dinosaur
+common ferret: mammal
+ambient crustacean: mythical
+eastern bluebird: bird
+cherub: mythical
+blue macaw: bird
+spinosaurus: dinosaur
+cecaelia: mythical
+octopus humanoid: mythical
+corn snake: reptile
+dall sheep: mammal
+dodo: bird
+picid: bird
+hobkin: mythical
+lamarian: mythical
+mule: mammal
+roadrunner: bird
+tigrex: mythical
+nevrean: mythical
+new world ground cuckoo: bird
+osprey: bird
+sugar glider: mammal
+orthopterid: mythical
+tibetan mountain dog: mammal
+eggerlander: mythical
+anaconda: reptile
+cockatiel: bird
+musteline humanoid: mythical
+primatius: mythical
+pteranodon: dinosaur
+squid humanoid: mythical
+monodontid: aquatic
+weredog: mythical
+ctarl-ctarl: mythical
+goldfish: aquatic
+dove: bird
+sunflower (pvz): mythical
+salmonid (fish): aquatic
+wingless bat: mythical
+eublepharid: mythical
+woodpecker: bird
+lizardman (warhammer): mythical
+brown hyena: mammal
