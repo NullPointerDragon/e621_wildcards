@@ -1,4 +1,3 @@
-name	category	post count
 mammal
 canid
 canine

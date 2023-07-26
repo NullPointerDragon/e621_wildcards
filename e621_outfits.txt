@@ -1,140 +1,129 @@
-adventurer
-aikidogi
+adventurer outfit
+aikidogi outfit
 animal costume
-archaeologist
+archaeologist outfit
 archaeologist uniform
-archer
-artist
-barbarian
-bard
+archer outfit
+artist outfit
+barbarian outfit
+bard outfit
 baseball uniform
 basketball uniform
-belly dancer
+belly dancer outfit
 black tie \(suit\)
-bodyguard
+bodyguard outfit
 bunny costume
 business suit
-chef
+chef outfit
 chef uniform
-cleaning
-cleric
-clerk
-coach
+cleaning uniform
+cleric outfit
+clerk outfit
+coach outfit
 college clothing
-cook
+cook outfit
 costume
-counselor
+counselor outfit
 cowboy outfit
-dancer
-dj
-doctor
-druid
-emperor
-engineer
-entertainment
-explorer
-farmer
-feather duster
-firefighter
+dancer outfit
+dj outfit
+doctor outfit
+druid outfit
+emperor outfit
+engineer outfit
+entertainment outfit
+explorer outfit
+farmer outfit
 firefighter uniform
-fursuit
-gardener
+fursuit costume
+gardener outfit
 gerudo outfit
-guard
+guard uniform
 gym uniform
 harem outfit
 high school uniform
 holy spellcaster
 hula dancer
-janitor
-jester
-journalist
-keikogi
-kendo men mask
-kendogi
-king
+janitor outfit
+jester outfit
+journalist outfit
+keikogi outfit
+kendogi outfit
+king outfit
 lab coat
 leotard
-librarian
-lifeguard
-mad scientist
-magic user
+librarian outfit
+lifeguard outfit
+mad scientist outfit
+magic user outfit
 magical girl outfit
-maid
-maid hat
-maid headdress
+maid outfit
 maid uniform
 mail carrier
 martial arts uniform
-mechanic
-medical
+mechanic outfit
+medical outfit
 miko outfit
-military
+military outfit
 military uniform
-musician
-necromancer
-newscaster
-ninja
-nurse
+musician outfit
+necromancer outfit
+newscaster outfit
+ninja outfit
+nurse outfit
 nurse uniform
-office
-painter
-paladin
-pharaoh
-photographer
+office outfit
+painter outfit
+paladin outfit
+pharaoh outfit
+photographer outfit
 pirate outfit
 pokémon costume
-pole dancing
-police
+police outfit
 police uniform
-pornography
-pornstar
-priest
-prince
-princess
-principal
-prisoner
-psychologist
-queen
-raver
-reporter
+pornstar outfit
+priest outfit
+prince outfit
+princess outfit
+principal outfit
+prisoner outfit
+psychologist outfit
+queen outfit
+raver outfit
+reporter outfit
 rouge outfit
-royalty
+royalty outfit
 sailor outfit
 sailor uniform
-sambovka
-samurai
+sambovka outfit
+samurai outfit
 school uniform
-scientist
+scientist outfit
 scout uniform
 scrubs
-sculptor
-security guard
-sex show
-sex slave
-sex store
-shaman
-singer
+sculptor outfit
+security guard outfit
+sex show outfit
+sex slave outfit
+shaman outfit
+singer outfit
 soccer uniform
-soldier
+soldier outfit
 sportswear
-strip club
-stripper
-stripper pole
-striptease
-student
+stripper outfit
+student uniform
 suit
 tanuki costume
-teacher
+teacher outfit
 tennis uniform
-thief
+thief outfit
 tribal spellcaster
 uniform
-veterinarian
-waiter
-warrior
-witch
-witch doctor
+veterinarian outfit
+waiter outfit
+warrior outfit
+witch outfit
+witch doctor outfit
 work outfit
 work uniform
 wrestling outfit
