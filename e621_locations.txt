@@ -1,189 +1,207 @@
+airport
+alley
+amusement park
+apartment building
+aquarium
+arena
 attic
+aviary
+backyard
 ballroom
+bar
+barn
 basement
 bathhouse
 bathroom
 bathtub
-public restroom
-restroom stall
-shower
-beach shower
-communal shower
-public shower
-shower room
-shower stall
-bedroom
-bondage theme park
-control room
-courtroom
-dark room
-dining room
-dungeon
-sex dungeon
-examination room
-fitting room
-green room
-hotel
-hotel room
-kitchen
-laundromat
-laundry room
-living room
-locker room
-messy room
-nightclub
-office
-padded room
-school
-classroom
-college
-high school
-university
-storage room
-strip club
-throne room
-alley
-backyard
-city
-cityscape
-desolate
-farm
-forest
-garden
-garden of eden
-graveyard
-hill
-island
-jungle
-junkyard
-lake
-lakeside
-landscape
-mountain
-nature
-park
-amusement park
-water park
-dog park
-skate park
-parking lot
-pond
-fish pond
-koi pond
-roof
-rooftop
-sand dune
-sea
-seascape
-seaside
 beach
-nude beach
-shore
-snowscape
-street
-swimming pool
-kiddie pool
-poolside
-pool party
-public pool
-valley
-waterfall
-waterscape
-airport
-barn
+beach shower
+bedroom
+birdhouse
+birthday party
+black sky
+blue sky
+bondage theme park
+brown sky
+building
+cabin
+campus
+candy shop
 casino
 castle
 cathedral
 church
+city
+cityscape
+classroom
+clock tower
+clothing store
+cloudscape
+coffee shop
+college
 colosseum
-gym
-house
-birdhouse
+communal shower
+control room
+cottage
+courtroom
+dark room
+desolate
+diner
+dining room
+dog park
 doghouse
+dungeon
+eiffel tower
+examination room
+factory
+farm
+fish bowl
+fish pond
+fish tank
+fitting room
+forest
+garage
+garden
+garden of eden
+grain silo
+graveyard
+green room
+green sky
+greenhouse
+grey sky
+grocery store
+gym
+hangar
 haunted house
-penthouse
-the white house
-tree house
+herpetarium
+high school
+hill
+hospital
+hotel
+hotel room
+house
+hut
+island
+jungle
+junkyard
+kiddie pool
+kitchen
+koi pond
+lake
+lakeside
+landmark
+landscape
+laundromat
+laundry room
+lava pool
+lava waterfall
 library
+lighthouse
+living room
+locker room
 mall
 market
 market stall
 marketplace
-slave market
-supermarket
+mars
+messy room
 monument
+mountain
 movie theater
+multicolored sky
+nature
+night sky
+nightclub
+nude beach
+observation tower
+office
+orange sky
+outside
+overcast
+padded room
+pagoda
+park
+parking lot
+party
+penthouse
+pet shop
+petting zoo
 pier
+pink sky
+pond
+pool party
+poolside
+public
+public aquarium
+public pool
+public restroom
+public shower
+purple sky
 pyramid
+rave
+rainforest
+red sky
+restaurant
+restroom stall
+roof
+rooftop
+sand dune
+school
+sea
+seabed
+seascape
+seaside
+sex dungeon
+sex shop
+shack
 shed
 shipwreck
-skyscraper
-stadium
-store
-candy shop
-clothing store
-coffee shop
-grocery store
-pet shop
-restaurant
-bar
-diner
-sex shop
-tower
-clock tower
-lighthouse
-observation tower
-eiffel tower
-space needle
-tokyo tower
-pagoda
-water tower
-vivarium
-aquarium
-fish bowl
-fish tank
-public aquarium
-aviary
-fish pond
-koi pond
-greenhouse
-herpetarium
-terrarium
-zoological gardens
-petting zoo
-warehouse
-workshop
-lava pool
-lava waterfall
-mars
-party
-birthday party
-pool party
-slumber party
-tea party
-public
-rave
+shore
+shower
+shower room
+shower stall
+skate park
 sky
-black sky
-blue sky
-brown sky
-green sky
-grey sky
-cloudscape
-multicolored sky
-two tone sky
-night sky
-orange sky
-overcast
-pink sky
-purple sky
-red sky
-starry sky
-white sky
-yellow sky
+skyline
+skyscraper
+slave market
+slumber party
+snowscape
 space
+space needle
 spacescape
+stadium
+starry sky
 starscape
+storage room
+store
+street
+strip club
+supermarket
+swimming pool
+tea party
+temple
 tentacle room
+terrarium
+the white house
+throne room
+tokyo tower
+tower
+town
+town hall
+tree house
+two tone sky
 underwater
-seabed
+university
+valley
+village
+vivarium
+warehouse
+water park
+water tower
+waterfall
+waterscape
+white sky
+workshop
+yellow sky
+zoological gardens
