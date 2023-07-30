@@ -1,0 +1,90 @@
+Ancient Egyptian Outfit, {0-4$$Nemes headdress | linen kilt | elaborate jewelry \(collar bracelets anklets\) | sandals}
+Ancient Greek Outfit, {0-4$$Chiton \(tunic\) | himation \(cloak\) | sandals | wreath headband}
+Ancient Roman Outfit, {0-4$$Toga  | tunic | stola \(f | women\) | sandals  | caligae \(f | men\) | palla \(f | women\)}
+Viking Outfit, {0-4$$Viking helmet | tunic  | dress | fur-lined cloak | leather boots}
+Han Chinese Outfit, {0-4$$Hanfu \(traditional robe\) | hair accessories \(f | women\) | shoes  | sandals}
+Samurai Outfit \(Japan\), {0-4$$Kimono | hakama \(pleated trousers\) | obi \(belt\) | waraji \(straw sandals\) | katana \(sword\)}
+Geisha Outfit \(Japan\), {0-4$$Kimono | obi \(belt\) | tabi socks | zori \(sandals\) | elaborate hair accessories}
+Native American Outfit, {0-4$$Moccasins  | mukluks \(footwear\) | breechcloth  | skirt | tunic  | shirt | feather headdress \(f | some tribes\)}
+Ottoman Turkish Outfit, {0-4$$Fez \(hat\) | kaftan \(robe\) | shalvar \(pants\) | yemeni \(slippers\)}
+Victorian Era Outfit \(Western\), {0-4$$Tailcoat  | bodice | bustle skirt | top hat  | bonnet | gloves | boots  | heeled shoes}
+Rococo Era Outfit \(Western\), {0-4$$Hoop skirt  | panniers | corset | powdered wig \(f | men\) | ornate gowns}
+Regency Era Outfit \(Western\), {0-4$$Empire waist dresses | reticule \(small handbag\) | bonnet | gloves | flat shoes}
+Traditional Korean Outfit, {0-4$$Hanbok \(robe\) | jeogori \(jacket\) | baji \(pants\) | gat \(hat\)}
+Maasai Warri | Outfit \(Africa\), {0-4$$Shuka \(blanket\) | kanzu \(tunic\) | beaded accessories | sandals  | barefoot}
+Mongolian Outfit, {0-4$$Deel \(robe\) | boots | del \(belt\) | traditional hat}
+Ancient Mayan Outfit \(Mesoamerica\), {0-4$$Huipil \(tunic\) | corte \(skirt\) | sandals  | huaraches}
+Renaissance Outfit \(Western\), {0-4$$Doublet  | bodice | farthingale  | corset | ruff collar | flat shoes  | boots}
+Indian Sari \(India\), {0-4$$Sari \(draped garment\) | choli \(blouse\) | petticoat | sandals}
+Scottish Highland Dress, {0-4$$Kilt | sporran \(pouch\) | sgian-dubh \(knife\) | jacket  | waistcoat | brogues}
+Inuit Outfit, {0-4$$Anorak  | parka | mittens | mukluks \(boots\) | amauti \(women's parka with a baby pouch\)}
+Hanbok \(Korea\), {0-4$$Hanbok \(traditional dress\) | gat \(traditional hat\) | jeogori \(jacket\)}
+Nigerian Yoruba Outfit, {0-4$$Agbada \(robe\) | fila \(cap\) | buba \(shirt\) | sokoto \(pants\) | and babariga \(robe\)}
+Peruvian Andean Outfit, {0-4$$Poncho | chullo \(knitted hat with ear flaps\) | sandals  | huaraches}
+Moroccan Outfit, {0-4$$Djellaba \(robe\) | fez \(hat\) | babouche \(slippers\)}
+Ancient Babylonian Outfit, {0-4$$Tunic  | robe | shawl | sandals}
+Ancient Incan Outfit, {0-4$$Lliclla \(mantle\) | tunic | sandals  | barefoot}
+Ancient Assyrian Outfit, {0-4$$Robe  | tunic | sash | sandals}
+Elizabethan Era Outfit \(Western\), {0-4$$Ruff collar | corset | farthingale | doublet | gown | flat shoes  | boots}
+Nigerian Igbo Outfit, {0-4$$Isiagu \(shirt\) | wrapper | walking stick}
+Brazilian Samba Outfit, {0-4$$Feathered headpiece | elaborate costume with sequins and feathers | samba shoes}
+Korean Hanbok \(Jeogori Chima\), {0-4$$Jeogori \(jacket\) | chima \(skirt\) | hair accessories}
+Thai Traditional Outfit, {0-4$$Chut Thai \(traditional clothing\) | sabai \(shawl\) | pha sin \(sarong\)}
+Ukrainian Vyshyvanka, {0-4$$Vyshyvanka \(embroidered shirt\) | plakhta \(shawl\) | traditional boots}
+Irish Traditional Outfit, {0-4$$Brat \(cloak\) | leine \(tunic\) | trews  | kilt | brogues}
+Nigerian Hausa Outfit, {0-4$$Buba \(shirt\) | babban riga \(robe\) | fila \(cap\) | sokoto \(pants\)}
+Bolivian Cholita Outfit, {0-4$$Bowler hat | pollera \(pleated skirt\) | aguayo \(shawl\) | pumps  | heels}
+Malaysian Baju Kurung, {0-4$$Baju Kurung \(tunic and skirt set\) | tudung \(headscarf\) | heels  | flats}
+Traditional Hawaiian Outfit, {0-4$$Pareo \(sarong\) | muumuu \(loose-fitting dress\) | leis \(flower garlands\)}
+Dutch Traditional Outfit, {0-4$$Dutch cap | kraplap \(bib\) | traditional dress | wooden shoes \(klompen\)}
+Ethiopian Habesha Kemis, {0-4$$Habesha Kemis \(traditional dress\) | shawl | headscarf}
+Pakistani Shalwar Kameez, {0-4$$Kameez \(tunic\) | shalwar \(loose trousers\) | dupatta \(scarf\)}
+Mongolian Deel, {0-4$$Deel \(robe\) | traditional hat | leather boots}
+Indonesian Batik Outfit, {0-4$$Batik blouse  | shirt | sarong | selendang \(shawl\)}
+Hungarian Folk Costume, {0-4$$Fényes Női  | Férfi Magyar \(embroidered dress  | vest\) | csizma \(boots\) | kalap \(hat\)}
+South Korean Hanbok \(Goreum\), {0-4$$Goreum \(coat\) | chima \(skirt\) | jeogori \(jacket\) | binyeo \(hairpin\)}
+Scottish Traditional Dress, {0-4$$Tartan kilt | sporran \(pouch\) | kilt hose | ghillie brogues}
+Tibetan Chuba, {0-4$$Chuba \(robe\) | traditional boots}
+Nepalese Gunyo Cholo, {0-4$$Gunyo Cholo \(traditional dress f | Newar women\) | patuka \(waistband\)}
+Nigerian Dashiki, {0-4$$Dashiki \(tunic\) | sokoto \(pants\)}
+Maltese Għonnella, {0-4$$Għonnella \(robe\) | fur overcoat \(tabarro\) | għonnellu tas-suldat \(soldier's cloak\)}
+Georgian Chokha, {0-4$$Chokha \(coat\) | papakha \(hat\) | boots}
+Thai Chut Thai, {0-4$$Chut Thai \(traditional clothing\) | pha nung \(sarong\) | sabai \(shawl\)}
+Indian Sherwani, {0-4$$Sherwani \(long coat\) | churidar \(tapered trousers\) | jutti \(shoes\)}
+Afghan Traditional Outfit, {0-4$$Perahan Tunban \(shirt and trousers\) | lungi \(scarf\)}
+Swiss Lederhosen and Dirndl, {0-4$$Lederhosen \(leather breeches\) f | men | dirndl \(dress\) f | women}
+Finnish Folk Costume, {0-4$$Kiikko \(embroidered vest\) | hame \(skirt\) | esiliina \(apron\)}
+Guatemalan Traditional Outfit, {0-4$$Huipil \(blouse\) | corte \(skirt\) | faja \(belt\)}
+Peruvian Traditional Outfit, {0-4$$Pollera \(skirt\) | mantón \(shawl\) | montera \(hat\)}
+Burmese Longyi, {0-4$$Longyi \(sarong\) | jacket | sandals  | slippers}
+Egyptian Galabeya, {0-4$$Galabeya \(long tunic\) | turban  | headscarf | sandals}
+Lebanese Traditional Outfit, {0-4$$Thawb \(robe\) | shmagh \(headscarf\)}
+Finnish Karelian Outfit, {0-4$$Vyö \(belt\) | karelian dress | silk scarf}
+Nigerian Yoruba Àsò-oké, {0-4$$Àsò-oké \(hand-woven fabric\) | gele \(headtie\)}
+Kenyan Maasai Shuka, {0-4$$Shuka \(blanket\) | kanzu \(tunic\) | beaded accessories | sandals  | barefoot}
+Bhutanese Traditional Dress, {0-4$$Gho \(robe f | men\) | kira \(dress f | women\)}
+Romanian Traditional Outfit, {0-4$$Fota \(vest\) | cioareci \(trousers\) | pieptar \(embroidered shirt\)}
+Tibetan Traditional Outfit, {0-4$$Pangden \(apron\) | women's chuba \(robe\) | boots}
+Belgian Flemish Traditional Outfit, {0-4$$Keurslager \(traditional dress\) | klompen \(wooden shoes\)}
+Laotian Traditional Outfit, {0-4$$Sinh \(skirt\) | sabai \(shawl\) | blia \(hat\)}
+Syrian Traditional Outfit, {0-4$$Abaya \(robe\) | tarboush \(fez\)}
+Swedish Folk Costume, {0-4$$Sverigedräkten \(traditional dress\) | wooden clogs}
+Bolivian Traditional Outfit, {0-4$$Pollera \(pleated skirt\) | montera \(hat\) | manta \(shawl\)}
+Nigerian Kanuri Traditional Outfit, {0-4$$Babban riga \(robe\) | fila \(cap\)}
+Solomon Islands Traditional Outfit, {0-4$$Lava lava \(sarong\) | grass skirt | shell necklace}
+Swiss Tracht, {0-4$$Puffed-sleeve blouse | vest | short jacket | buckled shoes}
+Malian Traditional Outfit, {0-4$$Bògòlanfini \(mud cloth tunic\) | pagne \(wrap skirt\)}
+Irish Traditional Outfit, {0-4$$Brat \(cloak\) | leine \(tunic\) | trews  | kilt | brogues}
+Ghanaian Kente Outfit, {0-4$$Kente cloth | agbada \(robe\)}
+Israeli Traditional Outfit, {0-4$$Hamsa \(robe\) | kippah \(skullcap\)}
+Nigerian Kanbi, {0-4$$Kanbi \(robe\) | sokoto \(pants\)}
+Indonesian Kebaya, {0-4$$Kebaya \(blouse\) | sarong}
+Cambodian Sampot, {0-4$$Sampot \(sarong\) | krama \(scarf\)}
+Senegalese Grand Boubou, {0-4$$Grand Boubou \(robe\) | korhogo \(hat\)}
+Colombian Sombrero Vueltiao, {0-4$$Sombrero Vueltiao \(hat\) | ruana \(poncho\)}
+Swiss Schwyzerörgeli Outfit, {0-4$$Lederhosen \(leather breeches\) | shirt | alpine hat}
+Malaysian Baju Melayu, {0-4$$Baju Melayu \(tunic\) | sarong | songkok \(hat\)}
+Ghanaian Agbada, {0-4$$Agbada \(robe\) | fila \(cap\)}
+Guatemalan Huipil, {0-4$$Huipil \(blouse\) | corte \(skirt\)}
+Malian Bògòlanfini, {0-4$$Bògòlanfini \(mud cloth tunic\)}
+Israeli Tallit, {0-4$$Tallit \(prayer shawl\) | kippah \(skullcap\)}

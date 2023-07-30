@@ -1,0 +1,25 @@
+American Civil War Uniform, {0-4$$Union uniform | Confederate uniform | kepi hat | leather boots}
+Colonial American Outfit, {0-4$$Tricorn hat | waistcoat | breeches | buckle shoes}
+Edwardian Aviator Outfit, {0-4$$Aviator jumpsuit | outfit | aviator cap | lace-up boots}
+Edwardian Traveling Suit, {0-4$$Tailored suit | cloche hat | walking boots}
+Edwardian Yachting Outfit, {0-4$$Yachting attire | sailor-inspired details | yacht cap | deck shoes}
+Georgian Beau, {0-4$$Elaborate embroidered coat | waistcoat | frilled shirt | tricorn hat | heeled shoes}
+Georgian Courtier, {0-4$$Courtier attire | ornate details | powdered wig | heeled shoes}
+Georgian Peasant Outfit, {0-4$$Peasant-style clothing | straw hat | simple shoes}
+Georgian Pirate Outfit, {0-4$$Pirate-style clothing | tricorn hat | leather boots}
+Georgian Suit, {0-4$$Tailcoat | waistcoat | breeches | tricorn hat | stockings | heeled shoes}
+Gilded Age Tuxedo, {0-4$$Tuxedo jacket | formal trousers | bow tie | patent leather shoes}
+Regency Riding Habit, {0-4$$tailcoat | jodhpurs | top hat | riding boots}
+Roaring Twenties Gangster Outfit, {0-4$$Pinstripe suit | fedora hat | wingtip shoes}
+Roaring Twenties Golf Outfit, {0-4$$Knickerbockers | golf polo shirt | golf cap | golf shoes}
+Rococo Dandy Suit, {0-4$$Elaborate waistcoat | frock coat | frilled shirt | tricorn hat | heeled shoes}
+Victorian Bathing Costume, {0-4$$Striped bathing suit | straw boater hat | bathing shoes}
+Victorian Cricket Outfit, {0-4$$Cricket whites | cricket cap | cricket shoes}
+Victorian Bustle Riding Habit, {0-4$$Bustle riding coat | jodhpurs | top hat | riding boots}
+Victorian Gentleman, {0-4$$Tailcoat | waistcoat | top hat | dress shoes}
+Victorian Gentleman's Smoking Jacket, {0-4$$Smoking jacket | cravat | smoking cap | slippers}
+Victorian Mourning Cape, {0-4$$Black mourning cape | veiled hat | black boots}
+Victorian Riding Habit, {0-4$$Riding habit | top hat | riding cap | riding boots}
+Victorian Steampunk Adventurer, {0-4$$Steampunk explorer coat | goggles | utility belt | knee-high boots}
+Victorian Street Urchin, {0-4$$Newsboy cap | ragged clothes | patched shoes}
+Victorian Workwear (Working Class), {0-4$$Flat cap | waistcoat | trousers | work boots}

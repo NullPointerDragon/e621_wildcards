@@ -1,0 +1,98 @@
+Casual Female Outfit, {0-4$$Floral Sundress, Sandals, Straw Hat}
+Business Female Outfit, {0-4$$Black Blazer, Pencil Skirt, Ivory Silk Blouse, Nude Pumps}
+Athletic Female Outfit, {0-4$$Sports Bra, Leggings, Athletic Shoes}
+Party-Ready Female Outfit, {0-4$$Sequined Top, Black Skinny Jeans, High Heels}
+Beach Female Outfit, {0-4$$Flowy Cover-up, Bikini, Straw Beach Bag}
+Formal Female Outfit, {0-4$$Floor-Length Evening Gown, Statement Necklace, Elegant Heels}
+Winter Female Outfit, {0-4$$Turtleneck Sweater Dress, Faux Fur Coat, Thick Tights, Knee-High Boots}
+Vintage Female Outfit, {0-4$$A-line Dress with Polka Dots, Cat-Eye Sunglasses, Vintage Heels}
+Hipster Female Outfit, {0-4$$Oversized Cardigan, Graphic Crop Top, High-Waisted Shorts, Ankle Boots}
+Chic Female Outfit, {0-4$$Striped Breton Top, High-waisted Culottes, Block Heel Sandals}
+Relaxed Female Outfit, {0-4$$Oversized Sweater, Leggings, White Canvas Sneakers}
+Urban Female Outfit, {0-4$$Denim Jacket, Black Ripped Jeans, Studded Ankle Boots}
+Preppy Female Outfit, {0-4$$Cable Knit Sweater, Plaid Skirt, Knee-high Socks, Mary Jane Flats}
+Edgy Female Outfit, {0-4$$Faux Leather Jacket, Ripped Fishnet Tights, Platform Boots}
+Classic Female Outfit, {0-4$$A-line Midi Skirt, Silk Blouse, Pointed-toe Pumps}
+Boho Female Outfit, {0-4$$Flowy Maxi Dress, Beaded Sandals, Floppy Wide-brim Hat}
+Casual Streetwear Female Outfit, {0-4$$Camouflage Jacket, Boyfriend Jeans, Platform Sneakers}
+Modern Business Female Outfit, {0-4$$Turtleneck Sweater, Tailored Trousers, Block Heel Pumps}
+Sporty Female Outfit, {0-4$$Sports Crop Top, Leggings with Mesh Panels, Athletic Sneakers}
+Effortlessly Cool Female Outfit, {0-4$$Leather Moto Jacket, Distressed Boyfriend Jeans, Ankle Booties}
+Casual Bohemian Female Outfit, {0-4$$Off-the-shoulder Top, Flowy Skirt, Gladiator Sandals}
+Modern Vintage Female Outfit, {0-4$$Retro Blouse, A-line Skirt, T-strap Mary Jane Shoes}
+Casual Smart Female Outfit, {0-4$$Blazer, Printed Blouse, Tailored Shorts, Block Heel Mules}
+Artsy Female Outfit, {0-4$$Colorful Print Dress, Artsy Pendant Necklace, Artistic Flats}
+Casual Athleisure Female Outfit, {0-4$$Athleisure Dress, Baseball Cap, Sneaker Wedges}
+Business Casual Female Outfit, {0-4$$Blouse, Tapered Trousers, Block Heel Pumps}
+Romantic Female Outfit, {0-4$$Floral Wrap Dress, Straw Sun Hat, Wedge Sandals}
+Grunge Female Outfit, {0-4$$Oversized Denim Jacket, Fishnet Tights, Platform Creepers}
+Modern Preppy Female Outfit, {0-4$$Striped Sweater, A-line Skirt, Ballet Flats}
+Laid-back City Female Outfit, {0-4$$Oversized T-shirt Dress, Canvas Slip-on Sneakers}
+Weekend Gardener Female Outfit, {0-4$$Utility Jumpsuit, Wide-brim Hat, Garden Clogs}
+Casual Dog Walker Female Outfit, {0-4$$Sleeveless Top, Leggings, Slip-on Shoes}
+Barbecue Party Host Female Outfit, {0-4$$Cold-shoulder Top, White Jeans, Wedge Sandals}
+Neighborhood Block Party Female Outfit, {0-4$$Sundress, Straw Clutch, Espadrille Flats}
+Suburban Athlete Female Outfit, {0-4$$Racerback Sports Bra, Yoga Leggings, Running Hat}
+Suburban Book Club Female Outfit, {0-4$$Knit Sweater, Flowy Skirt, Ballerina Flats}
+Suburban Jogger Female Outfit, {0-4$$Tank Top, Leggings with Reflective Stripes, Running Sneakers}
+Suburban Concert-goer Female Outfit, {0-4$$Cropped Graphic Tank, Denim Shorts, Converse Sneakers}
+Farm Worker Female Outfit, {0-4$$Chambray Button-up Shirt, Denim Overalls, Rubber Boots}
+Rancher Female Outfit, {0-4$$Fringe Leather Jacket, Denim Skirt, Cowgirl Boots}
+Country Music Festival Female Outfit, {0-4$$Boho Sundress, Suede Fringe Vest, Cowboy Boots}
+Outdoor Explorer Female Outfit, {0-4$$Performance Tank Top, Convertible Pants, Trail Shoes}
+Rural Biker Female Outfit, {0-4$$Moto Jacket, Skinny Jeans, Studded Biker Boots}
+Countryside Picnic Female Outfit, {0-4$$Gingham Dress, Straw Sun Hat, Sandals}
+Rural Craftsman Female Outfit, {0-4$$Artist Smock, Jeans, Comfortable Sneakers}
+Rural Wedding Female Outfit, {0-4$$Flowy Maxi Dress, Flower Crown, Wedge Sandals}
+Farm-to-Table Market Female Outfit, {0-4$$Off-the-shoulder Top, High-waisted Skirt, Woven Flats}
+Rural Fair Female Outfit, {0-4$$Ruffled Blouse, Denim Shorts, Embroidered Sandals}
+Rural Cowgirl Female Outfit, {0-4$$Floral Western Dress, Cowgirl Hat, Cowgirl Boots}
+Rural Mountain Hiker Female Outfit, {0-4$$Technical Tank Top, Convertible Hiking Pants, Hiking Boots}
+Rural Horseback Rider Female Outfit, {0-4$$English Riding Helmet, Show Jacket, Jodhpurs, Riding Boots}
+Rural Summer Carnival Female Outfit, {0-4$$Crop Top, Denim Skirt, Flat Sandals}
+Rural Bluegrass Festival Female Outfit, {0-4$$Boho Romper, Fringe Vest, Cowboy Boots}
+Rural Rodeo Attendee Female Outfit, {0-4$$Western Graphic Tank, Denim Shorts, Cowgirl Boots}
+Rural Outdoor Wedding Female Outfit, {0-4$$Midi Floral Dress, Strappy Sandals, Sun Hat}
+Rural Vineyard Picnic Female Outfit, {0-4$$Flowy Sundress, Wide-brim Hat, Sandals}
+Rural Country Fair Female Outfit, {0-4$$Cropped Blouse, High-waisted Skirt, Ankle Boots}
+Hip-hop Street Style Female Outfit, {0-4$$Crop Top, Jogger Pants, Timberland Boots, Chunky Gold Necklace}
+Urban Artist Female Outfit, {0-4$$Artist Smock Dress, Canvas Sneakers, Beret}
+Streetwear Enthusiast Female Outfit, {0-4$$Cropped Puffer Jacket, Cargo Pants, Platform Sneakers}
+Cyberpunk Female Outfit, {0-4$$Cyberpunk Hooded Dress, LED Platform Boots, Goggles}
+Vintage Urban Female Outfit, {0-4$$Polka Dot Swing Dress, Cat-Eye Sunglasses, Vintage Heels}
+City Bohemian Female Outfit, {0-4$$Boho Maxi Dress, Fringed Shawl, Leather Sandals}
+Business Casual Urban Female Outfit, {0-4$$Wrap Blouse, Tailored Culottes, Block Heel Mules}
+Urban Minimalist Female Outfit, {0-4$$Oversized White Shirt, Straight-leg Pants, Minimalist Sneakers}
+Urban Surfer Female Outfit, {0-4$$Tie-dye Crop Top, Denim Shorts, Birkenstock Sandals}
+City Runner Female Outfit, {0-4$$Running Tank Top, Running Leggings, Athletic Sneakers}
+Urban Goth Female Outfit, {0-4$$Velvet Dress, Choker Necklace, Combat Boots}
+Urban Biker Female Outfit, {0-4$$Moto Jacket, Ripped Skinny Jeans, Studded Biker Boots}
+Skyscraper Office Female Outfit, {0-4$$Pencil Skirt, Silk Blouse, Classic Pumps, Tote Bag}
+Urban Tech Enthusiast Female Outfit, {0-4$$Techwear Hoodie, Reflective Leggings, High-tech Sneakers}
+City Music Festival Female Outfit, {0-4$$Boho Kimono, Fringed Shorts, Ankle Boots, Flower Crown}
+Urban Rocker Female Outfit, {0-4$$Stud-embellished Leather Jacket, Graphic Tee Dress, Chunky Platform Boots}
+Urban Professional Female Outfit, {0-4$$Sheath Dress, Blazer, Pumps, Structured Handbag}
+Urban Dancer Female Outfit, {0-4$$Crop Top, High-waisted Dance Leggings, Jazz Shoes}
+Urban Yoga Enthusiast Female Outfit, {0-4$$Racerback Yoga Bra, High-waisted Yoga Leggings, Yoga Mat Sling}
+City Commuter Female Outfit, {0-4$$Trench Coat, Striped Top, Skinny Jeans, Ballet Flats}
+City College Student Female Outfit, {0-4$$Oversized Sweater, Leggings, Canvas Sneakers, Backpack}
+Executive CEO Female Outfit, {0-4$$Power Suit ,Blazer, Trousers/Skirt, Button-down Blouse, Heeled Pumps}
+Chef Female Outfit, {0-4$$Chef's Jacket, Checkered Pants, Chef's Hat, Non-slip Kitchen Shoes}
+Doctor Female Outfit, {0-4$$White Lab Coat, Medical Scrubs, Stethoscope, Comfortable Shoes}
+Firefighter Female Outfit, {0-4$$Firefighter Turnout Gear ,Jacket, Pants, Fire Helmet, Fire Boots}
+Lawyer Female Outfit, {0-4$$Tailored Suit, Blouse, Statement Necklace, Closed-toe Pumps}
+Police Officer Female Outfit, {0-4$$Police Uniform ,Shirt, Pants, Duty Belt, Police Cap, Police Boots}
+Nurse Female Outfit, {0-4$$Medical Scrubs, Comfortable Shoes, Stethoscope, ID Badge}
+Flight Attendant Female Outfit, {0-4$$Flight Attendant Uniform ,Blazer, Blouse, Skirt, Scarf, Cabin Crew Shoes}
+IT Professional Female Outfit, {0-4$$Business Casual Attire ,Blouse, Dress Pants/Skirt, Dress Shoes,}
+Architect Female Outfit, {0-4$$Architectural-inspired Outfit,, Modern Blouse, Pencil Skirt, Heeled Sandals}
+Engineer Female Outfit, {0-4$$Engineer's Work Shirt, Work Pants, Steel-toed Boots, Safety Glasses}
+Teacher Female Outfit, {0-4$$Blouse, A-line Skirt, Cardigan, Flats}
+Photographer Female Outfit, {0-4$$Casual Professional Attire ,Blouse, Jeans, Casual Shoes,}
+Fashion Designer Female Outfit, {0-4$$Edgy Designer Outfit,, Asymmetrical Dress, Bold Heels}
+Real Estate Agent Female Outfit, {0-4$$Professional Attire ,Blazer, Blouse, Pencil Skirt, Heeled Pumps,}
+Electrician Female Outfit, {0-4$$Work Coveralls, Work Boots, Safety Gloves, Hard Hat}
+Marketing Specialist Female Outfit, {0-4$$Stylish Business Casual Attire ,Blouse, Tapered Trousers, Heels,}
+Sales Representative Female Outfit, {0-4$$Professional Business Attire ,Blouse, Pencil Skirt, Heeled Pumps,}
+Veterinarian Female Outfit, {0-4$$Veterinarian Scrubs, Lab Coat, Stethoscope, Comfortable Shoes}
+Journalist Female Outfit, {0-4$$Casual Professional Attire ,Blouse, Pencil Skirt, Heeled Ankle Boots,}

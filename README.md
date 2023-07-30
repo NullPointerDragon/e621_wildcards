@@ -24,8 +24,20 @@ Here's an example of prompt that generates anthros with 5-20 random tags, in a r
 	{__e621_angles__}
 	{__e621_framing__}
 
-	(clothing, clothed, {1-10$$__e621_clothing__})
+	(clothing, {1-10$$__e621_clothing__})
 
 	({__e621_poses__})
 
 	({6$$__e621_all_artists_above_100__}:1.3)
+	
+The next one generates a random species, gender, body figure, location and outfit, with the possibility of a random angle, framing, pose and expression as well:
+
+	anthro, {__e621_figures__} ({__e621_genders__}:1.2), ({__species_enriched_nonmedia_nonhuman_500__}:1.3), {{__e621_colors__} body| }
+
+	{{__e621_hair_colors__}| }, {{__e621_hair_styles__}| }, {{__e621_hair_traits_common__}| }
+
+	{0-1$$__e621_angles__}, {0-1$$__e621_framing__}, {0-1$$__e621_poses__}, {0-1$$__e621_expressions__}
+
+	{{__cultural_adjectives__}| } {__e621_locations__} background, detailed background
+
+	(clothing, {__outfits/*__}:1.1), {__e621_outfit_colors__}

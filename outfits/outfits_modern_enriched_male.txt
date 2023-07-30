@@ -1,0 +1,97 @@
+Casual Male Outfit, {0-4$$Blue Polo Shirt, Khaki Shorts, White Sneakers}
+Business Male Outfit, {0-4$$Gray Suit Jacket, Navy Blue Tie, White Dress Shirt, Charcoal Gray Dress Pants}
+Athletic Male Outfit, {0-4$$Sleeveless Tank Top, Track Pants, Running Shoes}
+Party-Ready Male Outfit, {0-4$$Leather Jacket, Graphic T-shirt, Distressed Jeans, Boots}
+Beach Male Outfit, {0-4$$Hawaiian Shirt, Swim Shorts, Flip Flops}
+Formal Male Outfit, {0-4$$Tailored Tuxedo, Bow Tie, Dress Shoes}
+Winter Male Outfit, {0-4$$Cable Knit Sweater, Wool Peacoat, Dark Wash Jeans, Winter Boots}
+Vintage Male Outfit, {0-4$$Retro Bowling Shirt, High-Waisted Jeans, Classic Sneakers}
+Hipster Male Outfit, {0-4$$Plaid Flannel Shirt, Beanie Hat, Skinny Jeans, Retro Sneakers}
+Chic Male Outfit, {0-4$$Tailored Blazer, Crisp White Shirt, Slim-fit Chinos, Loafers}
+Relaxed Male Outfit, {0-4$$Graphic Print T-shirt, Jogger Pants, Slip-on Sneakers}
+Urban Male Outfit, {0-4$$Leather Biker Jacket, Distressed Skinny Jeans, Chelsea Boots}
+Preppy Male Outfit, {0-4$$V-neck Sweater, Button-down Oxford Shirt, Chinos, Penny Loafers}
+Edgy Male Outfit, {0-4$$Black Hoodie, Moto Jeans, Combat Boots, Snapback Cap}
+Classic Male Outfit, {0-4$$Navy Blazer, White Dress Shirt, Gray Dress Pants, Brogues}
+Boho Male Outfit, {0-4$$Linen Shirt, Cropped Trousers, Espadrilles, Fedora Hat}
+Casual Streetwear Male Outfit, {0-4$$Graphic Hoodie, Cargo Pants, High-top Sneakers}
+Modern Business Male Outfit, {0-4$$Navy Suit, Light Blue Dress Shirt, Brown Oxford Shoes}
+Sporty Male Outfit, {0-4$$Zip-up Track Jacket, Track Pants, Running Shoes}
+Effortlessly Cool Male Outfit, {0-4$$Denim Shirt, Black Jeans, White Low-top Sneakers}
+Casual Bohemian Male Outfit, {0-4$$Linen Button-up Shirt, Khaki Shorts, Leather Sandals}
+Modern Dapper Male Outfit, {0-4$$Checked Suit, Brown Monk Strap Shoes, Pocket Square}
+Casual Smart Male Outfit, {0-4$$Sweater Vest, Crisp Shirt, Chinos, Loafers}
+Artsy Male Outfit, {0-4$$Graphic Art T-shirt, Painter's Overalls, Canvas Slip-on Shoes}
+Casual Athleisure Male Outfit, {0-4$$Hoodie, Joggers, Athletic Sneakers}
+Business Casual Male Outfit, {0-4$$Sweater, Dress Pants, Leather Loafers}
+Romantic Male Outfit, {0-4$$Linen Shirt, Tailored Shorts, Boat Shoes}
+Grunge Male Outfit, {0-4$$Flannel Shirt, Distressed Denim Shorts, Combat Boots}
+Modern Preppy Male Outfit, {0-4$$Polo Shirt, Bermuda Shorts, Boat Shoes}
+Laid-back City Male Outfit, {0-4$$Henley Shirt, Cargo Shorts, Slip-on Espadrilles}
+Weekend Gardener Male Outfit, {0-4$$Plaid Button-up Shirt, Denim Overalls, Work Boots}
+Casual Dog Walker Male Outfit, {0-4$$Baseball Cap, T-shirt, Athletic Shorts, Sneakers}
+Barbecue Party Host Male Outfit, {0-4$$Button-up Shirt, Shorts, Leather Sandals}
+Neighborhood Block Party Male Outfit, {0-4$$Hawaiian Shirt, Linen Shorts, Boat Shoes}
+Suburban Athlete Male Outfit, {0-4$$Sporty Tank Top, Athletic Shorts, Compression Socks, Running Shoes}
+Suburban Book Club Male Outfit, {0-4$$Cardigan, Button-up Shirt, Corduroy Pants, Loafers}
+Suburban Jogger Male Outfit, {0-4$$Moisture-wicking T-shirt, Running Shorts, Performance Running Shoes}
+Suburban Concert-goer Male Outfit, {0-4$$Band T-shirt, Distressed Jeans, High-top Sneakers}
+Farm Worker Male Outfit, {0-4$$Plaid Flannel Shirt, Overalls, Work Boots, Straw Hat}
+Rancher Male Outfit, {0-4$$Cowboy Hat, Western Shirt, Bootcut Jeans, Cowboy Boots}
+Country Music Festival Male Outfit, {0-4$$Vintage Band Tee, Faded Jeans, Cowboy Hat, Western Boots}
+Outdoor Explorer Male Outfit, {0-4$$Utility Jacket, Cargo Shorts, Hiking Boots, Backpack}
+Rural Biker Male Outfit, {0-4$$Leather Motorcycle Jacket, Biker Jeans, Engineer Boots}
+Countryside Picnic Male Outfit, {0-4$$Linen Shirt, Chino Shorts, Slip-on Espadrilles}
+Rural Craftsman Male Outfit, {0-4$$Denim Apron, Plain T-shirt, Work Pants, Work Boots}
+Rural Wedding Male Outfit, {0-4$$Suit Vest, Dress Shirt, Dress Pants, Dress Shoes}
+Farm-to-Table Market Male Outfit, {0-4$$Henley Shirt, Rolled-up Chinos, Canvas Slip-on Shoes}
+Rural Fair Male Outfit, {0-4$$Graphic Tee, Shorts, Trucker Hat, Sneakers}
+Rural Cowboy Male Outfit, {0-4$$Cowboy Hat, Western Shirt, Bootcut Jeans, Roper Boots}
+Rural Horseback Rider Male Outfit, {0-4$$Equestrian Helmet, Riding Jacket, Breeches, Riding Boots}
+Rural Summer Carnival Male Outfit, {0-4$$Tank Top, Cargo Shorts, Sneakers}
+Rural Bluegrass Festival Male Outfit, {0-4$$Overalls, Straw Hat, Lace-up Boots}
+Rural Rodeo Attendee Male Outfit, {0-4$$Rodeo T-shirt, Jeans, Cowboy Hat, Cowboy Boots}
+Rural Outdoor Wedding Male Outfit, {0-4$$Light Suit Jacket, Dress Shirt, Dress Pants, Oxfords}
+Rural Vineyard Picnic Male Outfit, {0-4$$Button-up Shirt, White Pants, Loafers}
+Rural Country Fair Male Outfit, {0-4$$Checked Shirt, Denim Shorts, Straw Hat, Sneakers}
+Hip-hop Street Style Male Outfit, {0-4$$Baggy Graphic Hoodie, Ripped Jeans, High-top Sneakers, Snapback Cap}
+Urban Artist Male Outfit, {0-4$$Paint-splattered Overalls, Graphic T-shirt, Converse Sneakers}
+Streetwear Enthusiast Male Outfit, {0-4$$Oversized Bomber Jacket, Graphic Tee, Track Pants, Chunky Sneakers}
+Cyberpunk Male Outfit, {0-4$$Futuristic Jacket, Tech-inspired T-shirt, Techwear Pants, High-top Sneakers}
+Vintage Urban Male Outfit, {0-4$$Retro Bowling Shirt, High-waisted Trousers, Oxford Shoes, Fedora Hat}
+City Bohemian Male Outfit, {0-4$$Boho Print Shirt, Linen Pants, Leather Sandals, Beaded Bracelets}
+Business Casual Urban Male Outfit, {0-4$$Blazer, Polo Shirt, Slim-fit Chinos, Dress Loafers}
+Urban Minimalist Male Outfit, {0-4$$Monochrome Outfit, ,Black/White/Grey, Clean-cut Silhouettes}
+Urban Surfer Male Outfit, {0-4$$Surf-inspired Graphic T-shirt, Board Shorts, Flip Flops}
+City Runner Male Outfit, {0-4$$Lightweight Running Jacket, Performance Shorts, Running Shoes}
+Urban Goth Male Outfit, {0-4$$Longline Black Coat, Fishnet Top, Skinny Jeans, Platform Boots}
+Urban Biker Male Outfit, {0-4$$Leather Biker Jacket, Distressed Jeans, Engineer Boots}
+Skyscraper Office Male Outfit, {0-4$$Suit, Tie, Dress Shoes, Briefcase}
+Urban Tech Enthusiast Male Outfit, {0-4$$Tech-inspired Jacket, Smartwatch, Techwear Pants, Sneakers}
+City Music Festival Male Outfit, {0-4$$Printed Button-up Shirt, Denim Shorts, Sunglasses, Sneakers}
+Urban Rocker Male Outfit, {0-4$$Leather Jacket, Band T-shirt, Ripped Jeans, Biker Boots}
+Urban Professional Male Outfit, {0-4$$Tailored Blazer, Dress Shirt, Dress Pants, Leather Oxfords}
+Urban Dancer Male Outfit, {0-4$$Dance T-shirt, Dance Pants, Dance Sneakers}
+Urban Yoga Enthusiast Male Outfit, {0-4$$Breathable Yoga Tank, Yoga Shorts, Yoga Mat Carrier}
+City Commuter Male Outfit, {0-4$$Commuter Jacket, T-shirt, Jeans, Comfortable Sneakers}
+City College Student Male Outfit, {0-4$$College Sweatshirt, Jeans, Backpack, Sneakers}
+Executive CEO Male Outfit, {0-4$$Navy Suit, Crisp White Dress Shirt, Silk Tie, Leather Dress Shoes}
+Chef Male Outfit, {0-4$$Chef's Jacket, Checkered Pants, Chef's Hat, Non-slip Kitchen Shoes}
+Doctor Male Outfit, {0-4$$White Lab Coat, Medical Scrubs, Stethoscope, Comfortable Shoes}
+Firefighter Male Outfit, {0-4$$Firefighter Turnout Gear ,Jacket, Pants, Fire Helmet, Fire Boots}
+Lawyer Male Outfit, {0-4$$Tailored Suit, Dress Shirt, Silk Tie, Leather Dress Shoes}
+Police Officer Male Outfit, {0-4$$Police Uniform ,Shirt, Pants, Duty Belt, Police Cap, Police Boots}
+Nurse Male Outfit, {0-4$$Medical Scrubs, Comfortable Shoes, Stethoscope, ID Badge}
+Flight Attendant Male Outfit, {0-4$$Flight Attendant Uniform ,Blazer, Shirt, Slacks, Tie, Cabin Crew Shoes}
+IT Professional Male Outfit, {0-4$$Business Casual Attire ,Button-up Shirt, Dress Pants, Dress Shoes,}
+Architect Male Outfit, {0-4$$Architectural-inspired Outfit,, Turtleneck Sweater, Tailored Trousers, Dress Shoes}
+Engineer Male Outfit, {0-4$$Engineer's Work Shirt, Work Pants, Steel-toed Boots, Safety Glasses}
+Teacher Male Outfit, {0-4$$Dress Shirt, Tie, Dress Pants, Dress Shoes}
+Photographer Male Outfit, {0-4$$Casual Professional Attire ,Button-up Shirt, Jeans, Casual Shoes,}
+Fashion Designer Male Outfit, {0-4$$Trendy Designer Outfit,, Graphic T-shirt, Designer Jeans, Statement Sneakers}
+Real Estate Agent Male Outfit, {0-4$$Professional Attire ,Blazer, Dress Shirt, Dress Pants, Loafers,}
+Electrician Male Outfit, {0-4$$Work Coveralls, Work Boots, Safety Gloves, Hard Hat}
+Marketing Specialist Male Outfit, {0-4$$Stylish Business Casual Attire ,Button-up Shirt, Chinos, Dress Shoes,}
+Sales Representative Male Outfit, {0-4$$Professional Business Attire ,Dress Shirt, Dress Pants, Dress Shoes,}
+Veterinarian Male Outfit, {0-4$$Veterinarian Scrubs, Lab Coat, Stethoscope, Comfortable Shoes}
+Journalist Male Outfit, {0-4$$Casual Professional Attire ,Button-up Shirt, Dress Pants, Oxfords,}
