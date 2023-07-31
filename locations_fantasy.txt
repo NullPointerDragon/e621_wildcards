@@ -1,0 +1,195 @@
+#natural places
+Misty Enchanted Forest Background: Ancient trees covered in moss, magical mist swirling through the air, faerie lights dancing among the branches.
+Majestic Mountain Range Background: Snow-capped peaks, cascading waterfalls, eagles soaring in the sky, lush alpine meadows.
+Serene River Valley Background: Slow-moving river, weeping willows along the banks, grazing deer, colorful wildflowers.
+Whimsical Fairy Glen Background: Small babbling brooks, toadstool circles, tiny fairy houses, butterflies flitting around.
+Rolling Hills of Green Background: Gentle slopes, vibrant green grass, grazing sheep, distant windmills.
+Crystal Clear Lake Background: Mirror-like water, fish swimming beneath the surface, water lilies, dragonflies hovering.
+Mystical Lagoon Background: Bioluminescent waters, glowing underwater plants, mysterious cave entrance.
+Ancient Redwood Grove Background: Towering redwood trees, rays of sunlight filtering through the canopy, ferns covering the forest floor.
+Desert Oasis Background: Palm trees, sparkling blue water, camels resting in the shade, sand dunes in the distance.
+Tranquil Meadow Background: Soft grassy plains, colorful wildflowers, bunnies hopping about, singing birds in the trees.
+Thundering Waterfall Background: Powerful cascade, rainbows in the mist, rocky cliffs, lush vegetation.
+Eerie Marshland Background: Twisted trees, fog hovering above the marsh, croaking frogs, fireflies in the evening.
+Golden Wheat Fields Background: Vast fields of ripe wheat, crows perched on fence posts, the scent of harvest in the air.
+Moonlit Silver Lake Background: Moon's reflection on the water, silver birch trees surrounding the lake, nocturnal creatures.
+Craggy Cliffs by the Sea Background: Rocky coastline, crashing waves, seagulls soaring, hidden sea caves.
+Starlit Night Sky Background: Celestial beauty, shooting stars streaking across the sky, the Milky Way shining brightly.
+Whispering Willow Brook Background: Willow trees lining the brook, babbling water, waterfowl gliding on the surface.
+Enchanted Coral Reef Background: Colorful coral formations, tropical fish darting around, sun rays piercing the water.
+Ethereal Aurora Glade Background: Shimmering auroras in the night sky, ancient standing stones, quiet stillness.
+Thunderstorm Plains Background: Dramatic lightning, rolling thunder, wild horses galloping through the rain.
+Sunflower Field Background: Endless sunflowers in bloom, bees buzzing, butterflies flitting from flower to flower.
+Tranquil Pine Forest Background: Tall pine trees, soft pine needle carpet, deer foraging among the trees.
+Windswept Dunes Background: Ever-shifting sand dunes, desert plants adapting to the harsh environment.
+Fiery Volcano Crater Background: Active volcano, lava flows, billowing smoke, molten rivers.
+Glacial Fjord Background: Massive glaciers, icy blue waters, seals resting on icebergs.
+Mystical Rainbow Valley Background: Vibrant rainbow stretching across the valley, unicorns grazing on the grass.
+Enchanted Coral Caves Background: Underwater caves filled with bioluminescent coral, sea creatures gliding through.
+Moonlit Silver Forest Background: Silver-leaved trees, moonbeams filtering through the foliage, owls hooting softly.
+Peaceful Lavender Fields Background: Rows of fragrant lavender, buzzing bees collecting nectar, distant farmhouse.
+Ancient Sandstone Canyon Background: Erosion-carved rock formations, hidden cave dwellings, ancient petroglyphs.
+#dungeons
+Dark and Damp Dungeon Background: Cold stone walls, flickering torches, water dripping from the ceiling, rusty iron bars.
+Abandoned Catacombs Background: Long corridors lined with ancient tombs, eerie echoes, cobwebs covering the crypts.
+Underwater Grotto Background: Submerged cave system, bioluminescent algae casting an eerie glow, underwater ruins.
+Haunted Prison Cells Background: Ghostly apparitions, rattling chains, barred windows, restless spirits.
+Lava-filled Cavern Background: Molten lava streams, volcanic rocks, suffocating heat, suspended wooden bridges.
+Torture Chamber Background: Gruesome devices, chains hanging from the ceiling, bloodstained walls, ominous atmosphere.
+Forgotten Mineshaft Background: Abandoned mining equipment, collapsed tunnels, hidden gems, faint sounds echoing.
+Underground River Passage Background: Subterranean river, small boat tied to a dock, mysterious whispers.
+Ancient Tomb Background: Intricate sarcophagi, intricate carvings on the walls, hidden traps.
+Cursed Crypt Background: Malevolent energy, cursed relics, ancient curses etched into stone.
+Goblin's Den Background: Crude tunnels, crude drawings on the walls, stolen loot scattered around.
+Mysterious Rune Chamber Background: Glowing runes on the floor, arcane symbols on the walls, magic energy crackling.
+Sewer Tunnels Background: Grates above, sewage water flowing through the tunnels, rats scurrying.
+Underdark Lair Background: Luminescent fungi, underground waterfalls, strange creatures lurking in the darkness.
+Forbidden Temple Vault Background: Massive stone door, guardian statues, booby traps protecting ancient treasures.
+Ruined Dungeon Halls Background: Collapsed pillars, fallen statues, remnants of ancient battles.
+Crystal Prison Background: Giant crystals forming cell walls, trapped beings within, dazzling reflections.
+Bandit's Hideout Background: Hidden underground chamber, stolen goods stacked, secret escape tunnels.
+Spider's Lair Background: Cobwebs covering every surface, giant spider webs, arachnid inhabitants.
+Necromancer's Sanctum Background: Bone altars, necromantic symbols, eerie blue flames, undead guardians.
+Elemental Abyss Background: Floating platforms, swirling elemental energies, shifting gravity.
+Forgotten Laboratory Background: Broken vials, alchemical equipment, strange experiments preserved in jars.
+Underworld Arena Background: Crude fighting ring, cheering spectators, gladiator trophies on display.
+Sacrificial Chamber Background: Blood-stained altar, sacrificial tools, eerie chanting on the air.
+Sunken Dungeon Ruins Background: Submerged castle ruins, eerie silence, treasure hidden beneath the water.
+Beastmen's Lair Background: Claw marks on the walls, animal pelts on the floor, lingering animal smell.
+Giant's Dungeon Background: Enormous stone halls, oversized furniture, huge chains hanging from the ceiling.
+Lost Labyrinth Background: Maze-like corridors, misleading signs, shifting walls.
+Shadowy Prison Background: Flickering shadows, imprisoned specters, bars cast ominous silhouettes.
+Dark Wizard's Retreat Background: Arcane symbols covering the floor, magical experiments, forbidden tomes.
+#casual places
+Medieval Cozy Tavern Background: Wooden beams, hearth with crackling fire, hanging tankards, worn bar stools, barkeep cleaning glasses.
+Medieval Bustling Marketplace Background: Colorfully awnings, various stalls selling produce, fabrics, and trinkets, chattering merchants, lively crowd.
+Medieval Serene Temple Garden Background: Tranquil pond, bonsai trees, stone lanterns, incense wafting through the air, meditating monks.
+Medieval Old Town Square Background: Cobbled streets, charming buildings with flower boxes, street performers, pigeons, market stalls in the distance.
+Medieval Waterfront Wharf Background: Docked fishing boats, seagulls soaring, fishmongers selling their catch, salty breeze from the sea.
+Medieval Farmstead Background: Rustic farmhouse, fields of crops, grazing livestock, scarecrows, rolling hills in the backdrop.
+Medieval Busy Tavern Kitchen Background: Chefs bustling about, pots and pans clanging, savory aromas, barrels of ale, hearth oven.
+Medieval Merchant Caravan Camp Background: Colorful tents, camels resting, merchants haggling, campfire under the stars.
+Medieval Village Fair Background: Carousel with painted horses, candy apple stand, fortune teller's booth, children playing games.
+Medieval Temple Library Background: Ancient tomes on shelves, candle-lit reading desks, religious artifacts, hushed whispers.
+Medieval Blacksmith's Forge Background: Glowing furnace, ringing hammers, anvil and tools, armor and weapons on display.
+Medieval Street Performers' Corner Background: Jugglers, musicians, acrobats, crowds clapping and cheering, coin-tossing hat.
+Medieval Herbalist's Apothecary Background: Shelves of dried herbs, potion bottles, mortar and pestle, hanging dried plants.
+Medieval Tavern Garden Background: Ivy-covered walls, wooden benches, blooming flowers, friendly cat lounging around.
+Medieval Village Chapel Background: Wooden pews, stained glass windows, lit candles, peaceful atmosphere.
+Medieval Textile Merchant's Shop Background: Rolls of colorful fabrics, bolts of silk, sewing machines, tailor's mannequin.
+Medieval Cobbler's Workshop Background: Leather scraps, shoe lasts, cobblers working on shoes and boots, shelves of finished products.
+Medieval Village Square Market Background: Market stalls with fresh produce, baked goods, and handmade crafts, lively chatter.
+Medieval Street Food Cart Background: Sizzling pans, savory and sweet treats, hungry customers, mouth-watering aromas.
+Medieval Tavern Game Room Background: Card tables, darts on the wall, dice games, patrons cheering and jeering.
+Medieval Merchant's Warehouse Background: Stacked crates, barrels, and chests, merchants inspecting goods, shipping manifests.
+Medieval Village Well Background: Stone well with a pulley, buckets, villagers fetching water, a gathering spot for locals.
+Medieval Scribe's Workshop Background: Quills and ink pots, parchment scrolls, illuminated manuscripts, careful calligraphy.
+Medieval Fruit Orchards Background: Rows of fruit trees, baskets of freshly harvested fruits, chirping birds.
+Medieval Village Mill Background: Water wheel in motion, sacks of flour, miller tending to the machinery.
+Medieval Tavern Courtyard Background: Tables with colorful umbrellas, musicians playing, patrons enjoying meals and drinks.
+Medieval Village Pottery Studio Background: Potter's wheel, shelves of clay pots and vases, pots drying in the sun.
+Medieval Market Square Fountain Background: Ornate stone fountain, children splashing, pigeons drinking water.
+Medieval Temple Bell Tower Background: Tall bell tower, resonant bells, stunning views of the surrounding area.
+Medieval Village Bakery Background: Ovens with fresh bread, sweet pastries on display, warm and inviting atmosphere.
+#major city
+Medieval Royal Castle Courtyard Background: Impressive stone walls, regal banners fluttering in the wind, well-kept gardens.
+Medieval Grand Cathedral Square Background: Enormous cathedral facade, intricate stained glass windows, devout worshippers.
+Medieval Market District Background: Bustling marketplace, colorful stalls selling various goods, lively chatter.
+Medieval Noble's Manor Background: Lavish estates with ornate gardens, decorative fountains, elegant carriages parked outside.
+Medieval Mage's Tower Background: Tall spire, crackling magical energies, libraries filled with ancient tomes.
+Medieval Guildhall Plaza Background: Guild symbols displayed proudly, skilled craftsmen displaying their work.
+Medieval Slums and Shantytowns Background: Ramshackle huts, narrow alleys, makeshift market stalls.
+Medieval Harbor Quay Background: Docked ships from distant lands, fishermen unloading their catch.
+Medieval Arcane Bazaar Background: Shops selling enchanted items, mysterious artifacts on display.
+Medieval Scholar's District Background: Prestigious universities, libraries with extensive book collections.
+Medieval Theater District Background: Grand theater buildings, posters advertising performances.
+Medieval Gilded Hall Background: Lavish banquets, opulent decorations.
+Medieval Sewer Entrances Background: Hidden grates and manholes, dark and damp tunnels leading underground.
+Medieval Alchemist's Alley Background: Shops with bubbling cauldrons, jars of mysterious ingredients.
+Medieval Noble's Ballroom Background: Lavish ballroom, elegant decor.
+Medieval Guard Barracks Background: Well-organized training grounds, armory stocked with weapons.
+Medieval Abandoned Ruins Background: Crumbling structures, overgrown vegetation.
+Medieval Skybridge Market Background: Elevated market stalls on bridges, overlooking the city below.
+Medieval Guildmaster's Council Chamber Background: Round table with guild leaders, maps and documents on display.
+Medieval Hidden Thieves' Den Background: Secret entrance, dimly lit meeting space.
+Medieval Plaza of the Ancients Background: Ancient statues and monuments, tales of forgotten heroes carved in stone.
+Medieval Theater Balconies Background: Upper levels of theaters, opulent boxes for viewing performances.
+Medieval Artisan's Workshop Background: Master craftsmen creating intricate works, tools and raw materials neatly organized.
+Medieval Enchanted Streetlights Background: Magical streetlights illuminating the city at night, softly glowing orbs.
+Medieval Dragon Gate Background: Grand entrance gate, carved with dragon motifs, guarded by stone dragon statues.
+Medieval Garden Arboretum Background: Lush botanical garden with rare plants and exotic flowers, peaceful walking paths.
+Medieval Crystal Archway Background: Elaborate arch made of enchanted crystals, shimmering with magical light.
+Medieval Towering Aqueduct Background: Arched stone structures carrying water across the city, providing a sense of grandeur.
+Medieval Starfall Square Background: Square adorned with magical crystals, glowing brightly during the night.
+Medieval Celestial Observatory Background: Tower with telescopes, charts and star maps.
+#random
+Enchanted Forest Background: Ancient trees, sparkling mushrooms, glowing fireflies, mystical fog, moss-covered rocks, hidden creatures.
+Floating Island Background: Suspended landmasses, waterfalls in the sky, floating flora, magical crystals, airships in the distance.
+Haunted Manor Background: Decaying mansion, overgrown vines, eerie moonlight, broken windows, ghostly figures, crows on the rooftop.
+Lost Temple Ruins Background: Crumbling stone structures, ancient hieroglyphics, vines and moss, treasure chests, eerie glow from hidden artifacts.
+Crystal Caves Background: Glowing crystals, reflective pools, underground waterfalls, luminescent creatures, stalactites and stalagmites.
+Steampunk City Background: Brass skyscrapers, airships in the sky, steam-powered machines, cogwheel bridges, clockwork automatons.
+Fairy Glade Background: Flower petal paths, colorful butterflies, fairy houses in trees, shimmering pond, soft glow from fireflies.
+Ice Palace Background: Frosty spires, ice sculptures, frozen lake, aurora borealis in the sky, snowflakes falling gently.
+Dragon's Lair Background: Giant dragon scales, piles of treasure, bubbling lava pools, stalactites overhead, dragon bones.
+Ancient Library Background: Towering bookshelves, leather-bound tomes, mystical artifacts, floating candles, secret passages.
+Celestial Observatory Background: Giant telescopes, star charts on walls, celestial globes, glowing starlight, astronomical instruments.
+Underwater City Background: Coral buildings, colorful sea creatures, bioluminescent plants, underwater vehicles, sunken shipwrecks.
+Elemental Canyon Background: Fiery lava streams, gusts of wind, cascading waterfalls, sparkling earth crystals, lightning strikes.
+Timeless Clock Tower Background: Elaborate clock faces, intricate gears, mysterious ticking sounds, gears in motion.
+Enchanted Lake Background: Serene lake, willow trees, magical mist, swans gliding on the water, floating lotus flowers.
+Ancient Astral Observatory Background: Celestial domes, star maps, shimmering auroras, moon phases, telescopes pointing to the skies.
+Gnome Workshop Background: Inventive machinery, gears and gadgets, peculiar contraptions, stacks of blueprints, steaming cauldrons.
+Ruins of the Elemental Titans Background: Gigantic statues, cracked earth, elemental crystals, floating rocks, remnants of ancient battles.
+Celestial Gardens Background: Luminescent flowers, floating islands, shooting stars, ethereal fountains, celestial butterflies.
+Crystal Ballroom Background: Giant crystal chandeliers, elegant masks, swirling ball gowns, enchanting music, mirrored walls.
+Mermaid Lagoon Background: Coral reefs, colorful fish, sunken ships, mermaid statues, bioluminescent jellyfish.
+Forbidden Alchemy Lab Background: Cauldrons bubbling, mysterious potions, arcane symbols, spiderwebs, ancient scrolls.
+Skyway Market Background: Floating market stalls, aerial traders, magical goods, flying carpets, bustling crowd.
+Mystic Waterfall Sanctuary Background: Waterfall oasis, meditative pools, floating water lilies, serene statues, healing energies.
+Clockwork Forest Background: Mechanical trees, winding gears, steam-powered creatures, ticking sounds, mechanical butterflies.
+Ancient Desert Caravansary Background: Sand dunes, exotic caravans, merchant tents, starry nights, ancient ruins.
+Whimsical Candyland Background: Candy trees, gingerbread houses, chocolate rivers, cotton candy clouds, candy cane bridges.
+Spirit Portal Background: Glowing portal, ethereal spirits, ancient stones, energy beams, otherworldly symbols.
+Phoenix Roost Background: Fiery nests, soaring phoenixes, embers floating in the air, scorched earth, ancient runes.
+Dreamweaver's Atelier Background: Enormous looms, threads of dreams, hanging tapestries, dozing cats, dreamcatchers.
+Stormcaller's Observatory Background: Thunderstorm skies, lightning rods, weather maps, swirling clouds, stormy petrels.
+Night Market of Curiosities Background: Mysterious curios, enchanted trinkets, fortune tellers, glowing crystals, veiled figures.
+Crystal Airship Port Background: Crystal airships docked, bustling crew, floating islands in the distance, propellers in motion.
+Forgotten Circus Grounds Background: Abandoned circus tents, overgrown rides, haunting melodies, ghostly performers.
+Frozen Enclave Background: Ice sculptures, frozen waterfalls, arctic animals, frosty breath, shimmering ice crystals.
+Time Traveler's Workshop Background: Time machines, holographic maps, temporal artifacts, swirling time vortex.
+Elemental Nexus Background: Converging elemental forces, swirling mists, ancient obelisks, dancing flames, whistling winds.
+Eldritch Manor Background: Crooked mansion, eerie moonlight, eldritch symbols, unsettling portraits, mysterious figures.
+Dragonfly Aviary Background: Giant dragonfly nests, luminescent eggs, iridescent wings, floating islands, dragonfly riders.
+Celestial Observatory Background: Ethereal music, astral projections, cosmic energy, shimmering portals, constellation charts.
+Ancient Library Background: Towering bookshelves filled with dusty tomes, leather-bound volumes, and aged scrolls.
+Alchemist's Laboratory Background: Shelves lined with vials of colorful liquids, bubbling cauldrons, and arcane symbols.
+Royal Throne Room Background: Ornate throne on a raised platform, grand tapestries adorning the walls, polished marble floors.
+Hidden Treasure Vault Background: Stacks of gold coins, sparkling gems, and precious artifacts protected by reinforced doors.
+Candlelit Crypt Background: Dimly lit crypt with stone sarcophagi, ancient inscriptions, and eerie silence.
+Enchanted Workshop Background: Tables covered in magical components, intricate diagrams, and mystical tools.
+Rustic Kitchen Background: Large fireplace with a cauldron hanging over it, wooden tables, and copper cookware.
+Mystic Seer's Chamber Background: Crystal ball on a velvet cushion, exotic incense filling the air, and occult symbols.
+Herbalist's Apothecary Background: Shelves of dried herbs, rows of neatly labeled jars, and mortar and pestle.
+Grand Banquet Hall Background: Long banquet table adorned with fine china, silverware, and crystal goblets.
+Armory Background: Rows of polished armor, racks of weapons, and banners displaying heraldic crests.
+Royal Bedchamber Background: Lavish four-poster bed, luxurious drapes, and intricately carved furniture.
+Astronomer's Observatory Background: Telescopes pointing to the night sky, celestial charts, and star maps.
+Secret Study Background: Hidden behind a bookshelf, filled with maps, scrolls, and important documents.
+Enchanted Music Chamber Background: Instruments hanging on the walls, musical notes floating in the air.
+Guild Meeting Hall Background: Long table with guild emblems, chairs for members, and plans displayed on a board.
+Ancient Ritual Chamber Background: Mysterious symbols on the floor, altar with candles, and ceremonial artifacts.
+Thieves' Hideout Background: Shadowy room with stolen goods, hidden compartments, and concealed escape routes.
+Dragon's Hoard Background: Piles of gold and treasure, glinting in the dim light of torches.
+Royal Art Gallery Background: Elaborate paintings, sculptures, and art pieces displayed on velvet-covered walls.
+Enchanted Classroom Background: Blackboard with magical equations, floating books, and animated chalk drawings.
+Grand Ballroom Background: Crystal chandeliers, polished marble floors, and mirrored walls reflecting the opulence.
+Ancient Chamber of Secrets Background: Sealed with ancient runes, hidden knowledge, and mystical artifacts.
+Armor Restoration Room Background: Blacksmith tools, metalworking equipment, and suits of armor in various states of repair.
+Gilded Throne Hall Background: Golden decorations, intricate mosaic floors, and high vaulted ceilings.
+Secret Library Passage Background: Bookshelf concealing a hidden passage to another room or secret chamber.
+Mystic Crystal Chamber Background: Large crystals emitting a soft glow, reflecting and refracting light.
+Grand Council Chamber Background: Large table surrounded by high-backed chairs, tapestries depicting historical events.
+Dragonbone Vault Background: Storage of dragon bones, carefully arranged and displayed.
+Magical Mirror Chamber Background: A room filled with ornate mirrors, each showing glimpses of different realms.
