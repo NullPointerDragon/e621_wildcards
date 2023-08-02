@@ -29,6 +29,67 @@ Enchanted Coral Caves Background: Underwater caves filled with bioluminescent co
 Moonlit Silver Forest Background: Silver-leaved trees, moonbeams filtering through the foliage, owls hooting softly.
 Peaceful Lavender Fields Background: Rows of fragrant lavender, buzzing bees collecting nectar, distant farmhouse.
 Ancient Sandstone Canyon Background: Erosion-carved rock formations, hidden cave dwellings, ancient petroglyphs.
+Rolling Farmland Background: Gentle hills, vast fields of crops, scattered farmhouses, grazing livestock.
+Rocky Canyon Background: Narrow gorge, towering cliffs, trickling stream, desert plants.
+Quiet Fishing Lake Background: Serene lake, surrounding trees, small fishing boats.
+Sunlit Meadow Background: Open grassy area, wildflowers, butterflies, chirping birds.
+Misty Marshland Background: Wetlands, tall grasses, shallow waters, croaking frogs.
+Gentle Riverbank Background: Calm river, weeping willows, dragonflies.
+Lush Valley Background: Fertile valley, lush vegetation, small waterfalls, tranquil stream.
+Rocky Coastline Background: Rugged cliffs, crashing waves, seagulls.
+Quiet Forest Glade Background: Peaceful clearing, dappled sunlight.
+Open Grassland Background: Expansive plain, tall grasses, roaming animals, distant hills.
+Tranquil Pond Background: Small pond, lily pads, frogs, dragonflies.
+Ancient Tree Grove Background: Towering ancient trees.
+Desert Oasis Background: Palm trees, water source.
+Rocky Plateau Background: Elevated flat area, scattered boulders, panoramic view.
+Sandy Beach Background: Soft sand, crashing waves, seashells.
+Rolling Hills Background: Gentle slopes, green grass, picturesque views.
+Whistling Wheat Fields Background: Fields of golden wheat, swaying in the breeze.
+Enchanted Glade Background: Magical clearing, glowing mushrooms, fireflies.
+Quiet Brook Background: Babbling brook, rocks, lush vegetation.
+Rocky Foothills Background: Sloping hills, scrubby vegetation.
+Shimmering Salt Flats Background: Expansive flat area, salt deposits, reflective surface.
+Thorny Thicket Background: Dense thorny bushes, shrubs.
+Moonlit Lake Background: Lake shimmering under moonlight, star reflections.
+Ancient Ruins Overgrown with Nature Background: Crumbling structures, vines, foliage.
+Quiet Grotto Background: Hidden sea cave, seashells.
+Pine-covered Mountainside Background: Forest of tall pine trees.
+Crystal Clear Creek Background: Clear water, smooth rocks, babbling sound.
+Hidden Waterfall Background: Secluded waterfall, rocky cliff, lush vegetation.
+Blossoming Cherry Orchard Background: Rows of cherry trees in bloom.
+Tranquil Hillside Lake Background: Small lake, rolling hills, reflecting landscape.
+#roads, streets etc
+Cobbled Street Background: Worn cobblestones, quaint shops, tall buildings.
+Enchanted Forest Trail Background: Ancient forest, dappled sunlight.
+Dusty Desert Road Background: Arid desert, sand dunes.
+Forgotten Ruins Path Background: Overgrown trail, ancient ruins.
+Royal Procession Road Background: Wide road, castle, banners, flags.
+Moonlit Pathway Background: Illuminated by moonlight, tranquil meadow.
+Whispering Woods Trail Background: Dense forest, mysterious whispers.
+Cliffside Road Background: Carved into cliff, breathtaking views.
+Seaside Promenade Background: Coastal path, crashing waves, sea breeze.
+Haunted Alley Background: Dimly lit alley, eerie shadows.
+Mountain Pass Background: Winding road, rugged mountains.
+Mystic Enclave Background: Mysterious road, secluded magical community.
+Wildflower Path Background: Trail through wildflowers, butterflies.
+Goblin Tracks Background: Marked by gnarled trees, goblin signs.
+Crystal Lane Background: Road with luminescent crystals.
+Market Street Background: Bustling street, vendors, shoppers, food aromas.
+Misty Moor Path Background: Trail across misty moor, mysterious silhouettes.
+Caravan Route Background: Road for merchants, resting areas.
+Frozen Tundra Trail Background: Icy path, cold tundra, snow-capped mountains.
+Blossom Avenue Background: Road bordered by cherry blossom trees.
+Volcanic Ash Road Background: Blackened path, volcanic region, steam.
+Silk Road Background: Ancient trade route, merchants, exotic goods.
+Shadowy Passage Background: Dark alleyway, lurking shadows.
+Forest Canopy Walkway Background: Elevated walkway through treetops.
+Astral Highway Background: Magical road, shifting energies.
+Old Bridge Background: Bridge crossing a river, guardian statue.
+Azure Coast Road Background: Coastal road, azure waters, sandy beaches.
+Echoing Caverns Trail Background: Path through echoing caverns, stalactites, stalagmites.
+Golden Terrace Background: Elevated road, golden fields, rolling hills.
+Plague's End Alley Background: Desolate alley, abandoned past.
 #dungeons
 Dark and Damp Dungeon Background: Cold stone walls, flickering torches, water dripping from the ceiling, rusty iron bars.
 Abandoned Catacombs Background: Long corridors lined with ancient tombs, eerie echoes, cobwebs covering the crypts.
@@ -122,7 +183,7 @@ Medieval Crystal Archway Background: Elaborate arch made of enchanted crystals, 
 Medieval Towering Aqueduct Background: Arched stone structures carrying water across the city, providing a sense of grandeur.
 Medieval Starfall Square Background: Square adorned with magical crystals, glowing brightly during the night.
 Medieval Celestial Observatory Background: Tower with telescopes, charts and star maps.
-#random
+#random, high fantasy
 Enchanted Forest Background: Ancient trees, sparkling mushrooms, glowing fireflies, mystical fog, moss-covered rocks, hidden creatures.
 Floating Island Background: Suspended landmasses, waterfalls in the sky, floating flora, magical crystals, airships in the distance.
 Haunted Manor Background: Decaying mansion, overgrown vines, eerie moonlight, broken windows, ghostly figures, crows on the rooftop.

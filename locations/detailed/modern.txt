@@ -1,0 +1,228 @@
+Beachside Cafe Background: wooden tables, beach umbrellas, sand, surfboards background.
+City Park Background: green grass, playground, benches, trees background.
+Cozy Bookstore Background: bookshelves, reading nooks, armchairs, book stacks background.
+Family Kitchen Background: dining table, hanging pots, fridge magnets, recipe board background.
+Neighborhood Pet Park Background: dog playground, water fountain, pet owners' bench, waste station background.
+Quaint Bakeshop Background: display counter, oven, pastries, chalkboard menu background.
+Lakeside Pier Background: fishing rods, boat dock, lighthouse, ducks on water background.
+School Library Background: study desks, book carts, reference section, reading lamps background.
+Farmers' Market Background: stalls with fresh produce, artisan crafts, food trucks, live music background.
+Cozy Fireplace Background: comfy armchairs, crackling fire, bookshelves, warm blankets background.
+Vintage Arcade Background: retro arcade machines, neon lights, pinball machines, prize counter background.
+Busy Street Market Background: colorful stalls, street performers, food vendors, bustling crowd background.
+Riverside Picnic Area Background: picnic tables, BBQ grills, riverbank, canoes background.
+Art Studio Background: easels, paint palettes, art supplies, inspirational artworks background.
+Family Garden Background: vegetable patch, swing set, flowerbeds, birdhouse background.
+Urban Rooftop Background: rooftop garden, city skyline, lounge chairs, rooftop access door background.
+Countryside Train Station Background: platform, ticket booth, vintage clock, waiting benches background.
+Yoga Studio Background: yoga mats, bamboo plants, calming decor, serene atmosphere background.
+Lakeside Campfire Background: logs for seating, marshmallow sticks, starry sky, camping tents background.
+Food Truck Park Background: food trucks, picnic tables, string lights, outdoor games background.
+Vintage Diner Background: bar stools, jukebox, retro booths, checkerboard flooring background.
+Country Inn Lobby Background: fireplace, antique furniture, reception desk, cozy atmosphere background.
+Local Farm Background: barn, scarecrows, haystacks, rows of crops background.
+Neighborhood Playground Background: slides, swings, climbing frames, sandpit background.
+Busy Train Terminal Background: departure boards, waiting area, ticket counters, luggage carts background.
+Quirky Antique Shop Background: vintage knick-knacks, curiosities, old books, dusty shelves background.
+Lakeside Boardwalk Background: wooden planks, souvenir shops, ice cream stand, paddleboats background.
+Peaceful Temple Garden Background: pagoda, koi pond, bonsai trees, stone lanterns background.
+Busy Street Market Background: vendors selling fruits, vegetables, fabrics, and handicrafts background.
+Riverside Bike Path Background: cyclists, joggers, scenic views, benches background.
+Neighborhood Street Background: row of houses, bicycles, mailboxes, streetlights background.
+Artisanal Coffee Shop Background: barista station, hipster decor, coffee roaster, comfy couches background.
+Rustic Cabin Interior Background: log walls, fireplace, antler decor, cozy blankets background.
+Lively Karaoke Bar Background: karaoke stage, disco lights, microphone, cheering crowd background.
+Colorful Amusement Park Background: roller coaster, carousel, cotton candy stand, Ferris wheel background.
+Seaside Fish Market Background: fresh catch on display, fishing boats, seagulls, fishmongers background.
+Suburban Backyard Background: BBQ grill, patio furniture, garden shed, bird feeders background.
+Retro Vinyl Record Store Background: vinyl records, listening booths, vintage posters, record player background.
+City Subway Station Background: subway map, turnstiles, commuters, ticket machines background.
+Mountain Lodge Background: log cabins, snowy peaks, hot tub, wooden benches background.
+Vintage Train Carriage Background: plush seats, luggage racks, old-fashioned windows, overhead compartments background.
+Suburban Playground Background: slides, swings, monkey bars, sandboxes background.
+Cozy Cabin Kitchen Background: wooden cabinets, farmhouse sink, vintage cookware, hanging herbs background.
+Outdoor Art Fair Background: artist booths, sculptures, art demonstrations, art lovers browsing background.
+Mountain Trail Background: hiking path, tall trees, wildflowers, distant mountain views background.
+Urban Graffiti Alley Background: colorful murals, graffiti tags, dumpsters, brick walls background.
+Quaint Village Square Background: fountain, cobblestone pathways, street lamps, bench seating background.
+Family Farmhouse Porch Background: rocking chairs, porch swing, potted plants, countryside views background.
+Trendy Food Hall Background: diverse food vendors, communal tables, modern decor, lively ambiance background.
+Scenic Lakeside Cafe Background: outdoor terrace, lake view, cafe tables, umbrellas background.
+Cozy Bed and Breakfast Background: four-poster beds, vintage wallpapers, tea set, welcome mat background.
+City Bike Lane Background: bike lane markings, bike racks, cyclists, traffic lights background.
+Rustic Vineyard Background: grapevines, wine barrels, outdoor seating, rolling hills background.
+Tropical Rainforest Background: lush greenery, exotic flowers, hanging vines, distant waterfall background.
+Local Community Center Background: meeting rooms, notice boards, activity schedules, community event flyers background.
+Retro Arcade Bar Background: arcade games, neon signs, craft beer taps, nostalgic decor background.
+Lakeside Fishing Dock Background: fishing rods, tackle boxes, fishing boat, calm waters background.
+Outdoor Yoga Retreat Background: yoga mats, meditation cushions, peaceful garden, incense aroma background.
+City Rooftop Garden Background: rooftop plants, solar panels, urban skyline, lounge seating background.
+Charming Street Market Background: canopies, fresh produce, street musicians, vibrant crowd background.
+Desert Oasis Background: palm trees, water well, camels, sand dunes background.
+Botanical Garden Conservatory Background: glass dome, exotic plants, wooden benches, temperature displays background.
+Neighborhood Community Garden Background: raised garden beds, compost bins, scarecrows, gardening tools background.
+Vintage Record Player Setup Background: vinyl records, record player, vintage speakers, music posters background.
+Modern Art Gallery Background: art installations, exhibition rooms, art enthusiasts, information plaques background.
+Quirky Book Cafe Background: bookshelves, mismatched furniture, reading corners, chalkboard menu background.
+Peaceful Lakeside Cabin Background: hammock, campfire ring, canoes, stargazing opportunities background.
+City Rooftop Bar Background: rooftop bar, skyline views, string lights, cocktail menu background.
+Suburban Backyard Party Background: BBQ grill, picnic tables, fairy lights, outdoor games background.
+Busy City Intersection Background: pedestrian crossing, traffic lights, bustling traffic, billboards background.
+Mountain Lodge Fireplace Background: crackling fire, stacked logs, cozy armchairs, warm rugs background.
+Whimsical Ice Cream Parlor Background: ice cream counter, colorful decor, waffle cones, topping station background.
+Vintage Bookstore Background: bookshelves, rolling ladder, old maps, leather armchairs background.
+Scenic Hilltop Overlook Background: rocky terrain, panoramic views, telescopes, nature trails background.
+Cozy Lakeside Cottage Background: flower garden, lakeshore, wooden dock, Adirondack chairs background.
+Urban Bike Share Station Background: bike racks, rental bikes, map kiosk, bike lane sign background.
+Mountain Cabin Porch Background: mountain views, rocking chairs, hanging planters, rustic decor background.
+Quaint Village Inn Background: floral curtains, lace tablecloths, antique chandelier, fireplace background.
+City Skywalk Background: elevated walkway, cityscape views, glass barriers, pedestrian traffic background.
+Zen Meditation Garden Background: sand garden, bamboo fountain, stepping stones, meditation cushions background.
+#professional
+Modern Office Background: cubicles, office desks, computer monitors, filing cabinets background.
+Creative Studio Background: drawing boards, art supplies, inspirational mood boards, design workstations background.
+Industrial Warehouse Background: towering shelves, forklift, stacked boxes, loading dock background.
+Police Station Background: booking area, evidence board, holding cells, detective's desk background.
+Hospital Nurse's Station Background: medical charts, computer terminals, stethoscope, patient call buttons background.
+Tech Startup Office Background: open workspace, bean bag chairs, standing desks, whiteboard walls background.
+Law Firm Office Background: law library, conference table, legal documents, diplomas on the wall background.
+Newsroom Background: news desks, TV monitors, studio lights, newspaper stacks background.
+Research Laboratory Background: lab benches, test tubes, microscope, safety goggles background.
+Fashion Design Atelier Background: sewing machines, mannequins, fabric rolls, cutting tables background.
+Fire Station Background: firetruck, fireman's pole, lockers, alarm system background.
+Architecture Firm Office Background: architectural models, drafting tables, blueprint rolls, construction material samples background.
+Veterinary Clinic Background: examination tables, animal cages, pet toys, X-ray viewer background.
+Advertising Agency Workspace Background: brainstorming boards, mood boards, colorful post-its, presentation screen background.
+Film Studio Backlot Background: soundstage, lighting equipment, green screen, director's chair background.
+Educational Institution Background: blackboards, school desks, globe, educational posters background.
+Bank Branch Background: teller stations, vault door, ATM machines, customer service desks background.
+Coffee Roastery Background: coffee bean sacks, roasting machines, tasting counter, coffee equipment background.
+Real Estate Agency Background: property listings board, floor plans, meeting rooms, property display background.
+Manufacturing Plant Background: assembly line, conveyor belts, industrial machinery, safety signage background.
+Recording Studio Background: soundproofing panels, mixing console, microphones, recording booths background.
+Retail Store Background: product displays, cash registers, clothing racks, sales counter background.
+Construction Site Background: construction vehicles, scaffolding, safety helmets, building materials background.
+Psychology Clinic Background: therapy couch, comfortable chairs, bookshelves, serene artwork background.
+IT Support Center Background: helpdesk workstations, computer troubleshooting tools, server racks, network diagram background.
+Art Restoration Workshop Background: fine art paintings, restoration tools, canvas stretching area, art easels background.
+Gym and Fitness Center Background: exercise equipment, weights, fitness mats, motivational posters background.
+Car Repair Garage Background: car lifts, tool cabinets, mechanic's workstations, oil drums background.
+Event Planning Office Background: event decor samples, event coordination board, party supplies, event calendar background.
+Environmental Conservation Office Background: nature conservation posters, recycling bins, eco-friendly initiatives display, potted plants background.
+#natural
+Serene Forest Clearing Background: tall trees, dappled sunlight, wildflowers, fallen leaves background.
+Tranquil Lakeside Background: calm waters, fishing pier, rowboat, distant mountains background.
+Sandy Beach Background: seashells, beach towels, sun umbrellas, sand dunes background.
+Picturesque Waterfall Background: cascading water, moss-covered rocks, lush vegetation, wooden bridge background.
+Blossoming Cherry Orchard Background: blooming cherry trees, petals on the ground, wooden benches, birdhouses background.
+Rustic Campground Background: campfire ring, tents, camping gear, starry night sky background.
+Enchanting Misty Woods Background: mist-covered trees, hanging vines, mysterious atmosphere, old stone path background.
+Refreshing Mountain Stream Background: flowing water, smooth rocks, stepping stones, overhanging branches background.
+Colorful Wildflower Meadow Background: vibrant wildflowers, bees and butterflies, wooden fence, distant hills background.
+Quiet Marshland Background: tall reeds, still water, birdwatching hide, distant birdcalls background.
+Majestic Snow-Capped Mountain Background: snowy peaks, pine trees, mountain lake, alpine scenery background.
+Pristine Coral Reef Background: colorful corals, tropical fish, crystal-clear waters, snorkeling equipment background.
+Secluded Desert Oasis Background: palm trees, oasis pool, sand dunes, camels resting background.
+Rocky Coastline Background: rugged cliffs, crashing waves, seagulls, tide pools background.
+Ancient Redwood Forest Background: towering redwood trees, fern-covered ground, woodpecker sounds, fallen logs background.
+Rolling Countryside Hills Background: green pastures, grazing sheep, stone walls, wind turbines background.
+Peaceful Bamboo Grove Background: tall bamboo shoots, bamboo leaves rustling, zen garden, meditation stones background.
+Exotic Tropical Jungle Background: dense foliage, exotic animals' calls, hanging vines, ancient ruins background.
+Delightful Sunflower Field Background: blooming sunflowers, buzzing bees, distant farmhouse, blue skies background.
+Secret Cavern Background: stalactites, glowing mushrooms, underground stream, echoes of water droplets background.
+Lush Vineyard Background: rows of grapevines, wooden wine barrels, tasting pavilion, distant rolling hills background.
+Graceful Swan Lake Background: elegant swans, floating water lilies, willow trees, wooden bridge background.
+Rocky Mountain Overlook Background: panoramic mountain views, rocky outcrops, wild goats, clear blue sky background.
+Mystical Glowing Fireflies Background: twinkling fireflies, tall grass, magical ambiance, full moon background.
+Tranquil Koi Pond Background: colorful koi fish, water fountain, lily pads, stepping stones background.
+Secluded Island Beach Background: palm trees, white sand, hidden cove, crystal-clear waters background.
+Charming Country Cottage Garden Background: blooming roses, picket fence, birdhouse, garden bench background.
+Snowy Evergreen Forest Background: snow-covered trees, icicles, winter wonderland, fresh footprints background.
+Graceful Willow Tree by the River Background: weeping willow, riverbank, dragonflies, gentle breeze background.
+Rolling Sand Dunes Background: shifting sand dunes, desert flora, distant oasis, camel caravan background.
+#urban
+Busy Financial District Background: skyscrapers, bustling professionals, taxis, street vendors background.
+Vibrant Night Market Background: colorful stalls, string lights, food aromas, bustling crowd background.
+Underground Subway Station Background: ticket turnstiles, platform signs, train tracks, departure boards background.
+Cozy Cafe in the Alley Background: outdoor seating, hanging plants, chalkboard menu, aroma of coffee background.
+Graffiti-Covered Urban Alley Background: colorful street art, dumpsters, brick walls, dimly lit street lamps background.
+Pedestrian Shopping Street Background: storefronts, cafe terraces, street musicians, shoppers background.
+Rooftop Bar with City View Background: rooftop terrace, city skyline, string lights, rooftop bar counter background.
+Industrial District Background: warehouses, shipping containers, cranes, loading docks background.
+Urban Skate Park Background: ramps, skateboards, graffiti murals, skaters practicing tricks background.
+Neon-Lit Nightclub Background: disco ball, dance floor, DJ booth, neon lights background.
+Bustling City Square Background: central fountain, street performers, outdoor seating, pigeons background.
+Urban Park Playground Background: play structures, swings, sandbox, picnic tables background.
+Vibrant Street Art District Background: murals, art galleries, art supply shops, art enthusiasts background.
+Multi-Ethnic Street Food Market Background: food trucks, international cuisines, colorful tents, diverse crowd background.
+High-Tech Business Incubator Background: modern office space, whiteboard walls, startup team collaboration, tech gadgets background.
+Iconic City Landmark Background: famous monument, tourists with cameras, souvenir vendors, street performers background.
+Business High-Rise Lobby Background: marble flooring, reception desk, elevators, contemporary art display background.
+Urban Community Garden Background: raised garden beds, compost bins, gardening tools, community notice board background.
+City Riverfront Promenade Background: riverside cafes, scenic views, walking path, passing boats background.
+Thriving Artistic District Background: art studios, art supply stores, creative workshops, art installations background.
+Public Library Reading Area Background: bookshelves, reading nooks, study tables, reading lamps background.
+Historic Urban Square Background: cobblestone paths, historical buildings, statue, outdoor market stalls background.
+Trendy Fashion District Background: designer boutiques, fashion runways, window displays, stylish crowd background.
+Urban Music Venue Background: stage with instruments, concert lights, sound mixing booth, music enthusiasts background.
+Modern Skyscraper Atrium Background: glass ceiling, indoor plants, escalators, contemporary art installations background.
+City Pedestrian Bridge Background: bridge railing, city views, bicycles passing by, people jogging background.
+Urban Artisan Market Background: artisanal crafts, handmade products, street performers, craft demonstrations background.
+Vibrant Arcade District Background: retro arcades, neon lights, gaming tournaments, arcade enthusiasts background.
+City Public Plaza Background: open space, benches, sculptures, outdoor events background.
+Urban Rooftop Garden Background: rooftop greenery, urban farming plots, solar panels, rooftop access door background.
+#home
+Cozy Bedroom Background: plush bed, fluffy pillows, bedside table, soft lighting background.
+Rustic Farmhouse Kitchen Background: farmhouse sink, wooden cabinets, hanging pots, vintage stove background.
+Modern Bathroom Background: sleek bathtub, glass shower, fluffy towels, modern vanity background.
+Welcoming Living Room Background: comfortable sofa, coffee table, bookshelves, warm fireplace background.
+Quaint Cottage Garden Background: blooming flowers, picket fence, garden bench, stone pathway background.
+Family Dining Room Background: dining table, family photos on the wall, china cabinet, pendant lighting background.
+Playful Kids' Bedroom Background: bunk beds, toy chests, colorful rugs, wall stickers background.
+Bright and Airy Sunroom Background: wicker furniture, potted plants, sunlit windows, hanging ferns background.
+Homely Reading Nook Background: cozy armchair, bookshelves, reading lamp, soft throw blanket background.
+Vintage Bathroom Background: clawfoot bathtub, antique mirror, patterned tiles, old-fashioned fixtures background.
+Country-style Kitchen Background: farmhouse table, checkered curtains, hanging pans, kitchen island background.
+Eclectic Living Room Background: mismatched furniture, wall art, patterned rugs, unique decor pieces background.
+Peaceful Garden Patio Background: patio furniture, blooming plants, bird feeder, gentle breeze background.
+Serene Master Bedroom Background: king-size bed, large windows with curtains, walk-in closet, dresser background.
+Home Office Nook Background: compact desk, computer setup, motivational wall art, productive ambiance background.
+Cozy Cabin Bathroom Background: wooden walls, clawfoot bathtub, vintage fixtures, cabin-inspired decor background.
+Welcoming Entryway Background: hallway bench, coat rack, family photos on the wall, shoe storage background.
+Bohemian Bedroom Background: canopy bed, dreamcatchers, hanging plants, fairy lights background.
+Vintage Country Kitchen Background: old-fashioned stove, enamelware, mason jars, vintage kitchen utensils background.
+Chic Bathroom Background: modern vanity, marble countertops, elegant fixtures, luxury toiletries background.
+Family Game Room Background: board games, gaming console, bean bag chairs, family photos on the wall background.
+Peaceful Home Library Background: floor-to-ceiling bookshelves, leather armchairs, reading lamps, rolling ladder background.
+Welcoming Front Porch Background: porch swing, potted plants, rocking chairs, hanging wind chimes background.
+Artist's Studio Background: easels, paintbrushes, art supplies, creative artworks on display background.
+Relaxed Sunlit Kitchen Background: breakfast bar, sunlit windows, hanging herbs, farmhouse sink background.
+Cozy Cabin Living Room Background: log walls, stone fireplace, bearskin rug, cozy blankets background.
+Vintage Study Room Background: leather armchairs, antique writing desk, book-filled shelves, old maps background.
+Peaceful Backyard Oasis Background: garden swing, swimming pool, lush greenery, outdoor dining area background.
+Family Playroom Background: toy storage, play mats, children's artwork on the walls, stuffed animals background.
+Modern Loft Apartment Background: open layout, industrial decor, city views, exposed brick walls background.
+Cottage-style Bathroom Background: floral wallpaper, clawfoot bathtub, vintage accessories, scented candles background.
+Warm and Inviting Kitchen Background: farmhouse sink, wooden countertops, hanging copper pans, inviting aroma background.
+Tranquil Zen Garden Background: bamboo fence, sand garden, stone pathway, meditation bench background.
+Stylish Dressing Room Background: walk-in closet, vanity mirror, shoe racks, designer clothing display background.
+Colorful Kids' Play Area Background: play tent, educational toys, toy organizer, vibrant wall decals background.
+Relaxing Hammock on Porch Background: hammock swing, hanging plants, gentle breeze, chirping birds background.
+Nostalgic Family Room Background: vintage furniture, family photo wall, retro decor, board games background.
+Contemporary Home Office Background: sleek desk, ergonomic chair, modern tech gadgets, large window background.
+Whimsical Fairy Garden Background: miniature houses, fairy figurines, fairy lights, colorful flowers background.
+Farmhouse Breakfast Nook Background: farmhouse table, bench seating, mason jar centerpieces, rustic charm background.
+Cozy Attic Bedroom Background: slanted ceilings, attic window, vintage trunks, fairy lights background.
+Cottagecore Kitchen Background: floral patterns, vintage crockery, pastel colors, lace curtains background.
+Nature-inspired Reading Corner Background: tree branch bookshelf, leafy cushions, earthy decor, natural light background.
+Greenhouse Garden Background: rows of plants, gardening tools, potting bench, fresh earthy scent background.
+Family Movie Night Setup Background: big screen TV, popcorn machine, cozy blankets, home theater system background.
+Country-style Dining Room Background: farmhouse dining table, Windsor chairs, pendant lights, fruit basket background.
+Pet Paradise Background: pet beds, scratching posts, toys, pet portraits on the wall background.
+Boho Chic Living Room Background: macrame decor, floor cushions, hanging plants, eclectic furniture background.
+Enchanting Fairy Tale Bedroom Background: canopy bed, fairy tale illustrations, whimsical decor, twinkling lights background.
+Inviting Fireplace Lounge Background: plush sofas, coffee table, fireplace, warm and inviting ambiance background.
+Rustic Cabin Kitchen Background: log cabin walls, copper cookware, wooden beams, wildlife-themed decor background.
+Modern Nursery Room Background: baby crib, changing table, baby mobile, nursery decor background.
+Artistic Pottery Studio Background: potter's wheel, clay sculptures, drying racks, artistic mess background.
+Tranquil Bedroom with Sea View Background: ocean view, beach-themed decor, coastal colors, sea breeze background.

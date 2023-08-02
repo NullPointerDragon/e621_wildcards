@@ -1,0 +1,64 @@
+Belle Époque Ball Gown: Ball gown, bustle, tiara, dancing shoes
+Bustle Riding Habit: Riding habit, bustle, top hat, riding boots
+Dandy Fashion: Tailored frock coat, cravat, top hat, dress shoes
+Edwardian Attire: S-curve corset, Gibson girl blouse, wide-brimmed hat, pumps
+Edwardian Day Dress: Tailored day dress, small hat, pumps
+Edwardian Dinner Dress: Formal dinner gown, luxurious fabrics, elaborate hairpiece, heels
+Edwardian Garden Party Attire: Light garden party dress, floral accents, wide-brimmed hat, pumps
+Edwardian Garden Party Dress: Light summer dress, wide-brimmed hat, delicate gloves, ballet flats
+Edwardian Gibson Girl Cycling Outfit: Cycling outfit, bloomers, cycling cap, lace-up boots
+Edwardian Gibson Girl: S-curve corset, high-necked blouse, long skirt, wide-brimmed hat, boots
+Edwardian Golf Outfit: Golfing attire, skirt, trousers, golf cap, golf shoes
+Edwardian Lace Tea Dress: Lace dress, wide-brimmed hat, heeled shoes
+Edwardian Picnic Outfit: Picnic dress, wide-brimmed hat, lace-up boots
+Edwardian Riding Outfit: Riding habit, bowler hat, knee-high riding boots
+Edwardian Seaside Outfit: Seaside dress, wide-brimmed hat, espadrilles
+Edwardian Suffragette Evening Gown: Elegant evening gown, suffragette sash, heels
+Edwardian Suffragette Marching Outfit: Practical, comfortable outfit, suffragette sash, walking boots
+Edwardian Suffragette Outfit: White dress, Practical tailored outfit, suffragette sash, brogues, brimmed hat, low-heel shoes
+Edwardian Summer Lawn Dress: Light summer lawn dress, wide-brimmed hat, pumps
+Edwardian Tea Dress: Light tea dress, lace, wide-brimmed hat, pumps, boots
+Edwardian Tennis Outfit: Tennis attire, pleated skirt, shorts, tennis cap, tennis shoes
+Edwardian Titanic Era Dress: Evening gown, embellishments, tiara, heeled shoes
+Edwardian Walking Suit: Tailored walking suit, skirt, jacket, wide-brimmed hat, boots, heels
+Gatsby Flapper Dress: Flapper dress, cloche hat, T-strap shoes
+Georgian Court Dress: Court gown, ornate trim, powdered wig, heeled shoes
+Georgian Macaroni Outfit: Flamboyant, extravagant outfit, powdered wig, heeled shoes
+Georgian Masquerade Dress: Elaborate masquerade gown, ornate mask, powdered wig, heeled shoes
+Georgian Robe à la Française: Formal gown, pleated back, wide-brimmed hat, heeled shoes
+Gibson Girl Bicycling Outfit: Bicycling suit, wide-brimmed hat, lace-up boots
+Gibson Girl Fashion: Shirtwaist blouse, long pleated skirt, wide-brimmed hat, lace-up boots
+Gibson Girl Swimwear: Bloomers, sailor-style blouse, bathing cap, beach shoes
+Prairie Dress: High-necked dress, bonnet, lace-up boots
+Regency Ball Gown: Empire waist ball gown, Elegant ball gown, tiara, empire waist, delicate gloves, dance slippers, dancing shoes
+Regency Bathing Costume: Bathing dress, straw bonnet, beach shoes
+Regency Dress: Empire waist gown, spencer jacket, bonnet, flat shoes
+Regency Era Outfit: Empire waist gown, spencer jacket, bonnet, ballet flats
+Regency Evening Gown: Empire waist evening gown, delicate gloves, dance slippers
+Roaring Twenties Outfit: Drop-waist flapper dress, cloche hat, T-strap shoes
+Rococo Court Dress: Court gown, intricate embroidery, powdered wig, heeled shoes
+Rococo Dandy Riding Outfit: Elaborate riding coat, waistcoat, frilled shirt, tricorn hat, heeled shoes
+Rococo Dress: Elaborate silk gown, panniers, hoop skirts, powdered wig, heeled shoes
+Rococo Fashion: Hoop skirt, panier, powdered wig, embellished shoes
+Rococo Masquerade Costume: Masquerade gown, mask, powdered wig, heeled shoes
+Titanic Era Evening Gown: Elegant evening gown, low neckline, long gloves, tiara, satin shoes
+Victorian Bathing Costume: Bathing dress, sailor collar, straw boater hat, bathing cap, beach shoes
+Victorian Bicycling Costume: Bicycling outfit, bloomers, cycling cap, lace-up boots
+Victorian Bustle Dress: Bustle gown, corset, bonnet, heeled boots
+Victorian Day Dress: Day dress, moderate fullness, straw bonnet, flat shoes
+Victorian Era Dress: Corset, bustle dress, bonnet, high-button boots
+Victorian Formal Ball Gown: Lavish ball gown, elaborate embellishments, tiara, satin shoes
+Victorian Garden Party Attire: Garden party dress, floral prints, wide-brimmed hat, heeled shoes
+Victorian Maid Uniform: Maid's cap, ruffled pinafore, plain dress, Mary Jane shoes
+Victorian Morning Dress: Morning dress, jacket, skirt, bonnet, heeled boots
+Victorian Mourning Attire: Black mourning dress, veiled bonnet,  veil, gloves, black boots
+Victorian Nightgown: Long nightgown, nightcap, slippers
+Victorian Opera Gown: Opulent ball gown, gloves, tiara, satin shoes
+Victorian Schoolgirl Uniform: Pinafore dress, white blouse, Mary Jane shoes
+Victorian Steampunk Outfit: Steampunk corset, layered skirts, aviator cap, lace-up boots
+Victorian Tailcoat: Tailcoat, waistcoat, dress pants, top hat, leather dress shoes
+Victorian Tea Dress: Tea dress, lace, ribbon accents, straw hat, flat shoes
+Victorian Tea Gown: Loose-fitting tea gown, decorative sash, bonnet, delicate slippers
+Victorian Walking Dress: Day dress, moderate bustle, straw bonnet, walking boots, shoes
+Victorian Winter Ensemble: Winter coat, fur trim, muff, bonnet, warm boots
+Victorian Workwear: Practical work attire, apron, bonnet, sensible boots

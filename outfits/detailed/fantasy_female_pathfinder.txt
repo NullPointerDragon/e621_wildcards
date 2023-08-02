@@ -1,0 +1,1198 @@
+Heavy Blade Fighter Outfit: Ornate breastplate with detailed embossing, reinforced chainmail skirt, half-plate pauldrons, vambraces, heavy broadsword.
+Light Blade Fighter Outfit: Fitted leather bodice with engraved accents, agile pants with knee-high boots, hooded cloak, wrist bracers, elegant rapier.
+Bow Fighter Outfit: Fitted tunic with leaf patterns, flexible leggings with knee-high boots, fingerless gloves, quiver with arrows, longbow.
+Close Weapons Fighter Outfit: Protective leather armor with engraved accents, durable pants with knee-high boots, fingerless gauntlets, combat knife, pair of metal knuckles.
+Crossbow Fighter Outfit: Studded leather bodice with engraved accents, fitted pants with calf-high boots, wrist bracers, crossbow.
+Double Weapon Fighter Outfit: Sturdy bodice with engraved accents, agile pants with knee-high boots, fingerless gloves, pair of matching short swords.
+Firearm Fighter Outfit: Fitted coat with engraved accents, utility belt with holsters, durable pants with calf-high boots, fingerless gloves, flintlock pistol.
+Flail Fighter Outfit: Sturdy bodice with engraved accents, durable pants with knee-high boots, gauntlets, spiked flail.
+Hammer Fighter Outfit: Reinforced chainmail tunic with engraved accents, knee-high boots, metal bracers, war hammer.
+Monk Fighter Outfit: Flowing kimono-style robe with embroidered accents, martial arts pants with wrap sandals, prayer beads, forearm guards.
+Natural Weapon Fighter Outfit: Fitted tribal bodice with animal hide accents, durable pants with calf-high boots, bone necklace, clawed gloves.
+Polearm Fighter Outfit: Reinforced chainmail tunic with engraved accents, knee-high boots, gauntlets, long polearm.
+Siege Engine Fighter Outfit: Sturdy leather corset with siege weapon motifs, durable pants with knee-high boots, leather gloves, portable ram.
+Spear Fighter Outfit: Fitted tribal bodice with feathered accents, durable pants with calf-high boots, feathered headdress, decorated spear.
+Thrown Weapon Fighter Outfit: Fitted tunic with leaf patterns, flexible leggings with knee-high boots, fingerless gloves, throwing knives.
+Tribal Fighter Outfit: Fitted tribal bodice with animal hide accents, durable pants with calf-high boots, bone necklace, tribal weapon, spear, club.
+Assaulter Outfit: Reinforced leather armor with aggressive motifs, twin handaxes, fierce helmet, spiked gauntlets, sturdy boots.
+Ambusher Outfit: Shadowy cloak with concealed pockets, silent leather armor, hidden daggers, veiled visage, agile boots.
+Defender Outfit: Reinforced leather armor with protective engravings, tower shield with family emblem, longsword, helm with faceguard, sturdy boots.
+Aquanaut Outfit: Aquatic gown with sea-inspired motifs, coral tiara, pearl necklace, water-resistant boots.
+Archer Outfit: Archer's dress with intricate patterns, recurve bow with adorned grip, fingerless gloves, archer's cap, agile boots.
+Armiger Outfit: Noble gown with family insignias, ceremonial dagger, elegant tiara, embroidered cape, graceful shoes.
+Armor Master Outfit: Mastercrafted leather armor with elegant motifs, emblem of the order, elegant tiara, polished boots, regal cape.
+Brawler Outfit: Sleeveless top, flexible leggings, hand wraps, fighting sandals.
+Cad Outfit: Sophisticated gown, flirtatious charm, gemstone-adorned jewelry, elegant heels, feathered hat.
+Whip Hunter Outfit: Adventurer's attire with whip holsters, enchanted whip, wide-brimmed hat, sturdy boots.
+Cavern Sniper Outfit: Hooded cloak with hidden pockets, crossbow with scope, rugged pants, silent boots, concealed dagger.
+Corsair Outfit: Pirate captain's gown, tricorn hat with feather, buccaneer's coat, cutlass at the hip, sturdy boots.
+Crossbowman Outfit: Bolts and crossbow quiver, reinforced leather armor with intricate patterns, crossbow with ornate engravings, fingerless gloves, sturdy boots.
+Dirty Fighter Outfit: Tattered dress with hidden pockets, concealed daggers, bandana mask, worn boots.
+Dragonheir Scion Outfit: Dragon-themed gown with embroidered scales, gemstone-adorned dragon tiara, flowing cloak, elegant shoes.
+Dragoon Outfit: Dragoon dress with dragon-themed motifs, dragon-hilted polearm, flowing cloak, graceful shoes.
+Drill Sergeant Outfit: Officer's uniform with distinguished medals, commander's hat, officer's sword, polished boots.
+Blackjacket Outfit: Shadowy leather armor with hidden pockets, concealed daggers, black hood, agile boots.
+Eldritch Guardian Outfit: Enchanted gown with celestial motifs, crystal-tipped wand, gem-adorned headband, flowing cloak.
+Foehammer Outfit: Warhammer with intricate engravings, reinforced leather armor, warrior's helm, polished boots, fur-lined cloak.
+Free Hand Fighter Outfit: Agile tunic with flexible fabric, wrist wraps, foot wraps, tactical belt.
+Gladiator Outfit: Arena gown with fierce patterns, gladiator helmet with fierce visor, spiked gauntlets, sandals.
+Gloomblade Outfit: Cloak with concealed pockets, enchanted gloomblade sword, veiled visage, silent boots, black gloves.
+High Guardian Outfit: Noble gown with guardian motifs, gemstone-adorned tiara, ceremonial sword, embroidered cape, graceful shoes.
+Lore Warden Outfit: Elaborate gown with arcane motifs, crystal-tipped wand, scholar's spectacles, gem-adorned headband, flowing cloak.
+Martial Master Outfit: Martial master's dress with intricate patterns, dual-wielded katana, flowing cloak, master's headband, elegant shoes.
+Mobile Fighter Outfit: Agile tunic with flexible fabric, concealed daggers, tactical belt, quick boots.
+Mutation Warrior Outfit: Mutation-inspired dress with wild patterns, mutated weapon, veiled visage, clawed gauntlets, sturdy boots.
+Opportunist Outfit: Adventurer's attire with concealed pockets, hidden daggers, agile boots, hooded cloak, tactical belt.
+Pack Mule Outfit: Sturdy backpack with provisions, belt with pouches, rugged boots, strong hands.
+Phalanx Soldier Outfit: Gown with Greek motifs, large shield with phalanx emblem, spears at the side, greaves, Spartan helm.
+Polearm Master Outfit: Gown with polearm-themed patterns, halberd with gemstone-adorned pike, polearm holstered on the back, flowing cloak, graceful shoes.
+Dervish Dancer Outfit: Dervish dancer's gown with swirling patterns, ornate scimitar, beaded headdress, embroidered veil, Arabian-style shoes.
+Relic Master Outfit: Elaborate gown with arcane symbols, staff with a relic gem, gem-adorned headband, flowing cloak, spellbook with relics.
+Roughrider Outfit: Riding jacket with practical pockets, riding boots, horsewhip, bandana, fingerless gloves.
+Savage Warrior Outfit: Tribal dress with wild patterns, bone-adorned armor, fierce helmet with tribal motifs, fur-lined boots, tribal necklace.
+Scrapper Outfit: Adventurer's attire with concealed pockets, hidden daggers, bandana mask, silent boots.
+Seasoned Commander Outfit: Officer's uniform with distinguished medals, commander's hat, officer's sword, polished boots.
+Sensate Outfit: Sensate gown with intricate motifs, crystal-tipped wand, gem-adorned headband, flowing cloak, beaded anklet.
+Shielded Fighter Outfit: Reinforced leather armor with protective engravings, tower shield with family emblem, longsword, helm with faceguard, sturdy boots.
+Siegebreaker Outfit: Reinforced leather armor with reinforced engravings, warhammer with intricate patterns, fierce helmet, spiked gauntlets, sturdy boots.
+Skirmisher Outfit: Agile tunic with flexible fabric, concealed daggers, tactical belt, quick boots.
+Spear Fighter Outfit: Tribal gown with wild patterns, tribal spear with gemstone-adorned pike, spear holstered on the back, fur-lined boots, tribal necklace.
+Steelbound Fighter Outfit: Bound with steel chains, armored gloves with spikes, rugged boots, metal helm with rivets, chain-wrapped sword.
+Swarm Fighter Outfit: Dress with insect-inspired patterns, swarm scimitar, bug-eyed helm, silent boots, insect-carapace gloves.
+Tactician Outfit: Officer's uniform with strategist's insignias, tactical belt with scrolls, polished boots, tactical cloak.
+Thunderstriker Outfit: Gown with thunder patterns, thunder hammer with gemstone-adorned spikes, electrified gauntlets, fur-lined cloak, storm helm.
+Titan Fighter Outfit: Greatsword with ornate engravings, reinforced leather armor, imposing helmet, fur-lined cape, polished boots.
+Tower Shield Specialist Outfit: Tower shield with gemstone-adorned emblem, reinforced leather armor, longsword with elegant hilt, graceful shoes.
+Trench Fighter Outfit: Adventurer's attire with concealed pockets, hidden daggers, brimmed hat, rugged boots, utility belt.
+Tribal Fighter Outfit: Tribal dress with wild patterns, bone-adorned armor, tribal necklace, fur-lined boots.
+Two-Handed Fighter Outfit: Greatsword with intricate engravings, reinforced leather armor, imposing helmet, fur-lined cape, polished boots.
+Two-Weapon Warrior Outfit: Dual-wielded weapons, agile tunic with flexible fabric, fingerless gloves, tactical belt, agile boots.
+Unarmed Fighter Outfit: Flowing monk's gown, wrapped hand wraps, simple belt, meditation beads, barefoot.
+Unbreakable Outfit: Reinforced leather armor with unyielding engravings, unbreakable shield, imposing helmet, fur-lined cape, polished boots.
+Duelist Outfit: Graceful duelist gown with intricate patterns, bejeweled rapier, duelist's hat, embroidered gloves, elegant shoes.
+Free-Style Fighter Outfit: Agile tunic with flexible fabric, wrist wraps, tactical belt, quick boots, agile cloak.
+Venomblade Outfit: Dress with snake-inspired patterns, venomous daggers, snake-adorned helmet, silent boots, vial of poison.
+Viking Outfit: Viking dress with Nordic motifs, viking helm with fur accents, battle axe, fur-lined cloak, rugged boots.
+Warlord Outfit: Warlord's gown with aggressive patterns, warlord's helm with feathers, mighty war mace, fur-lined cape, tribal necklace.
+Weapon Bearer Squire Outfit: Squire's dress with noble motifs, sword with polished hilt, utility belt, elegant shoes.
+Weapon Master Outfit: Elaborate gown with arcane symbols, master's sword, gem-adorned headband, flowing cloak, master's amulet.
+Aerial Assaulter Fighter Outfit: Airy gown with wing motifs, winged boots, aerial goggles, and a flight emblem headband.
+Airborne Ambusher Fighter Outfit: Nightshade gown, ambush cloak, assassin's gauntlets, and a secretive headband.
+Aldori Defender Fighter Outfit: Elegant gown with duelist motifs, duelist's rapier, Aldori dueling cloak, and a duelist's headband.
+Aquanaut Fighter Outfit: Oceanic gown, diving apparatus, underwater gauntlets, and a seaweed headband.
+Archer Fighter Outfit: Archery gown, quiver, arrow bracer, and an archer's headband.
+Armiger Fighter Outfit: Noble gown with armiger motifs, heraldic symbols, armiger's cloak, and a noble headband.
+Armor Master Fighter Outfit: Forge-inspired gown, armorer's tools, forging gauntlets, and a smith's headband.
+Brawler Fighter Outfit: Brawler's gown, brass knuckles, brawler's cloak, and a determined expression.
+Cad Fighter Outfit: Elegant gown with dueling motifs, dueling rapier, cad's cape, and a flirtatious headband.
+Calistrian Hunter Fighter Outfit: Alluring gown with Calistria motifs, scorpion whip, seductive cloak, and a seductive headband.
+Cavern Sniper Fighter Outfit: Camouflaged gown, long-range crossbow, cavern sniper's cloak, and a tactical headband.
+Child of Acavna and Amaznen Fighter Outfit: Nature-inspired gown, primal symbols, tribal cloak, and a wild headband.
+Corsair Fighter Outfit: Swashbuckling gown, cutlass, pirate's hat, and a pirate emblem headband.
+Crossbowman Fighter Outfit: Crossbow gown, crossbowman's cloak, crossbow gauntlets, and a crossbow headband.
+Cyber-Soldier Fighter Outfit: Cyberpunk gown, cybernetic implants, technological gauntlets, and a tech-savvy headband.
+Dirty Fighter Outfit: Tattered gown with stealth motifs, concealed weapons, stealth cloak, and a mysterious headband.
+Dragonheir Scion Fighter Outfit: Dragon-gowned attire, dragon scale cloak, draconic gauntlets, and a dragon emblem headband.
+Dragoon Fighter Outfit: Equestrian gown, lance, dragoon's cloak, and a horse emblem headband.
+Drill Sergeant Fighter Outfit: Military gown, drill sergeant's hat, commanding gauntlets, and a sergeant's emblem headband.
+Druman Blackjacket Fighter Outfit: Rebel gown, blackjacket cloak, revolutionary symbols, and a revolutionary headband.
+Eldritch Guardian Fighter Outfit: Enchanted gown with eldritch motifs, eldritch trinkets, arcane gauntlets, and an enigmatic headband.
+Foehammer Fighter Outfit: War-torn gown, warhammer, foehammer cloak, and a determined expression.
+Free Hand Fighter Outfit: Unbound gown, master of unarmed combat, free hand cloak, and a fierce expression.
+Gladiator Fighter Outfit: Arena gown, gladiator's trident, gladiator's cloak, and a determined expression.
+Gloomblade Fighter Outfit: Nightfall gown, dark blade, gloomblade cloak, and an enigmatic expression.
+High Guardian Fighter Outfit: Regal gown with guardian motifs, high guardian's cloak, guardian's gauntlets, and a crown-like headband.
+Lore Warden Fighter Outfit: Bookish gown, lore warden's cloak, knowledge symbols, and a learned headband.
+Martial Master Fighter Outfit: Mastery gown, martial master's cloak, martial symbols, and a focused headband.
+Mobile Fighter Outfit: Swift gown, swift fighter's cloak, mobile gauntlets, and a dynamic expression.
+Molthuni Defender Fighter Outfit: Militaristic gown, molthuni defender's cloak, military gauntlets, and a strong expression.
+Mutation Warrior Fighter Outfit: Mutative gown, mutated gauntlets, warrior's cloak, and a determined expression.
+Opportunist Fighter Outfit: Crafty gown, cunning gauntlets, cloak of opportunity, and a sly expression.
+Pack Mule Fighter Outfit: Laden gown, mule cloak, carrying gauntlets, and a steadfast expression.
+Phalanx Soldier Fighter Outfit: Phalanx gown, shielded gauntlets, phalanx cloak, and a determined expression.
+Polearm Master Fighter Outfit: Polearm gown, masterful polearm, polearm cloak, and a determined expression.
+Qadira Outfit: Dawnflower Dervish Fighter Outfit: Sandstorm gown, dervish scimitar, desert cloak, and a fiery expression.
+Relic Master Fighter Outfit: Antiquarian gown, ancient gauntlets, cloak of relics, and a respectful expression.
+Roughrider Fighter Outfit: Equestrian gown, mounted gauntlets, roughrider's cloak, and a determined expression.
+Savage Warrior Fighter Outfit: Barbarian gown, savage gauntlets, tribal cloak, and a wild expression.
+Scrapper Fighter Outfit: Streetwise gown, street fighter's gauntlets, scrapper's cloak, and a determined expression.
+Seasoned Commander Fighter Outfit: Strategist gown, seasoned commander's cloak, military gauntlets, and a tactical expression.
+Sensate Fighter Outfit: Mindful gown, sensitive gauntlets, cloak of sensations, and an insightful expression.
+Shielded Fighter Outfit: Shield maiden gown, shielded gauntlets, cloak of defense, and a determined expression.
+Siegebreaker Fighter Outfit: War-torn gown, siegebreaker's gauntlets, war cloak, and a determined expression.
+Skirmisher Fighter Outfit: Tactical gown, skirmisher's cloak, tactical gauntlets, and an agile expression.
+Spear Fighter Outfit: Spearwoman gown, expert spear, spearwoman's cloak, and a determined expression.
+Steelbound Fighter Outfit: Steeled gown, steel gauntlets, stalwart cloak, and a steadfast expression.
+Swarm Fighter Outfit: Hive gown, swarm cloak, insectoid gauntlets, and a swarm emblem headband.
+Tactician Fighter Outfit: Strategist gown, tactical gauntlets, cloak of tactics, and an insightful expression.
+Rondelero Duelist Fighter Outfit: Rondelero gown, rondelero's cloak, duel rapier, and a determined expression.
+Thunderstriker Fighter Outfit: Stormy gown, thunderstriker's gauntlets, storm cloak, and a fierce expression.
+Titan Fighter Outfit: Colossal gown, titan gauntlets, giant cloak, and a determined expression.
+Tower Shield Specialist Fighter Outfit: Tower shield gown, tower shield gauntlets, shield specialist's cloak, and a stalwart expression.
+Trench Fighter Outfit: Trench gown, trench gauntlets, trench cloak, and a resolute expression.
+Tribal Fighter Outfit: Savage gown, tribal gauntlets, tribal cloak, and a fierce expression.
+Two-Handed Fighter Outfit: Two-handed gown, two-handed gauntlets, two-handed fighter's cloak, and a fierce expression.
+Two-Weapon Warrior Fighter Outfit: Dual-wielding gown, dual-wield gauntlets, dual fighter's cloak, and a fierce expression.
+Unarmed Fighter Outfit: Monk-like gown, master of unarmed combat, unarmed gauntlets, and a serene expression.
+Unbreakable Fighter Outfit: Indomitable gown, unbreakable gauntlets, steadfast cloak, and a determined expression.
+Ustalavic Duelist Fighter Outfit: Ustalavic gown, duelist's rapier, Ustalavic cloak, and an enigmatic expression.
+Varisian Free-Style Fighter Outfit: Varisian gown, free-style gauntlets, Varisian cloak, and a lively expression.
+Venomblade Fighter Outfit: Poisonous gown, venomous gauntlets, cloak of toxins, and a seductive expression.
+Viking Fighter Outfit: Viking gown, viking gauntlets, Viking cloak, and a determined expression.
+Warlord Fighter Outfit: Commanding gown, warlord's gauntlets, warlord's cloak, and an authoritative expression.
+Weapon Bearer Squire Fighter Outfit: Squire gown, weapon bearer's cloak, weapon squire's gauntlets, and a determined expression.
+Weapon Master Fighter Outfit: Mastery gown, masterful weapon, weapon master's cloak, and a determined expression.
+Abjuration Wizard Outfit: Enchanted gown with defensive patterns, Abjurer's staff, amulet of wards, arcane satchel, rune-inscribed bracers.
+Conjuration Wizard Outfit: Enchanted gown with ethereal patterns, Conjurer's staff, conjurer's hat, mystic pouch, summoning bracelets.
+Divination Wizard Outfit: Enchanted gown with foresight motifs, Diviner's staff, seer's headband, crystal ball, rune-inscribed bracers.
+Enchantment Wizard Outfit: Enchanted gown with bewitching motifs, Enchanter's staff, mesmerizing amulet, hypnotic gloves, charm bracelet.
+Evocation Wizard Outfit: Enchanted gown with fiery patterns, Evoker's staff, evoker's hat, arcane satchel, rune-inscribed bracers.
+Illusion Wizard Outfit: Enchanted gown with captivating motifs, Illusionist's staff, illusionist's hat, mysterious cloak, deception amulet.
+Necromancy Wizard Outfit: Cursed gown with deathly motifs, Necromancer's staff, necromancer's hood, grim amulet, bone bracelet.
+Transmutation Wizard Outfit: Enchanted gown with ever-changing patterns, Transmuter's staff, alchemist's gloves, enchanted belt, runic boots.
+Universalist Wizard Outfit: Celestial gown with universal motifs, Universalist's staff, cosmic tiara, enchanted belt, amulet of versatility.
+Aether Wizard Outfit: Enchanted gown with otherworldly motifs, Aether staff, aetherial headdress, astral cloak, celestial amulet.
+Air Wizard Outfit: Enchanted gown with gusty motifs, Air staff, airy headband, levitation boots, cloud amulet.
+Ice Wizard Outfit: Enchanted gown with icy motifs, Ice staff, ice crown, enchanted gloves, snowflake amulet.
+Smoke Wizard Outfit: Enchanted gown with misty motifs, Smoke staff, smoky hood, mystical cloak, swirling amulet.
+Earth Wizard Outfit: Enchanted gown with earthen motifs, Earth staff, earthy headpiece, enchanted belt, gemstone amulet.
+Magma Wizard Outfit: Enchanted gown with volcanic motifs, Magma staff, fiery crown, heat-resistant boots, lava amulet.
+Mud Wizard Outfit: Enchanted gown with muddy motifs, Mud staff, earthy headpiece, enchanted belt, mud charm bracelet.
+Fire Wizard Outfit: Enchanted gown with blazing motifs, Fire staff, flaming crown, heat-resistant boots, flame amulet.
+Metal Wizard Outfit: Enchanted gown with metallic motifs, Metal staff, metal headpiece, enchanted belt, metallic amulet.
+Void Wizard Outfit: Enchanted gown with cosmic motifs, Void staff, voided hood, arcane satchel, void amulet.
+Water Wizard Outfit: Enchanted gown with aquatic motifs, Water staff, watery headpiece, enchanted belt, aquatic charm necklace.
+Wood Wizard Outfit: Enchanted gown with nature-inspired patterns, Wood staff, leafy crown, enchanted belt, druidic amulet.
+Arcanamirium Crafter Outfit: Elaborate gown with runic motifs, master's wand, gem-adorned headband, flowing cloak, master's amulet.
+Arcane Bomber Outfit: Gown with alchemical patterns, arcane staff with vials of explosive components, hooded cloak, tactical belt with alchemical supplies, agile boots.
+Arcane Physician Outfit: Medical gown with healing patterns, healer's staff, physician's hat, tactical belt with medicinal supplies, comfortable shoes.
+Arcane Warden Outfit: Warding gown with defensive motifs, spellguard staff, warden's helm, flowing cloak, warden's amulet.
+Bonded Wizard Outfit: Wizard's dress with bonded familiar motifs, staff with bonded crystal, wizard's hat, flowing cloak, wizard's amulet.
+Infernal Binder Outfit: Gown with infernal patterns, infernal staff, demon-horned helm, flowing cloak, infernal amulet.
+Chronomancer Outfit: Gown with time-inspired motifs, chronomancer's hourglass, time-keeper's hat, flowing cloak, time-keeper's amulet.
+Clocksmith Outfit: Clocksmith's dress with clockwork patterns, clocksmith's staff, gear-adorned hat, flowing cloak, gear-adorned amulet.
+Cruoromancer Outfit: Gown with blood-inspired motifs, cruoromancer's staff, bloodied hood, flowing cloak, cruoromancer's amulet.
+Elder Mythos Scholar Outfit: Gown with eldritch patterns, elder mythos tome, scholar's spectacles, flowing cloak, elder mythos amulet.
+Exploiter Wizard Outfit: Exploiter's dress with elemental motifs, exploiter's staff, arcane hood, flowing cloak, arcane amulet.
+Familiar Adept Outfit: Wizard's gown with familiar motifs, staff with familiar gem, wizard's hat, flowing cloak, wizard's amulet.
+First World Caller Outfit: Gown with nature-inspired patterns, feycaller's staff, fey-adorned hat, flowing cloak, fey-adorned amulet.
+Hallowed Necromancer Outfit: Necromantic gown with celestial motifs, necromancer's staff with a skull topper, necromancer's hood, flowing cloak, necromancer's amulet.
+Instructor Outfit: Gown with educational patterns, teaching staff, scholar's spectacles, flowing cloak, instructor's amulet.
+Pact Wizard Outfit: Wizard's dress with pact motifs, pactbound staff, sorcerer's hat, flowing cloak, sorcerer's amulet.
+Primalist Outfit: Primal gown with wildlife patterns, primal staff with a totem topper, nature-adorned hat, flowing cloak, nature-adorned amulet.
+Mage of the Veil Outfit: Veil-inspired gown with ethereal motifs, veilmaster's staff, illusionist's hat, flowing cloak, illusionist's amulet.
+Runesage Outfit: Elaborate gown with runic motifs, runemaster's staff, runic hood, flowing cloak, runic amulet.
+Scroll Scholar Outfit: Gown with scroll-inspired patterns, scrollmaster's staff, scholar's spectacles, flowing cloak, scrollmaster's amulet.
+Scrollmaster Outfit: Elaborate gown with scroll motifs, scrollmaster's staff, scrollmaster's hat, flowing cloak, scrollmaster's amulet.
+Shadowcaster Outfit: Shadowy gown with concealed pockets, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Siege Mage Outfit: Siege-inspired gown with military patterns, battlestaff with intricate engravings, siege master's helm, flowing cloak, siege master's amulet.
+Spell Sage Outfit: Elaborate gown with arcane symbols, master's wand, gem-adorned headband, flowing cloak, master's amulet.
+Spellbinder Outfit: Spellbinder's dress with mystic motifs, spellbinder's staff, arcane hood, flowing cloak, spellbinder's amulet.
+Spellslinger Outfit: Spellcasting gown with hidden pockets, enchanted pistol, wide-brimmed hat, tactical belt with spell components, agile boots.
+Spirit Binder Outfit: Shamanic gown with spiritual patterns, shaman's staff, tribal headdress, flowing cloak, shaman's amulet.
+Spirit Whisperer Outfit: Whisperer's dress with ghostly motifs, whisperer's staff, veiled hood, flowing cloak, whisperer's amulet.
+Sword Binder Outfit: Armored gown with bound sword motifs, bound sword, swordmaster's helm, flowing cloak, swordmaster's amulet.
+Thassilonian Specialist Outfit: Elaborate gown with Thassilonian patterns, Thassilonian staff, scholar's spectacles, flowing cloak, Thassilonian amulet.
+Undead Master Outfit: Necromancer's gown with dark motifs, necromancer's staff with skull topper, necromancer's hood, flowing cloak, necromancer's amulet.
+Wind Listener Outfit: Elaborate gown with air-inspired motifs, windcaller's staff, wind-adorned hat, flowing cloak, wind-adorned amulet.
+Worldseeker Outfit: Explorer's dress with geographic patterns, worldseeker's staff, explorer's hat, flowing cloak, explorer's amulet.
+Acrobat Outfit: Acrobatic dress with intricate patterns, acrobat's boots, fingerless gloves, flowing cloak, agile pants.
+Bandit Outfit: Bandit's gown with hidden pockets, concealed daggers, rugged boots, hooded cloak, tactical belt.
+Kidnapper Outfit: Concealed dress with hidden compartments, kidnapper's hood, concealed restraints, rugged boots, tactical belt.
+Burglar Outfit: Burglar's gown with concealed pockets, lockpicking tools, silent boots, hooded cloak, tactical belt.
+Carnivalist Outfit: Carnival dress with playful motifs, carnival hat, jester's shoes, flowing cloak, jester's mask.
+Cat Burglar Outfit: Cat burglar's gown with agile patterns, cat burglar's hood, retractable claws, cat burglar's boots, tactical belt.
+Chameleon Outfit: Camouflaged dress with hidden compartments, chameleon's hood, concealed daggers, silent boots, tactical belt.
+Charlatan Outfit: Elaborate gown with charming motifs, charlatan's hat, hidden trinkets, flowing cloak, charlatan's amulet.
+Consigliere Outfit: Concealed dress with hidden pockets, consigliere's hat, tactical belt with hidden compartments, sturdy boots.
+Construct Saboteur Outfit: Saboteur gown with hidden compartments, sabotage tools, silent boots, hooded cloak, tactical belt.
+Counterfeit Mage Outfit: Disguised gown with arcane motifs, counterfeit staff, gem-adorned headband, flowing cloak, master's amulet.
+Cutpurse Outfit: Rogue's gown with concealed compartments, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Dark Lurker Outfit: Shadowy gown with concealed pockets, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Deadly Courtesan Outfit: Courtesan's gown with elegant patterns, courtesan's mask, concealed daggers, flowing cloak, courtesan's amulet.
+Desert Raider Outfit: Desert gown with flowing desert motifs, desert raider's hood, desert raider's staff, tactical belt, desert raider's boots.
+Discretion Specialist Outfit: Stealthy dress with concealed compartments, concealed daggers, tactical belt, silent boots, hooded cloak.
+Dreamthief Outfit: Enigmatic gown with ethereal patterns, dreamthief's mask, dreamthief's staff, flowing cloak, dreamthief's amulet.
+Driver Outfit: Disguised dress with hidden compartments, driver's cap, concealed whip, rugged boots, tactical belt.
+Earthshadow Outfit: Earth-inspired gown with flowing patterns, earthshadow's hood, earthshadow's staff, tactical belt, earthshadow's boots.
+Eldritch Raider Outfit: Eldritch gown with mystical motifs, eldritch raider's hood, eldritch raider's staff, tactical belt, eldritch raider's boots.
+Eldritch Scoundrel Outfit: Elaborate gown with mystical patterns, eldritch staff, arcane amulet, flowing cloak, eldritch headband.
+Escapologist Outfit: Escape artist's dress with graceful motifs, escapologist's staff, escapologist's hat, flowing cloak, escapologist's amulet.
+False Medium Outfit: Deceptive gown with ethereal motifs, false medium's hood, concealed trickery, flowing cloak, false medium's amulet.
+Fey Prankster Outfit: Fey-inspired gown with enchanting motifs, fey prankster's hat, trickster's staff, flowing cloak, fey prankster's amulet.
+Filcher Outfit: Rogue's gown with concealed compartments, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Agitator Outfit: Rebel's gown with revolutionary patterns, agitator's mask, concealed daggers, flowing cloak, agitator's amulet.
+Guerrilla Outfit: Stealthy dress with concealed compartments, concealed daggers, tactical belt, silent boots, hooded cloak.
+Guild Agent Outfit: Disguised dress with hidden compartments, guild agent's hood, concealed weapons, rugged boots, tactical belt.
+Gun Smuggler Outfit: Smuggler's gown with concealed pockets, smuggler's hat, concealed pistols, tactical belt, smuggler's boots.
+Heister Outfit: Heister's gown with concealed compartments, heister's hood, concealed weapons, flowing cloak, heister's amulet.
+Investigator Outfit: Investigator's dress with hidden pockets, investigator's hat, concealed evidence, flowing cloak, investigator's amulet.
+Rebel Outfit: Rebel's gown with revolutionary patterns, rebel's mask, concealed daggers, flowing cloak, rebel's amulet.
+Trickster Outfit: Rogue's gown with mischievous motifs, trickster's hat, concealed daggers, flowing cloak, trickster's amulet.
+Knife Master Outfit: Knife master's dress with intricate patterns, concealed knives, fingerless gloves, flowing cloak, agile pants.
+Makeshift Scrapper Outfit: Scrapper's dress with concealed pockets, improvised weapon, sturdy boots, tactical belt, hooded cloak.
+Master of Disguise Outfit: Disguised gown with hidden patterns, master's wand, gem-adorned headband, flowing cloak, master's amulet.
+Nameless Shadow Outfit: Shadowy gown with concealed pockets, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Needler Outfit: Needle master's dress with intricate patterns, concealed needles, fingerless gloves, flowing cloak, agile pants.
+Scavenger Outfit: Rogue's gown with concealed compartments, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Liberator Outfit: Rebel's gown with revolutionary patterns, liberator's mask, concealed daggers, flowing cloak, liberator's amulet.
+Phantom Thief Outfit: Phantom's gown with ethereal motifs, phantom thief's mask, concealed daggers, flowing cloak, phantom thief's amulet.
+Pirate Outfit: Pirate's dress with maritime patterns, pirate's hat, cutlass, flowing cloak, pirate's boots.
+Planar Sneak Outfit: Planar gown with astral motifs, planar staff, astral hood, flowing cloak, planar amulet.
+Poisoner Outfit: Rogue's gown with hidden pockets for poison vials, poisoner's hood, hidden daggers, tactical belt, silent boots.
+Rake Outfit: Rake's gown with fashionable motifs, rake's hat, concealed daggers, flowing cloak, rake's amulet.
+Relic Raider Outfit: Adventurer's gown with sacred patterns, relic raider's hat, ancient artifact, sturdy boots, tactical belt.
+River Rat Outfit: River-inspired gown with water motifs, river rat's hat, concealed daggers, flowing cloak, river rat's amulet.
+Roof Runner Outfit: Roof runner's dress with intricate patterns, roof runner's boots, fingerless gloves, flowing cloak, agile pants.
+Rotdrinker Outfit: Rot-inspired gown with decaying motifs, rotdrinker's mask, concealed daggers, flowing cloak, rotdrinker's amulet.
+Sanctified Rogue Outfit: Rogue's gown with celestial motifs, sanctified rogue's hood, concealed weapons, flowing cloak, sanctified rogue's amulet.
+Sapper Outfit: Rogue's gown with concealed compartments, concealed explosives, tactical belt, rugged boots, hooded cloak.
+Scout Outfit: Scout's dress with nature-inspired patterns, scout's hood, scout's staff, tactical belt, scout's boots.
+Scroll Scoundrel Outfit: Scroll-inspired gown with arcane motifs, scrollmaster's staff, scholar's spectacles, flowing cloak, scrollmaster's amulet.
+Swindler Outfit: Rogue's gown with deceptive patterns, swindler's hat, concealed trinkets, flowing cloak, swindler's amulet.
+Seeker of the Lost Outfit: Adventurer's gown with sacred patterns, seeker's staff, ancient artifact, sturdy boots, tactical belt.
+Shadow Scion Outfit: Shadowy gown with concealed pockets, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Shadow Walker Outfit: Stealthy dress with concealed compartments, concealed daggers, tactical belt, silent boots, hooded cloak.
+Sharper Outfit: Rogue's gown with concealed compartments, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Skulking Slayer Outfit: Rogue's gown with concealed compartments, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Sly Saboteur Outfit: Saboteur gown with hidden compartments, saboteur's hat, concealed explosives, flowing cloak, saboteur's amulet.
+Smuggler Outfit: Smuggler's gown with concealed pockets, smuggler's hat, concealed contraband, tactical belt, smuggler's boots.
+Snare Setter Outfit: Snare master's dress with intricate patterns, concealed snares, fingerless gloves, flowing cloak, agile pants.
+Sniper Outfit: Sniper's gown with hidden compartments, sniper's hood, concealed crossbow, flowing cloak, sniper's amulet.
+Snoop Outfit: Rogue's gown with concealed compartments, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Spy Outfit: Spy's gown with hidden pockets, spy's mask, concealed daggers, flowing cloak, spy's amulet.
+Survivalist Outfit: Adventurer's gown with nature-inspired patterns, survivalist's staff, rugged boots, tactical belt, flowing cloak.
+Swamp Poisoner Outfit: Rogue's gown with hidden compartments for poison vials, swamp poisoner's hat, hidden daggers, tactical belt, silent boots.
+Swashbuckler Outfit: Swashbuckler's gown with elegant patterns, swashbuckler's hat, flowing cloak, tactical belt, swashbuckler's boots.
+Swordmaster Outfit: Rogue's gown with concealed compartments, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Sylvan Trickster Outfit: Trickster's gown with enchanting patterns, sylvan trickster's hat, concealed daggers, flowing cloak, sylvan trickster's amulet.
+Thug Outfit: Rogue's gown with concealed compartments, concealed weapons, tactical belt, rugged boots, hooded cloak.
+Tidal Trickster Outfit: Trickster's gown with water-inspired motifs, tidal trickster's hat, concealed daggers, flowing cloak, tidal trickster's amulet.
+Toxic Talon Outfit: Toxic master's dress with intricate patterns, concealed toxins, fingerless gloves, flowing cloak, agile pants.
+Trapsmith Outfit: Rogue's gown with hidden compartments, trapsmith's hood, concealed daggers, flowing cloak, trapsmith's amulet.
+Underground Chemist Outfit: Rogue's gown with hidden compartments for poison vials, underground chemist's hat, hidden daggers, tactical belt, silent boots.
+Vexing Dodger Outfit: Rogue's gown with mischievous motifs, vexing dodger's hat, concealed daggers, flowing cloak, vexing dodger's amulet.
+Waylayer Outfit: Rogue's gown with concealed compartments, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Acrobat Rogue Outfit: Sleek acrobat's leotard, flexible leggings, acrobat shoes, and wrist bracers with hidden compartments.
+Bandit Rogue Outfit: Fitted leather tunic, rugged cloak, fingerless gloves, and a belt with pouches for storing lockpicks.
+Bekyar Kidnapper Rogue Outfit: Tribal dress with intricate patterns, beaded necklace, leather sandals, and a hidden poison vial.
+Bellflower Irrigator Rogue Outfit: Disguised peasant dress, sun hat, gardening gloves, and a woven basket for concealing healing potions.
+Burglar Rogue Outfit: Sleek black outfit, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Carnivalist Rogue Outfit: Vibrant dress with swirling patterns, colorful ribbons, jester shoes, and a bag of throwing knives.
+Cat Burglar Rogue Outfit: Sleek catsuit, black domino mask, climbing gloves, and a belt with pouches for tools and stolen goods.
+Chameleon Rogue Outfit: Disguised robe, hooded cloak, soft-soled shoes, and a concealed pouch for poisons.
+Charlatan Rogue Outfit: Lavish dress with ruffles, elegant fan with hidden compartments, and a concealed derringer pistol.
+Consigliere Rogue Outfit: Elegant dress with secret pockets, wide-brimmed hat, leather gloves, and a concealed small dagger.
+Construct Saboteur Rogue Outfit: Mechanic's jumpsuit, safety goggles, tool belt with gadgets, and a concealed EMP grenade.
+Counterfeit Mage Rogue Outfit: Enchanting gown with hidden pockets, an ornate scepter with a hidden blade, and a concealed vial of sleeping potion.
+Cutpurse Rogue Outfit: Disguised dress with hidden pockets, a worn hat, pouches for stolen goods, and a concealed dagger.
+Dark Lurker Rogue Outfit: Sleek dark dress, leather armor, fingerless gloves, and a hood to conceal identity.
+Deadly Courtesan Rogue Outfit: Exquisite ball gown with concealed darts, a hidden dagger in the fan, and a masquerade mask.
+Desert Raider Rogue Outfit: Lightweight desert dress, a veil for concealing identity, fingerless gloves, and a pouch for desert survival supplies.
+Discretion Specialist Rogue Outfit: Fitted dress with a plain shawl, fingerless gloves, and a concealed blade in the boot.
+Dreamthief Rogue Outfit: Enchanting gown with dreamlike patterns, a mask to obscure identity, a concealed sleep poison vial, and a dreamcatcher headpiece.
+Driver Rogue Outfit: Fitted dress as a disguised coachwoman, a hat with a concealed dagger, gloves for gripping reins, and a whip with a hidden blade.
+Earthshadow Rogue Outfit: Disguised dress with nature patterns, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Eldritch Raider Rogue Outfit: Enigmatic gown with occult patterns, a concealed wand, a hidden spell component pouch, and an amulet with a hidden blade.
+Eldritch Scoundrel Rogue Outfit: Elegant dress with concealed daggers in the sleeves, a hidden spellbook with poison vials, and a charm necklace with a hidden blade.
+Escapologist Rogue Outfit: Sleek acrobat's leotard, flexible leggings, acrobat shoes, and wrist bracers with hidden lockpicks.
+False Medium Rogue Outfit: Enchanting gown with mystical patterns, a concealed deck of cards for fortune-telling, and a hidden dagger in the staff.
+Fey Prankster Rogue Outfit: Vibrant dress with swirling patterns, a concealed wand for casting illusions, a mischievous grin, and a playful crown.
+Filcher Rogue Outfit: Disguised dress with hidden pockets, fingerless gloves, and a concealed dagger.
+Guerrilla Rogue Outfit: Fitted dress with natural patterns, fingerless gloves, soft-soled shoes, and a pouch for survival tools.
+Guild Agent Rogue Outfit: Fitted dress, a hooded cloak for anonymity, concealed lockpicks, and a hidden dagger in the boot.
+Gun Smuggler Rogue Outfit: Hidden pockets in a sleek dress, fingerless gloves, and a hidden pouch for ammunition.
+Heister Rogue Outfit: Elegant ball gown with hidden pockets, a masquerade mask for anonymity, a concealed small crossbow, and hidden pouches for stolen goods.
+Investigator Rogue Outfit: Sleek dress with a long coat, magnifying glass on a chain, concealed lockpicks, and a hidden blade in the boot.
+Kintargo Rebel Rogue Outfit: Fitted rebel dress, a hooded cloak for anonymity, fingerless gloves, and a concealed small crossbow.
+Kitsune Trickster Rogue Outfit: Fitted dress with a mask to obscure identity, fingerless gloves, and a concealed dagger.
+Knife Master Rogue Outfit: Disguised dress, fingerless gloves, a belt with pouches for throwing knives, and a concealed dagger in the bodice.
+Makeshift Scrapper Rogue Outfit: Fitted dress with reinforced scrap metal patches, fingerless gloves, a concealed wrench, and a hidden blade in the bodice.
+Master of Disguise Rogue Outfit: Chameleon cloak, various disguises and props, fingerless gloves, and a concealed dagger.
+Nameless Shadow Rogue Outfit: Sleek black outfit, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Needler Rogue Outfit: Disguised dress with concealed throwing darts, fingerless gloves, and a concealed vial of poison.
+Numerian Scavenger Rogue Outfit: Fitted dress with salvaged armor patches, fingerless gloves, and a concealed energy pistol.
+Okeno Liberator Rogue Outfit: Embroidered dress with tribal patterns, a concealed blowgun, a hidden dagger in the boot, and a feathered headdress.
+Phantom Thief Rogue Outfit: Elegant ball gown with hidden pockets, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the fan.
+Pirate Rogue Outfit: Fitted dress with a tricorn hat, fingerless gloves, and a concealed small pistol.
+Planar Sneak Rogue Outfit: Sleek dress with hidden compartments, fingerless gloves, and a concealed dagger.
+Poisoner Rogue Outfit: Sleek dress with concealed vials of poison, a concealed dagger in the bodice, and a mask for anonymity.
+Rake Rogue Outfit: Exquisite gown with hidden pockets, concealed lockpicks, and a hidden blade in the fan.
+Relic Raider Rogue Outfit: Sleek dress with concealed pouches, fingerless gloves, and a concealed dagger in the boot.
+River Rat Rogue Outfit: Disguised dress with hidden pockets, fingerless gloves, a concealed slingshot, and a pouch for stolen goods.
+Roof Runner Rogue Outfit: Sleek black outfit, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Rotdrinker Rogue Outfit: Dress with hidden compartments for vials of acid, fingerless gloves, and a concealed blade in the boot.
+Sanctified Rogue Outfit: Fitted dress with a holy symbol concealing vial of holy water, fingerless gloves, and a concealed dagger in the bodice.
+Sapper Rogue Outfit: Mechanic's jumpsuit with concealed tools, safety goggles, and a magnetic grappling hook.
+Scout Rogue Outfit: Fitted dress with natural patterns, fingerless gloves, soft-soled shoes, and a pouch for survival tools.
+Scroll Scoundrel Rogue Outfit: Sleek dress with concealed scrolls, a hidden dagger in the bodice, concealed lockpicks, and a pouch for scrolls.
+Sczarni Swindler Rogue Outfit: Elegant ball gown with hidden pockets, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the fan.
+Seeker of the Lost Rogue Outfit: Sleek dress with concealed pouches, fingerless gloves, and a concealed dagger in the boot.
+Shadow Scion Rogue Outfit: Sleek black outfit, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Shadow Walker Rogue Outfit: Fitted dress with moonlight patterns, fingerless gloves, soft-soled shoes, and a concealed lockpick set.
+Sharper Rogue Outfit: Disguised dress, fingerless gloves, a belt with concealed throwing cards, and a concealed dagger in the bodice.
+Skulking Slayer Rogue Outfit: Fitted dress with nature patterns, fingerless gloves, a concealed blowgun, and a pouch for survival tools.
+Sly Saboteur Rogue Outfit: Elegant ball gown with hidden pockets, concealed lockpicks, a hidden blade in the fan, and a mischievous grin.
+Smuggler Rogue Outfit: Hidden pockets in a sleek dress, fingerless gloves, and a concealed pouch for contraband.
+Snare Setter Rogue Outfit: Fitted dress with nature patterns, fingerless gloves, a concealed blowgun, and a pouch for concealed traps.
+Sniper Rogue Outfit: Fitted dress with nature patterns, fingerless gloves, soft-soled shoes, and a concealed small crossbow.
+Snoop Rogue Outfit: Fitted dress with a hat hiding a disguise kit, fingerless gloves, and a concealed dagger.
+Spy Rogue Outfit: Elegant ball gown with hidden pockets, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the fan.
+Survivalist Rogue Outfit: Sleek dress with concealed pouches, fingerless gloves, and a concealed dagger in the boot.
+Swamp Poisoner Rogue Outfit: Sleek dress with concealed vials of poison, a concealed dagger in the bodice, and a mask for anonymity.
+Swashbuckler Rogue Outfit: Fitted dress with a hat adorned with feathers, a rapier sheathed at the hip, and a mischievous grin.
+Swordmaster Rogue Outfit: Fitted dress with a concealed rapier, fingerless gloves, and a hidden dagger in the bodice.
+Sylvan Trickster Rogue Outfit: Fitted dress with elven-inspired patterns, fingerless gloves, and a pouch for concealed nature-themed tools.
+Thug Rogue Outfit: Disguised dress with hidden pockets, fingerless gloves, and a concealed dagger.
+Tidal Trickster Rogue Outfit: Fitted dress with ocean-inspired patterns, fingerless gloves, and a pouch for concealed aquatic-themed tools.
+Toxic Talon Rogue Outfit: Dress with hidden compartments for vials of poison, fingerless gloves, and a concealed blade in the boot.
+Trapsmith Rogue Outfit: Mechanic's jumpsuit with concealed tools, safety goggles, and a magnetic grappling hook.
+Underground Chemist Rogue Outfit: Sleek dress with concealed vials of alchemical substances, a concealed dagger in the bodice, and a mask for anonymity.
+Vexing Dodger Rogue Outfit: Fitted dress with a hat hiding a disguise kit, fingerless gloves, and a concealed dagger.
+Waylayer Rogue Outfit: Fitted dress with natural patterns, fingerless gloves, soft-soled shoes, and a pouch for survival tools.
+Air Cleric Outfit: Enchanted gown with gusty motifs, Air staff topped with an air symbol, airy headband, levitation boots, cloud amulet.
+Animal Cleric Outfit: Nature-inspired gown with animal patterns, Animal staff with a carved totem, nature-inspired headdress, druidic sandals, animal charm necklace.
+Artifice Cleric Outfit: Mechanical gown with artificer motifs, Artifice staff with gears and runes, artificer's goggles, metallic boots, cogwheel amulet.
+Chaos Cleric Outfit: Unpredictable gown with chaotic patterns, Chaos staff adorned with chaotic symbols, chaotic headdress, mismatched boots, chaos amulet.
+Charm Cleric Outfit: Enchanted gown with bewitching motifs, Charm staff with a mesmerizing gem, charismatic hat, alluring gloves, charm bracelet.
+Community Cleric Outfit: Gown with patterns of togetherness, Community staff with intertwined hands, community headband, communal sandals, unity amulet.
+Darkness Cleric Outfit: Cursed gown with abyssal motifs, Darkness staff topped with a dark gem, shadowed hood, haunting boots, void amulet.
+Death Cleric Outfit: Mourning gown with funereal patterns, Death staff adorned with a skull, deathly hood, somber boots, skull amulet.
+Destruction Cleric Outfit: Gown with patterns of devastation, Destruction staff with a destructive crystal, war-torn cape, sturdy boots, ruin amulet.
+Earth Cleric Outfit: Enchanted gown with earthen motifs, Earth staff with a crystal embedded in stone, earthy headpiece, enchanted belt, gemstone amulet.
+Evil Cleric Outfit: Sinister gown with malevolent motifs, Evil staff topped with a wicked skull, wicked headdress, cursed boots, malevolent talisman.
+Fire Cleric Outfit: Enchanted gown with blazing motifs, Fire staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Glory Cleric Outfit: Majestic gown with motifs of triumph, Glory staff with a radiant gem, majestic crown, flowing cape, glorious medallion.
+Good Cleric Outfit: Divine gown with motifs of righteousness, Good staff with a glowing gem, divine crown, celestial sandals, benevolent amulet.
+Healing Cleric Outfit: Healing gown with caring motifs, Healing staff topped with a healing crystal, healer's cap, caring sandals, compassion amulet.
+Knowledge Cleric Outfit: Bookish gown with intricate patterns, Knowledge staff with a book-shaped head, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Law Cleric Outfit: Judge's gown with motifs of order, Law staff with scales of justice, judge's gavel, stoic boots, scales of justice amulet.
+Liberation Cleric Outfit: Gown with motifs of emancipation, Liberation staff with broken chains, liberator's headband, agile sandals, freedom amulet.
+Luck Cleric Outfit: Gown with motifs of good fortune, Luck staff with a four-leaf clover, lucky hat, fortunate gloves, luck charm bracelet.
+Madness Cleric Outfit: Unpredictable gown with chaotic patterns, Madness staff adorned with insane symbols, mad headdress, mismatched boots, chaos amulet.
+Magic Cleric Outfit: Enchanted gown with magical motifs, Magic staff with arcane orbs, magician's hat, flowing cloak, mystical amulet.
+Nobility Cleric Outfit: Majestic gown with motifs of royalty, Nobility staff with a gem-encrusted top, majestic crown, flowing cape, aristocratic amulet.
+Plant Cleric Outfit: Nature-inspired gown with botanical motifs, Plant staff with a leafy totem, nature-inspired headdress, druidic sandals, nature charm necklace.
+Protection Cleric Outfit: Enchanted gown with defensive patterns, Protection staff with a shield motif, guardian helm, rugged boots, guardian amulet.
+Repose Cleric Outfit: Mourning gown with motifs of peace, Repose staff adorned with a tranquil gem, serene hood, haunting boots, spirit amulet.
+Rune Cleric Outfit: Enchanted gown with mystical runes, Rune staff with glowing symbols, runic helm, enchanted belt, runic boots.
+Scalykind Cleric Outfit: Enchanted gown with scales and serpents, Scalykind staff with a serpent head, scaly headpiece, serpentine boots, reptilian amulet.
+Strength Cleric Outfit: Gown with motifs of power, Strength staff with a hammerhead, warrior helm, sturdy boots, strength amulet.
+Sun Cleric Outfit: Majestic gown with motifs of sunlight, Sun staff with a blazing sunburst, solar crown, flowing cape, solar amulet.
+Travel Cleric Outfit: Gown with motifs of wanderlust, Travel staff with a traveler's knapsack, traveler's hat, rugged boots, compass amulet.
+Trickery Cleric Outfit: Enchanted gown with deceitful patterns, Trickery staff with a mask motif, trickster's hat, nimble boots, deception amulet.
+Void Cleric Outfit: Enchanted gown with cosmic motifs, Void staff with a cosmic void gem, voided hood, haunting boots, void amulet.
+War Cleric Outfit: Battle-ready gown with battle motifs, War staff with a war banner, war helm, battle boots, war medallion.
+Water Cleric Outfit: Enchanted gown with aquatic motifs, Water staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Weather Cleric Outfit: Gown with motifs of tempests, Weather staff with a swirling cloud, weathered cloak, thunderous boots, storm amulet.
+Angelfire Apostle Cleric Outfit: Flowing celestial gown with golden accents, Angelfire staff, divine halo crown, angelic sandals, ornate holy symbol necklace.
+Appeaser Cleric Outfit: Nature-inspired gown with soothing patterns, Appeaser's staff, druidic headband, nature-inspired sandals, wooden charm necklace.
+Asmodean Advocate Cleric Outfit: Sinister gown with demonic motifs, Asmodean staff, devilish horned headdress, sinister boots, demonic talisman necklace.
+Blossoming Light Cleric Outfit: Blossoming gown with floral patterns, staff adorned with flowers, floral crown, botanical sandals, nature-infused amulet.
+Cardinal Cleric Outfit: Elegant cardinal gown with ornate designs, Cardinal's staff, jeweled tiara, high-collared cape, sacred symbol medallion.
+Channeler of the Unknown Cleric Outfit: Enigmatic gown with mystical symbols, Unknown staff, hooded cowl, ethereal boots, enigmatic amulet.
+Cloistered Cleric Cleric Outfit: Bookish gown with intricate patterns, Cloistered staff, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Crashing Wave Cleric Outfit: Flowing aquatic gown with shimmering accents, staff with a seashell head, seafoam crown, wave-patterned sandals, aquatic charm necklace.
+Crusader Cleric Outfit: Armored crusader gown with holy motifs, Crusader's sword, adorned helmet, sturdy boots, crusader's medallion.
+Demonic Apostle Cleric Outfit: Sinister gown with occult patterns, Demonic staff, sinister horned headdress, occult boots, demonic talisman necklace.
+Divine Paragon Cleric Outfit: Celestial gown with radiant patterns, Divine staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Divine Scourge Cleric Outfit: Cursed gown with haunting motifs, Divine Scourge staff, skull-adorned hood, blackened boots, cursed relic necklace.
+Divine Strategist Cleric Outfit: Strategist's gown with strategic motifs, Strategist's staff, commander's helm, sturdy boots, tactical amulet.
+Ecclesitheurge Cleric Outfit: Elegant ecclesitheurge gown with ornate designs, Ecclesitheurge staff, jeweled tiara, high-collared cape, holy symbol necklace.
+Elder Mythos Cultist Cleric Outfit: Eldritch gown with occult patterns, Cultist's staff, eldritch headpiece, ethereal boots, forbidden tome necklace.
+Evangelist Cleric Outfit: Preacher's gown with divine patterns, Evangelist's staff, preacher's hat, flowing cloak, sacred medallion.
+Fiendish Vessel Cleric Outfit: Sinister gown with fiendish patterns, Fiendish staff, wicked horned headdress, occult boots, fiendish talisman necklace.
+Forgemaster Cleric Outfit: Blacksmith's gown with forge motifs, Forgemaster's hammer, blacksmith's apron, rugged boots, hammer-shaped amulet.
+Foundation of Faith Cleric Outfit: Regal gown with divine motifs, Foundation staff, sacred headpiece, divine sandals, faith-imbued amulet.
+Herald Caller Cleric Outfit: Celestial gown with radiant patterns, Herald Caller staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Hidden Priest Cleric Outfit: Hidden gown with covert patterns, Hidden Priest staff, concealed cowl, shadowy boots, hidden relic necklace.
+Idealist Cleric Outfit: Visionary gown with dreamlike motifs, Idealist's staff, dreamer's headband, celestial sandals, visionary amulet.
+Iron Priest Cleric Outfit: Ironclad gown with divine motifs, Iron Priest hammer, iron helmet, rugged boots, iron amulet.
+Lawspeaker Cleric Outfit: Judge's gown with legal motifs, Lawspeaker staff, judge's gavel, stoic boots, scales of justice amulet.
+Mendevian Priest Cleric Outfit: Mendevian gown with divine patterns, Mendevian staff, crusader's helm, sturdy boots, holy seal amulet.
+Merciful Healer Cleric Outfit: Healing gown with caring motifs, Merciful Healer staff, healer's cap, caring sandals, compassion amulet.
+Roaming Exorcist Cleric Outfit: Exorcist's gown with spectral patterns, Roaming Exorcist staff, spirit-repelling amulet, haunted boots, banishing sigil amulet.
+Sacred Attendant Cleric Outfit: Celestial gown with radiant patterns, Sacred Attendant staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Scroll Scholar Cleric Outfit: Bookish gown with intricate patterns, Scroll Scholar staff, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Separatist Cleric Outfit: Hidden gown with covert patterns, Separatist staff, concealed cowl, shadowy boots, hidden relic necklace.
+Stoic Caregiver Cleric Outfit: Caregiver's gown with caring motifs, Stoic Caregiver staff, healer's cap, caring sandals, compassion amulet.
+Theologian Cleric Outfit: Theological gown with sacred patterns, Theologian's staff, scholarly spectacles, flowing cloak, theological amulet.
+Triadic Priest Cleric Outfit: Celestial gown with triad motifs, Triadic Priest staff, tri-horned headpiece, celestial sandals, triad amulet.
+Undead Lord Cleric Outfit: Cursed gown with undead motifs, Undead Lord staff, necromancer's hood, cursed boots, undead talisman necklace.
+Pilgrim Cleric Outfit: Pilgrim's gown with journey motifs, Pilgrim's staff, simple hat, humble sandals, sacred token necklace.
+Crossblooded Sorcerer Outfit: Enchanted gown with mixed elemental motifs, Crossblooded staff with two different gems, amulet of dual bloodlines, magical gloves, dual-blooded hood.
+Dragon Drinker Sorcerer Outfit: Enchanted gown with dragon-scale patterns, Dragon Drinker staff with dragon fang, dragon helm, clawed gloves, dragon talisman.
+Eldritch Scrapper Sorcerer Outfit: Battle-ready gown with mystical motifs, Eldritch Scrapper staff with a mystic gem, arcane gauntlets, enchanted belt, rugged boots.
+Mongrel Mage Sorcerer Outfit: Enchanted gown with various magical motifs, Mongrel Mage staff with an amalgamated crystal, magical gloves, enchanted belt, multi-hued cloak.
+Nine-Tailed Heir Sorcerer Outfit: Majestic gown with enchanting fox motifs, Nine-Tailed Heir staff with a fox-tail gem, fox mask, fox-themed cloak, fox charm necklace.
+Razmiran Priest Sorcerer Outfit: Sacred gown with divine motifs, Razmiran Priest staff with a holy sigil, priestly headdress, sacred sandals, divine amulet.
+Seeker Sorcerer Outfit: Adventurer's gown with mystical motifs, Seeker staff with a compass gem, adventurer's hat, travel boots, explorer's charm necklace.
+Sleep Sorcerer Outfit: Enchanted gown with ethereal motifs, Sleep Sorcerer staff with a moonstone, dreamcatcher hood, night-themed cloak, slumber amulet.
+Stone Warder Sorcerer Outfit: Enchanted gown with earthy motifs, Stone Warder staff with a gem-encrusted stone, stone helm, stony boots, protective amulet.
+Tattooed Sorcerer Outfit: Enchanted gown with intricate tattoo motifs, Tattooed staff with mystical ink, tattooed gloves, enchanted belt, tattooed cloak.
+Umbral Scion Sorcerer Outfit: Cursed gown with abyssal motifs, Umbral Scion staff with a void gem, shadowed hood, haunting boots, shadow amulet.
+Wildblooded Sorcerer Outfit: Enchanted gown with feral motifs, Wildblooded staff with a primal gem, shamanic headdress, tribal boots, nature amulet.
+Wishcrafter Sorcerer Outfit: Enchanted gown with wishful motifs, Wishcrafter staff with a wish-granting gem, genie headdress, genie-themed cloak, wish charm necklace.
+Name Sorcerer Outfit: Enchanted gown with inscribed names, Name Sorcerer staff with a personalized sigil, nameplate amulet, enchanted belt, runic cloak.
+Aberrant Sorcerer Outfit: Enchanted gown with otherworldly motifs, Aberrant staff with an eldritch gem, aberrant mask, tentacle gloves, otherworldly amulet.
+Abyssal Sorcerer Outfit: Cursed gown with abyssal patterns, Abyssal staff adorned with abyssal runes, abyssal helm, cursed boots, abyssal amulet.
+Accursed Sorcerer Outfit: Unlucky gown with cursed motifs, Accursed staff with cursed symbols, accursed hood, cursed boots, cursed amulet.
+Aquatic Sorcerer Outfit: Enchanted gown with aquatic motifs, Aquatic staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Arcane Sorcerer Outfit: Enchanted gown with mystical motifs, Arcane staff with a magic crystal, arcane headdress, enchanted belt, mystic amulet.
+Astral Sorcerer Outfit: Enchanted gown with cosmic motifs, Astral staff with a starry gem, star-crowned hood, celestial sandals, astral amulet.
+Boreal Sorcerer Outfit: Enchanted gown with frosty motifs, Boreal staff with a frosty crystal, ice-crowned hood, snowflake cape, frost amulet.
+Celestial Sorcerer Outfit: Divine gown with angelic motifs, Celestial staff with a radiant gem, divine crown, angelic sandals, celestial amulet.
+Daemon Sorcerer Outfit: Cursed gown with infernal patterns, Daemon staff adorned with hellish runes, infernal helm, cursed boots, daemon amulet.
+Deep Earth Sorcerer Outfit: Enchanted gown with earthy motifs, Deep Earth staff with a gem-encrusted stone, earthy headpiece, enchanted belt, gemstone amulet.
+Destined Sorcerer Outfit: Enchanted gown with motifs of prophecy, Destined staff with a glowing star, fate crown, flowing cape, destiny amulet.
+Div Sorcerer Outfit: Enchanted gown with motifs of prophecy, Div staff with a glowing star, fate crown, flowing cape, destiny amulet.
+Djinni Sorcerer Outfit: Enchanted gown with magical motifs, Djinni staff with a swirling cloud, genie headdress, genie-themed cloak, wish charm necklace.
+Draconic Sorcerer Outfit: Enchanted gown with dragon-scale patterns, Draconic staff with a dragon head, dragon helm, clawed gloves, draconic amulet.
+Dreamspun Sorcerer Outfit: Enchanted gown with ethereal motifs, Dreamspun staff with a moonstone, dreamcatcher hood, night-themed cloak, slumber amulet.
+Ectoplasm Sorcerer Outfit: Enchanted gown with spectral motifs, Ectoplasm staff with a ghostly gem, spectral hood, ghostly boots, ectoplasm amulet.
+Efreeti Sorcerer Outfit: Enchanted gown with fiery motifs, Efreeti staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Elemental Sorcerer Outfit: Enchanted gown with elemental motifs, Elemental staff with a combined elemental gem, elemental headpiece, enchanted belt, elemental amulet.
+Fey Sorcerer Outfit: Enchanted gown with fey motifs, Fey staff with a mystical leaf, fey crown, enchanted belt, nature charm necklace.
+Ghoul Sorcerer Outfit: Unlucky gown with cursed motifs, Ghoul staff with a ghastly gem, accursed hood, cursed boots, cursed amulet.
+Harrow Sorcerer Outfit: Enchanted gown with mystical harrow motifs, Harrow staff with a mystic deck, fortune-teller's hat, mysterious cloak, harrowing amulet.
+Imperious Sorcerer Outfit: Majestic gown with motifs of kingship, Imperious staff with a gem-encrusted top, majestic crown, flowing cape, aristocratic amulet.
+Impossible Sorcerer Outfit: Enchanted gown with surreal motifs, Impossible staff with an eldritch gem, eldritch mask, tentacle gloves, otherworldly amulet.
+Infernal Sorcerer Outfit: Cursed gown with infernal patterns, Infernal staff adorned with hellish runes, infernal helm, cursed boots, infernal amulet.
+Kobold Sorcerer Outfit: Enchanted gown with dragon-scale patterns, Kobold staff with a dragon scale, scaled headpiece, clawed gloves, draconic amulet.
+Maestro Sorcerer Outfit: Enchanted gown with harmonious motifs, Maestro staff with a musical gem, conductor's hat, musical boots, musical charm necklace.
+Marid Sorcerer Outfit: Enchanted gown with aquatic motifs, Marid staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Martyred Sorcerer Outfit: Divine gown with angelic motifs, Martyred staff with a sacred gem, divine crown, angelic sandals, divine amulet.
+Naga Sorcerer Outfit: Enchanted gown with serpent motifs, Naga staff with a serpent head, scaly headpiece, serpentine boots, reptilian amulet.
+Nanite Sorcerer Outfit: Enchanted gown with nanotech motifs, Nanite staff with a glowing gem, tech-themed helm, technological boots, nanite amulet.
+Oni Sorcerer Outfit: Enchanted gown with oni motifs, Oni staff with a menacing oni mask, oni helm, rugged boots, oni charm necklace.
+Orc Sorcerer Outfit: Enchanted gown with orcish motifs, Orc staff with a tribal totem, tribal headdress, savage boots, tribal amulet.
+Pestilence Sorcerer Outfit: Unlucky gown with plague motifs, Pestilence staff with a diseased gem, plague mask, pestilent boots, plague amulet.
+Phoenix Sorcerer Outfit: Enchanted gown with phoenix motifs, Phoenix staff with a phoenix feather, flaming crown, heat-resistant boots, phoenix amulet.
+Possessed Sorcerer Outfit: Unlucky gown with cursed motifs, Possessed staff with a cursed gem, eerie hood, cursed boots, haunted amulet.
+Protean Sorcerer Outfit: Enchanted gown with chaotic motifs, Protean staff with a swirling gem, chaotic helm, nimble boots, chaotic amulet.
+Psychic Sorcerer Outfit: Enchanted gown with telepathic motifs, Psychic staff with a mystical gem, psychic headpiece, enchanted belt, psychic amulet.
+Rakshasa Sorcerer Outfit: Enchanted gown with mystical motifs, Rakshasa staff with an enigmatic gem, arcane headdress, enchanted belt, mystic amulet.
+Salamander Sorcerer Outfit: Enchanted gown with fiery motifs, Salamander staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Scorpion Sorcerer Outfit: Enchanted gown with scorpion motifs, Scorpion staff with a scorpion tail, scorpion helm, venomous boots, scorpion amulet.
+Serpentine Sorcerer Outfit: Enchanted gown with serpent motifs, Serpentine staff with a snake head, scaly headpiece, serpentine boots, reptilian amulet.
+Shadow Sorcerer Outfit: Enchanted gown with shadowy motifs, Shadow staff with a shadowy gem, shadowed hood, haunting boots, shadow amulet.
+Shaitan Sorcerer Outfit: Enchanted gown with earthy motifs, Shaitan staff with an elemental gem, shaitan headdress, enchanted belt, elemental amulet.
+Shapechanger Sorcerer Outfit: Enchanted gown with ever-changing motifs, Shapechanger staff with a shapeshifting gem, shapechanging hood, enchanted belt, shapeshifter amulet.
+Solar Sorcerer Outfit: Majestic gown with motifs of celestial beauty, Solar staff with a radiant gem, divine crown, angelic sandals, celestial amulet.
+Starsoul Sorcerer Outfit: Enchanted gown with motifs of celestial beauty, Starsoul staff with a starry gem, star-crowned hood, celestial sandals, astral amulet.
+Stormborn Sorcerer Outfit: Enchanted gown with stormy motifs, Stormborn staff with a thundering gem, stormy headdress, lightning boots, storm amulet.
+Undead Sorcerer Outfit: Unlucky gown with cursed motifs, Undead staff with an eerie gem, undead hood, cursed boots, undead amulet.
+Unicorn Sorcerer Outfit: Majestic gown with motifs of celestial beauty, Unicorn staff with a magical horn, divine crown, angelic sandals, celestial amulet.
+Verdant Sorcerer Outfit: Enchanted gown with motifs of nature's beauty, Verdant staff with a flourishing gem, nature crown, enchanted belt, nature charm necklace.
+Vestige Sorcerer Outfit: Enchanted gown with mystical motifs, Vestige staff with an ancient relic, ancient helm, enchanted belt, mystic amulet.
+Armored Hulk Barbarian Outfit: Reinforced breastplate with tribal motifs, sturdy pants with knee-high boots, fur-lined cloak, spiked gauntlets, massive battleaxe.
+Beastkin Berserker Barbarian Outfit: Fitted fur bodice with beast motifs, durable pants with calf-high boots, clawed gloves, primal greataxe.
+Breaker Barbarian Outfit: Tough leather corset with armored plates, durable pants with calf-high boots, war paint, leather bracers, massive two-handed maul.
+Brutal Pugilist Barbarian Outfit: Studded leather bodice with engraved accents, fingerless gloves, tribal tattoos, durable pants with calf-high boots, spiked brass knuckles.
+Brutish Swamper Barbarian Outfit: Fitted swamp-inspired bodice, durable pants with calf-high boots, tribal face paint, bone club.
+Cave Dweller Barbarian Outfit: Fur-lined dress with tribal patterns, primal bone necklace, fur-lined hooded cloak, bone-tipped spear, stone club.
+Deepwater Rager Barbarian Outfit: Enchanted gown with aquatic motifs, seashell-adorned bodice, knee-high boots, enchanted trident.
+Dreadnought Barbarian Outfit: Reinforced breastplate with fierce motifs, sturdy pants with knee-high boots, fur-lined cloak, spiked gauntlets, massive greatsword.
+Drunken Brute Barbarian Outfit: Tattered dress with stained patterns, belt with drinking flasks, unkempt hair, durable pants with calf-high boots, broken bottle as an improvised weapon.
+Drunken Rager Barbarian Outfit: Tattered dress with stained patterns, belt with drinking flasks, tribal tattoos, durable pants with calf-high boots, berserker's axe.
+Elemental Kin Barbarian Outfit: Enchanted gown with elemental patterns, tribal tattoos with elemental motifs, knee-high boots, enchanted elemental greataxe.
+Fearsome Defender Barbarian Outfit: Reinforced breastplate with fearsome motifs, sturdy pants with knee-high boots, fur-lined cloak, spiked gauntlets, massive warhammer.
+Feral Gnasher Barbarian Outfit: Fitted fur bodice with gnasher motifs, durable pants with calf-high boots, clawed gloves, primal greataxe.
+Flesheater Barbarian Outfit: Fitted dress with bone motifs, tribal tattoos, durable pants with calf-high boots, bone club.
+Geminate Invoker Barbarian Outfit: Enchanted gown with gemstone patterns, mystical runes, knee-high boots, enchanted gem-laden greataxe.
+Giant Stalker Barbarian Outfit: Trophy-adorned dress from slain giants, durable pants with calf-high boots, tribal tattoos, massive greatclub.
+Hateful Rager Barbarian Outfit: Spiked and fierce breastplate, sturdy pants with knee-high boots, fur-lined cloak, spiked gauntlets, massive greataxe.
+Hurler Barbarian Outfit: Fitted fur bodice with tribal patterns, tribal tattoos, durable pants with calf-high boots, bandolier with thrown weapons, javelins.
+Invulnerable Rager Barbarian Outfit: Reinforced breastplate with tribal motifs, sturdy pants with knee-high boots, fur-lined cloak, spiked gauntlets, massive battleaxe.
+Jungle Rager Barbarian Outfit: Fitted jungle-inspired bodice, tribal tattoos, knee-high boots, bone-tipped spear.
+Mad Dog Barbarian Outfit: Fitted fur bodice with beast motifs, durable pants with calf-high boots, clawed gloves, primal greataxe.
+Mooncursed Barbarian Outfit: Fitted tribal bodice with moonlit motifs, durable pants with calf-high boots, moonlit tattoos, enchanted crescent blade.
+Mounted Fury Barbarian Outfit: Tough leather corset with engraved mounted accents, fur-lined cloak, durable pants with calf-high boots, mounted lance.
+Numerian Liberator Barbarian Outfit: Studded leather bodice with engraved technological accents, utility belt, knee-high boots, energy sword.
+Pack Hunter Barbarian Outfit: Fitted fur bodice with tribal patterns, tribal tattoos, durable pants with calf-high boots, bandolier with thrown weapons, javelins.
+Pack Rager Barbarian Outfit: Fitted pelt bodice with tribal motifs, tribal tattoos, knee-high boots, primal greatsword.
+Primal Hunter Barbarian Outfit: Fitted tribal bodice with animal hide accents, durable pants with calf-high boots, bone necklace, primal greataxe.
+Raging Cannibal Barbarian Outfit: Fitted fur bodice with cannibal motifs, durable pants with calf-high boots, bone club.
+Savage Barbarian Barbarian Outfit: Fitted fur bodice with savage motifs, tribal tattoos, knee-high boots, clawed gloves.
+Savage Technologist Barbarian Outfit: Fitted tribal bodice with technological accents, durable pants with calf-high boots, tribal tattoos, energy sword.
+Scarred Rager Barbarian Outfit: Tattered and fierce dress, tribal tattoos, durable pants with calf-high boots, spiked gauntlets, massive greataxe.
+Sea Reaver Barbarian Outfit: Fitted gown with pirate accents, seashell-adorned bodice, knee-high boots, cutlass sword.
+Sharptooth Barbarian Outfit: Enchanted gown with toothed patterns, tribal tattoos, knee-high boots, enchanted toothed greataxe.
+Shoanti Burn Rider Barbarian Outfit: Fitted dress with flame motifs, tribal tattoos, knee-high boots, flaming whip.
+Superstitious Barbarian Outfit: Fitted pelt bodice with tribal charms, knee-high boots, enchanted tribal weapon.
+Titan Mauler Barbarian Outfit: Trophy-adorned dress from slain giants, durable pants with calf-high boots, tribal tattoos, oversized greatsword.
+Totem Warrior Barbarian Outfit: Enchanted gown with totem patterns, tribal tattoos, knee-high boots, enchanted totem weapon, animal-headed staff.
+True Primitive Barbarian Outfit: Fitted fur bodice with primitive motifs, tribal tattoos, knee-high boots, clawed gloves.
+Untamed Rager Barbarian Outfit: Tattered dress with stained patterns, tribal tattoos, durable pants with calf-high boots, spiked gauntlets, berserker's axe.
+Urban Barbarian Barbarian Outfit: Studded leather bodice with city motifs, durable pants with calf-high boots, fingerless gloves, improvised weapon, broken bottle.
+Wild Rager Barbarian Outfit: Fitted fur bodice with wild motifs, tribal tattoos, knee-high boots, clawed gloves.
+Wildborn Barbarian Outfit: Fitted tribal bodice with animal hide accents, durable pants with calf-high boots, bone necklace, primal greataxe.
+Ancient Guardian Druid Outfit: Moss-covered gown with natural patterns, leafy tiara, leaf-adorned pants with wooden sandals, staff topped with a gnarled branch.
+Ape Shaman Druid Outfit: Fitted fur bodice with ape symbols, leafy tiara, primal pants with barefoot sandals, staff topped with a carved ape head.
+Aquatic Druid Outfit: Fitted gown with watery designs, seashell-adorned tiara, scaled pants with aquatic motifs, trident staff.
+Arctic Druid Outfit: Fitted fur bodice with frost motifs, fur-lined pants with snow boots, staff adorned with icicles.
+Tamer Druid Outfit: Fitted gown with animal-inspired patterns, tribal tattoos, knee-high boots, enchanted staff adorned with animal carvings.
+Bat Shaman Druid Outfit: Flowing gown with bat motifs, bat-winged headdress, dark pants with tall boots, staff topped with a bat totem.
+Bear Shaman Druid Outfit: Fitted gown with bear symbols, bear-head hood, fur-lined pants with bear paws, staff topped with a bear claw.
+Blight Druid Outfit: Fitted tattered dress, skull-adorned hood, dark pants with tall boots, staff topped with a corrupted vine.
+Boar Shaman Druid Outfit: Fitted fur bodice with boar symbols, boar-head hood, earth-toned pants with fur-lined boots, staff topped with a boar totem.
+Cave Druid Outfit: Flowing gown with cave motifs, primitive mask, dark pants with tall boots, staff adorned with cave symbols.
+Death Druid Outfit: Fitted tattered dress, skull-adorned hood, dark pants with tall boots, staff adorned with a skull.
+Defender of the True World Druid Outfit: Fitted gown with primal patterns, tribal tattoos, knee-high boots, staff adorned with natural motifs.
+Desert Druid Outfit: Flowing gown with desert motifs, turban, sand-covered pants with desert sandals, staff adorned with a sun emblem.
+Devolutionist Druid Outfit: Fitted tattered dress, bone-adorned hood, dark pants with tall boots, staff adorned with bones and furs.
+Dinosaur Druid Outfit: Fitted gown with dinosaur patterns, tribal tattoos, knee-high boots, staff adorned with dinosaur carvings.
+Draconic Druid Outfit: Fitted dress with dragon symbols, dragon-head tiara, scaled pants with knee-high boots, staff adorned with dragon engravings.
+Dragon Shaman Druid Outfit: Fitted gown with dragon motifs, tribal tattoos, knee-high boots, staff adorned with dragon carvings.
+Drovier Druid Outfit: Fitted gown with swamp patterns, tribal tattoos, knee-high boots, staff adorned with aquatic and swamp symbols.
+Eagle Shaman Druid Outfit: Flowing gown with eagle patterns, feathered headdress, earth-toned pants with tall boots, staff topped with an eagle totem.
+Elemental Ally Druid Outfit: Fitted gown with elemental patterns, tribal tattoos, knee-high boots, staff adorned with elemental symbols.
+Feral Child Druid Outfit: Tattered dress with natural patterns, leafy tiara, rugged pants with barefoot sandals, staff adorned with vines and leaves.
+Feral Shifter Druid Outfit: Fitted fur bodice with animal motifs, tribal tattoos, knee-high boots, staff adorned with animal carvings.
+Feyspeaker Druid Outfit: Fitted gown with fey motifs, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with fey charms.
+Fungal Pilgrim Druid Outfit: Flowing gown with mushroom patterns, mushroom-adorned headdress, earth-toned pants with fungal motifs, staff topped with a mushroom.
+Goliath Druid Outfit: Fitted fur and bone bodice with tribal symbols, knee-high boots, staff adorned with goliath markings.
+Green Faith Initiate Druid Outfit: Fitted green gown with fey motifs, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with fey charms.
+Green Scourge Druid Outfit: Fitted tattered green dress, skull-adorned hood, dark pants with tall boots, staff adorned with thorns.
+Halcyon Druid Outfit: Flowing gown with cloud motifs, feathered headdress, sky blue pants with tall boots, staff topped with a wind charm.
+Jungle Druid Outfit: Fitted gown with jungle motifs, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with jungle carvings.
+Kraken Caller Druid Outfit: Flowing gown with kraken patterns, tentacle-adorned headdress, scaled pants with ocean-themed sandals, staff topped with a kraken totem.
+Leshy Warden Druid Outfit: Fitted gown with leshy patterns, wooden mask, earth-toned pants with leafy sandals, staff adorned with leshy motifs.
+Life Channeler Druid Outfit: Flowing gown with vibrant plant motifs, leaf-adorned pants with earth-toned sandals, staff adorned with natural symbols.
+Lion Shaman Druid Outfit: Fitted fur bodice with lion symbols, lion-head hood, earth-toned pants with fur-lined boots, staff topped with a lion totem.
+Mantella Druid Outfit: Fitted gown with swamp patterns, tribal tattoos, knee-high boots, staff adorned with swamp symbols.
+Menhir Savant Druid Outfit: Moss-covered gown with stone motifs, leafy tiara, leaf-adorned pants with stone sandals, staff adorned with a stone totem.
+Mooncaller Druid Outfit: Fitted gown with moon motifs, moonlit tattoos, knee-high boots, staff adorned with a crescent moon.
+Mountain Druid Outfit: Fitted gown with mountain patterns, tribal tattoos, knee-high boots, staff adorned with mountain symbols.
+Naga Aspirant Druid Outfit: Flowing gown with serpent patterns, snake-head headdress, scaled pants with snake-themed sandals, staff topped with a snake totem.
+Nature Fang Druid Outfit: Fitted gown with animal and plant motifs, tribal tattoos, knee-high boots, staff adorned with natural symbols.
+Nature Priest Druid Outfit: Fitted gown with primal patterns, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with natural symbols.
+Nithveil Adept Druid Outfit: Fitted tattered gown, shadowy hood, dark pants with tall boots, staff adorned with nithveil energy.
+Pack Lord Druid Outfit: Fitted fur bodice with animal symbols, tribal tattoos, knee-high boots, staff adorned with animal motifs.
+Plains Druid Outfit: Fitted gown with prairie patterns, tribal tattoos, knee-high boots, staff adorned with plains motifs.
+Planar Extremist Druid Outfit: Fitted gown with planar motifs, arcane tattoos, knee-high boots, staff adorned with planar symbols.
+Progenitor Druid Outfit: Fitted gown with natural patterns, tribal tattoos, knee-high boots, staff adorned with primal symbols.
+Reincarnated Druid Outfit: Fitted tattered gown, ghostly hood, dark pants with tall boots, staff adorned with spiritual energy.
+Restorer Druid Outfit: Flowing gown with natural patterns, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with rejuvenating motifs.
+River Druid Outfit: Fitted gown with river patterns, tribal tattoos, knee-high boots, staff adorned with river symbols.
+Road Keeper Druid Outfit: Fitted gown with travel motifs, tribal tattoos, knee-high boots, staff adorned with road symbols.
+Rot Warden Druid Outfit: Fitted tattered dress, skull-adorned hood, dark pants with tall boots, staff adorned with decaying vines.
+Saurian Shaman Druid Outfit: Fitted gown with reptilian patterns, tribal tattoos, knee-high boots, staff adorned with reptilian motifs.
+Season Keeper Druid Outfit: Flowing gown with seasonal patterns, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with seasonal symbols.
+Season Sage Druid Outfit: Flowing gown with seasonal patterns, tribal tattoos, knee-high boots, staff adorned with seasonal symbols.
+Serpent Shaman Druid Outfit: Flowing gown with serpent patterns, snake-head headdress, scaled pants with snake-themed sandals, staff topped with a snake totem.
+Shark Shaman Druid Outfit: Fitted gown with ocean patterns, tribal tattoos, knee-high boots, staff adorned with shark motifs.
+Skinshaper Druid Outfit: Fitted fur bodice with tribal symbols, knee-high boots, staff adorned with animal carvings.
+Sky Druid Outfit: Flowing gown with cloud motifs, feathered headdress, sky blue pants with tall boots, staff adorned with cloud symbols.
+Storm Druid Outfit: Fitted gown with storm patterns, arcane tattoos, knee-high boots, staff adorned with storm motifs.
+Sunrider Druid Outfit: Fitted gown with sun motifs, sunlit tattoos, knee-high boots, staff adorned with a sun emblem.
+Supernaturalist Druid Outfit: Fitted gown with arcane patterns, arcane tattoos, knee-high boots, staff adorned with arcane motifs.
+Survivor Druid Outfit: Fitted tattered dress, leafy tiara, rugged pants with barefoot sandals, staff adorned with vines and leaves.
+Swamp Druid Outfit: Fitted gown with swamp patterns, tribal tattoos, knee-high boots, staff adorned with swamp symbols.
+Swarm Monger Druid Outfit: Fitted gown with insect patterns, tribal tattoos, knee-high boots, staff adorned with insect motifs.
+Tempest Druid Outfit: Fitted gown with storm patterns, arcane tattoos, knee-high boots, staff adorned with storm motifs.
+Tempest Tamer Druid Outfit: Flowing gown with storm patterns, tribal tattoos, knee-high boots, staff adorned with storm symbols.
+Toxicologist Druid Outfit: Fitted gown with toxic patterns, tribal tattoos, knee-high boots, staff adorned with toxic symbols.
+Treesinger Druid Outfit: Fitted gown with tree patterns, tribal tattoos, knee-high boots, staff adorned with tree motifs.
+Troll Fury Druid Outfit: Fitted tattered gown, bone-adorned hood, dark pants with tall boots, staff adorned with bone charms.
+Undine Adept Druid Outfit: Flowing gown with aquatic patterns, scaled pants with aquatic sandals, staff adorned with water motifs.
+Urban Druid Outfit: Fitted gown with urban patterns, tribal tattoos, knee-high boots, staff adorned with urban motifs.
+Urushiol Druid Outfit: Fitted gown with toxic patterns, tribal tattoos, knee-high boots, staff adorned with toxic symbols.
+Wild Whisperer Druid Outfit: Fitted gown with animal and plant motifs, tribal tattoos, knee-high boots, staff adorned with natural symbols.
+Wolf Shaman Druid Outfit: Fitted fur bodice with wolf symbols, wolf-head hood, earth-toned pants with fur-lined boots, staff topped with a wolf totem.
+World Walker Druid Outfit: Flowing gown with travel motifs, tribal tattoos, knee-high boots, staff adorned with nature symbols.
+Animal Speaker Bard Outfit: Fitted gown with animal patterns, a leafy crown, earth-toned pants with fur-lined boots, and a wooden flute.
+Arcane Duelist Bard Outfit: Flowing gown with intricate magical patterns, tall boots, a sleek rapier at the hip, and a spellbook at the side.
+Arcane Healer Bard Outfit: Flowing gown with gentle patterns, a golden headband, sandals, and a soothing harp slung across the back.
+Archaeologist Bard Outfit: Practical explorer's dress with sturdy boots, a wide-brimmed hat, and a satchel for collected relics.
+Archivist Bard Outfit: Fitted gown with intricate patterns, a spectacles chain, quill and parchment, and a book of knowledge in hand.
+Argent Voice Bard Outfit: Noble's gown with silver adornments, a polished rapier at the side, a silver pendant, and a silk handkerchief.
+Arrowsong Minstrel Bard Outfit: Flowing gown with elven motifs, archery bracers, earth-toned pants, and a sleek longbow.
+Averaka Arbiter Bard Outfit: Regal gown with intricate designs, a feathered headband, formal boots, and a decorative staff.
+Brazen Deceiver Bard Outfit: Alluring gown with a feathered headpiece, a cape, a golden chain, and a dagger tucked at the waist.
+Buccaneer Bard Outfit: Pirate-inspired dress with a tricorn hat, a sash across the waist, tall boots, and a rapier.
+Busker Bard Outfit: Casual musician's dress with vibrant colors, a hat for tips, a lute on the back, and a charming smile.
+Celebrity Bard Outfit: Glamorous gown with dazzling designs, a glistening pendant, elegant shoes, and a silver-tipped cane.
+Chelish Diva Bard Outfit: Extravagant gown with Chelaxian designs, a decorative cane, formal boots, and an air of confidence.
+Chronicler of Worlds Bard Outfit: Flowing gown with cosmic motifs, a headband adorned with celestial symbols, and an ornate quill.
+Court Bard Bard Outfit: Courtier's gown with elegant patterns, a feathered headpiece, formal boots, and a lute on the back.
+Court Fool Bard Outfit: Colorful jester's dress with bells, a motley hat, and a playful lute on the back.
+Cultivator Bard Outfit: Rustic dress with natural motifs, a wide-brimmed hat, gardening tools, and a small pouch for seeds.
+Daredevil Bard Outfit: Adventurer's dress with daring patterns, a daring grin, a grappling hook, and a swashbuckler's rapier.
+Dawnflower Dervish Bard Outfit: Flowing gown with sun patterns, a headband adorned with sun motifs, and a scimitar at the hip.
+Demagogue Bard Outfit: Charismatic gown with commanding designs, a decorative staff, formal boots, and an air of authority.
+Dervish Dancer Bard Outfit: Exotic dancer's dress with flowing patterns, a turban with veils, and finger cymbals.
+Detective Bard Outfit: Sleuth's dress with a detective's hat, a magnifying glass, a notebook, and a mysterious demeanor.
+Dirge Bard Bard Outfit: Mourner's gown with sorrowful patterns, a headband adorned with sorrowful symbols, and a haunting dirge on a lute.
+Disciple of the Forked Tongue Bard Outfit: Flowing gown with serpentine motifs, a headband adorned with snake symbols, and a hissing flute.
+Dragon Herald Bard Outfit: Regal gown with dragon patterns, a horned circlet, formal boots, and a banner bearing the dragon's emblem.
+Dragon Yapper Bard Outfit: Adventurer's dress with dragon patterns, a dragon-head hood, earth-toned pants, and a draconic flute.
+Duettist Bard Outfit: Elegant gown with harmonious designs, a partner's handkerchief, formal boots, and two decorative flutes.
+Dwarven Scholar Bard Outfit: Dwarven-inspired gown with engraved motifs, a sturdy beard, sturdy boots, and a tome in hand.
+Faith Singer Bard Outfit: Devotional gown with divine patterns, a simple circlet, formal boots, and a holy book in hand.
+Fey Courtier Bard Outfit: Fey-inspired gown with ethereal motifs, a leafy crown, earth-toned pants with boots, and a delicate flute.
+Fey Prankster Bard Outfit: Mischievous gown with whimsical designs, a leafy crown, earth-toned pants with boots, and a set of pranks.
+Filidh Bard Outfit: Celtic-inspired dress with woven motifs, a harp at the back, a kilt with boots, and a brimmed hat.
+First World Minstrel Bard Outfit: Fey-themed gown with fantastical designs, a horned circlet, earth-toned pants with boots, and a magical flute.
+Flame Dancer Bard Outfit: Fire-themed gown with burning motifs, a fire-themed circlet, earth-toned pants with boots, and a flaming baton.
+Flamesinger Bard Outfit: Ember-themed gown with fiery designs, a flaming headdress, earth-toned pants with boots, and a resonant voice.
+Fortune-Teller Bard Outfit: Mystic gown with mystical patterns, a crystal ball, tarot cards, and a mysterious air.
+Geisha Bard Outfit: Traditional geisha kimono with intricate designs, a delicate fan, and a soothing melody on a shamisen.
+Hatharat Agent Bard Outfit: Disguised gown with hidden motifs, a wide-brimmed hat, a concealed weapon, and a secretive smile.
+Hoaxer Bard Outfit: Trickster's dress with mischievous designs, a motley hat, a concealed trick, and a cunning grin.
+Impervious Messenger Bard Outfit: Messenger's dress with quick motifs, a messenger's satchel, formal boots, and a nimble demeanor.
+Juggler Bard Outfit: Entertainer's dress with vibrant designs, juggling pins at the hip, a top hat, and a captivating smile.
+Lotus Geisha Bard Outfit: Geisha-inspired kimono with lotus motifs, a delicate fan, and a soothing melody on a shamisen.
+Luring Piper Bard Outfit: Pied Piper's dress with enchanting designs, a pipe at the hip, a motley hat, and an enchanting smile.
+Magician Bard Outfit: Showman's dress with spellbinding motifs, a magician's hat, a deck of cards, and a flair for illusion.
+Masked Performer Bard Outfit: Theatrical dress with masked designs, a half-mask at the side, a colorful cape, and a theatrical flourish.
+Mute Musician Bard Outfit: Musician's dress with silent patterns, a musical instrument on the back, and a soulful expression.
+Negotiator Bard Outfit: Diplomat's gown with diplomatic designs, a scroll in hand, formal boots, and a diplomatic air.
+Phrenologist Bard Outfit: Pseudoscientist's dress with arcane patterns, a phrenologist's headband, and a set of skull charts.
+Plant Speaker Bard Outfit: Druidic gown with nature motifs, a crown of flowers, earth-toned pants with boots, and a wooden flute.
+Prankster Bard Outfit: Mischievous dress with whimsical designs, a motley hat, a set of pranks, and a cunning grin.
+Provocateur Bard Outfit: Seductive gown with enticing motifs, a decorative fan, a mischievous grin, and an alluring melody on a flute.
+Ringleader Bard Outfit: Entertainer's dress with mesmerizing designs, a whip at the hip, a top hat, and a commanding presence.
+Sandman Bard Outfit: Dreamweaver's gown with ethereal motifs, a dreamcatcher at the side, and a soothing melody on a flute.
+Savage Skald Bard Outfit: Barbarian-inspired dress with tribal motifs, a feathered headband, earth-toned pants with boots, and a war drum.
+Sea Singer Bard Outfit: Seafarer's dress with nautical designs, a tricorn hat, a spyglass, and a sailor's shanty on the lips.
+Shadow Puppeteer Bard Outfit: Puppeteer's dress with shadowy motifs, a puppet on the hand, a cloak, and a hint of mystery.
+Silver Balladeer Bard Outfit: Entertainer's dress with silvery designs, a silver pendant, a lute on the back, and a captivating presence.
+Solacer Bard Outfit: Comforter's gown with serene motifs, a headband adorned with soothing symbols, and a calming flute.
+Songhealer Bard Outfit: Healer's gown with melodious motifs, a headband adorned with healing symbols, and a soothing harp.
+Sorrowsoul Bard Outfit: Mourner's gown with sorrowful patterns, a headband adorned with mournful symbols, and a haunting dirge on a lute.
+Sound Striker Bard Outfit: Musician's dress with harmonious designs, a resonant voice, a sonic staff, and a flair for sonic manipulation.
+Speaker of the Eye Bard Outfit: Diviner's gown with eye motifs, a third eye headband, a crystal ball, and a mysterious demeanor.
+Stonesinger Bard Outfit: Earth-themed gown with rock motifs, a headband adorned with earth symbols, and a magical drum.
+Street Performer Bard Outfit: Informal dress with colorful designs, a hat for tips, a lute on the back, and a lively grin.
+Studious Librarian Bard Outfit: Scholar's gown with learned motifs, a spectacles chain, a scroll in hand, and a book on the belt.
+Thundercaller Bard Outfit: Storm-themed gown with electrifying designs, a thunder-themed headband, and a magical drum.
+Voice of Brigh Bard Outfit: Inventor's dress with clockwork motifs, a Brigh's symbol, a spanner, and a tinkering demeanor.
+Voice of the Wild Bard Outfit: Druidic gown with untamed motifs, a crown of leaves, earth-toned pants with boots, and a wooden flute.
+Wasteland Chronicler Bard Outfit: Survivor's dress with weathered motifs, a hooded cloak, a satchel for relics, and a knowing gaze.
+Watersinger Bard Outfit: Water-themed gown with flowing designs, a water-themed circlet, earth-toned pants with boots, and a water-themed flute.
+Wit Bard Outfit: Entertainer's dress with amusing designs, a motley hat, a quill and parchment, and a clever retort.
+Banishing Warden Paladin Outfit: Radiant armor with protective runes, a blessed amulet, a mystical staff, and an aura of protection.
+Champion of the Cascade Paladin Outfit: Elaborate armor with flowing designs, a waterfall-shaped crest, a glimmering longsword, and a determined gaze.
+Chaos Knight Paladin Outfit: Tumultuous armor with unpredictable designs, a chaos emblem, a serrated longsword, and an enigmatic presence.
+Chosen One Paladin Outfit: Celestial armor with ethereal patterns, a radiant halo, a holy longsword, and an aura of destiny.
+Combat Healer Squire Paladin Outfit: Versatile armor with soothing motifs, a squire's badge, a trusty mace, and a readiness to mend wounds.
+Divine Defender Paladin Outfit: Guardian's armor with sacred designs, a shield bearing a holy symbol, a broadsword, and a resolute gaze.
+Divine Guardian Paladin Outfit: Guardian's armor with watchful designs, a guardian's helm, a glimmering longsword, and an unwavering stance.
+Divine Hunter Paladin Outfit: Hunter's armor with sacred patterns, a cloak of tracking, a bow and quiver, and a focused gaze.
+Dusk Knight Paladin Outfit: Nocturnal armor with moonlit patterns, a cloak of dusk, a darkblade, and an enigmatic demeanor.
+Empyreal Knight Paladin Outfit: Celestial armor with ethereal designs, a pair of angelic wings, a celestial glaive, and a radiant presence.
+Faithful Wanderer Paladin Outfit: Nomadic gown with divine motifs, a rugged cloak, a staff of pilgrimage, and a determined gaze.
+Forest Preserver Paladin Outfit: Nature-inspired armor with floral patterns, a wreath of leaves, a druidic glaive, and a serene presence.
+Forgefather's Seeker Paladin Outfit: Forgemaster's gown with molten designs, a hammer of the forge, a shield bearing an anvil, and a determined presence.
+Ghost Hunter Paladin Outfit: Ectoplasmic armor with eerie designs, a ghostly visage helm, a silvered longsword, and a resolute stance.
+Gray Paladin Paladin Outfit: Equitable armor with neutral motifs, a composed expression, a versatile longsword, and a fair presence.
+Holy Guide Paladin Outfit: Pilgrim's gown with spiritual patterns, a sacred book, a lantern, and an aura of wisdom.
+Holy Gun Paladin Outfit: Gunslinger's dress with consecrated designs, a blessed gun, a bandolier of bullets, and a steady hand.
+Holy Tactician Paladin Outfit: Tactician's dress with strategic motifs, a commander's insignia, a gleaming longsword, and a decisive presence.
+Hospitaler Paladin Outfit: Healer's gown with compassionate designs, a healing staff, a bag of medicinal herbs, and a tender presence.
+Hunting Paladin Paladin Outfit: Tracker's gown with woodland motifs, a cloak of the hunter, a bow and quiver, and a determined gaze.
+Invigorator Paladin Outfit: Revitalizing armor with invigorating patterns, a pulsating aura, a glowing longsword, and a commanding presence.
+Iomedaen Enforcer Paladin Outfit: Knightly armor with devout designs, a shield bearing Iomedae's symbol, a blessed longsword, and an unwavering stance.
+Iroran Paladin Paladin Outfit: Monk's gown with balanced motifs, a meditative aura, a staff of inner balance, and a serene expression.
+Knight of Coins Paladin Outfit: Prosperous armor with golden designs, a medallion of prosperity, a ceremonial longsword, and a confident presence.
+Kraken Slayer Paladin Outfit: Ocean-inspired gown with marine designs, a trident with kraken motifs, and a resolute gaze.
+Legate Paladin Outfit: Centurion's armor with disciplined motifs, a legionnaire's helm, a ceremonial longsword, and an unwavering stance.
+Martyr Paladin Outfit: Devoted armor with sacred patterns, a serene expression, a holy longsword, and an aura of sacrifice.
+Mind Sword Paladin Outfit: Psychic attire with telepathic motifs, a headband of mental focus, a psychic longsword, and a serene presence.
+Pearl Seeker Paladin Outfit: Aquatic gown with marine designs, a diving helmet, a trident with a pearly blade, and a resolute stance.
+Redeemer Paladin Outfit: Salvation-inspired armor with forgiving motifs, a redemptive aura, a glowing longsword, and a compassionate presence.
+Sacred Servant Paladin Outfit: Devout gown with sacred designs, a servant's humility, a ceremonial staff, and an unwavering commitment.
+Sacred Shield Paladin Outfit: Guardian's armor with divine motifs, a shield bearing a holy symbol, a broadsword, and a steadfast stance.
+Scion of Talmandor Paladin Outfit: Avian-inspired armor with talon motifs, a pair of eagle wings, a glaive with a keen edge, and a determined presence.
+Shining Knight Paladin Outfit: Sun-inspired armor with gleaming designs, a helmet with a radiant crest, a radiant longsword, and a resolute gaze.
+Silver Champion Paladin Outfit: Moonlit gown with celestial motifs, a moonlight helm, a silvered longsword, and a serene presence.
+Soul Sentinel Paladin Outfit: Guardian's armor with ethereal motifs, a soul warding talisman, a holy longsword, and a resolute stance.
+Stonelord Paladin Outfit: Stone-inspired gown with earthy designs, a stonebound helm, a stone hammer, and an unwavering stance.
+Sword of Valor Paladin Outfit: Courageous armor with heroic motifs, a valorous aura, a gleaming longsword, and a determined presence.
+Tempered Champion Paladin Outfit: Elemental armor with forged designs, a gauntlet of elemental power, a gleaming longsword, and a determined presence.
+Temple Champion Paladin Outfit: Devotional gown with sacred motifs, a ceremonial helm, a temple staff, and an unwavering stance.
+Tortured Crusader Paladin Outfit: Vengeful armor with haunted designs, a cloak of mourning, a sword with a dark past, and a resolute stance.
+Tranquil Guardian Paladin Outfit: Serene armor with tranquil motifs, a serene expression, a shield bearing an inner peace emblem, and a serene presence.
+Undead Scourge Paladin Outfit: Spirit-infused armor with spectral designs, a ghostly aura, a holy longsword, and a fierce and determined gaze.
+Vindictive Bastard Paladin Outfit: Vengeful attire with smoldering motifs, a dark cloak, a sword of retribution, and a resolute and unforgiving gaze.
+Virtuous Bravo Paladin Outfit: Graceful gown with virtuous motifs, a chivalric helm, a rapier with a noble flourish, and an elegant and charming stance.
+Warrior of the Holy Light Paladin Outfit: Celestial gown with luminous designs, a helm of righteousness, a glowing longsword, and a divine presence.
+Wilderness Warden Paladin Outfit: Nature-infused gown with woodland designs, a cloak of the wilds, a druidic glaive, and a resolute presence.
+Black Asp Monk Outfit: Form-fitting black jumpsuit with snake motifs, fingerless gloves, a wrapped headband, and a subtle serpent tattoo on the wrist.
+Brazen Disciple Monk Outfit: Crimson vestments with golden accents, metal arm bracers, a warrior's headband, and a confident and fearless expression.
+Disciple of Wholeness Monk Outfit: Tranquil azure gown, prayer beads, a serene expression, and a staff of healing.
+Drunken Master Monk Outfit: Worn, flowing attire, a gourd of spirits, a whimsical expression, and a fluid and unpredictable fighting style.
+Elemental Monk Outfit: Flowing gown with elemental motifs, elemental tattoos, a staff infused with elemental power, and an aura of elemental energy.
+Far Strike Monk Outfit: Forest-inspired attire, a quiver of arrows, a composite bow, and a keen-eyed expression.
+Flowing Monk Outfit: Gentle azure gown, a flowing sash, a calm expression, and a fluid and elegant fighting stance.
+Gray Disciple Monk Outfit: Enigmatic gray gown, a crystal amulet, a staff of knowledge, and an aura of wisdom.
+Hamatulatsu Master Monk Outfit: Earth-toned attire with martial arts motifs, a focused gaze, and a pair of tonfas.
+Harrow Warden Monk Outfit: Diviner's gown with harrow patterns, a deck of harrow cards, a stoic expression, and an aura of foresight.
+Hellcat Monk Outfit: Flaming gown with claw patterns, fiery tattoos, a pair of fiery gauntlets, and a fierce and determined gaze.
+Hungry Ghost Monk Outfit: Translucent gown with ethereal motifs, a ghostly aura, a staff with ghostly carvings, and a haunting presence.
+Invested Regent Monk Outfit: Royal gown with majestic motifs, a crown-like headband, a staff of command, and a regal and commanding presence.
+Ironskin Monk Outfit: Sturdy leather gown, metal bracers, a headband of resilience, and a resolute and unwavering expression.
+Karmic Monk Outfit: Harmonious gown with yin-yang motifs, a necklace with a yin-yang pendant, a staff of balance, and a serene presence.
+Kata Master Monk Outfit: Graceful attire with kata motifs, a master's headband, a pair of tonfas, and a fluid and precise fighting stance.
+Ki Mystic Monk Outfit: Enlightened gown with ki motifs, a ki-infused staff, an enlightened expression, and an inner glow.
+Lifting Hand Monk Outfit: Sturdy work gown, a headband of strength, a staff for support, and a determined and supportive presence.
+Maneuver Master Monk Outfit: Agile gown with martial motifs, a pair of gauntlets, a martial headband, and a fluid and evasive fighting stance.
+Martial Artist Monk Outfit: Elegant gown with martial motifs, a headband of discipline, a pair of nunchaku, and a poised and disciplined presence.
+Master of Many Styles Monk Outfit: Versatile gown with flexible motifs, a staff with multiple forms, and an adaptive and agile fighting stance.
+Menhir Guardian Monk Outfit: Earth-toned attire with natural designs, a headband with a menhir symbol, a staff with a druidic totem, and a resolute and nurturing presence.
+Monk of the Empty Hand Outfit: Modest gown with a tranquil motif, a headband with a serene symbol, a martial staff, and a serene and composed presence.
+Monk of the Four Winds Outfit: Flowing gown with wind motifs, a staff with swirling patterns, and a fluid and changeable fighting stance.
+Monk of the Healing Hand Outfit: Soothing gown with healing motifs, a staff of restoration, a serene expression, and a compassionate and nurturing presence.
+Monk of the Lotus Outfit: Graceful gown with lotus motifs, a necklace with a lotus pendant, a staff with lotus carvings, and an aura of inner peace.
+Monk of the Mantis Outfit: Agile gown with mantis motifs, a pair of mantis kamas, a martial headband, and a fluid and graceful fighting stance.
+Monk of the Sacred Mountain Outfit: Nature-inspired attire with mountain designs, a headband with a mountain emblem, a staff with stone carvings, and an unwavering and grounded presence.
+Monk of the Seven Forms Outfit: Flowing gown with versatile motifs, a staff with versatile techniques, and a fluid and changeable fighting stance.
+Nimble Guardian Monk Outfit: Lithe gown with swift motifs, a staff with swift strikes, and a nimble and graceful fighting stance.
+Nornkith Monk Outfit: Mystic gown with runic motifs, a headband with a rune symbol, a staff with rune carvings, and an aura of ancient wisdom.
+Ouat Monk Outfit: Sand-colored gown with desert motifs, a scarf covering the face, a staff of sand magic, and a mysterious and alluring presence.
+Perfect Scholar Monk Outfit: Learned gown with scholarly motifs, a headband with a scholarly emblem, a staff of enlightenment, and an aura of profound wisdom.
+Qinggong Monk Outfit: Lithe gown with qinggong motifs, a staff with flexible maneuvers, and a fluid and graceful fighting stance.
+Sage Counselor Monk Outfit: Scholarly gown with wise motifs, a headband with a wise symbol, a staff of sage advice, and an aura of profound insight.
+Scaled Fist Monk Outfit: Serpent-inspired gown with scaled motifs, a pair of scaled gauntlets, a martial headband, and an enigmatic and commanding presence.
+Sensei Monk Outfit: Mentor's gown with teaching symbols, a headband of mentorship, a staff of teaching, and an aura of guidance.
+Serpent-Fire Adept Monk Outfit: Flaming gown with serpent patterns, a staff with fire techniques, and a fierce and determined gaze.
+Sin Monk Outfit: Shadowy gown with arcane motifs, a headband with a mysterious emblem, a staff of shadow magic, and an alluring and enigmatic presence.
+Softstrike Monk Outfit: Tranquil gown with peace motifs, a headband of peace, a staff with nonlethal techniques, and a soothing and comforting presence.
+Sohei Monk Outfit: Battle-ready gown with martial motifs, a warrior's headband, a naginata, and a focused and formidable presence.
+Soul Shepherd Monk Outfit: Ethereal gown with spiritual motifs, a staff with soulful carvings, and an aura of spiritual guidance.
+Spirit Master Monk Outfit: Mystic gown with ethereal motifs, a headband with a spiritual emblem, a staff with spirit carvings, and an aura of ancient wisdom.
+Student of Stone Monk Outfit: Earth-toned attire with natural designs, a headband with an earthy emblem, a staff with stone carvings, and a resolute and nurturing presence.
+Terra-Cotta Monk Outfit: Clay-colored gown with earthen motifs, a staff with earthen carvings, and an aura of inner strength.
+Tetori Monk Outfit: Robes with grappling motifs, a headband with a wrestling emblem, a staff for grappling, and a tenacious and wrestling presence.
+Treetop Monk Outfit: Forest-inspired gown with natural designs, a headband with a nature emblem, a staff with nature carvings, and a keen and observant presence.
+Underfoot Adept Monk Outfit: Earth-toned gown, a staff with earth techniques, and a nimble and graceful fighting stance.
+Wanderer Monk Outfit: Wandering gown with nomadic motifs, a staff for support, a watchful gaze, and an aura of resilience.
+Wasteland Meditant Monk Outfit: Dusty gown with desert designs, a headband with a meditative emblem, a staff with sand techniques, and a composed and meditative presence.
+Water Dancer Monk Outfit: Aquatic gown with water patterns, a staff with fluid techniques, and a fluid and elegant fighting stance.
+Weapon Adept Monk Outfit: Elegant gown with weapon motifs, a pair of weaponized bracers, a martial headband, and a swift and deadly presence.
+Wildcat Monk Outfit: Beastly gown with untamed motifs, a headband with a beastly emblem, a staff with animal carvings, and a predatory and ferocious presence.
+Windstep Master Monk Outfit: Breezy gown with wind motifs, a staff with swift maneuvers, and a graceful and airborne fighting stance.
+Zen Archer Monk Outfit: Mystic archer's gown, a quiver of arrows, a composite bow, and a poised and contemplative presence.
+Abendego Diver Ranger Outfit: Aquatic bodysuit, swimming fins, waterproof gloves, and a waterproof backpack.
+Battle Scout Ranger Outfit: Agile combat attire, stealthy hood, utility belt, and fingerless gloves.
+Beast Master Ranger Outfit: Feral attire with animal motifs, animal hide cloak, leather gauntlets, and a beast symbol necklace.
+Blightwarden Ranger Outfit: Contaminant-proof gown, toxin-resistant gloves, herbal pouch, and a protective headband.
+Bow Nomad Ranger Outfit: Adventurous gown, archery bracer, quiver, and a weathered headband.
+Cinderwalker Ranger Outfit: Char-resistant gown, ember-proof cloak, fireproof gloves, and a flame-resistant headband.
+Code Runner Ranger Outfit: Futuristic attire, data pouch, utility belt, and augmented goggles.
+Corpse Hunter Ranger Outfit: Grave-worn gown, bone trinkets, holy symbols, and an otherworldly headband.
+Dandy Ranger Outfit: Elegant gown, decorative fan, stylish hat, and a delicate necklace.
+Darklands Sailor Ranger Outfit: Nautical gown, sea-inspired necklace, sailor's hat, and a shipwheel headband.
+Deep Walker Ranger Outfit: Submarine gown, bioluminescent cloak, aquatic gloves, and a seaweed headband.
+Divine Tracker Ranger Outfit: Devout gown, holy symbols, prayer beads, and an anointed headband.
+Dragon Hunter Ranger Outfit: Scaled gown, dragon scale cloak, dragon fang pendant, and a dragon head headband.
+Drake Warden Ranger Outfit: Serpentine gown, drake bone necklace, drake tooth dagger, and a drake scale headband.
+Dungeon Rover Ranger Outfit: Dungeoneering gown, adventurer's pack, map case, and a mysterious cloak.
+Dusk Stalker Ranger Outfit: Twilight gown, shadow cloak, dark gloves, and a veil of shadows.
+Elemental Envoy Ranger Outfit: Attire with elemental motifs, elemental token necklace, and a gemstone hairpin.
+Falconer Ranger Outfit: Graceful gown, falcon feather cloak, leather gauntlets, and a falcon crest necklace.
+Flamewarden Ranger Outfit: Ember-proof gown, fiery cloak, fireproof gloves, and a flame emblem necklace.
+Fortune-Finder Ranger Outfit: Mystical gown, divination trinkets, fortune-telling cards, and a fortune seeker's pendant.
+Freebooter Ranger Outfit: Buccaneer's gown, treasure map, pirate hat, and a trinket-laden choker.
+Galvanic Saboteur Ranger Outfit: Techno-gown with electrified motifs, gadget-filled utility belt, and electrically charged gloves.
+Groom Ranger Outfit: Beautiful wedding gown, wedding ring, and a bridal veil.
+Guide Ranger Outfit: Adventurer's gown, map, hiking boots, and a leather headband.
+Guildbreaker Ranger Outfit: Radical gown, revolutionary armband, hidden blades, and a defiant expression.
+Hooded Champion Ranger Outfit: Vigilante gown, mask, hidden blades, and a determined expression.
+Horse Lord Ranger Outfit: Equestrian gown, riding boots, horseshoe pendant, and a horse emblem on the headband.
+Ilsurian Archer Ranger Outfit: Graceful gown with elven patterns, elven longbow, and a quiver of elven arrows.
+Infiltrator Ranger Outfit: Subtle gown, infiltration tools, and a cloak for blending into the shadows.
+Jungle Lord Ranger Outfit: Tribal gown with jungle motifs, vine-wrapped cloak, tribal bracelets, and a feathered headdress.
+Lantern Lighter Ranger Outfit: Glowing gown, lantern-topped staff, and an aura of radiant light.
+Nirmathi Irregular Ranger Outfit: Defiant gown, freedom symbol pendant, rebel armband, and a determined expression.
+Planar Scout Ranger Outfit: Celestial gown, planar compass, dimensional pouch, and a mystical headband.
+Poison Darter Ranger Outfit: Toxic gown with venom motifs, poison vials, venomous gauntlets, and a serpent necklace.
+Raven Master Ranger Outfit: Enigmatic gown with raven motifs, raven feather cloak, raven emblem on the chest, and a raven head headband.
+Realm Wanderer Ranger Outfit: Multiverse gown, traveler's staff, dimensional pouch, and a mysterious cloak.
+Sable Company Marine Ranger Outfit: Naval gown, marine cloak, anchor pendant, and a seafarer's headband.
+Sentinel Ranger Outfit: Alert gown with watchman motifs, vigilant cloak, watchman emblem on the chest, and an attentive expression.
+Shapeshifter Ranger Outfit: Animal-inspired gown, shapeshifter cloak, druidic trinkets, and a spirit animal necklace.
+Skirmisher Ranger Outfit: Graceful gown for swift movements, skirmisher cloak, combat gauntlets, and a determined expression.
+Spirit Ranger Ranger Outfit: Enigmatic gown with spirit motifs, spirit cloak, spiritual trinkets, and a mysterious cloak.
+Stormwalker Ranger Outfit: Wind-touched gown, stormcloak, lightning-etched gauntlets, and a tempestuous headband.
+Summit Sentinel Ranger Outfit: Frost-resistant gown, ice axe, climbing gear, and a snowflake headband.
+Sword-Devil Ranger Outfit: Elegant gown with fencing motifs, fencing rapier, dueling gauntlets, and a duelist's headband.
+Tanglebriar Demonslayer Ranger Outfit: Forest gown with fey motifs, nature trinkets, and a verdant headband.
+Tidal Hunter Ranger Outfit: Oceanic gown, tidal cloak, shell necklace, and a seaweed headband.
+Toxic Herbalist Ranger Outfit: Herbal gown with toxin-resistant motifs, vials of herbal concoctions, and a botanical headband.
+Toxophilite Ranger Outfit: Archery gown, quiver, arrow bracer, and an archer's headband.
+Transporter Ranger Outfit: Load-bearer's gown, satchel, load-bearing gauntlets, and a determined expression.
+Trapper Ranger Outfit: Fur-trimmed gown, trapping tools, and a rugged headband.
+Trophy Hunter Ranger Outfit: Hunter's gown, hunting trophies, and a safari hat.
+Urban Ranger Ranger Outfit: Stylish gown with urban motifs, cityscape cloak, urban accessories, and a sleek headband.
+Warden Ranger Outfit: Guardian gown, protective cloak, symbol of protection, and a resolute expression.
+Wave Warden Ranger Outfit: Oceanic gown, wave cloak, seashell necklace, and a coral headband.
+Wild Hunter Ranger Outfit: Wild gown with tribal motifs, tribal tokens, and a wild headband.
+Wild Shadow Ranger Outfit: Shadowy gown, shadow cloak, dark gauntlets, and an enigmatic mask.
+Wild Soul Ranger Outfit: Nature-inspired gown, primal symbols, and a nature spirit necklace.
+Wild Stalker Ranger Outfit: Animalistic gown, hunter's cloak, animal tokens, and a feral headband.
+Wilderness Explorer Ranger Outfit: Explorer's gown, explorer's hat, survival gear, and a map satchel.
+Wilderness Medic Ranger Outfit: Medic gown, medical pouch, first aid kit, and a healer's headband.
+Witchguard Ranger Outfit: Enchanted gown with witchbane motifs, talismanic symbols, witchbane charms, and an occult headband.
+Yokai Hunter Ranger Outfit: Spirit-gowned attire, warding symbols, yokai talismans, and a spiritual headband.
+Aerochemist Alchemist Outfit: Light and flowing dress adorned with air symbols, feathered headband, windborne scarf, and a satchel filled with compressed air vials.
+Alchemical Sapper Alchemist Outfit: Utility vest filled with various explosive vials, reinforced boots, a tool belt with alchemical gadgets, and a dynamite hairpin.
+Alchemical Trapper Alchemist Outfit: Leaf-patterned {cape|cloak}, enchanted traps on a utility belt, vine-laced bracers, and a flower crown concealing thorny snares.
+Aquachymist Alchemist Outfit: Flowing mermaid-like dress, water-bubble tiara, seashell necklace with healing potions, and a seaweed satchel.
+Beastmorph Alchemist Outfit: Leather tunic with fur accents, a necklace of beast claws, transformation gauntlets, and a potion-filled pelt pouch.
+Blazing Torchbearer Alchemist Outfit: Fiery red dress with glowing ember accents, a phoenix-feathered headpiece, flame-shaped earrings, and a satchel filled with alchemical fire bombs.
+Blightseeker Alchemist Outfit: Hooded {cape|cloak} with toxin-infused embroidery, a plague mask with eerie symbols, poisonous vine bracers, and a vial necklace filled with deadly poisons.
+Blood Alchemist Outfit: Deep red dress with blood droplet motifs, a vial-topped headband, blood-stained gloves, and a necklace with a vial of life essence.
+Bogborn Alchemist Outfit: Earthy green dress with aquatic plant accents, water lily crown, swamp vine bracelet, and a potion-filled lily pad bag.
+Bramble Brewer Alchemist Outfit: Leaf-patterned robe with thorn embroidery, flower crown with concealed vials, a vine whip, and a pouch of alchemical seeds.
+Chirurgeon Alchemist Outfit: White healer's gown with embroidered bandages, a headpiece with a caduceus symbol, potion-filled vials on a bracelet, and a pouch of antidotes.
+Clone Master Alchemist Outfit: Gown with intricate runes, a necklace with homunculus charms, twin-homunculus earrings, and a scroll satchel with clone rituals.
+Concocter Alchemist Outfit: Bright robe with potion bottle patterns, a charm bracelet with tiny vials, potion-stirring wand, and a potion-filled bag.
+Construct Rider Alchemist Outfit: Engineer's jumpsuit with clockwork motifs, a cogwheel crown, a staff with a mechanical bird atop, and a belt with construct-controlling devices.
+Crimson Chymist Alchemist Outfit: Dark crimson dress with blood droplet accents, a blood-filled vial necklace, a heart-shaped potion locket, and a vial of elixir earrings.
+Cruorchymist Alchemist Outfit: Hooded {cape|cloak} with poison-themed patterns, a venomous snake bracelet, vial earrings filled with toxins, and a vial-filled snake-shaped necklace.
+Crypt Breaker Alchemist Outfit: Protective robe with sacred symbols, a necklace with holy water vials, an engraved mallet for exorcism, and a pouch of blessed herbs.
+Deep Bomber Alchemist Outfit: Bioluminescent dress with hidden explosives, an octopus-shaped hairpin with vials, an ink-filled pouch for smoke bombs, and a conch shell filled with alchemical concoctions.
+Dimensional Excavator Alchemist Outfit: Interdimensional robe with shifting patterns, a locket with pocket dimensions, a staff with a portal-opening crystal, and a bag filled with dimension-hopping potions.
+Dragonblood Chymist Alchemist Outfit: Dragon-inspired dress with scale-like accents, dragon claw earrings, a dragon breath potion belt, and a staff with a dragon scale orb.
+Ectochymist Alchemist Outfit: Translucent dress with ethereal wisps, a spectral tiara, ectoplasmic anklets for intangibility, and a vial necklace filled with ghostly essence.
+Ectoplasm Master Alchemist Outfit: Pale ghostly gown with flowing ethereal patterns, a spectral crown with ghostly tendrils, ectoplasmic earrings, and a necklace with a vial of spectral essence.
+Eldritch Poisoner Alchemist Outfit: Enigmatic dress with eldritch symbols, a mysterious pendant with dark energy, poison-infused gloves, and a crystal vial necklace.
+Energist Alchemist Outfit: Vibrant dress with energetic patterns, an energy-charged headband, gloves that harness elemental energy, and a vial-filled necklace with various energy extracts.
+Energy Scientist Alchemist Outfit: Futuristic dress with glowing energy accents, an energy generator tiara, a bracelet with energy vials, and a staff with an energy converter crystal.
+Fermenter Alchemist Outfit: Flowing ale-themed dress with hop vine patterns, a tankard hairpin, a staff with a beer mug topper, and a pouch of alchemical brewing recipes.
+Fire Bomber Alchemist Outfit: Flaming dress with ember accents, a fire-themed hairpiece, explosive earrings, and a pouch of alchemical fire bombs.
+First World Innovator Alchemist Outfit: Enchanting gown with natural patterns, a Fey crown with blossoms, a Fey necklace with sparkling gems, and a pouch with enchanted Fey dust.
+Gloom Chymist Alchemist Outfit: Ebon-hued dress with moonlit accents, a skull-shaped headband, dark gloves infused with shadows, and a necklace with a vial of shadow essence.
+Grenadier Alchemist Outfit: Military-inspired dress with grenade motifs, an explosive hairpin, grenade earrings, and a satchel filled with alchemical grenades.
+Gun Chemist Alchemist Outfit: Gunmetal dress with bullet accents, a pistol-shaped hairpin, gunpowder earrings, and a satchel filled with alchemical ammunition.
+Herbalist Alchemist Outfit: Leaf-patterned dress with floral embroidery, a flower crown with healing properties, a pouch with various herbs, and a vial necklace with plant essences.
+Homunculist Alchemist Outfit: Robe with tiny homunculus patterns, a homunculus hairpin, homunculus earrings, and a satchel with homunculus figurines.
+Horticulturist Alchemist Outfit: Botanical gown with floral accents, a flower crown with magical blooms, a bracelet with bloom-enhancing potions, and a pouch with alchemical seeds.
+Ice Chemist Alchemist Outfit: Frost-themed dress with icy patterns, an ice crown with snowflakes, ice shard earrings, and a pouch of alchemical ice bombs.
+Inspired Chemist Alchemist Outfit: Colorful gown with paint splatters, an artist's paintbrush hairpin, artistic gloves for alchemical creations, and a vial necklace filled with vivid pigments.
+Internal Alchemist Outfit: Alchemical dress with flowing transmutation symbols, a philosopher's stone pendant, a transmutation bracelet, and a pouch of elixirs.
+Interrogator Alchemist Outfit: Darkened gown with hidden pockets, a spyglass hairpin, an interrogation charm bracelet, and a pouch with truth serum vials.
+Mad Scientist Alchemist Outfit: Whimsical dress with eccentric alchemical symbols, a gear-shaped hairpin, an experimental charm bracelet, and a bag with unusual vials.
+Metamorph Alchemist Outfit: Transformative dress with shifting motifs, a chameleon hairpin, a shapeshifter charm bracelet, and a pouch of transformative elixirs.
+Mindchemist Alchemist Outfit: Mind-expanding dress with celestial patterns, a third-eye crown, telepathic gloves for mental communication, and a vial necklace filled with psychic extracts.
+Mixologist Alchemist Outfit: Festive dress with alchemical drink motifs, a potion-filled necklace with tiny drink vials, a shaker-shaped hairpin, and a pouch of alchemical cocktails.
+Mnemostiller Alchemist Outfit: Enigmatic dress with memory-sealing symbols, a memory locket with locked memories, Mnemostiller gloves, and a pouch with Mnemostiller potions.
+Oenopion Researcher Alchemist Outfit: Wine-red dress with vineyard accents, a wineglass hairpin, a wine-tasting charm bracelet, and a pouch with alchemical wine extracts.
+Oozemaster Alchemist Outfit: Gooey dress with slime accents, a slime crown, an ooze bracelet, and a pouch of alchemical slime concoctions.
+Perfumer Alchemist Outfit: Perfumed dress with floral embroidery, a flower crown with scented blossoms, a perfumer's charm bracelet, and a pouch with alchemical perfume vials.
+Plague Bringer Alchemist Outfit: Plague-themed dress with biohazard patterns, a plague mask hairpin, a plague-containment bracelet, and a pouch of alchemical antidotes.
+Preservationist Alchemist Outfit: Antique gown with preserving motifs, a locket filled with preserved ingredients, a preservation charm bracelet, and a pouch of alchemical preservatives.
+Promethean Alchemist Outfit: Flame-inspired dress with flickering patterns, a phoenix-feathered headband, a Promethean charm bracelet, and a pouch of fire-infused alchemical mixtures.
+Psychonaut Alchemist Outfit: Mind-bending dress with cosmic motifs, a third-eye crown, psychonaut gloves for astral exploration, and a vial necklace filled with mystical extracts.
+Ragechemist Alchemist Outfit: Anger-fueled dress with tempestuous patterns, a wrathful hairpin, rage-infused earrings, and a vial necklace filled with berserker concoctions.
+Reanimator Alchemist Outfit: Bone-adorned dress with undead symbols, a skull-shaped headband, a reanimation charm bracelet, and a pouch with alchemical necromantic concoctions.
+Royal Alchemist Outfit: Majestic gown with crown accents, a royal tiara, a royal charm bracelet, and a pouch of alchemical royal elixirs.
+Saboteur Alchemist Outfit: Disguised dress with concealed pockets, a sabotage hairpin, sabotage earrings, and a pouch with alchemical sabotage mixtures.
+Sacrament Alchemist Outfit: Holy gown with divine motifs, a sacred crown, a sacrament charm bracelet, and a pouch with alchemical sacraments.
+Tinkerer Alchemist Outfit: Gear-patterned dress with clockwork accents, a gear-shaped hairpin, a tinkerer charm bracelet, and a pouch with alchemical mechanical mixtures.
+Toxicant Alchemist Outfit: Poisonous gown with venomous patterns, a snake hairpin, toxic-controlling earrings, and a pouch of alchemical venom concoctions.
+Trap Breaker Alchemist Outfit: Disguised dress with hidden pockets, a trap breaker hairpin, trap breaker earrings, and a pouch of alchemical trap-breaking mixtures.
+Vaultbreaker Alchemist Outfit: Disguised dress with hidden pockets, a vaultbreaker hairpin, vaultbreaker earrings, and a pouch of alchemical vault-breaking mixtures.
+Vivisectionist Alchemist Outfit: Scientific gown with anatomical motifs, a scalpel hairpin, vivisectionist earrings, and a pouch of alchemical vivisection mixtures.
+Wasteland Blightbreaker Alchemist Outfit: Tattered dress with wasteland accents, a gas mask hairpin, wasteland earrings, and a pouch of alchemical wasteland concoctions.
+Winged Marauder Alchemist Outfit: Wing-adorned dress with avian patterns, a feathered headband, aerial earrings with flight-enhancing potions, and a pouch with alchemical winged elixirs.
+Beast Rider Knight Outfit: Elegantly crafted riding attire with beast patterns, a headpiece adorned with beast feathers, a lance with beast engravings, and a {cape|cloak} with a beast fur trim.
+Castellan Knight Outfit: Royal gown with castle architecture motifs, a tiara with castle spires, a castle tower shield, and a pendant with a castle gate design.
+Charger Knight Outfit: Sleek riding dress with lightning symbols, a headband with thunderbolt motifs, a lance with lightning carvings, and a {cape|cloak} with electrifying embroidery.
+Circuit Judge Knight Outfit: Judicial gown with illuminated circuitry symbols, a headdress with a gavel motif, a mace with circuitry carvings, and a pendant with a circuit board pattern.
+Constable Knight Outfit: Officer's uniform with constabulary symbols, a police cap with a badge, a mace with law enforcement engravings, and a satchel with constable supplies.
+Courtly Knight Knight Outfit: Elaborate gown with courtly motifs, a noble tiara with jewels, a gem-studded {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a noble family emblem.
+Daring Champion Knight Outfit: Fearless dress with heroic patterns, a headpiece with daring feathers, a lance with a banner of triumph, and a {cape|cloak} with a valiant motif.
+Daring General Knight Outfit: Leader's dress with strategic motifs, a commanding tiara with regal plumes, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with tactical engravings, and a {cape|cloak} with victorious emblems.
+Drakerider Knight Outfit: Dragon-inspired riding attire, a headpiece with dragon horns, a fiery dragon lance, and a {cape|cloak} with dragon scale trim.
+Emissary Knight Outfit: Diplomatic gown with representative motifs, a headpiece with diplomatic accents, a peace {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved patterns, and a {cape|cloak} with a symbol of unity.
+Esquire Knight Outfit: Aspiring knight's dress with knightly symbols, a headband with aspirant plumes, a practice {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a knightly emblem.
+Fell Rider Knight Outfit: Shadowy riding attire with fell patterns, a horned headpiece, a fell lance with eerie carvings, and a {cape|cloak} with a dark emblem.
+First Mother's Fang Knight Outfit: Wild gown with fang-inspired accents, an animal mask headpiece, a spear with fang carvings, and a {cape|cloak} with animal fur trim.
+Gallant Knight Outfit: Elegant dress with gallant motifs, a gallant tiara with noble plumes, a chivalrous {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a gallant emblem {cape|cloak}.
+Gendarme Knight Outfit: Officer's uniform with gendarme symbols, a gendarme cap with a badge, a mace with law enforcement engravings, and a satchel with gendarme supplies.
+Ghost Rider Knight Outfit: Eerie riding attire with ghostly symbols, a ghostly headpiece, a spectral lance with eerie engravings, and a {cape|cloak} with a spectral motif.
+Green Knight Knight Outfit: Botanical gown with natural patterns, a leaf crown with flourishing vines, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a foliage hilt, and a {cape|cloak} with nature's emblem.
+Herald Squire Knight Outfit: Aspiring herald's dress with heraldic motifs, a headdress with heraldic feathers, a training {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with heraldic symbols.
+Honor Guard Knight Outfit: Elegant gown with honor motifs, a headpiece with honorable accents, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with valor engravings, and a {cape|cloak} with a symbol of chivalry.
+Hooded Knight Knight Outfit: Enigmatic dress with veiled motifs, a mysterious headpiece with a hidden face, a shadowy {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a concealed emblem.
+Huntmaster Knight Outfit: Wild gown with hunter's motifs, an animal headpiece, a hunting spear, and a {cape|cloak} with animal pelts.
+Hussar Knight Outfit: Hussar-inspired riding attire with feathered accents, a hussar hat with a feather plume, a saber with intricate engravings, and a {cape|cloak} with a hussar emblem.
+Knight of Arnisant Knight Outfit: Divine gown with sacred motifs, a crown with angelic wings, a blessed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a sacred emblem.
+Luring Cavalier Knight Outfit: Enchanting dress with mesmerizing motifs, a headpiece with an alluring gem, an entrancing rapier, and a {cape|cloak} with captivating designs.
+Musketeer Knight Outfit: Musketeer-inspired dress with gunpowder motifs, a musketeer hat with a plume, a musket, and a satchel with gunpowder and musket balls.
+Oceanrider Knight Outfit: Seafaring dress with aquatic patterns, a headpiece with oceanic elements, a trident lance, and a {cape|cloak} with waves and sea creatures.
+Qabarat Outrider Knight Outfit: Desert-inspired riding attire with Qabarat motifs, a headpiece with veiled allure, a Qabarat scimitar, and a {cape|cloak} with sand dune patterns.
+Qadiran Horselord Knight Outfit: Elegant riding dress with Qadiran motifs, a turbaned headpiece with veiled allure, a Qadiran scimitar, and a {cape|cloak} with swirling desert patterns.
+Saurian Champion Knight Outfit: Saurian-inspired gown with scaled accents, a saurian headdress, a saurian-forged {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a saurian emblem.
+Sister-in-Arms Knight Outfit: Comrade's gown with sister-in-arms motifs, a sister-in-arms tiara, a sister-in-arms {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with symbols of sisterhood.
+Spellscar Drifter Knight Outfit: Arcane gown with spellscar motifs, a headpiece with arcane glow, a spellscarred {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with swirling spellscar patterns.
+Standard Bearer Knight Outfit: Noble gown with knightly standards, a standard bearer tiara with elegant plumes, a standard bearer {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a noble crest.
+Strategist Knight Outfit: Tactician's dress with visionary motifs, a headpiece with visionary lenses, a strategist {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved tactics, and a {cape|cloak} with strategic emblems.
+Verdivant Knight Outfit: Botanical gown with natural patterns, a leaf crown with blossoms, a verdant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with floral engravings, and a {cape|cloak} with nature's emblem.
+Vermin Tamer Knight Outfit: Pest-resistant gown with vermin patterns, a vermin tamer's headdress, a vermin tamer's whip, and a {cape|cloak} with vermin designs.
+Wave Rider Knight Outfit: Ocean-inspired riding attire, a headpiece with seashell accents, a sea trident lance, and a {cape|cloak} with ocean currents.
+Asp Knight Outfit: Elegant gown with asp patterns, a serpent tiara, a snake-etched {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with serpent scales.
+Beast Knight Outfit: Wild dress with beastly motifs, a headpiece with beastly horns, a clawed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a beast fur trim.
+Blossom Knight Outfit: Botanical gown with blossoming accents, a flower crown, a petal {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a floral motif.
+Blue Rose Knight Outfit: Graceful gown with blue rose motifs, a tiara with a blue rose ornament, a thorned {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a blue rose pattern.
+Cockatrice Knight Outfit: Avian-inspired riding attire with cockatrice patterns, a headpiece with cockatrice feathers, a feathered lance, and a {cape|cloak} with a cockatrice wing pattern.
+Dragon Knight Outfit: Dragon-inspired gown with dragon motifs, a dragon headdress with ornate horns, a dragon-forged {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with dragon scales.
+Eastern Star Knight Outfit: Elegant dress with celestial motifs, a starry headpiece, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with eastern engravings, and a {cape|cloak} with celestial motifs.
+Eclipse Knight Outfit: Celestial gown with eclipse motifs, a moon-shaped headpiece, a dark {sword|longsword|spear|lance|polearm|mace|axe|weapon} with lunar engravings, and a {cape|cloak} with lunar phases.
+Eel Knight Outfit: Aquatic gown with eel patterns, a headpiece with eel-like accents, an electrified {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with underwater currents.
+Ennead Star Knight Outfit: Divine gown with nine-star motifs, a headpiece with nine-star accents, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with stellar engravings, and a {cape|cloak} with celestial patterns.
+First Law Knight Outfit: Judicial gown with lawful motifs, a headdress with a scale of justice, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved laws, and a {cape|cloak} with legal emblems.
+Flame Knight Outfit: Flame-inspired dress with fiery motifs, a headpiece with a burning flame, a flaming {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with fiery patterns.
+Green Knight Outfit: Botanical gown with natural patterns, a leaf crown with flourishing vines, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a floral hilt, and a {cape|cloak} with nature's emblem.
+Guard Knight Outfit: Noble gown with guard motifs, a crested tiara, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with protection engravings, and a {cape|cloak} with a sentinel emblem.
+Hammer Knight Outfit: Robust dress with hammer motifs, a headpiece with hammer-shaped accents, a war hammer, and a {cape|cloak} with anvil motifs.
+Hero Knight Outfit: Majestic gown with heroic motifs, a tiara with a heroic symbol, a heroic {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with legendary emblems.
+Land Knight Outfit: Terra-inspired gown with earthy accents, a headpiece with elemental symbols, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a stone hilt, and a {cape|cloak} with earthy designs.
+Lion Knight Outfit: Regal gown with lion patterns, a lion crown, a lion-hilted {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with lion motifs.
+Monument Knight Outfit: Majestic gown with monument motifs, a headdress with a monument crest, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a monument hilt, and a {cape|cloak} with stone-carved designs.
+Paw Knight Outfit: Wild dress with paw prints, a headpiece with animal ears, a clawed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with animal fur trim.
+Penitent Knight Outfit: Penitent gown with symbols of repentance, a headdress with a remorseful ornament, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with repentant engravings, and a {cape|cloak} with symbols of redemption.
+Reins Knight Outfit: Equestrian dress with reins and bridle accents, a headpiece with a horseshoe ornament, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with equestrian engravings, and a {cape|cloak} with horseshoe patterns.
+Saddle Knight Outfit: Riding attire with saddle and stirrup motifs, a headpiece with equestrian details, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with equestrian engravings, and a {cape|cloak} with saddle and stirrup patterns.
+Scales Knight Outfit: Reptilian gown with scaled motifs, a serpent headdress, a scaled {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with dragon scales.
+Seal Knight Outfit: Mystical gown with seal patterns, a headpiece with a magical seal, a runed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with mystic sigils.
+Shield Knight Outfit: Knightly gown with shield motifs, a tiara with a shield emblem, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} and shield set, and a {cape|cloak} with a shield pattern.
+Shroud Knight Outfit: Enigmatic dress with veiled motifs, a headpiece with a mysterious veil, a dark {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with shrouded motifs.
+Songbird Knight Outfit: Avian-inspired gown with songbird patterns, a headpiece with feathered accents, a songbird {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with bird feathers.
+Staff Knight Outfit: Mystical gown with staff accents, a headpiece with a mage's staff ornament, a runed staff, and a {cape|cloak} with mystical patterns.
+Star Knight Outfit: Elegant gown with celestial motifs, a starry headpiece, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with star engravings, and a {cape|cloak} with celestial motifs.
+{sword|longsword|spear|lance|polearm|mace|axe|weapon} Knight Outfit: Duelist's gown with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon} motifs, a headpiece with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon} accents, a dual-wielding {sword|longsword|spear|lance|polearm|mace|axe|weapon} set, and a {cape|cloak} with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon}s.
+Tome Knight Outfit: Learned gown with tome patterns, a headpiece with a tome ornament, a magical tome, and a {cape|cloak} with ancient script patterns.
+Warrior Knight Outfit: Battle-ready gown with warrior motifs, a headpiece with a warrior crest, a battle-worn {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with warrior emblems.
+Waves Knight Outfit: Seafaring dress with wave patterns, a headpiece with aquatic elements, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with water-themed engravings, and a {cape|cloak} with ocean waves.
+Whip Knight Outfit: Whiplash gown with whip motifs, a headpiece with a coiled whip accent, a whip, and a {cape|cloak} with whip patterns.
+Vengeance Knight Outfit: Vengeful gown with motifs of retribution, a headpiece with a wrathful ornament, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} of vengeance, and a {cape|cloak} with symbols of justice.
+Ronin Knight Outfit: Traveller's gown with nomadic motifs, a headpiece with a veiled mask, a nomad {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with nomadic patterns.
+Ancient Lorekeeper Oracle Outfit: Mystical gown with script-like motifs, a tiara with runic accents, a tome of ancient lore, and a staff topped with a crystal orb.
+Black-Blooded Oracle Outfit: Enigmatic dress with blood-red accents, a dark veil, a vial of mysterious black liquid, and a staff with a skull motif.
+Community Guardian Oracle Outfit: Noble gown with symbols of guardianship, a tiara with community markings, a symbol of protection, and a staff with a communal emblem.
+Cyclopean Seer Oracle Outfit: Veiled dress with mystic eye patterns, a headpiece with an all-seeing eye, an ancient seer's tome, and a staff with an eye-shaped crystal.
+Divine Numerologist Oracle Outfit: Gown with cosmic numerical motifs, a tiara with celestial numbers, a numerologist's tome, and a staff with numerical engravings.
+Dual-Cursed Oracle Outfit: Enigmatic dress with intertwined curse motifs, a veil of dual-curse mystery, a {talisman | tome | totem | scroll | tattoo } of dual-curse protection, and a staff with intertwining elements.
+Elementalist Oracle Outfit: Flowing dress with elemental motifs, a tiara with elemental gems, an elemental {talisman | tome | totem | scroll | tattoo }, and a staff with elemental manifestations.
+Enlightened Philosopher Oracle Outfit: Ethereal gown with profound motifs, a headpiece with philosophical engravings, a tome of enlightenment, and a staff with a wise crystal.
+Hermit Oracle Outfit: Solitary gown with motifs of isolation, a veil of seclusion, a hermit's journal, and a staff with a wilderness emblem.
+Inerrant Voice Oracle Outfit: Divine gown with celestial motifs, a tiara with divine aura, a divine tome, and a staff with a radiant crystal.
+Keleshite Prophet Oracle Outfit: Elegant dress with prophetic motifs, a sacred headdress, a prophet's scroll, and a staff with sacred engravings.
+Ocean's Echo Oracle Outfit: Seafaring gown with oceanic motifs, a headpiece adorned with seashells, a vial of ocean's essence, and a staff with a shimmering crystal.
+Pei Zin Practitioner Oracle Outfit: Healer's gown with Pei Zin motifs, a medicinal tiara, a pouch of herbal remedies, and a staff with a healing crystal.
+Planar Oracle Outfit: Ethereal dress with planar patterns, a tiara with planar motifs, a plane-shifting {talisman | tome | totem | scroll | tattoo }, and a staff with planar crystals.
+Possessed Oracle Outfit: Eerie dress with ethereal motifs, a veil of possession, a vessel of containment, and a staff with ghostly engravings.
+Psychic Searcher Oracle Outfit: Clairvoyant gown with psychic motifs, a tiara with psychic gems, a psychic's crystal ball, and a staff with a crystal orb.
+Purifier Oracle Outfit: Divine gown with purifying motifs, a tiara with holy markings, a vial of holy water, and a staff with a sacred crystal.
+Reincarnated Oracle Outfit: Mystical dress with motifs of rebirth, a veil of reincarnation, a totem of reincarnation, and a staff with mystical markings.
+River Soul Oracle Outfit: Aquatic gown with river motifs, a tiara with water elements, a vial of blessed water, and a staff with a flowing crystal.
+Seer Oracle Outfit: Mystic gown with seer motifs, a tiara with a mystical eye, a seer's crystal ball, and a staff with an all-seeing eye.
+Shigenjo Oracle Outfit: Traditional gown with ancestral motifs, a ceremonial headband, a sacred ancestral scroll, and a staff with a family emblem.
+Spirit Guide Oracle Outfit: Ethereal dress with spirit patterns, a tiara with ghostly accents, a spirit guide's {talisman | tome | totem | scroll | tattoo }, and a staff with spirit engravings.
+Stargazer Oracle Outfit: Ethereal gown with cosmic motifs, a tiara with celestial gemstones, a stargazer's telescope, and a staff with a celestial crystal.
+Tree Soul Oracle Outfit: Botanical gown with tree motifs, a headpiece adorned with leaves, a vial of sacred sap, and a staff with a wooden motif.
+Warsighted Oracle Outfit: War-torn dress with war symbols, a veil of battle foresight, a warsighted {talisman | tome | totem | scroll | tattoo }, and a staff with war imagery.
+Ancestor Oracle Outfit: Regal gown with ancestral motifs, a tiara with ancestral markings, an ancestor's {talisman | tome | totem | scroll | tattoo }, and a staff with family engravings.
+Apocalypse Oracle Outfit: Doomsday dress with ominous motifs, a veil of cataclysmic visions, an apocalyptic tome, and a staff with world-ending engravings.
+Ascetic Oracle Outfit: Humble gown with ascetic motifs, a modest headpiece, an ascetic's scroll, and a staff with humble engravings.
+Battle Oracle Outfit: Warrior's gown with battle motifs, a headpiece with martial accents, a battle oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with martial engravings.
+Bones Oracle Outfit: Eerie dress with skeletal motifs, a veil with bone accents, a bone oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with bone engravings.
+Dark Tapestry Oracle Outfit: Eldritch gown with cosmic motifs, a tiara with celestial patterns, a dark tapestry {talisman | tome | totem | scroll | tattoo }, and a staff with otherworldly engravings.
+Dragon Oracle Outfit: Draconic gown with dragon motifs, a headpiece with dragon accents, a dragon oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with dragon engravings.
+Elemental Oracle Outfit: Flowing dress with elemental motifs, a tiara with elemental gems, an elemental {talisman | tome | totem | scroll | tattoo }, and a staff with elemental manifestations.
+Flame Oracle Outfit: Flame-inspired dress with fiery motifs, a headpiece with flames, a flame oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with fiery engravings.
+Godclaw Oracle Outfit: Celestial gown with sacred motifs, a tiara with divine accents, a godclaw oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with divine engravings.
+Heavens Oracle Outfit: Ethereal gown with cosmic motifs, a tiara with celestial gemstones, a heavens oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with a celestial crystal.
+Intrigue Oracle Outfit: Mysterious dress with symbols of subterfuge, a veil of secrecy, an intrigue oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with cryptic engravings.
+Juju Oracle Outfit: Shamanic gown with voodoo motifs, a headpiece with tribal accents, a juju oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with tribal engravings.
+Life Oracle Outfit: Blossoming gown with motifs of vitality, a tiara with floral accents, a life oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with rejuvenating engravings.
+Lore Oracle Outfit: Mystical gown with lore motifs, a tiara with intricate symbols, a lore oracle's tome, and a staff with inscribed engravings.
+Lunar Oracle Outfit: Ethereal dress with moon motifs, a tiara with lunar accents, a lunar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with moonlit engravings.
+Metal Oracle Outfit: Metal-inspired gown with motifs of craftsmanship, a headpiece with metallic accents, a metal oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with metallic engravings.
+Nature Oracle Outfit: Botanical dress with natural motifs, a headpiece adorned with flora, a nature oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with botanical engravings.
+Occult Oracle Outfit: Enigmatic gown with occult motifs, a tiara with mystical accents, an occult tome, and a staff with occult engravings.
+Outer Rifts Oracle Outfit: Celestial gown with outer rifts motifs, a tiara with cosmic gemstones, an outer rifts {talisman | tome | totem | scroll | tattoo }, and a staff with interstellar engravings.
+Reaper Oracle Outfit: Funeral dress with motifs of mortality, a veil with grim accents, a reaper's scythe, and a staff with a deathly motif.
+Shadow Oracle Outfit: Evasive gown with shadow motifs, a veil of twilight, a shadow oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with shadowy engravings.
+Solar Oracle Outfit: Luminous gown with solar motifs, a tiara with celestial accents, a solar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with solar engravings.
+Spellscar Oracle Outfit: Enigmatic dress with spellscar patterns, a tiara with arcane accents, a spellscar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with unstable engravings.
+Stone Oracle Outfit: Earth-inspired gown with stone accents, a headpiece with rocky elements, a stone oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with stone engravings.
+Streets Oracle Outfit: Urban gown with city motifs, a veil with urban accents, a streets oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with citys{cape|cloak} engravings.
+Succor Oracle Outfit: Soothing gown with motifs of healing, a tiara with a compassionate gem, a succor oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with soothing engravings.
+Time Oracle Outfit: Temporal gown with motifs of eternity, a tiara with intricate clockwork, a time oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with temporal engravings.
+Volcano Oracle Outfit: Eruptive gown with volcanic motifs, a headpiece with fiery elements, a volcano oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with volcanic engravings.
+Waves Oracle Outfit: Aquatic dress with wave motifs, a tiara with oceanic elements, a waves oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with aquatic engravings.
+Whimsy Oracle Outfit: Enchanting gown with whimsical motifs, a tiara with whimsy accents, a whimsy oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with playful engravings.
+Wind Oracle Outfit: Air-themed dress with symbols of wind, a tiara with swirling winds, a wind oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with airy engravings.
+Winter Oracle Outfit: Frosty gown with winter motifs, a tiara with icy accents, a winter oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with frosty engravings.
+Wood Oracle Outfit: Botanical gown with wooden motifs, a headpiece adorned with vines, a wood oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with wooden engravings.
+Armored Battlemage Outfit: Enchanted battle dress with intricate runes, a crown with glowing crystals, a battle-worn tome, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} topped with a gemstone.
+Beastblade Battlemage Outfit: Feral gown with beast motifs, a headpiece with wild accents, a roaring amulet, and a {rapier|sword|dagger|weapon} adorned with fangs.
+Bladebound Battlemage Outfit: Mystic dress with ethereal motifs, a veil of arcane mystery, a bound sentient blade, and a {rapier|sword|dagger|weapon} with shadowy engravings.
+Card Caster Battlemage Outfit: Mystical gown with card motifs, a headpiece with enchanting cards, a deck of spell cards, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with cards.
+Deep Marshal Battlemage Outfit: Aquatic gown with marine motifs, a tiara with seashells, a conch shell amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with oceanic engravings.
+Eldritch Archer Battlemage Outfit: Enigmatic dress with eldritch motifs, a veil of arcane mystery, an enchanted quiver, and a bow.
+Eldritch Scion Battlemage Outfit: Ethereal gown with magical runes, a tiara with arcane accents, a bloodstone amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with mystical engravings.
+Elemental Knight Battlemage Outfit: Flowing dress with elemental motifs, a tiara with elemental gemstones, a {talisman | scroll | cape | cloak | gemstone | buckler | tattoo } of elemental power, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with elemental engravings.
+Esoteric Battlemage Outfit: Enigmatic gown with mystical motifs, a tiara with arcane patterns, a crystal amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with cryptic engravings.
+Fiend Flayer Battlemage Outfit: Infernal dress with fiendish motifs, a headpiece with demonic accents, a fiendish {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with hellish engravings.
+Greensting Slayer Battlemage Outfit: Botanical gown with insect motifs, a headpiece with nature-inspired elements, a greensting amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with insect engravings.
+Hexbreaker Battlemage Outfit: Protective gown with warding motifs, a veil of arcane protection, a {talisman | scroll | cape | cloak | gemstone | buckler | tattoo } of hex-breaking, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with dispelling engravings.
+Hexcrafter Battlemage Outfit: Enigmatic dress with hex motifs, a tiara with mystical hexes, a hexcrafter's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with arcane runes.
+Iron-Ring Striker Battlemage Outfit: Resilient dress with iron motifs, a headpiece with iron elements, an iron-ring {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with iron engravings.
+Jistkan Artificer Battlemage Outfit: Ancient gown with Jistka motifs, a tiara with archaeological elements, an artificer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with Jistka runes.
+Kapenia Dancer Battlemage Outfit: Graceful gown with dance motifs, a tiara with kapenia gemstones, a kapenia dancer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with intricate dance engravings.
+Kensai Battlemage Outfit: Kimono with motifs of elegance, a hairpin with traditional accents, a kensai's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with traditional engravings.
+Magic Warrior Battlemage Outfit: Enchanted gown with warrior motifs, a headpiece with magical accents, a warrior's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with warrior engravings.
+Mindblade Battlemage Outfit: Psionic dress with psychic motifs, a headpiece with mental accents, a mindblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with psionic engravings.
+Myrmidarch Battlemage Outfit: Enigmatic dress with mystical motifs, a veil of arcane mystery, an enchanted quiver, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} bow.
+Nature-Bonded Battlemage Outfit: Botanical gown with nature motifs, a tiara with druidic elements, a nature-bonded {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with natural engravings.
+Puppetmaster Battlemage Outfit: Enigmatic dress with puppetry motifs, a headpiece with animated strings, a puppetmaster's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with puppet strings.
+Sigilus Battlemage Outfit: Mysterious gown with sigil motifs, a tiara with arcane symbols, a sigilus {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with ancient runes.
+Skirnir Battlemage Outfit: Norse gown with motifs of the North, a headpiece with Viking accents, a skirnir's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon|axe} with Nordic engravings.
+Sorrowblade Battlemage Outfit: Funeral dress with motifs of mourning, a veil with somber accents, a sorrowblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|weapon} with lamenting engravings.
+Soul Forger Battlemage Outfit: Enigmatic dress with arcane motifs, a headpiece with mystical patterns, a soul forger's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with arcane tools.
+Spell Dancer Battlemage Outfit: Graceful gown with dance motifs, a tiara with spell dancer gemstones, a spell dancer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with dance engravings.
+Spell Trapper Battlemage Outfit: Enigmatic dress with trap motifs, a veil with mystical traps, a spell trapper's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with trap engravings.
+Spellblade Battlemage Outfit: Enchanted gown with mystical motifs, a tiara with arcane patterns, a spellblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with enchanted engravings.
+Spire Defender Battlemage Outfit: Citadel gown with motifs of fortitude, a headpiece with spire accents, a spire defender's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with tower engravings.
+Staff Battlemage Outfit: Enigmatic gown with staff motifs, a tiara with a mystical gem, a staff battlemage's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a staff adorned with intricate runes.
+Blood God Disciple Summoner Outfit: Blood-stained gown with dark motifs, a tiara with occult accents, a sacrificial dagger, and a {staff|cloak|weapon|scepter} adorned with sinister runes.
+Blood Summoner Outfit: Enigmatic dress with blood motifs, a blood-red ribbon in the hair, a vial of blood essence, and a {staff|cloak|weapon|scepter} with blood droplet engravings.
+Broodmaster Summoner Outfit: Feral gown with insect motifs, a headpiece with insect accents, an insectoid {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with insect engravings.
+Counter-Summoner Outfit: Mystic dress with warding motifs, a veil of counter-magic, a counter-summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with warding engravings.
+Evolutionist Summoner Outfit: Shifting gown with dynamic motifs, a headpiece with morphing accents, an evolutionist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with evolving engravings.
+First Worlder Summoner Outfit: Enchanting dress with mystical motifs, a tiara with otherworldly elements, a first worlder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with fae engravings.
+God Caller Summoner Outfit: Ethereal gown with divine motifs, a celestial tiara with divine accents, a god caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with divine engravings.
+Leshy Caller Summoner Outfit: Botanical gown with leshy motifs, a headpiece with nature-inspired elements, a leshy caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with nature engravings.
+Master Summoner Outfit: Noble gown with arcane motifs, a tiara with magical gemstones, a master summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with mystical engravings.
+Morphic Savant Summoner Outfit: Enigmatic dress with ever-changing motifs, a headpiece with shifting accents, a morphic savant's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with transformative engravings.
+Naturalist Summoner Outfit: Botanical gown with nature motifs, a headpiece with floral accents, a naturalist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with nature-inspired engravings.
+Pyroclast Summoner Outfit: Fiery gown with flame motifs, a tiara with ember accents, a pyroclast {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with flame engravings.
+Shadow Caller Summoner Outfit: Enigmatic dress with shadow motifs, a veil of darkness, a shadow caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with shadow engravings.
+Shaitan Binder Summoner Outfit: Geomantic gown with earth motifs, a headpiece with elemental accents, a shaitan binder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with earth engravings.
+Spirit Summoner Outfit: Enigmatic dress with ghostly motifs, a veil of ethereal spirits, a spirit summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with spectral engravings.
+Storm Caller Summoner Outfit: Electrifying gown with storm motifs, a tiara with lightning accents, a storm caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with lightning engravings.
+Story Summoner Outfit: Enigmatic dress with storytelling motifs, a headpiece with ancient scripts, a story summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with storytelling engravings.
+Synthesist Summoner Outfit: Ethereal gown with merged motifs, a tiara with fused accents, a synthesist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with amalgamated engravings.
+Twinned Summoner Outfit: Harmonious gown with twinned motifs, a tiara with dual gemstones, a twinned summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with paired engravings.
+Unwavering Conduit Summoner Outfit: Flowing gown with mystical motifs, a headpiece with flowing accents, an unwavering conduit's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with flowing engravings.
+Wild Caller Summoner Outfit: Feral gown with nature motifs, a headpiece with wild accents, a wild caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with natural engravings.
+Aberrant Summoner Outfit: Enigmatic dress with otherworldly motifs, a tiara with cosmic accents, an aberrant {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with cosmic engravings.
+Aeon Summoner Outfit: Enchanting gown with aeonic motifs, a headpiece with temporal accents, an aeon summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with temporal engravings.
+Agathion Summoner Outfit: Celestial gown with divine motifs, a tiara with ethereal accents, an agathion {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with angelic engravings.
+Ancestor Summoner Outfit: Enigmatic dress with ancestral motifs, a tiara with ancient accents, an ancestor summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with ancestral engravings.
+Angel Summoner Outfit: Ethereal gown with angelic motifs, a celestial tiara with divine accents, an angel summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with angelic engravings.
+Archon Summoner Outfit: Enigmatic dress with archonic motifs, a tiara with otherworldly elements, an archon summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with ethereal engravings.
+Astral Summoner Outfit: Enchanting gown with celestial motifs, a headpiece with cosmic accents, an astral summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with celestial engravings.
+Azata Summoner Outfit: Enigmatic dress with mystical motifs, a tiara with fae accents, an azata summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with fae engravings.
+Daemon Summoner Outfit: Fiery gown with infernal motifs, a tiara with demonic accents, a daemon {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with hellish engravings.
+Deepwater Summoner Outfit: Mystical dress with marine motifs, a tiara with oceanic elements, a deepwater summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with aquatic engravings.
+Demon Summoner Outfit: Infernal gown with demonic motifs, a tiara with fiendish accents, a demon {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with hellish engravings.
+Devil Summoner Outfit: Fiery dress with devilish motifs, a tiara with infernal accents, a devil {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with infernal engravings.
+Div Summoner Outfit: Ethereal gown with divine motifs, a tiara with radiant accents, a div summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with divine engravings.
+Elemental Summoner Outfit: Mystic dress with elemental motifs, a headpiece with elemental accents, an elemental summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with elemental engravings.
+Genie Summoner Outfit: Enigmatic gown with otherworldly motifs, a tiara with magical accents, a genie summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with genial engravings.
+Inevitable Summoner Outfit: Enchanting dress with intricate machinery motifs, a headpiece with mechanical elements, an inevitable summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with mechanized engravings.
+Kami Summoner Outfit: Botanical gown with kami motifs, a headpiece with ethereal kami accents, a kami summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with nature engravings.
+Kyton Summoner Outfit: Enigmatic dress with kyton motifs, a tiara with chain and barb accents, a kyton summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with barbed engravings.
+Plant Summoner Outfit: Botanical gown with plant motifs, a headpiece with floral accents, a plant summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with plant engravings.
+Protean Summoner Outfit: Enigmatic dress with shifting motifs, a headpiece with protean accents, a protean summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with chaotic engravings.
+Psychopomp Summoner Outfit: Mystic gown with ghostly motifs, a headpiece with ethereal accents, a psychopomp summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with spectral engravings.
+Radiant Summoner Outfit: Ethereal dress with radiant motifs, a tiara with luminescent accents, a radiant summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with celestial engravings.
+Shadow Summoner Outfit: Enigmatic dress with shadow motifs, a veil of darkness, a shadow summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with shadow engravings.
+Storykin Summoner Outfit: Enigmatic dress with storytelling motifs, a headpiece with ancient scripts, a storykin summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with storytelling engravings.
+Twinned Summoner Outfit: Harmonious gown with twinned motifs, a tiara with dual gemstones, a twinned summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with paired engravings.
+Void Summoner Outfit: Enigmatic dress with cosmic motifs, a tiara with void accents, a void summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with abyssal engravings.
+Construct Caller Summoner Outfit: Enigmatic dress with mechanical motifs, a headpiece with robotic accents, a construct caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with construct engravings.
+Devil Binder Summoner Outfit: Fiery gown with devilish motifs, a tiara with infernal accents, a devil binder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with infernal engravings.
+Devil Impostor Summoner Outfit: Enigmatic dress with illusory motifs, a tiara with devilish illusions, a devil impostor's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with illusory engravings.
+Alley Witch Outfit: Enigmatic dress with concealed motifs, a veil with arcane embroidery, fingerless gloves adorned with charms, and a satchel with hidden potion vials.
+Ashiftah Witch Outfit: Mystic gown with ethereal motifs, a headdress with enigmatic accents, an amulet of cosmic symbols, and a crystal orb.
+Beast-Bonded Witch Outfit: Wild gown with beast motifs, a headpiece with animal accents, a pendant with a beast charm, and a gnarled wooden {staff|wand}.
+Bonded Witch Outfit: Enigmatic dress with arcane motifs, a tiara with enchanted crystals, a magical scroll satchel, and a crystal-tipped {staff|wand}.
+Bouda Witch Outfit: Feral gown with tribal motifs, a headdress with animal totems, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with spirit {runes|motifs|details|engravings}, and a bone {staff|wand}.
+Cartomancer Witch Outfit: Mystic gown with cosmic motifs, a veil with celestial accents, a deck of enchanted tarot cards, and a crystal orb.
+Coral Witch Outfit: Enigmatic dress with marine motifs, a headpiece with seashell accents, an aquatic {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a coral-tipped {staff|wand}.
+Demon-Sworn Witch Outfit: Fiery gown with demonic motifs, a tiara with infernal accents, a demon {talisman|amulet|orb|satchel|cauldron|charm|vial}, and an abyssal {staff|wand}.
+Dimensional Occultist Witch Outfit: Enigmatic dress with interdimensional motifs, a veil with dimensional accents, a dimensional {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a {staff|wand} adorned with planar engravings.
+Dreamweaver Witch Outfit: Enigmatic gown with ethereal motifs, a dreamcatcher headdress, an amulet with dream symbols, and a dream-infused {staff|wand}.
+Flood Walker Witch Outfit: Enchanting dress with marine motifs, a tiara with aquatic accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with water {runes|motifs|details|engravings}, and a {staff|wand} with watery engravings.
+Gingerbread Witch Outfit: Enigmatic dress with sugary motifs, a tiara with gingerbread accents, a candy {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a gingerbread {staff|wand}.
+Gravewalker Witch Outfit: Eerie gown with ethereal motifs, a veil with ghostly elements, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with necromantic {runes|motifs|details|engravings}, and a bone {staff|wand}.
+Hag of Gyronna Witch Outfit: Enigmatic dress with cursed motifs, a tiara with malevolent accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with vengeful {runes|motifs|details|engravings}, and a gnarled wooden {staff|wand}.
+Hagbound Witch Outfit: Enigmatic dress with arcane motifs, a tiara with witchcraft accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with dark enchantments, and a bone {staff|wand}.
+Havocker Witch Outfit: Enigmatic dress with chaotic motifs, a tiara with crackling accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with chaotic {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Hedge Witch Outfit: Rustic gown with herbal motifs, a tiara with earthy accents, a satchel with enchanted herbs, and a gnarled wooden {staff|wand}.
+Herb Witch Outfit: Enigmatic dress with floral motifs, a headpiece with natural accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with nature {runes|motifs|details|engravings}, and a herb-infused {staff|wand}.
+Hex Channeler Witch Outfit: Enigmatic dress with occult motifs, a tiara with hexing accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with hex {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Invoker Witch Outfit: Mystic gown with cosmic motifs, a tiara with celestial accents, an invoker's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Jinx Witch Outfit: Eccentric dress with whimsical motifs, a jester's headpiece with playful accents, a jinx {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a jesting {staff|wand}.
+Ley Line Guardian Witch Outfit: Mystic gown with ethereal motifs, a veil with ley line accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with ley line {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Medium Witch Outfit: Enigmatic dress with ghostly motifs, a veil with spiritual accents, a medium's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Mirror Witch Outfit: Mystic gown with reflective motifs, a headdress with mirrored accents, a mirror {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Mountain Witch Outfit: Enigmatic dress with rocky motifs, a tiara with earthy accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with earth {runes|motifs|details|engravings}, and a stone {staff|wand}.
+Nexian Spellspy Witch Outfit: Enigmatic dress with nexian motifs, a veil with arcane accents, a spellspy {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Pact Witch Outfit: Fiery gown with infernal motifs, a tiara with pact accents, a pact {talisman|amulet|orb|satchel|cauldron|charm|vial}, and an infernal {staff|wand}.
+Putrefactor Witch Outfit: Eerie gown with necrotic motifs, a veil with ghastly elements, a putrefactor {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a bone {staff|wand}.
+Rhetorician Witch Outfit: Enigmatic dress with scholarly motifs, a tiara with arcane accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with mystical {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Scarred Witch Doctor Witch Outfit: Tribal gown with scarred motifs, a headpiece with tribal marks, a witch doctor {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a bone {staff|wand}.
+Sea Witch Outfit: Enchanting dress with marine motifs, a tiara with aquatic accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with water {runes|motifs|details|engravings}, and a coral-tipped {staff|wand}.
+Season Witch Outfit: Ethereal gown with seasonal motifs, a headpiece with natural accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with seasonal {runes|motifs|details|engravings}, and a wooden {staff|wand}.
+Seducer Witch Outfit: Enigmatic dress with alluring motifs, a veil with bewitching accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with beguiling {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Synergist Witch Outfit: Mystic gown with ethereal motifs, a headdress with intertwined accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with harmony {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Tatterdemalion Witch Outfit: Eccentric dress with mystical motifs, a tattered veil with enigmatic {runes|motifs|details|engravings}, a tatterdemalion {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Vellemancer Witch Outfit: Enigmatic dress with swirling motifs, a headpiece with airy accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with wind {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Veneficus Witch Outfit: Enigmatic dress with poisonous motifs, a tiara with venomous accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with poison {runes|motifs|details|engravings}, and a serpent {staff|wand}.
+Venom Siphoner Witch Outfit: Enigmatic dress with serpent motifs, a snake tiara with toxic accents, a venom {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a serpent {staff|wand}.
+White-Haired Witch Outfit: Mystic gown with ghostly motifs, a veil with spectral accents, a witch's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Winter Witch Outfit: Enigmatic dress with frosty motifs, a tiara with icy accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with frost {runes|motifs|details|engravings}, and an ice {staff|wand}.
+Witch-Watcher Witch Outfit: Enigmatic dress with all-seeing motifs, a veil with watchful accents, a watcher's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Wyrm Witch Outfit: Enchanting gown with dragon motifs, a headdress with draconic accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with dragon {runes|motifs|details|engravings}, and a dragon {staff|wand}.
+Black Powder Vaulter Gunslinger Outfit: Tattered duster with bullet holes, a utility belt with ammo pouches, fingerless gloves, and sturdy boots.
+Blatherskite Gunslinger Outfit: Eccentric cloak with playful patterns, a {wide-brimmed|marksman|stylish| } hat adorned with ribbons, a bandolier with assorted charms, and boots with jingling spurs.
+Bolt Ace Gunslinger Outfit: Form-fitting coat with intricate patterns, a belt with gun holsters, fingerless gloves, and stylish boots.
+Buccaneer Gunslinger Outfit: Seafaring gown with buccaneer details, a tricorn hat with ribbon accents, a sash with pistol holsters, and sturdy boots.
+Bushwhacker Gunslinger Outfit: Agile cloak with nature-inspired patterns, a {wide-brimmed|marksman|stylish| } hat, a belt with gun holsters, and boots suitable for stealth.
+Commando Gunslinger Outfit: Tactical jumpsuit with pouches, a combat helmet, knee pads, and combat boots.
+Experimental Gunsmith Gunslinger Outfit: Enigmatic gown with alchemical patterns, safety goggles, fingerless gloves, and sturdy boots.
+Firebrand Gunslinger Outfit: Blazing dress with ember patterns, a utility belt with molotov cocktails, fingerless gloves, and boots resistant to fire.
+Graveslinger Gunslinger Outfit: Mysterious cloak with haunting patterns, a {wide-brimmed|marksman|stylish| } hat with a skull charm, a belt with gun holsters, and sturdy boots.
+Gulch Gunner Gunslinger Outfit: Tattered cloak with sand motifs, a {wide-brimmed|marksman|stylish| } hat, a bandolier with gun holsters, and sturdy boots.
+Gun Scavenger Gunslinger Outfit: Scavenged gown with salvaged motifs, a scrap metal hat, a bandolier with ammo pouches, and boots perfect for traversing scrap heaps.
+Gun Tank Gunslinger Outfit: Tactical jumpsuit with reinforced plates, a combat helmet with a targeting visor, fingerless gloves, and sturdy combat boots.
+Gunner Squire Gunslinger Outfit: Elegant gown with gun motifs, a squire's hat, a belt with pistol holsters, and polished boots.
+Maverick Gunslinger Outfit: Enigmatic gown with a touch of rebellion, a {wide-brimmed|marksman|stylish| } hat, a belt with gun holsters, and boots with spurs.
+Musket Master Gunslinger Outfit: Sophisticated gown with intricate musket-themed patterns, a tricorn hat with a feather accent, a bandolier with musket shot, and polished boots.
+Mysterious Stranger Gunslinger Outfit: Enigmatic dress with occult motifs, a {wide-brimmed|marksman|stylish| } hat with an aura of secrecy, a bandolier with gun holsters, and boots shrouded in mystery.
+Pistolero Gunslinger Outfit: Elegant gown with gunfighter accents, a {wide-brimmed|marksman|stylish| } hat with an ornate band, a belt with pistol holsters, and boots fit for dueling.
+Planar Rifter Gunslinger Outfit: Ethereal gown with rift motifs, a veil with dimensional patterns, a bandolier with rune-inscribed bullets, and boots capable of crossing planes.
+Scatter Gunner Gunslinger Outfit: Tactical jumpsuit with shotgun shell patterns, a combat helmet with a targeting visor, fingerless gloves, and sturdy combat boots.
+Siege Gunner Gunslinger Outfit: Sturdy gown with artillery patterns, a metal helmet with rivets, a bandolier with cannonballs, and reinforced boots.
+Techslinger Gunslinger Outfit: Futuristic gown with cybernetic accents, goggles with embedded tech, a utility belt with gadgets, and boots designed for tech exploration.
+Thronewarden Gunslinger Outfit: Elegant gown with royal motifs, a tiara-like hat with a family crest, a belt with pistol holsters, and polished boots.
+Wyrm Sniper Gunslinger Outfit: Enchanting gown with draconic motifs, a headdress with dragon-scale accents, a bandolier with rune-engraved bullets, and a dragon-clawed staff.
+Natural Kineticist Outfit: Enigmatic gown with floral accents, a flower crown, bracers with leaf engravings, and sturdy boots.
+Aquakineticist Outfit: Flowing gown with aquatic motifs, a pearl tiara, bracers with water engravings, and water-resistant boots.
+Arakineticist Outfit: Flowing dress with sand motifs, a veil with desert accents, bracers with rune engravings, and sand-resistant boots.
+Blightburner Kineticist Outfit: Enigmatic gown with blazing patterns, a fire crown, bracers with ember engravings, and heat-resistant boots.
+Blighted Defiler Kineticist Outfit: Mysterious dress with cursed motifs, a veil with shadowy accents, bracers with forbidden runes, and shadow-touched boots.
+Blood Kineticist Outfit: Ethereal gown with blood motifs, a blood talisman, bracers with blood runes, and boots perfect for blood manipulation.
+Cinderlands Adept Kineticist Outfit: Energetic dress with ember motifs, a flame tiara, bracers with flame engravings, and heat-resistant boots.
+Dark Elementalist Kineticist Outfit: Enigmatic gown with enigmatic patterns, a veil with shadowy accents, bracers with rune engravings, and shadow-touched boots.
+Elemental Annihilator Kineticist Outfit: Mystic gown with powerful motifs, a headdress with elemental accents, bracers with elemental engravings, and sturdy boots.
+Elemental Ascetic Kineticist Outfit: Flowing gown with tranquil motifs, a serene tiara, bracers with rune engravings, and comfortable boots.
+Elemental Purist Kineticist Outfit: Ethereal gown with pure motifs, a tiara with enchanting accents, bracers with rune engravings, and comfortable boots.
+Elysiokineticist Outfit: Enigmatic gown with celestial motifs, a veil with cosmic accents, bracers with starry runes, and boots that shine like the night sky.
+Ioun Kineticist Outfit: Enigmatic gown with ioun motifs, a tiara with floating ioun stones, bracers with rune engravings, and boots with ioun-like glimmers.
+Kinetic Chirurgeon Kineticist Outfit: Enigmatic gown with healing motifs, a tiara with crystal accents, bracers with rune engravings, and comfortable boots.
+Kinetic Knight Kineticist Outfit: Tactical jumpsuit with kinetic patterns, a combat helmet, bracers with rune engravings, and combat boots.
+Leshykineticist Outfit: Flowing gown with leshy motifs, a headdress with leafy accents, bracers with vine engravings, and sturdy boots.
+Overwhelming Soul Kineticist Outfit: Enigmatic gown with spectral motifs, a soul talisman, bracers with soul runes, and boots connected to the afterlife.
+Psammokinetic Kineticist Outfit: Flowing dress with sand patterns, a veil with desert accents, bracers with rune engravings, and sand-resistant boots.
+Psychokineticist Outfit: Enigmatic gown with psychic motifs, a headdress with psychic accents, bracers with rune engravings, and comfortable boots.
+Terrakineticist Outfit: Enigmatic gown with terrakinetic patterns, a headdress with earth elemental accents, bracers with rune

@@ -1,0 +1,25 @@
+American Civil War Uniform: Union uniform, Confederate uniform, kepi hat, leather boots
+Colonial American Outfit: Tricorn hat, waistcoat, breeches, buckle shoes
+Edwardian Aviator Outfit: Aviator jumpsuit, outfit, aviator cap, lace-up boots
+Edwardian Traveling Suit: Tailored suit, cloche hat, walking boots
+Edwardian Yachting Outfit: Yachting attire, sailor-inspired details, yacht cap, deck shoes
+Georgian Beau: Elaborate embroidered coat, waistcoat, frilled shirt, tricorn hat, heeled shoes
+Georgian Courtier: Courtier attire, ornate details, powdered wig, heeled shoes
+Georgian Peasant Outfit: Peasant-style clothing, straw hat, simple shoes
+Georgian Pirate Outfit: Pirate-style clothing, tricorn hat, leather boots
+Georgian Suit: Tailcoat, waistcoat, breeches, tricorn hat, stockings, heeled shoes
+Gilded Age Tuxedo: Tuxedo jacket, formal trousers, bow tie, patent leather shoes
+Regency Riding Habit: tailcoat, jodhpurs, top hat, riding boots
+Roaring Twenties Gangster Outfit: Pinstripe suit, fedora hat, wingtip shoes
+Roaring Twenties Golf Outfit: Knickerbockers, golf polo shirt, golf cap, golf shoes
+Rococo Dandy Suit: Elaborate waistcoat, frock coat, frilled shirt, tricorn hat, heeled shoes
+Victorian Bathing Costume: Striped bathing suit, straw boater hat, bathing shoes
+Victorian Cricket Outfit: Cricket whites, cricket cap, cricket shoes
+Victorian Bustle Riding Habit: Bustle riding coat, jodhpurs, top hat, riding boots
+Victorian Gentleman: Tailcoat, waistcoat, top hat, dress shoes
+Victorian Gentleman's Smoking Jacket: Smoking jacket, cravat, smoking cap, slippers
+Victorian Mourning Cape: Black mourning cape, veiled hat, black boots
+Victorian Riding Habit: Riding habit, top hat, riding cap, riding boots
+Victorian Steampunk Adventurer: Steampunk explorer coat, goggles, utility belt, knee-high boots
+Victorian Street Urchin: Newsboy cap, ragged clothes, patched shoes
+Victorian Workwear \(Working Class\): Flat cap, waistcoat, trousers, work boots

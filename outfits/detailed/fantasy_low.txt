@@ -1,0 +1,326 @@
+Noble Knight Medieval Outfit: Chainmail hauberk, Plate armor breastplate, Visored helmet, Leather gauntlets
+Elven Ranger Medieval Outfit: Forest-green hooded cloak, Leaf-patterned tunic, Leather bracers, Elven longbow
+Enigmatic Sorcerer Medieval Outfit: Dark, flowing robes, Crystal amulet, Embroidered spellbook, Silver-tipped wand
+Daring Swashbuckler Medieval Outfit: Ruffled poet shirt, Buckled leather vest, Dual-wielded cutlasses, Wide-brimmed hat
+Stealthy Assassin Medieval Outfit: Black hooded cloak, Hidden blade gauntlet, Throwing knives, Dark leather boots
+Peasant Farmer Medieval Outfit: Simple tunic, Patched trousers, Straw hat, Wooden pitchfork
+Priest/Priestess Medieval Outfit: White cassock, Symbolic pendant, Holy scriptures, Censer for incense
+Mercenary Adventurer Medieval Outfit: Sturdy adventuring boots, Crossbow with bolts, Worn leather armor, Utility belt with potions and tools
+Court Jester Medieval Outfit: Multicolored motley, Jester's cap with bells, Lute or small musical instrument, Comedy mask
+Wandering Bard Medieval Outfit: Long flowing cloak, Embroidered vest, Leather-bound journal, Lute or musical instrument
+Royal Paladin Medieval Outfit: Ornate plate armor, Engraved tower shield, Knightly tabard, Polished longsword, Steel greaves, Plumed helmet
+Woodland Druid Medieval Outfit: Leafy cloak, Antlered circlet, Herbal satchel, Oak staff, Bark-covered sandals, Animal totem necklace
+Cunning Rogue Medieval Outfit: Hooded cloak with hidden pockets, Lockpicking tools, Sneak boots, Dual-wielded daggers, Disguise kit, Throwing darts
+Dark Necromancer Medieval Outfit: Tattered dark robes, Bone-adorned staff, Black grimoire, Skull amulet, Spiked gauntlets, Dark hood
+Tribal Shaman Medieval Outfit: Feathered headdress, Painted war paint, Shamanic rattle, Tribal necklace, Ritual robe, Wooden totem staff
+Battle-hardened Veteran Medieval Outfit: Scarred leather armor, War-worn greatsword, Soldier's helmet, Chainmail coif, Durable boots, Camouflage cloak
+Noble Lady Medieval Outfit: Embroidered ball gown, Jeweled tiara, Silk gloves, Pearl necklace, Satin fan, High heels
+Viking Raider Medieval Outfit: Fur-lined cloak, Horned helmet, Battle-axe, Chainmail byrnie, Viking shield, Leather bracers
+Desert Nomad Medieval Outfit: Turban headwrap, Lightweight desert robes, Sand goggles, Water gourd, Scimitar, Sandals with ankle wraps
+Wise Oracle Medieval Outfit: Flowing celestial robes, Gem-encrusted staff, Crystal ball, Ancient scrolls, Celestial circlet, Incense holder
+Steampunk Engineer Medieval Outfit: Goggled aviator hat, Leather utility belt, Mechanical arm brace, Brass goggles, Cog-adorned vest, Wrench tool
+Pirate Captain Medieval Outfit: Tricorn hat, Eyepatch, Swashbuckler coat, Pirate cutlass, Skull-and-crossbones belt buckle, Weathered boots
+Court Mage Medieval Outfit: Velvet robe with golden trim, Arcane grimoire, Magic-infused orb, Mage's hat with stars, Rune-inscribed gloves, Enchanted amulet
+Mountain Clan Warrior Medieval Outfit: Fur-lined armor, Stone-carved greaves, Tribal totem shield, War hammer, Mountain boots, Clan emblem necklace
+Nomadic Hunter Medieval Outfit: Tanned leather coat, Bow and quiver, Trapper's knife, Fur-lined boots, Animal tooth necklace, Camouflage face paint
+Forest Guardian Medieval Outfit: Bark-covered armor, Thorned vine whip, Leafy mask, Wooden buckler, Forest spirit talisman, Mossy leggings
+Wandering Monk Medieval Outfit: Simple monk's robe, Wooden prayer beads, Bamboo staff, Meditation cushion, Rice bowl, Sandals
+Ice Mage Medieval Outfit: Icy blue robes, Frost-tipped staff, Crystalized spellbook, Snowflake pendant, Glacier gloves, Shimmering boots
+Gypsy Fortune Teller Medieval Outfit: Colorful scarf headwrap, Tarot cards, Crystal ball, Gold bangles, Ankle bells, Velvet skirt
+Samurai Warrior Medieval Outfit: Lacquered samurai armor, Katana sword, Samurai helmet, Sashimono back banner, Tabi socks, Waraji sandals
+Masked Harlequin Medieval Outfit: Harlequin mask, Jester's motley, Juggling balls, Acrobatic shoes, Trickster's cane, Bells anklet
+Ancient Warlock Medieval Outfit: Tattered hooded cloak, Elder staff with runic carvings, Mystic orbs, Ancient grimoire, Bone necklace, Arcane symbols robes
+Plague Doctor Medieval Outfit: Beaked plague mask, Long black cloak, Medical bag with herbs, Pestilence staff, Leather gloves, Herbal remedy vials
+Crusading Templar Medieval Outfit: White tabard with red cross, Crusader's sword and shield, Steel helm, Knightly gauntlets, Chainmail coif, Crusader boots
+Thieves' Guild Mastermind Medieval Outfit: Disguise-changing cloak, Lockpicks, Poisoned throwing daggers, Masterwork forgery kit, Shadowy hood, Night vision goggles
+Dwarven Blacksmith Medieval Outfit: Forged iron apron, Sturdy hammer, Anvil-shaped pendant, Fire-resistant gloves, Dwarven steel boots, Beard grooming kit
+Elemental Shaman Medieval Outfit: Elemental-themed robes, Elemental staff with crystals, Nature runes, Spirit animal talisman, Ancestral necklace, Earthen sandals
+Forest Bandit Medieval Outfit: Camouflaged hooded cloak, Bow and quiver, Stolen loot pouch, Throwing axes, Forest-green tunic, Bandit mask
+Arcane Artificer Medieval Outfit: Goggles of invention, Wrench and gears, Runed bracers, Crystal power core, Artificer's toolkit, Gear-patterned outfit
+Wasteland Scavenger Medieval Outfit: Tattered desert garb, Rusty scavenged blade, Gas mask, Scrap metal armor, Wasteland survival guide, Canteen with water
+##nobility
+Regal King Medieval Outfit: Crown with gemstones, Ermine-trimmed velvet robe, Royal scepter, Gold-embroidered gloves, Ornate golden necklace, Crimson silk cape
+Elegant Queen Medieval Outfit: Tiara with diamonds, Silk ball gown with lace, Diamond-studded necklace, Pearl-encrusted gloves, Royal fan, Satin opera gloves
+Chivalrous Knight Medieval Outfit: Crested helmet, Noble's surcoat, Engraved longsword, Gauntlets with heraldic symbols, Chainmail coif, Embossed shield
+Graceful Duchess Medieval Outfit: Embroidered coronet, Fine brocade gown, Opal pendant, Lace handkerchief, Beaded evening gloves, Delicate lace shawl
+Noble Lord Medieval Outfit: Embossed leather doublet, Fur-lined cloak, Signet ring, Leather gloves, Polished riding boots, Ceremonial dagger
+Aristocratic Lady Medieval Outfit: Feathered fascinator, Ruffled silk dress, Sapphire earrings, Beaded clutch purse, Lace gloves, High heels with jewels
+Majestic Emperor Medieval Outfit: Imperial dragon robe, Dragon-shaped crown, Dragon-embossed scepter, Jade amulet, Dragon-shaped ring, Silk dragon cape
+Enchanting Empress Medieval Outfit: Crystal tiara, Celestial gown with stars, Moonstone necklace, Crystal-encrusted wand, Lunar earrings, Velvet cloak with moon motifs
+Loyal Knight Captain Medieval Outfit: Crested helm with plume, Commander's plate armor, Commander's sword, Embossed chestplate, Leadership medal, Decorated shield
+Noble Dame Medieval Outfit: Embroidered headband, Silk brocade gown, Gemstone bracelet, Feathered fan, Silk gloves with lace, Embroidered cloak
+Royal Heir Medieval Outfit: Silver circlet, Royal blue velvet doublet, Gem-encrusted pendant, Silk sash, Heirloom ring, Velvet trousers with golden trim
+Gracious Marquess Medieval Outfit: Opulent feathered hat, Embroidered satin gown, Garnet necklace, Satin opera gloves, Marquess seal ring, Plush velvet cape
+Gallant Duke Medieval Outfit: Distinguished tricorne hat, Tailored velvet coat, Golden cane with gemstone handle, Embroidered waistcoat, Silk cravat, Knee-high leather boots
+Noble Oracle Medieval Outfit: Enigmatic headdress with veils, Flowing ethereal robes, Mystical crystal ball, Rune-carved staff, Moonstone amulet, Celestial mantle
+Grand Archduke Medieval Outfit: Ornate fur-trimmed crown, Regal ermine cloak, Embroidered brocade vest, Archduke's signet ring, Gold-embroidered boots, Silk cravat with jewel pin
+Aristocratic Gentlewoman Medieval Outfit: Delicate lace tiara, Embroidered ball gown with tulle, Diamond bracelet, Silk fan with gemstones, Lace gloves, Chandelier earrings
+Sovereign Monarch Medieval Outfit: Jewel-encrusted diadem, Royal purple robes with golden trim, Royal scepter with gemstones, Regal orb, King's signet ring, Ermine-trimmed cape
+Royal Courtier Medieval Outfit: Embellished feathered hat, Courtly doublet with lace collar, Courtier's pendant, Embroidered velvet gloves, Court fan, Embroidered cloak
+Illustrious Baron Medieval Outfit: Baronial coronet, Epaulette-embellished coat, Baron's signet ring, Velvet trousers with golden trim, Riding boots with spurs, Velvet cloak with fur collar
+Noble Debutante Medieval Outfit: Floral headpiece, Pastel silk ball gown, Pearl necklace, Satin opera gloves, Tulle petticoat, Embroidered fan
+Courtly Lady-in-Waiting Medieval Outfit: Pearl hairpins, Courtly gown with floral patterns, Pearl necklace, Embroidered clutch purse, Lace gloves, Silk shawl
+Royal Vizier Medieval Outfit: Turban with golden embroidery, Elaborate silk robes, Vizier's staff with gemstone, Golden ankh amulet, Crystal orb, Embroidered sash
+Honorable Baroness Medieval Outfit: Jeweled circlet, Embroidered satin gown, Amethyst pendant, Lace gloves, Baroness's signet ring, Fur-trimmed velvet cloak
+Noble Artisan Medieval Outfit: Mastercrafted beret, Exquisite tailored ensemble, Artisan's toolkit, Embroidered apron, Fine leather gloves, Artisan's medallion
+Aristocratic Dandy Medieval Outfit: Lavish wide-brimmed hat, Frilled silk shirt, Exquisite cane with jeweled handle, Embroidered waistcoat, Ruffled cravat, Embellished velvet jacket
+Royal Highness Medieval Outfit: Opulent jeweled crown, Silk robes with golden embroidery, Royal scepter with diamonds, Engraved ceremonial sword, Ruby-encrusted ring, Regal mantle
+Eloquent Viscount Medieval Outfit: Viscount's top hat, Embroidered waistcoat, Viscount's signet ring, Embossed leather gloves, Tailored trousers, Silk cravat
+Glorious Countess Medieval Outfit: Golden tiara with gemstones, Embroidered silk gown, Opal pendant, Diamond-encrusted fan, Countess's signet ring, Regal velvet cloak
+Imperial Regent Medieval Outfit: Grand feathered headdress, Robes adorned with phoenix motifs, Imperial regalia staff, Imperial dragon seal, Regent's signet ring, Regal phoenix cape
+Illustrious Marquis Medieval Outfit: Marquis's feathered hat, Brocade doublet with intricate patterns, Marquis's signet ring, Embroidered velvet gloves, Velvet trousers, Marquis's cloak with fur collar
+Charming Viscountess Medieval Outfit: Embellished headband, Embroidered ball gown, Diamond bracelet, Embroidered clutch purse, Lace gloves, Silk shawl with floral motifs
+Noble Scholar Medieval Outfit: Quill-adorned cap, Academic robes with scrolls motif, Leather-bound tomes, Spectacles, Feathered ink pen, Leather satchel
+Distinguished Count Medieval Outfit: Count's crest-adorned hat, Tailored velvet coat, Count's signet ring, Embroidered waistcoat, Knee-high leather boots, Regal cloak
+Royal Princess Medieval Outfit: Crystal tiara, Silk ball gown with cascading tulle, Diamond pendant, Silk gloves with lace, Princess's signet ring, Satin opera cape
+Gracious Margrave Medieval Outfit: Margrave's crest-adorned coronet, Embroidered velvet gown, Margrave's signet ring, Satin opera gloves, Fur-trimmed velvet cloak, Delicate lace shawl
+Aristocratic Gentleman Medieval Outfit: Fine top hat, Tailored suit with lapel pin, Golden pocket watch, Leather gloves, Polished leather shoes, Silk cravat
+Noble Poet Medieval Outfit: Poet's beret, Ruffled poet shirt, Quill pen with inkwell, Leather-bound poetry collection, Velvet trousers, Poet's cloak
+Dignified Earl Medieval Outfit: Embroidered tricorne hat, Embellished velvet doublet, Earl's signet ring, Tailored trousers, Knee-high leather boots, Embroidered cloak
+Graceful Marchioness Medieval Outfit: Marchioness's headdress, Embroidered ball gown, Marchioness's signet ring, Satin opera gloves, Marchioness's cloak, Pearl-encrusted fan
+Royal Consort Medieval Outfit: Jeweled diadem, Regal silk gown, Consort's pendant, Embroidered velvet gloves, Consort's signet ring, Royal velvet cape
+#martial
+Battle-Hardened Warrior Medieval Outfit: Plate armor, Greatsword, Steel gauntlets, Chainmail coif, Leather greaves, War helm
+Swift Duelist Medieval Outfit: Rapier, Lightweight leather armor, Fencing gloves, Dueling cloak, Buckler, Dual-wielded daggers
+Fearless Barbarian Medieval Outfit: Fur-lined tunic, Battleaxe, Leather bracers, Tribal necklace, War paint, Skull-adorned helmet
+Lethal Assassin Medieval Outfit: Black leather armor, Poisoned daggers, Stealth boots, Throwing knives, Hooded cloak, Concealed blades
+Valiant Crusader Medieval Outfit: Templar plate armor, Longsword, Crusader shield, Gauntlets with cross emblem, Chainmail coif, Crusader helm
+Fierce Berserker Medieval Outfit: Beast-hide armor, Massive two-handed axe, Berserker war paint, Fur-lined boots, Animal fang necklace, Rage-filled eyes
+Master Archer Medieval Outfit: Longbow, Leather archer's vest, Quiver with arrows, Finger tab, Arm guard, Hunting knife
+Honorable Samurai Medieval Outfit: Samurai armor, Katana sword, Samurai helmet, Samurai sashimono, Tabi socks, Waraji sandals
+Noble Paladin Medieval Outfit: Holy symbol amulet, Heavy plate armor, Blessed longsword, Radiant gauntlets, Paladin shield, Divine helm
+Agile Acrobat Medieval Outfit: Acrobatic clothing, Dagger-studded bracers, Tumbling boots, Silken cloak, Acrobatic hoop, Throwing knives
+Ruthless Reaver Medieval Outfit: Viking war axe, Raided armor, Barbarian horned helmet, Worn leather boots, Viking shield, Skull necklace
+Daring Swashbuckler Medieval Outfit: Rapier, Flamboyant pirate hat, Pirate coat, Swashbuckler boots, Pirate belt, Dual-wielded pistols
+Skilled Scout Medieval Outfit: Camouflage cloak, Silent bow, Leather bracers with tracking symbols, Forest-green tunic, Leather boots, Survival pouch
+Vengeful Avenger Medieval Outfit: Dark avenger's mask, Black avenger's cloak, Dual-wielded katanas, Shadowed gauntlets, Silent boots, Hidden blades
+Wandering Ronin Medieval Outfit: Ronin's kimono, Ronin's katana, Traveler's straw hat, Ronin's sashimono, Tabi socks, Waraji sandals
+Honored Knight Errant Medieval Outfit: Errant knight's tabard, Errant knight's longsword, Errant knight's gauntlets, Battle-worn coif, Sturdy greaves, Ornate buckler
+Deadly Duelist Medieval Outfit: Mastercrafted rapier, Intricate fencing mask, Duelist's coat, Leather dueling gloves, Duelist's boots, Engraved dueling ring
+Stalwart Sentinel Medieval Outfit: Tower shield, Heavy plate armor, Mace, Sturdy greaves, Tower helm, Gauntlets with rivets
+Elusive Shadowblade Medieval Outfit: Shadowed hood, Shadowblade cloak, Dagger of darkness, Shadowstep boots, Enigmatic mask, Shadow runes tattoo
+Fabled Beastmaster Medieval Outfit: Beastmaster's tunic, Enchanted beast collar, Beastmaster's staff, Beastmaster's gauntlets, Beastmaster's boots, Animal totem necklace
+Daring Highwayman Medieval Outfit: Bandit's mask, Highwayman cloak, Flintlock pistol, Bandit's boots, Highwayman hat, Concealed dagger
+Honed Gladiator Medieval Outfit: Gladiator's armor, Gladiator's trident, Gladiator's helmet, Gladiator's greaves, Gladiator's shield, Gladiator's bracers
+Fearsome Warlord Medieval Outfit: Warlord's horned helmet, Warlord's fur-lined cloak, Warlord's battleaxe, Warlord's gauntlets, Warlord's boots, Warlord's medallion
+Valorous Squire Medieval Outfit: Squire's tunic, Training sword, Squire's padded gloves, Squire's boots, Squire's shield, Squire's heraldry tabard
+Merciless Executioner Medieval Outfit: Hooded executioner's mask, Executioner's black robe, Executioner's axe, Executioner's gloves, Executioner's boots, Noose necklace
+Noble Musketeer Medieval Outfit: Musketeer's feathered hat, Musketeer's rapier, Musketeer's doublet, Musketeer's gloves, Musketeer's boots, Musketeer's cape
+Fierce Gladiator Medieval Outfit: Gladiator's gladius, Gladiator's chestplate, Gladiator's helmet with plume, Gladiator's leg greaves, Gladiator's arm bracers, Gladiator's trophy belt
+Reclusive Hermit Medieval Outfit: Tattered robes, Wooden staff, Herbal pouch, Hermit's medallion, Rustic sandals, Untamed beard
+Daring Juggernaut Medieval Outfit: Juggernaut's horned helm, Juggernaut's spiked armor, Juggernaut's war hammer, Juggernaut's gauntlets, Juggernaut's boots, Juggernaut's war paint
+Ruthless Bounty Hunter Medieval Outfit: Bounty hunter's hat with brim, Bounty hunter's duster, Bounty hunter's revolver, Bounty hunter's gloves, Bounty hunter's boots, Wanted poster
+Stealthy Nightblade Medieval Outfit: Nightblade's hood, Nightblade's cloak, Nightblade's dual daggers, Nightblade's gloves, Nightblade's boots, Nightblade's mask
+Cautious Sentinel Medieval Outfit: Sentinel's tower shield, Sentinel's plate armor, Sentinel's longsword, Sentinel's coif, Sentinel's greaves, Sentinel's gauntlets
+Fabled Dragonrider Medieval Outfit: Dragonrider's helmet with dragon crest, Dragonrider's dragon scale armor, Dragonrider's lance, Dragonrider's boots, Dragonrider's gauntlets, Dragonrider's medallion
+Elusive Scout Medieval Outfit: Scout's hooded cloak, Scout's bow, Scout's bracers, Scout's boots, Scout's gloves, Scout's camouflage face paint
+Cunning Infiltrator Medieval Outfit: Infiltrator's mask, Infiltrator's cloak, Infiltrator's poisoned blades, Infiltrator's gloves, Infiltrator's stealth boots, Infiltrator's emblem
+Swift Cavalier Medieval Outfit: Cavalier's plumed helmet, Cavalier's cavalier's cuirass, Cavalier's saber, Cavalier's riding boots, Cavalier's gauntlets, Cavalier's regal cape
+Mysterious Nightstalker Medieval Outfit: Nightstalker's shadowy cowl, Nightstalker's dark cape, Nightstalker's ethereal daggers, Nightstalker's gloves, Nightstalker's silent boots, Nightstalker's amulet
+Fierce Gladiator Queen Medieval Outfit: Gladiator's helm with queenly crest, Gladiator's queenly armor, Gladiator's queenly spear, Gladiator's queenly greaves, Gladiator's queenly bracers, Gladiator's queenly trophy belt
+Noble Blademaster Medieval Outfit: Blademaster's ornate katana, Blademaster's traditional kimono, Blademaster's mastercrafted helmet, Blademaster's leather gloves, Blademaster's silk sash, Blademaster's bamboo sandals
+Vigilant Sentinel Knight Medieval Outfit: Sentinel Knight's visored helm, Sentinel Knight's ornate plate armor, Sentinel Knight's celestial sword, Sentinel Knight's tower shield, Sentinel Knight's gauntlets, Sentinel Knight's valiant tabard
+Viking Berserker Medieval Outfit: Bear fur cloak, Viking helmet, Battle-axe, Viking shield, Leather gauntlets, Leather boots
+Samurai Warrior Medieval Outfit: Samurai armor, Katana, Samurai helmet, Samurai face mask, Samurai sandals, Samurai belt
+Roman Legionary Medieval Outfit: Lorica Segmentata armor, Gladius sword, Roman helmet, Scutum shield, Caligae sandals, Leather belt
+Celtic Warrior Medieval Outfit: Woad-painted skin, Celtic chainmail, Celtic longsword, Celtic shield, Braccae trousers, Celtic torc necklace
+Mongol Horse Archer Medieval Outfit: Mongol armor, Composite bow, Mongol helmet, Quiver with arrows, Mongol riding boots, Mongol saddle
+Greek Hoplite Medieval Outfit: Hoplite armor, Dory spear, Corinthian helmet, Hoplon shield, Greaves, Tunic and chiton
+Native American Brave Medieval Outfit: Buckskin tunic, Tomahawk, Feathered war bonnet, Bow and arrows, Moccasins, Beaded necklace
+Zulu Warrior Medieval Outfit: Zulu warrior shield, Assegai spear, Leopard skin loincloth, Cowhide shield, Isicoco hat, Nguni hide sandals
+Persian Immortal Medieval Outfit: Lamellar armor, Xiphos sword, Persian helmet, Immortal face mask, Greaves, Leather sandals
+Egyptian Warrior Medieval Outfit: Linen kilt, Khopesh sword, Egyptian helmet, Egyptian shield, Sandals, Ankh pendant
+Aztec Eagle Warrior Medieval Outfit: Feathered eagle warrior headdress, Macuahuitl obsidian sword, Jaguar skin tunic, Wooden shield, Aztec sandals, War paint
+Medieval European Knight Medieval Outfit: Plate armor, Longsword, Great helm, Heater shield, Gauntlets, Steel sabatons
+Chinese Dao Warrior Medieval Outfit: Dao sword, Lamellar armor, Chinese helmet, Chinese war mask, Leather boots, Sash belt
+Scottish Highlander Medieval Outfit: Tartan kilt, Claymore sword, Sporran pouch, Scottish shield, Brogues, Scottish plaid
+Maori Warrior Medieval Outfit: Traditional Maori piupiu skirt, Taiaha spear, Maori carved bone pendant, Tiki mask, Moko facial tattoo, Pounamu greenstone necklace
+Rajput Warrior Medieval Outfit: Rajput armor, Khanda sword, Rajput turban, Katar dagger, Jodhpur boots, Rajput sash
+Viking Shieldmaiden Medieval Outfit: Viking chainmail, Round Viking shield, Viking seax knife, Leather bracers, Norse clothing, Leather belt
+Persian Sassanian Warrior Medieval Outfit: Sassanian armor, Longbow, Sassanian helmet, Quiver with arrows, Sassanian boots, Leather belt
+Maasai Warrior Medieval Outfit: Shuka cloak, Simi short sword, Maasai beaded jewelry, Enkare sandals, Shield, Spear
+Japanese Ronin Medieval Outfit: Ronin kimono, Yumi bow, Ronin conical hat, Wakizashi short sword, Tabi socks, Waraji sandals
+Swiss Halberdier Medieval Outfit: Halberd, Swiss plate armor, Burgonet helmet, Swiss shield, Gauntlets, Steel sabatons
+Incan Warrior Medieval Outfit: Loincloth, Sling, Incan helmet, Woven shield, Sandals, Wristbands
+Teutonic Knight Medieval Outfit: Teutonic plate armor, Teutonic sword, Teutonic helmet, Heater shield, Teutonic boots, Teutonic belt
+Bhutanese Drukpa Warrior Medieval Outfit: Traditional Bhutanese robe, Bhutanese sword, Drukpa helmet, Drukpa shield, Knee-high boots, Drukpa sash
+Nigerian Hausa Warrior Medieval Outfit: Babban riga robe, Sword, Hausa hat, Wooden shield, Leather sandals, Cowrie shell necklace
+Persian Achaemenid Immortal Medieval Outfit: Immortal robe, Xiphos sword, Persian helmet, Immortal face mask, Greaves, Leather sandals
+Vietnamese Dai Viet Warrior Medieval Outfit: Lacquered armor, Double-bladed sabre, Cone hat, Vietnamese shield, Leather boots, Sash belt
+Berber Warrior Medieval Outfit: Berber robe, Takouba sword, Berber turban, Wooden shield, Leather sandals, Nomad pouch
+Sarmatian Warrior Medieval Outfit: Sarmatian lamellar armor, Sarmatian bow, Sarmatian helmet, Scythian boots, Leather gloves, Quiver with arrows
+Korean Hwarang Medieval Outfit: Hwarang hanbok, Hwarang sword, Hwarang helmet, Hwarang mask, Waraji sandals, Korean sash
+African Zande Warrior Medieval Outfit: Leopard skin loincloth, Zande throwing knife, Zande headdress, Zande shield, Wristbands, Beaded necklace
+Swiss Crossbowman Medieval Outfit: Crossbow, Swiss plate armor, Open-faced helmet, Swiss shield, Leather gloves, Steel sabatons
+Ottoman Janissary Medieval Outfit: Janissary robe, Yatagan sword, Janissary turban, Janissary shield, Leather boots, Janissary belt
+Arabian Bedouin Warrior Medieval Outfit: Bedouin robe, Scimitar sword, Keffiyeh headscarf, Bedouin shield, Leather sandals, Camel saddle
+Korean Goryeo Warrior Medieval Outfit: Goryeo armor, Goryeo sword, Goryeo helmet, Goryeo shield, Goryeo boots, Leather belt
+Scottish Claymore Warrior Medieval Outfit: Great kilt, Claymore sword, Sporran pouch, Scottish shield, Brogues, Scottish plaid
+Nigerian Yoruba Warrior Medieval Outfit: Yoruba agbada robe, Yoruba sword, Yoruba headdress, Yoruba shield, Beaded necklace, Cowrie shell bracelets
+Viking Shieldbearer Medieval Outfit: Viking round shield, Spear, Viking helmet, Leather bracers, Norse clothing, Leather belt
+Japanese Ashigaru Medieval Outfit: Ashigaru armor, Yari spear, Kabuto helmet, Ashigaru mask, Waraji sandals, Sash belt
+Moroccan Berber Warrior Medieval Outfit: Berber robe, Nimcha sword, Berber turban, Wooden shield, Leather sandals, Nomad pouch
+#religious/scholarly
+Wise Sage Medieval Outfit: Long robes, Elder staff, Leather-bound tomes, Spectacles, Ancestral necklace, Sandals
+Devout Priest Medieval Outfit: Cassock with religious symbols, Holy scriptures, Ornate censer, Prayer beads, Holy water vial, Sandals
+Mystical Shaman Medieval Outfit: Animal fur cloak, Spirit totem staff, Shamanic rattle, Tribal necklace, Herbal pouch, Painted war paint
+Learned Scholar Medieval Outfit: Scholarly robes, Quill and inkwell, Ancient scrolls, Academic spectacles, Leather satchel, Tasseled cord belt
+Humble Monk Medieval Outfit: Simple monk's robe, Wooden prayer beads, Bamboo staff, Meditation cushion, Rice bowl, Sandals
+Mystic Seer Medieval Outfit: Enigmatic hooded cloak, Crystal ball, Celestial symbols robe, Moonstone amulet, Mystical runes, Incense holder
+Archivist Librarian Medieval Outfit: Vintage academic robes, Leather book bindings, Dusty tomes, Reading glasses, Antique quill, Leather pouch
+Devoted Nun Medieval Outfit: Nun's habit, Prayer book, Rosary beads, Cross necklace, Holy water vial, Sensible shoes
+Spiritual Guru Medieval Outfit: Colorful guru robe, Lotus flower, Meditation beads, Sacred incense, Guru turban, Barefoot
+Alchemist Adept Medieval Outfit: Elaborate alchemist robe, Alchemist's tome, Potion vials, Mortar and pestle, Alchemical symbols, Leather gloves
+Sacred Hierophant Medieval Outfit: Hierophant's mitre, Embroidered holy vestments, Gilded scepter, Reliquary necklace, Hierophant's seal ring, Ceremonial sandals
+Astrologer's Attire Medieval Outfit: Celestial-themed robe, Astrolabe, Zodiac chart, Crystal pendulum, Starlit cloak, Mystic symbols hat
+Pious Pilgrim Medieval Outfit: Pilgrim's cloak, Wooden walking staff, Pilgrim's shell necklace, Traveler's backpack, Pilgrim's badge, Comfortable walking shoes
+Enigmatic Oracle Medieval Outfit: Ornate oracle headdress, Veiled oracle gown, Enchanted oracle bones, Celestial symbols, Incense holder, Ancestral necklace
+Learned Scribe Medieval Outfit: Scribe's robe, Calligraphy pen, Illuminated manuscripts, Parchment scrolls, Scribe's inkwell, Spectacles
+Devoted Cleric Medieval Outfit: Cleric's vestments, Holy mace, Divine scriptures, Prayer beads, Cleric's medallion, Sandals
+Ancient Historian Medieval Outfit: Historian's cloak, Ancient tablets, Dusty scrolls, Quill and inkwell, Magnifying glass, Leather satchel
+Wandering Prophet Medieval Outfit: Tattered prophet's cloak, Wooden staff with runes, Celestial symbols, Ancestral necklace, Weathered sandals, Prophet's medallion
+Enlightened Abbot Medieval Outfit: Abbot's hooded robe, Carved abbot's staff, Sacred incense, Abbot's medallion, Ancient scriptures, Leather-bound journal
+Lunar Astrologer Medieval Outfit: Lunar-themed robes, Moon phase chart, Celestial amulet, Crystal pendulum, Lunar cloak, Pointed astrologer hat
+Guardian Templar Medieval Outfit: Templar's tabard, Templar sword, Templar's helm, Templar shield, Templar gauntlets, Templar boots
+Mystic Diviner Medieval Outfit: Diviner's cloak with arcane symbols, Divining rod, Tarot cards, Crystal ball, Occult symbols hat, Mystical talisman
+Scribe Illuminator Medieval Outfit: Illuminator's tunic, Fine brush set, Gold leaf embellishments, Illuminated manuscripts, Spectacles, Embroidered satchel
+Mystic Medium Medieval Outfit: Medium's flowing gown, Spirit communication board, Crystal ball, Ouija planchette, Medium's headdress, Ancestral necklace
+Anointed Clergy Medieval Outfit: Clergy's cassock, Anointed censer, Holy water vial, Clergy's medallion, Embroidered stole, Sensible shoes
+Ancient Relic Hunter Medieval Outfit: Relic hunter's hat, Weathered explorer's coat, Antique artifact, Explorer's journal, Ancient symbols map, Relic hunter's boots
+Wise Ecclesiarch Medieval Outfit: Ecclesiarch's ornate mitre, Ecclesiarch's regal robes, Sacred staff, Celestial symbols, Ecclesiarch's seal ring, Regal sandals
+Celestial Astrologer Medieval Outfit: Celestial-themed robe with stars, Astrolabe, Celestial amulet, Crystal pendulum, Celestial cloak, Pointed astrologer hat
+Sage Archivist Medieval Outfit: Archivist's robe, Carefully preserved tomes, Antique scrolls, Spectacles, Archivist's medallion, Leather satchel
+Serene Novice Medieval Outfit: Novice's robes, Novice's prayer book, Novice's necklace, Novice's medallion, Novice's inkwell, Sandals
+Starry Alchemist Medieval Outfit: Alchemist's robe with constellations, Alchemist's tome, Starlit elixirs, Crystal pendulum, Celestial symbols, Alchemist's hat
+Hierophant Seer Medieval Outfit: Hierophant's headdress with gemstones, Seer's robe with cosmic patterns, Hierophant's staff with crystal, Seer's pendant, Celestial symbols, Seer's anklet
+Oracular Sibyl Medieval Outfit: Sibyl's ethereal veil, Sibyl's prophetic gown, Sibyl's crystal ball, Ancestral necklace, Sibyl's headdress with runes, Moonlit cloak
+Astral Scholar Medieval Outfit: Astral-themed robe, Astral maps and charts, Celestial amulet, Astral telescope, Astral cloak, Pointed scholar's hat
+Relic Guardian Medieval Outfit: Guardian's ornate helmet, Guardian's gilded breastplate, Guardian's sacred staff, Guardian's amulet, Guardian's gauntlets, Guardian's regal cloak
+Astral Seer Medieval Outfit: Astral seer's cloak, Astral seer's staff with crystal, Astral seer's robe with celestial patterns, Astral seer's medallion, Astral seer's anklet, Astral seer's headdress
+Pious High Priest Medieval Outfit: High priest's ornate mitre, High priest's regal vestments, High priest's sacred staff, High priest's pendant, High priest's sacred gloves, High priest's majestic cape
+Relic Seeker Scholar Medieval Outfit: Relic seeker's robe, Relic seeker's staff with gem, Relic seeker's satchel, Relic seeker's journal, Relic seeker's pendant, Relic seeker's anklet
+Celestial Sage Medieval Outfit: Celestial sage's headdress with stars, Celestial sage's robe with lunar motifs, Celestial sage's staff with moonstone, Celestial sage's amulet, Celestial sage's cloak, Celestial sage's anklet
+Reverent Archmage Medieval Outfit: Archmage's pointy hat, Archmage's flowing robes, Archmage's ornate staff, Archmage's medallion, Archmage's spellbook, Archmage's cloak
+#poor/lower class
+Humble Peasant Medieval Outfit: Simple tunic, Patched trousers, Straw hat, Wooden clogs, Worn cloak, Handwoven basket
+Street Urchin Medieval Outfit: Tattered shirt, Ragged trousers, Newsboy cap, Barefoot, Frayed scarf, Tin can for begging
+Village Fisher Medieval Outfit: Weathered fisherman's hat, Fisherman's net, Fisherman's vest, Fisherman's boots, Fishing rod, Rustic bucket
+Rural Farmhand Medieval Outfit: Straw hat, Work gloves, Farmhand's overalls, Work boots, Pitchfork, Woven basket
+Itinerant Peddler Medieval Outfit: Worn traveler's cloak, Pack of goods on back, Peddler's satchel, Weathered boots, Peddler's hat, Assorted trinkets for sale
+Dockworker Laborer Medieval Outfit: Sturdy work pants, Dockworker's vest, Work boots, Loading hook, Leather gloves, Coiled rope
+Modest Servant Medieval Outfit: Simple servant's livery, Servant's apron, Servant's cap, Polishing cloth, Cleaning brush, Silver tray
+Street Vendor Medieval Outfit: Colorful peddler's robe, Wicker market basket, Street vendor's satchel, Sandals, Vendor's turban, Assorted fruits and vegetables
+Homeless Vagabond Medieval Outfit: Tattered cloak, Sackcloth rags, Rugged walking staff, Homeless sign, Tin cup for alms, Satchel with meager possessions
+Small Town Artisan Medieval Outfit: Artisan's apron, Worn leather tool belt, Artisan's cap, Leather gloves, Artisan's tools, Finished wares for display
+City Scavenger Medieval Outfit: Rags stitched together, Pouch for scraps, Battered metal pot, Rusty knife, Barefoot, Old burlap sack
+Village Shepherd Medieval Outfit: Woolen cloak, Crook staff, Shepherd's tunic, Shepherd's boots, Sheepskin blanket, Leather water pouch
+Market Porter Medieval Outfit: Hauler's cap, Heavy shoulder straps for goods, Market porter's tunic, Work boots, Rope for securing loads, Wooden cart
+Tavern Server Medieval Outfit: Tavern server's apron, Sturdy tavern shoes, Tray for drinks, Tankard for ale, Towel for wiping tables, Order notepad
+Village Potter Medieval Outfit: Clay-stained apron, Potter's wheel, Potter's tunic, Pottery tools, Kiln gloves, Assortment of clay pots
+City Ragpicker Medieval Outfit: Tattered clothing, Battered tin can, Dirty sack for scraps, Worn-out shoes, Pile of found items, Bent metal hook
+Nomadic Hunter Medieval Outfit: Camouflaged cloak, Hunting bow, Leather quiver, Bone knife, Leather boots, Animal tooth necklace
+Traveling Entertainer Medieval Outfit: Colorful motley, Juggling balls, Acrobatic shoes, Lute or small musical instrument, Comedy mask, Bells anklet
+Riverboat Oarsman Medieval Outfit: Riverboat cap, Oarsman's vest, Riverboat paddles, Riverboat sandals, Coil of rope, Riverboat whistle
+Village Blacksmith Medieval Outfit: Sturdy leather apron, Blacksmith's hammer, Blacksmith's tunic, Forged iron items, Leather gloves, Anvil
+Ragged Minstrel Medieval Outfit: Patched motley, Worn lute, Minstrel's hat, Dusty scroll of songs, Tattered cloak, Fading emblem
+Town Crier Medieval Outfit: Bell for attention, Town crier's tunic, Proclamation scroll, Town crier's hat, Sash with town emblem, Sturdy shoes
+Village Baker Medieval Outfit: Flour-dusted apron, Baker's hat, Wooden baker's peel, Baker's tunic, Baking gloves, Loaves of bread
+Thatch-roof Repairer Medieval Outfit: Straw hat, Thatch repairer's vest, Bundle of thatch, Thatch-roof repairer's gloves, Wooden ladder, Fixing tools
+Cobbler Artisan Medieval Outfit: Cobbler's apron, Cobbler's tools, Cobbler's tunic, Leather boots, Shoemaker's last, Assorted repaired shoes
+Street Busker Medieval Outfit: Colorful clothes, Musical instrument, Busker's hat, Beggar's cup, Juggling balls, Fading emblem
+Sewer Cleaner Medieval Outfit: Sewer worker's cap, Sewer worker's tunic, Sewer cleaning brush, Lantern for illumination, Sewer worker's boots, Leather gloves
+Street Sweepers Medieval Outfit: Broom for sweeping, Street sweeper's tunic, Dustpan and brush, Street sweeper's cap, Wooden cart, Broom holder
+Village Potter's Apprentice Medieval Outfit: Apprentice's apron, Potter's wheel, Apprentice's tunic, Pottery tools, Kiln gloves, Assortment of clay pots
+Village Apothecary Medieval Outfit: Herbalist's apron, Apothecary mortar and pestle, Apothecary tunic, Herb pouch, Apothecary's book, Assortment of vials
+Nomadic Weaver Medieval Outfit: Colorful woven cloak, Loom for weaving, Weaver's tunic, Spools of thread, Weaver's tools, Assorted woven fabrics
+Village Stonecutter Medieval Outfit: Stonecutter's apron, Chisel and mallet, Stonecutter's tunic, Rough stones for carving, Stone dust, Mason's tools
+Town Lamplighter Medieval Outfit: Lamplighter's tunic, Long pole for lighting lamps, Lantern with lit candle, Lamplighter's cap, Leather gloves, Refill oil can
+Rural Milkmaid Medieval Outfit: Milk pail, Milkmaid's dress, Milkmaid's bonnet, Milking stool, Cow brush, Freshly milked bucket
+Village Beekeeper Medieval Outfit: Beekeeper's veil, Smoker for bees, Beekeeper's tunic, Beehive box, Beekeeper's gloves, Assorted honey jars
+City Watch Recruit Medieval Outfit: Watch recruit's tabard, Wooden baton, Watch recruit's tunic, Watchman's cap, Whistle for signaling, Leather boots
+Village Carpenter Medieval Outfit: Carpenter's apron, Carpenter's saw, Carpenter's tunic, Nails and hammer, Carpenter's gloves, Wooden planks
+Dockside Laborer Medieval Outfit: Dockside worker's cap, Worker's overalls, Loading hook, Rope for securing loads, Dockside gloves, Weathered boots
+Village Stonemason Medieval Outfit: Stonemason's apron, Stonemason's chisel, Stonemason's tunic, Carved stones, Stonemason's gloves, Stone dust
+Village Scarecrow Medieval Outfit: Straw-stuffed clothing, Stick arms, Weathered hat, Scarecrow's tunic, Button eyes, Weathered boots
+#middle class
+Town Merchant Medieval Outfit: Fine merchant's robes, Embroidered sash, Merchant's ledger, Jeweled brooch, Polished leather shoes, Silk handkerchief
+Village Innkeeper Medieval Outfit: Innkeeper's vest, Key ring with inn keys, Innkeeper's apron, Tavern menu, Innkeeper's ledger, Inn sign pendant
+Skilled Artisan Medieval Outfit: Artisan's apron, Fine crafted toolset, Artisan's tunic, Artisan's medallion, Quality leather gloves, Finished wares for display
+Manor Steward Medieval Outfit: Steward's coat, Steward's signet ring, Manor ledger, Gold-trimmed gloves, Ornate staff, Elegant leather shoes
+Bookstore Owner Medieval Outfit: Bookstore owner's coat, Bookstore sign, Quill and inkwell, Bookstore ledger, Leather-bound books, Reading glasses
+Village Mayor Medieval Outfit: Mayor's chain of office, Mayor's sash, Mayor's seal ring, Ornate staff of office, Mayor's medallion, Polished leather shoes
+Civic Guard Captain Medieval Outfit: Guard captain's tabard, Commanding officer's helmet, Command baton, Guard captain's signet ring, Sturdy leather gloves, Polished boots
+Town Doctor Medieval Outfit: Physician's robe, Doctor's bag, Medicinal herbs, Stethoscope, Doctor's medallion, Healer's sash
+Wealthy Merchant Medieval Outfit: Lavish merchant's attire, Merchant's satchel, Fine jewelry, Merchant's ledger, Gem-encrusted cufflinks, Polished shoes
+Village Elder Medieval Outfit: Elder's cloak, Wooden cane, Ancestral necklace, Wisdom tome, Council medallion, Elder's embroidered sash
+Manor Governess Medieval Outfit: Governess's dress, Governess's pocket watch, Governess's apron, Children's storybooks, Embroidered handkerchief, Manor keyring
+Artistic Master Medieval Outfit: Master's cape, Master's palette, Master's tunic, Fine paintbrush set, Artistic medallion, Artistic beret
+Village Constable Medieval Outfit: Constable's tabard, Constable's baton, Handcuffs, Constable's signet ring, Brass whistle, Sturdy leather boots
+Midwife Healer Medieval Outfit: Healer's gown, Healing herbs pouch, Midwife's birthing stool, Healing salves, Midwife's medallion, Birthing book
+Town Musician Medieval Outfit: Musician's tunic, Musician's instrument case, Musical notes sheet, Musician's medallion, Melodic gloves, Vibrant hat
+Innkeeper's Wife Medieval Outfit: Innkeeper's wife dress, Inn sign pendant, Innkeeper's ledger, Fine apron, Heirloom brooch, Polished shoes
+Village Watch Sergeant Medieval Outfit: Watch sergeant's tabard, Watch sergeant's whistle, Watchman's baton, Watch sergeant's signet ring, Watchman's cap, Sturdy boots
+Wealthy Landowner Medieval Outfit: Landowner's coat, Ornate walking cane, Land deed scroll, Landowner's signet ring, Expensive leather gloves, Fine leather boots
+Town Judge Medieval Outfit: Judge's robes, Gavel of justice, Judge's sash, Law book, Judge's medallion, Wisdom-topped staff
+Village Architect Medieval Outfit: Architect's cape, Roll of blueprints, Architect's tunic, Precision drafting tools, Architect's medallion, Leather portfolio
+Manor Butler Medieval Outfit: Butler's tailcoat, Silver tray, Manor keyring, Butler's white gloves, Formal shoes, Fine handkerchief
+Civic Councilor Medieval Outfit: Councilor's robe, Councilor's seal ring, Council documents, Councilor's medallion, Wisdom tome, Council insignia pin
+Village Postmaster Medieval Outfit: Postmaster's coat, Mailbag with letters, Postmaster's ledger, Wax seal stamp, Postmaster's medallion, Official hat
+Town Barrister Medieval Outfit: Barrister's gown, Court documents, Barrister's wig, Legal tome, Barrister's medallion, Silver quill pen
+Village Tinkerer Medieval Outfit: Tinkerer's apron, Assorted gears and gadgets, Tinkerer's tunic, Tinkerer's toolbox, Tinkerer's medallion, Inventor's goggles
+Village Apothecary Medieval Outfit: Herbalist's apron, Apothecary mortar and pestle, Apothecary tunic, Herb pouch, Apothecary's book, Assortment of vials
+Rural Surveyor Medieval Outfit: Surveyor's vest, Measuring chain, Surveyor's tunic, Surveyor's theodolite, Surveyor's medallion, Compass
+Village Treasurer Medieval Outfit: Treasurer's cloak, Manor keyring, Treasurer's ledger, Treasurer's signet ring, Treasurer's medallion, Polished leather shoes
+Town Baker Medieval Outfit: Baker's apron, Baker's hat, Wooden baker's peel, Baker's tunic, Baking gloves, Assortment of freshly baked bread
+Scribe Calligrapher Medieval Outfit: Scribe's robes, Fine calligraphy pen, Illuminated manuscripts, Parchment scrolls, Spectacles, Leather satchel
+Village Teacher Medieval Outfit: Teacher's gown, Chalkboard and chalk, Educational books, Teacher's medallion, Spectacles, Lesson plan scroll
+Manor Gardener Medieval Outfit: Gardener's hat, Gardener's gloves, Gardener's vest, Pruning shears, Watering can, Assorted seeds
+Town Clockmaker Medieval Outfit: Clockmaker's apron, Intricate clock parts, Clockmaker's tunic, Pendulum weight, Clockmaker's tools, Precision gears
+Village Clothier Medieval Outfit: Clothier's robe, Cloth samples, Clothier's tunic, Sewing needles and thread, Clothier's medallion, Measuring tape
+Middle-Class Family Mother Medieval Outfit: Middle-class dress, Family pendant, Family heirloom locket, Family brooch, Family medallion, Sensible shoes
+Village Veterinarian Medieval Outfit: Veterinarian's coat, Medical bag for animals, Veterinarian's apron, Animal healing herbs, Veterinarian's medallion, Stethoscope for animals
+Manor Librarian Medieval Outfit: Librarian's robe, Leather-bound tomes, Librarian's spectacles, Library key, Librarian's medallion, Reading chair
+Town Clock Tower Keeper Medieval Outfit: Clock tower keeper's uniform, Tower clock winding crank, Clock tower keys, Clock tower keeper's cap, Clock tower keeper's medallion, Tower clock maintenance tools
+Civic Architect Medieval Outfit: Architect's coat, Architectural blueprints, Architect's tunic, Precision drafting tools, Architect's medallion, Pocket watch
+Village Mayor's Assistant Medieval Outfit: Mayor's assistant's tabard, Council documents, Mayor's assistant's sash, Assistant's signet ring, Assistant's medallion, Wisdom-topped staff
+#adventurers
+Valiant Knight Medieval Outfit: Knight's plate armor, Mighty longsword, Knight's shield, Steel gauntlets, Chainmail coif, Knight's helmet
+Daring Rogue Medieval Outfit: Black leather armor, Twin daggers, Stealth cloak, Throwing knives, Lockpicking tools, Rogue's mask
+Cunning Archer Medieval Outfit: Longbow, Elven leather armor, Quiver with arrows, Finger tab, Arm guard, Hunting knife
+Fearless Barbarian Medieval Outfit: Barbarian's fur-lined tunic, Enormous two-handed axe, Leather bracers, Tribal necklace, War paint, Skull-adorned helmet
+Mystic Sorcerer Medieval Outfit: Robes of arcane symbols, Enchanted staff, Spellbook, Crystal amulet, Arcane gloves, Sorcerer's hat
+Elusive Assassin Medieval Outfit: Shadowed assassin's cloak, Dual poisoned daggers, Stealth boots, Disguise kit, Hooded mask, Hidden blades
+Noble Paladin Medieval Outfit: Shining plate armor, Blessed longsword, Holy shield, Radiant gauntlets, Paladin's amulet, Divine helm
+Swift Scout Medieval Outfit: Camouflage cloak, Silent bow, Leather bracers with tracking symbols, Forest-green tunic, Survival pouch, Stealth boots
+Fabled Beastmaster Medieval Outfit: Beastmaster's tunic, Enchanted beast collar, Beastmaster's staff, Beastmaster's gauntlets, Animal totem necklace, Beastmaster's boots
+Adventurous Explorer Medieval Outfit: Explorer's hat, Expedition journal, Explorer's backpack, Map of uncharted lands, Compass, Explorer's boots
+Battle-Hardened Mercenary Medieval Outfit: Mercenary's rugged armor, Battleaxe, Mercenary's helmet, Mercenary's gauntlets, Chainmail coif, Mercenary's insignia
+Wandering Ronin Medieval Outfit: Ronin's kimono, Ronin's katana, Traveler's straw hat, Ronin's sashimono, Tabi socks, Waraji sandals
+Elemental Mage Medieval Outfit: Robes of swirling elements, Elemental staff, Tome of elemental spells, Elemental amulet, Arcane gloves, Elemental tiara
+Skilled Duelist Medieval Outfit: Rapier, Dueling cloak, Duelist's gloves, Intricate fencing mask, Duelist's boots, Duelist's medallion
+Shadowy Infiltrator Medieval Outfit: Infiltrator's mask, Shadowy cloak, Dagger of darkness, Infiltrator's gloves, Infiltrator's boots, Infiltrator's emblem
+Courageous Gladiator Medieval Outfit: Gladiator's gladius, Gladiator's chestplate, Gladiator's helmet with plume, Gladiator's leg greaves, Gladiator's arm bracers, Gladiator's trophy belt
+Cunning Tactician Medieval Outfit: Strategist's coat, Tactical map, Tactician's gloves, Command baton, Tactical compass, Tactician's insignia
+Adventurous Swashbuckler Medieval Outfit: Swashbuckler's hat, Flamboyant pirate coat, Dual-wielded rapiers, Swashbuckler's boots, Swashbuckler's belt, Pirate's map
+Fabled Dragonrider Medieval Outfit: Dragonrider's helmet with dragon crest, Dragonrider's dragon scale armor, Dragonrider's lance, Dragonrider's boots, Dragonrider's gauntlets, Dragonrider's medallion
+Arcane Scholar Medieval Outfit: Scholar's robes with ancient runes, Enchanted quill and inkwell, Tomes of forgotten knowledge, Crystal amulet, Scholar's gloves, Scholar's glasses
+Daring Sky Captain Medieval Outfit: Aviator's goggles, Leather aviator jacket, Captain's hat, Weathered pilot's logbook, Brass compass, Pilot's boots
+Enigmatic Ranger Medieval Outfit: Ranger's cloak, Longbow, Ranger's bracers, Camouflage face paint, Ranger's boots, Animal claw necklace
+Relentless Monster Hunter Medieval Outfit: Monster hunter's hood, Monster hunter's coat, Monster hunter's silver sword, Monster hunter's gloves, Monster hunter's boots, Monster hunter's emblem
+Fierce Gladiator Queen Medieval Outfit: Gladiator's helm with queenly crest, Gladiator's queenly armor, Gladiator's queenly spear, Gladiator's queenly greaves, Gladiator's queenly bracers, Gladiator's queenly trophy belt
+Arcane Archaeologist Medieval Outfit: Archaeologist's hat with expedition emblem, Archaeologist's jacket, Digging tools, Archaeologist's satchel, Ancient artifact, Dusty scroll of findings
+Noble Treasure Hunter Medieval Outfit: Explorer's hat, Treasure hunter's coat, Treasure hunter's map, Shiny medallion, Treasure hunter's boots, Treasure hunter's pouch
+Wily Trickster Medieval Outfit: Trickster's motley, Trickster's hat, Illusionist's wand, Trickster's mask, Trickster's gloves, Deceptive amulet
+Vigilante Avenger Medieval Outfit: Vigilante's mask, Avenger's cloak, Dual-wielded katanas, Avenger's gloves, Avenger's boots, Avenger's insignia
+Relic Seeker Scholar Medieval Outfit: Relic seeker's robe, Relic seeker's staff with gem, Relic seeker's satchel, Relic seeker's journal, Relic seeker's pendant, Relic seeker's anklet
+Daring Airship Pilot Medieval Outfit: Airship pilot's cap, Airship pilot's jacket, Airship controls, Airship logbook, Aviator's goggles, Pilot's boots
+Cunning Mastermind Medieval Outfit: Mastermind's coat, Mastermind's hat, Intricate lock-picking set, Mastermind's gloves, Mastermind's boots, Mastermind's medallion
+Elusive Shadowblade Medieval Outfit: Shadowed hood, Shadowblade cloak, Dagger of darkness, Shadowstep boots, Enigmatic mask, Shadow runes tattoo
+Fabled Beast Tamer Medieval Outfit: Beast tamer's tunic, Enchanted beast collar, Beast tamer's staff, Beast tamer's gloves, Beast tamer's boots, Beast tamer's whistle
+Dragonborn Warrior Medieval Outfit: Dragon scale armor, Dragonborn's greataxe, Dragonborn's helmet, Dragonborn's gauntlets, Dragonborn's boots, Dragonborn's amulet
+Vengeful Revenant Medieval Outfit: Ghostly visage, Tattered revenant's cloak, Ethereal scythe, Revenant's gloves, Revenant's boots, Revenant's insignia
+Resourceful Tinkerer Medieval Outfit: Tinkerer's apron, Assorted gears and gadgets, Tinkerer's tunic, Tinkerer's toolbox, Tinkerer's medallion, Inventor's goggles
+Radiant Templar Medieval Outfit: Templar's radiant plate armor, Glowing holy sword, Templar's shining shield, Templar's gauntlets, Templar's helmet, Templar's insignia
+Savage Beastmaster Medieval Outfit: Beastmaster's primal attire, Beastmaster's staff with beast totem, Beastmaster's clawed gloves, Beastmaster's boots, Beastmaster's feral necklace, Beastmaster's wild markings
+Elemental Battlemage Medieval Outfit: Battlemage's elemental robes, Charged staff of elements, Tome of battle spells, Battlemage's enchanted gloves, Battlemage's boots, Elemental essence amulet
+Courageous Undersea Explorer Medieval Outfit: Diving helmet with glass front, Diver's suit, Undersea explorer's compass, Underwater journal, Undersea explorer's tools, Coral charm

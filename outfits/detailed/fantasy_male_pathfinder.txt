@@ -1,0 +1,1197 @@
+Heavy Blade Fighter Medieval Outfit: Full plate armor with intricate engravings, imposing helmet with a plume, chainmail undershirt, gauntlets, heavy broadsword.
+Light Blade Fighter Medieval Outfit: Sleek leather vest with fitted arm guards, flexible trousers with ankle boots, hooded cloak, wrist bracers, elegant rapier.
+Bow Fighter Medieval Outfit: Camouflaged tunic with hooded cape, durable pants with knee-high boots, fingerless gloves, quiver with arrows, longbow.
+Close Weapons Fighter Medieval Outfit: Reinforced leather armor with metal plating, sturdy pants with combat boots, fingerless gauntlets, combat knife, pair of metal knuckles.
+Crossbow Fighter Medieval Outfit: Padded gambeson with crossbow bolt bandolier, reinforced trousers with knee-high boots, wrist bracers, crossbow.
+Double Weapon Fighter Medieval Outfit: Leather harness with twin weapon scabbards, rugged pants with ankle boots, fingerless gloves, pair of matching short swords.
+Firearm Fighter Medieval Outfit: Long coat with ammo bandolier, utility belt with holsters, sturdy pants with knee-high boots, fingerless gloves, flintlock pistol.
+Flail Fighter Medieval Outfit: Studded leather armor with flail chain attachments, reinforced trousers with knee-high boots, gauntlets, spiked flail.
+Hammer Fighter Medieval Outfit: Chainmail hauberk with helmet, knee-high boots, metal bracers, war hammer.
+Monk Fighter Medieval Outfit: Traditional loose-fitting robe with sash, martial arts pants with wrap sandals, prayer beads, forearm guards.
+Natural Weapon Fighter Medieval Outfit: Tribal clothing adorned with animal pelts, rugged pants with knee-high boots, bone necklace, clawed gloves.
+Polearm Fighter Medieval Outfit: Chainmail hauberk with polearm holster, knee-high boots, gauntlets, long polearm.
+Siege Engine Fighter Medieval Outfit: Reinforced leather vest with siege weapon engravings, rugged pants with knee-high boots, leather gloves, portable ram.
+Spear Fighter Medieval Outfit: Tribal clothing adorned with feathers, rugged pants with knee-high boots, feathered headdress, decorated spear.
+Thrown Weapon Fighter Medieval Outfit: Camouflaged tunic with throwing knife belt, reinforced trousers with knee-high boots, fingerless gloves, throwing knives.
+Tribal Fighter Medieval Outfit: Tribal clothing adorned with animal pelts, rugged pants with knee-high boots, bone necklace, tribal weapon, spear, club.
+Assaulter Medieval Outfit: Heavy plate armor with spikes, battle-worn cape, dual waraxes, intimidating helmet, metal gauntlets, sturdy boots.
+Ambusher Medieval Outfit: Dark hooded cloak, stealthy leather armor, hidden blades, face mask, quiet boots.
+Defender Medieval Outfit: Tower shield with family crest, sturdy plate armor, longsword with engraved hilt, helmet with visor, metal greaves.
+Aquanaut Medieval Outfit: Aquatic-themed armor with fish-scale patterns, trident, flowing cloak, water-resistant boots, seaweed-adorned helmet.
+Archer Medieval Outfit: Lightweight tunic with quiver, recurve bow with decorative engravings, bracers for protection, archer's cap, agile boots.
+Armiger Medieval Outfit: Ornate plate armor with noble family symbols, ceremonial sword, polished helmet, regal cape, metal gauntlets, polished boots.
+Armor Master Medieval Outfit: Masterwork plate armor with intricate engravings, symbol of the order, majestic helmet, polished greaves, regal cape.
+Brawler Medieval Outfit: Toughened wraps for hand-to-hand combat, tattooed knuckles, combat belt, barefoot.
+Cad Medieval Outfit: Refined noble attire, charismatic smile, elegant walking cane, polished shoes, fashionable hat.
+Whip Hunter Medieval Outfit: Leather armor with whip holsters, enchanted whip, wide-brimmed hat, sturdy boots.
+Cavern Sniper Medieval Outfit: Camouflaged cloak, crossbow with scope, rugged pants, silent boots, concealed dagger.
+Corsair Medieval Outfit: Pirate captain's attire, tricorn hat, buccaneer's jacket, sabre at the hip, sturdy boots.
+Crossbowman Medieval Outfit: Bolts and crossbow quiver, reinforced leather armor, crossbow with a finely crafted stock, bracers for protection, sturdy boots.
+Dirty Fighter Medieval Outfit: Ragged clothes with concealed weapons, knuckle-duster, throwing knives, bandana mask, worn boots.
+Dragonheir Scion Medieval Outfit: Dragon-themed plate armor with winged motifs, ceremonial sword with dragon hilt, regal cloak, dragon-scale gauntlets, majestic helmet.
+Dragoon Medieval Outfit: Dragoon armor with dragon-inspired patterns, polearm with dragon-headed pike, dragon-hilted sword, regal cape, armored boots.
+Drill Sergeant Medieval Outfit: Military officer's uniform, commander's hat, medals of honor, officer's sabre, polished boots.
+Blackjacket Medieval Outfit: Dark leather armor, stealthy cloak, black hood, hidden blades, silent boots.
+Eldritch Guardian Medieval Outfit: Robe with arcane patterns, enchanted staff, mystical amulet, flowing cloak, spellbook.
+Foehammer Medieval Outfit: Warhammer with embossed runes, sturdy plate armor, warrior's helm, polished boots, fur-lined cloak.
+Free Hand Fighter Medieval Outfit: Lightweight attire for maximum mobility, gauntlets with reinforced knuckles, foot wraps, tactical belt.
+Gladiator Medieval Outfit: Arena armor with fearsome embellishments, gladiator helmet with menacing visor, spiked gauntlets, loincloth, armored boots.
+Gloomblade Medieval Outfit: Shadowy cloak with dark engravings, gloomblade sword, masked helm, silent boots, black gloves.
+High Guardian Medieval Outfit: Noble plate armor with guardian insignia, ceremonial sword with gilded hilt, majestic helmet, regal cape, polished boots.
+Lore Warden Medieval Outfit: Robes with ancient inscriptions, magical tome, scholar's spectacles, mystical amulet, flowing cloak.
+Martial Master Medieval Outfit: Martial master's attire with ancient engravings, dual-wielded katana, flowing cloak, master's headband, polished boots.
+Mobile Fighter Medieval Outfit: Lightweight armor for swift movement, agile cloak, throwing daggers, tactical belt, fast boots.
+Mutation Warrior Medieval Outfit: Mutation-infused armor with monstrous motifs, mutated weapon, masked helm, clawed gauntlets, sturdy boots.
+Opportunist Medieval Outfit: Sneaky attire with hidden pockets, concealed daggers, silent boots, hooded cloak, tactical belt.
+Pack Mule Medieval Outfit: Sturdy backpack with supplies, utility belt with pouches, rugged boots, strong hands.
+Phalanx Soldier Medieval Outfit: Phalanx armor with Greek-style patterns, large shield with phalanx emblem, spears at the side, greaves, Spartan helm.
+Polearm Master Medieval Outfit: Halberd with intricate engravings, plate armor with polearm motifs, polearm holstered on the back, metal greaves, majestic helm.
+Dervish Dancer Medieval Outfit: Flowing dervish robe, ornate scimitar, veil-wrapped turban, decorative sash, Arabian-style shoes.
+Relic Master Medieval Outfit: Robes with ancient runes, staff with a relic gem, mystical amulet, flowing cloak, spellbook with relics.
+Roughrider Medieval Outfit: Rugged rider's attire, spurs, horsewhip, riding boots, bandana, studded gloves.
+Savage Warrior Medieval Outfit: Tribal warrior attire with fierce markings, bone-adorned armor, savage helmet with tribal motifs, fur-lined boots, tribal necklace.
+Scrapper Medieval Outfit: Padded leather armor, knuckle-duster, throwing daggers, bandana mask, silent boots.
+Seasoned Commander Medieval Outfit: Military officer's uniform, commander's hat, medals of honor, officer's sabre, polished boots.
+Sensate Medieval Outfit: Extravagant outfit with decorative patterns, crystal orb, mystical amulet, flowing cloak, gemstone-adorned headband.
+Shielded Fighter Medieval Outfit: Tower shield with family crest, sturdy plate armor, longsword with engraved hilt, helmet with visor, metal greaves.
+Siegebreaker Medieval Outfit: Heavy plate armor with siege motifs, battle-worn cape, warhammer with fortified hilt, intimidating helmet, metal greaves, sturdy boots.
+Skirmisher Medieval Outfit: Lightweight armor for swift movement, agile cloak, throwing daggers, tactical belt, fast boots.
+Spear Fighter Medieval Outfit: Tribal spear with fierce engravings, leather armor with spear motifs, spear holstered on the back, fur-lined boots, tribal necklace.
+Steelbound Fighter Medieval Outfit: Bound with steel chains, spiked gauntlets, metal helm with rivets, rugged boots, chain-wrapped sword.
+Swarm Fighter Medieval Outfit: Armor adorned with insect motifs, swarm scimitar, bug-eyed helm, silent boots, insect-carapace gauntlets.
+Tactician Medieval Outfit: Military officer's uniform, strategist's headband, tactical belt with scrolls, polished boots, tactical cloak.
+Thunderstriker Medieval Outfit: Armor with lightning motifs, thunder hammer with electrified spikes, electrified gauntlets, fur-lined cloak, storm helm.
+Titan Fighter Medieval Outfit: Massive greatsword, heavy plate armor with titan symbols, imposing helmet, metal greaves, regal cape.
+Tower Shield Specialist Medieval Outfit: Tower shield with ornate engravings, sturdy plate armor, longsword with reinforced hilt, metal greaves, majestic helm.
+Trench Fighter Medieval Outfit: Trench coat with hidden pockets, concealed knives, brimmed hat, rugged boots, utility belt.
+Tribal Fighter Medieval Outfit: Tribal warrior attire with primal markings, bone-adorned armor, tribal necklace, fur-lined boots.
+Two-Handed Fighter Medieval Outfit: Massive two-handed sword, heavy plate armor with engravings, imposing helmet, metal greaves, regal cape.
+Two-Weapon Warrior Medieval Outfit: Dual-wielded weapons, agile armor for swift movement, bracers for protection, tactical belt, quick boots.
+Unarmed Fighter Medieval Outfit: Monastic robes, wrapped hand wraps, simple belt, meditation beads, barefoot.
+Unbreakable Medieval Outfit: Durable plate armor with unyielding motifs, unbreakable shield, majestic helmet, metal greaves, regal cape.
+Duelist Medieval Outfit: Elegant duelist attire with decorative motifs, ornate rapier, duelist's hat, leather gloves, stylish shoes.
+Free-Style Fighter Medieval Outfit: Versatile attire for fluid combat, wrist wraps, tactical belt, rugged boots, agile cloak.
+Venomblade Medieval Outfit: Poisonous-themed armor with serpent motifs, venomous daggers, snake-adorned helmet, silent boots, vial of poison.
+Viking Medieval Outfit: Viking warrior's attire, horned helmet, fur-lined cape, battle axe, rugged boots.
+Warlord Medieval Outfit: Warlord's attire with tribal motifs, warlord's helm, tribal necklace, mighty war mace, fur-lined boots.
+Weapon Bearer Squire Medieval Outfit: Squire's attire with emblem of the knight, polished sword with squire's emblem, utility belt, sturdy boots.
+Weapon Master Medieval Outfit: Robes with ancient engravings, master's staff, mystical amulet, flowing cloak, master's headband.
+Aerial Assaulter Fighter Medieval Outfit: Sky-themed armor, winged boots, aerial goggles, and a flight emblem pendant.
+Airborne Ambusher Fighter Medieval Outfit: Stealthy armor, ambush cloak, assassin's gauntlets, and a shadowy mask.
+Aldori Defender Fighter Medieval Outfit: Fencing attire, duelist's rapier, Aldori dueling cloak, and a duelist's hat.
+Aquanaut Fighter Medieval Outfit: Aquatic armor, diving apparatus, underwater gauntlets, and a trident pendant.
+Archer Fighter Medieval Outfit: Archery-themed armor, quiver, arrow bracer, and an archer's hat.
+Armiger Fighter Medieval Outfit: Armiger's attire, heraldic symbols, armiger's cloak, and a noble headpiece.
+Armor Master Fighter Medieval Outfit: Masterwork armor, armorer's tools, forging gauntlets, and a smith's headpiece.
+Brawler Fighter Medieval Outfit: Brawling attire, brass knuckles, brawler's cloak, and a fierce expression.
+Cad Fighter Medieval Outfit: Dashing attire, dueling rapier, cad's cape, and a cad's hat.
+Calistrian Hunter Fighter Medieval Outfit: Calistria-themed armor, scorpion whip, seductive cloak, and a sensuous expression.
+Cavern Sniper Fighter Medieval Outfit: Camouflage attire, long-range crossbow, cavern sniper's cloak, and a tactical headpiece.
+Child of Acavna and Amaznen Fighter Medieval Outfit: Tribal armor, primal symbols, tribal cloak, and a tribal headband.
+Corsair Fighter Medieval Outfit: Pirate-themed attire, cutlass, pirate's hat, and a pirate emblem pendant.
+Crossbowman Fighter Medieval Outfit: Crossbow-themed armor, crossbowman's cloak, crossbow gauntlets, and a crossbow pendant.
+Cyber-Soldier Fighter Medieval Outfit: Futuristic armor, cybernetic implants, technological gauntlets, and a cyber-soldier helmet.
+Dirty Fighter Medieval Outfit: Rugged attire, concealed weapons, stealth cloak, and a bandit's mask.
+Dragonheir Scion Fighter Medieval Outfit: Dragon-themed armor, dragon scale cloak, draconic gauntlets, and a dragon emblem pendant.
+Dragoon Fighter Medieval Outfit: Cavalry-themed armor, lance, dragoon's cloak, and a horse emblem pendant.
+Drill Sergeant Fighter Medieval Outfit: Military attire, drill sergeant's hat, commanding gauntlets, and a sergeant's emblem pendant.
+Druman Blackjacket Fighter Medieval Outfit: Rebellion-themed attire, blackjacket cloak, revolutionary symbols, and a rugged hat.
+Eldritch Guardian Fighter Medieval Outfit: Arcane armor, eldritch trinkets, arcane gauntlets, and an arcane pendant.
+Foehammer Fighter Medieval Outfit: Berserker armor, warhammer, foehammer cloak, and a warlike expression.
+Free Hand Fighter Medieval Outfit: Unencumbered attire, master of unarmed combat, free hand cloak, and a confident expression.
+Gladiator Fighter Medieval Outfit: Arena-themed armor, gladiator's trident, gladiator's cloak, and a ferocious expression.
+Gloomblade Fighter Medieval Outfit: Shadowy armor, dark blade, gloomblade cloak, and a mysterious expression.
+High Guardian Fighter Medieval Outfit: Noble armor, high guardian's cloak, guardian's gauntlets, and a majestic headpiece.
+Lore Warden Fighter Medieval Outfit: Scholarly armor, lore warden's cloak, knowledge symbols, and a wise headpiece.
+Martial Master Fighter Medieval Outfit: Master swordsman attire, martial master's cloak, martial symbols, and a martial headpiece.
+Mobile Fighter Medieval Outfit: Agile attire, swift fighter's cloak, mobile gauntlets, and a daring expression.
+Molthuni Defender Fighter Medieval Outfit: Militant armor, molthuni defender's cloak, military gauntlets, and a disciplined expression.
+Mutation Warrior Fighter Medieval Outfit: Mutagenic armor, mutated gauntlets, warrior's cloak, and a fierce expression.
+Opportunist Fighter Medieval Outfit: Opportunistic attire, cunning gauntlets, cloak of opportunity, and a cunning expression.
+Pack Mule Fighter Medieval Outfit: Burdened attire, mule cloak, carrying gauntlets, and a resilient expression.
+Phalanx Soldier Fighter Medieval Outfit: Phalanx armor, shielded gauntlets, phalanx cloak, and a sturdy expression.
+Polearm Master Fighter Medieval Outfit: Polearm-themed armor, masterful polearm, polearm cloak, and a focused expression.
+Qadira Outfit: Dawnflower Dervish Fighter Medieval Outfit: Desert-themed attire, dervish scimitar, desert cloak, and a passionate expression.
+Relic Master Fighter Medieval Outfit: Relic-themed armor, ancient gauntlets, cloak of relics, and a reverent expression.
+Roughrider Fighter Medieval Outfit: Cavalry-inspired attire, mounted gauntlets, roughrider's cloak, and a daring expression.
+Savage Warrior Fighter Medieval Outfit: Tribal armor, savage gauntlets, tribal cloak, and a fierce expression.
+Scrapper Fighter Medieval Outfit: Scrapper's armor, street fighter's gauntlets, scrapper's cloak, and a scrappy expression.
+Seasoned Commander Fighter Medieval Outfit: Commanding attire, seasoned commander's cloak, military gauntlets, and a tactical expression.
+Sensate Fighter Medieval Outfit: Sensate-themed armor, sensitive gauntlets, cloak of sensations, and an enlightened expression.
+Shielded Fighter Medieval Outfit: Shield-themed armor, shielded gauntlets, cloak of defense, and a stalwart expression.
+Siegebreaker Fighter Medieval Outfit: Siege-themed armor, siegebreaker's gauntlets, war cloak, and a forceful expression.
+Skirmisher Fighter Medieval Outfit: Skirmishing attire, skirmisher's cloak, tactical gauntlets, and a swift expression.
+Spear Fighter Medieval Outfit: Spear-themed armor, expert spear, spearman's cloak, and a focused expression.
+Steelbound Fighter Medieval Outfit: Steel-bound armor, steel gauntlets, stalwart cloak, and a stoic expression.
+Swarm Fighter Medieval Outfit: Insect-themed attire, swarm cloak, insectoid gauntlets, and a swarm emblem pendant.
+Tactician Fighter Medieval Outfit: Strategist attire, tactical gauntlets, cloak of tactics, and a commanding expression.
+Rondelero Duelist Fighter Medieval Outfit: Dueling armor, rondelero's cloak, duel rapier, and a confident expression.
+Thunderstriker Fighter Medieval Outfit: Thunder-themed armor, thunderstriker's gauntlets, storm cloak, and a thunderous expression.
+Titan Fighter Medieval Outfit: Titan-themed armor, titan gauntlets, giant cloak, and a mighty expression.
+Tower Shield Specialist Fighter Medieval Outfit: Tower shield-themed armor, tower shield gauntlets, shield specialist's cloak, and a defensive expression.
+Trench Fighter Medieval Outfit: Trench-themed armor, trench gauntlets, trench cloak, and a determined expression.
+Tribal Fighter Medieval Outfit: Tribal armor, tribal gauntlets, tribal cloak, and a primal expression.
+Two-Handed Fighter Medieval Outfit: Two-handed weapon-themed armor, two-handed gauntlets, two-handed fighter's cloak, and a determined expression.
+Two-Weapon Warrior Fighter Medieval Outfit: Dual-wielding attire, dual-wield gauntlets, dual fighter's cloak, and an aggressive expression.
+Unarmed Fighter Medieval Outfit: Monk-like attire, master of unarmed combat, unarmed gauntlets, and a stoic expression.
+Unbreakable Fighter Medieval Outfit: Unyielding attire, unbreakable gauntlets, steadfast cloak, and a resolute expression.
+Ustalavic Duelist Fighter Medieval Outfit: Ustalavic attire, duelist's rapier, Ustalavic cloak, and a mysterious expression.
+Varisian Free-Style Fighter Medieval Outfit: Varisian attire, free-style gauntlets, Varisian cloak, and a free-spirited expression.
+Venomblade Fighter Medieval Outfit: Poison-themed armor, venomous gauntlets, cloak of toxins, and a venomous expression.
+Viking Fighter Medieval Outfit: Viking-themed attire, viking gauntlets, Viking cloak, and a fierce expression.
+Warlord Fighter Medieval Outfit: Warlord's armor, warlord's gauntlets, warlord's cloak, and a commanding expression.
+Weapon Bearer Squire Fighter Medieval Outfit: Squire attire, weapon bearer's cloak, weapon squire's gauntlets, and a loyal expression.
+Weapon Master Fighter Medieval Outfit: Weapon master's armor, masterful weapon, weapon master's cloak, and a seasoned expression.
+Abjuration Wizard Medieval Outfit: Robes adorned with protective symbols, Abjurer's staff, amulet of wards, arcane satchel, rune-inscribed bracers.
+Conjuration Wizard Medieval Outfit: Robes adorned with conjuring sigils, Conjurer's staff, conjurer's hat, mystic pouch, summoning bracelets.
+Divination Wizard Medieval Outfit: Robes with mystical symbols, Diviner's staff, seer's headband, crystal ball, rune-inscribed bracers.
+Enchantment Wizard Medieval Outfit: Enchanting robes with alluring patterns, Enchanter's staff, mesmerizing amulet, hypnotic gloves, charm bracelet.
+Evocation Wizard Medieval Outfit: Robes with explosive symbols, Evoker's staff, evoker's hat, arcane satchel, rune-inscribed bracers.
+Illusion Wizard Medieval Outfit: Robes adorned with illusory patterns, Illusionist's staff, illusionist's hat, mysterious cloak, deception amulet.
+Necromancy Wizard Medieval Outfit: Dark robes with necromantic symbols, Necromancer's staff, necromancer's hood, grim amulet, bone bracelet.
+Transmutation Wizard Medieval Outfit: Robes adorned with transformative symbols, Transmuter's staff, alchemist's gloves, enchanted belt, runic boots.
+Universalist Wizard Medieval Outfit: Flowing robes with all schools' symbols, Universalist's staff, cosmic tiara, enchanted belt, amulet of versatility.
+Aether Wizard Medieval Outfit: Robes with ethereal patterns, Aether staff, aetherial headdress, astral cloak, celestial amulet.
+Air Wizard Medieval Outfit: Robes adorned with swirling patterns, Air staff, airy headband, levitation boots, cloud amulet.
+Ice Wizard Medieval Outfit: Robes with frosty patterns, Ice staff, ice crown, enchanted gloves, snowflake amulet.
+Smoke Wizard Medieval Outfit: Robes adorned with smoky patterns, Smoke staff, smoky hood, mystical cloak, swirling amulet.
+Earth Wizard Medieval Outfit: Robes adorned with earthy symbols, Earth staff, earthy headpiece, enchanted belt, gemstone amulet.
+Magma Wizard Medieval Outfit: Robes with molten patterns, Magma staff, fiery crown, heat-resistant boots, lava amulet.
+Mud Wizard Medieval Outfit: Robes adorned with muddy patterns, Mud staff, earthy headpiece, enchanted belt, mud charm bracelet.
+Fire Wizard Medieval Outfit: Robes adorned with fiery symbols, Fire staff, flaming crown, heat-resistant boots, flame amulet.
+Metal Wizard Medieval Outfit: Robes adorned with metallic patterns, Metal staff, metal headpiece, enchanted belt, metallic amulet.
+Void Wizard Medieval Outfit: Robes adorned with void symbols, Void staff, voided hood, arcane satchel, void amulet.
+Water Wizard Medieval Outfit: Robes adorned with watery symbols, Water staff, watery headpiece, enchanted belt, aquatic charm necklace.
+Wood Wizard Medieval Outfit: Robes adorned with nature symbols, Wood staff, leafy crown, enchanted belt, druidic amulet.
+Arcanamirium Crafter Medieval Outfit: Robes adorned with arcane symbols, master's staff, enchanted amulet, flowing cloak, master's headband.
+Arcane Bomber Medieval Outfit: Wizard robes with explosive designs, arcane staff with alchemical vials, hooded cloak, utility belt with alchemical supplies, sturdy boots.
+Arcane Physician Medieval Outfit: Medical robes with alchemical pouches, healer's staff, physician's hat, utility belt with medicinal supplies, comfortable shoes.
+Arcane Warden Medieval Outfit: Guardian robes with protective runes, spellguard staff, warden's helm, flowing cloak, warden's amulet.
+Bonded Wizard Medieval Outfit: Wizard attire with bonded familiar insignia, staff with bonded crystal, wizard's hat, flowing cloak, wizard's amulet.
+Infernal Binder Medieval Outfit: Fiery robes with infernal symbols, infernal staff, demon-horned helm, flowing cloak, infernal amulet.
+Chronomancer Medieval Outfit: Robes with intricate clockwork patterns, chronomancer's hourglass, time-keeper's hat, flowing cloak, time-keeper's amulet.
+Clocksmith Medieval Outfit: Clocksmith's attire with gear motifs, clocksmith's staff, gear-adorned hat, flowing cloak, gear-adorned amulet.
+Cruoromancer Medieval Outfit: Blood-red robes with dark runes, cruoromancer's staff, bloodied hood, flowing cloak, cruoromancer's amulet.
+Elder Mythos Scholar Medieval Outfit: Robes with ancient eldritch symbols, elder mythos tome, scholar's spectacles, flowing cloak, elder mythos amulet.
+Exploiter Wizard Medieval Outfit: Exploiter's attire with elemental runes, exploiter's staff, arcane hood, flowing cloak, arcane amulet.
+Familiar Adept Medieval Outfit: Wizard robes with familiar insignia, staff with familiar gem, wizard's hat, flowing cloak, wizard's amulet.
+First World Caller Medieval Outfit: Robes with fey motifs, feycaller's staff, fey-adorned hat, flowing cloak, fey-adorned amulet.
+Hallowed Necromancer Medieval Outfit: Necromantic robes with divine markings, necromancer's staff with a skull topper, necromancer's hood, flowing cloak, necromancer's amulet.
+Instructor Medieval Outfit: Scholarly robes, teaching staff, scholar's spectacles, flowing cloak, instructor's amulet.
+Pact Wizard Medieval Outfit: Wizard attire with pact markings, pactbound staff, sorcerer's hat, flowing cloak, sorcerer's amulet.
+Primalist Medieval Outfit: Primal robes with natural runes, primal staff with a totem topper, nature-adorned hat, flowing cloak, nature-adorned amulet.
+Mage of the Veil Medieval Outfit: Veil-themed robes with illusionary patterns, veilmaster's staff, illusionist's hat, flowing cloak, illusionist's amulet.
+Runesage Medieval Outfit: Robes adorned with ancient runes, runemaster's staff, runic hood, flowing cloak, runic amulet.
+Scroll Scholar Medieval Outfit: Scholarly robes with scroll motifs, scrollmaster's staff, scholar's spectacles, flowing cloak, scrollmaster's amulet.
+Scrollmaster Medieval Outfit: Robes adorned with scrolls, scrollmaster's staff, scrollmaster's hat, flowing cloak, scrollmaster's amulet.
+Shadowcaster Medieval Outfit: Shadowy robes with dark engravings, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Siege Mage Medieval Outfit: Robes with siege motifs, battlestaff with fortified hilt, siege master's helm, flowing cloak, siege master's amulet.
+Spell Sage Medieval Outfit: Scholarly robes with magical engravings, master's staff, mystical amulet, flowing cloak, master's headband.
+Spellbinder Medieval Outfit: Spellbinder's attire with mystic runes, spellbinder's staff, arcane hood, flowing cloak, spellbinder's amulet.
+Spellslinger Medieval Outfit: Adventurer's attire with magical holster, enchanted pistol, wide-brimmed hat, utility belt with spell components, sturdy boots.
+Spirit Binder Medieval Outfit: Shamanic robes with spirit motifs, shaman's staff, tribal headdress, flowing cloak, shaman's amulet.
+Spirit Whisperer Medieval Outfit: Whisperer's attire with ethereal runes, whisperer's staff, veiled hood, flowing cloak, whisperer's amulet.
+Sword Binder Medieval Outfit: Armored robes with bound swords, bound sword, swordmaster's helm, flowing cloak, swordmaster's amulet.
+Thassilonian Specialist Medieval Outfit: Robes with ancient Thassilonian runes, Thassilonian staff, scholar's spectacles, flowing cloak, Thassilonian amulet.
+Undead Master Medieval Outfit: Necromancer's robes with undead runes, necromancer's staff with skull topper, necromancer's hood, flowing cloak, necromancer's amulet.
+Wind Listener Medieval Outfit: Robes with wind-themed patterns, windcaller's staff, wind-adorned hat, flowing cloak, wind-adorned amulet.
+Worldseeker Medieval Outfit: Explorer's attire with map motifs, worldseeker's staff, explorer's hat, flowing cloak, explorer's amulet.
+Acrobat Medieval Outfit: Agile tunic with flexible fabric, acrobat's boots, wrist wraps, flowing cloak, agile pants.
+Bandit Medieval Outfit: Bandit's attire with dark motifs, bandit's hood, concealed daggers, rugged boots, tactical belt.
+Kidnapper Medieval Outfit: Disguised attire with nondescript robe, kidnapper's hood, concealed restraints, rugged boots, tactical belt.
+Burglar Medieval Outfit: Burglar's attire with dark engravings, burglar's hood, lockpicking tools, silent boots, tactical belt.
+Carnivalist Medieval Outfit: Carnival attire with colorful patterns, carnival hat, jester's shoes, flowing cloak, jester's mask.
+Cat Burglar Medieval Outfit: Cat burglar's attire with feline motifs, cat burglar's hood, retractable claws, cat burglar's boots, tactical belt.
+Chameleon Medieval Outfit: Camouflage attire with adaptive patterns, chameleon's hood, concealed daggers, silent boots, tactical belt.
+Charlatan Medieval Outfit: Deceptive attire with fancy ruffles, charlatan's hat, hidden trinkets, flowing cloak, charlatan's amulet.
+Consigliere Medieval Outfit: Discreet attire with concealed weapons, consigliere's hat, tactical belt with hidden compartments, sturdy boots.
+Construct Saboteur Medieval Outfit: Saboteur attire with sabotage motifs, saboteur's hood, sabotage tools, silent boots, tactical belt.
+Counterfeit Mage Medieval Outfit: Disguised robes with mystical engravings, counterfeit staff, master's headband, flowing cloak, master's amulet.
+Cutpurse Medieval Outfit: Rogue's attire with hidden pockets, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Dark Lurker Medieval Outfit: Shadowy robes with dark engravings, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Deadly Courtesan Medieval Outfit: Courtesan's attire with deadly motifs, courtesan's mask, concealed daggers, flowing cloak, courtesan's amulet.
+Desert Raider Medieval Outfit: Desert attire with sand-colored patterns, desert raider's hood, desert raider's staff, tactical belt, desert raider's boots.
+Discretion Specialist Medieval Outfit: Stealthy attire with hidden weapons, concealed daggers, tactical belt, silent boots, hooded cloak.
+Dreamthief Medieval Outfit: Enigmatic robes with dream motifs, dreamthief's mask, dreamthief's staff, flowing cloak, dreamthief's amulet.
+Driver Medieval Outfit: Disguised attire with nondescript robe, driver's cap, concealed whip, rugged boots, tactical belt.
+Earthshadow Medieval Outfit: Earthy attire with camouflage patterns, earthshadow's hood, earthshadow's staff, tactical belt, earthshadow's boots.
+Eldritch Raider Medieval Outfit: Eldritch attire with arcane markings, eldritch raider's hood, eldritch raider's staff, tactical belt, eldritch raider's boots.
+Eldritch Scoundrel Medieval Outfit: Robes with arcane symbols, eldritch staff, arcane amulet, flowing cloak, eldritch headband.
+Escapologist Medieval Outfit: Escape artist's attire with agility symbols, escapologist's staff, escapologist's hat, flowing cloak, escapologist's amulet.
+False Medium Medieval Outfit: Deceptive attire with mystical symbols, false medium's hood, concealed trickery, flowing cloak, false medium's amulet.
+Fey Prankster Medieval Outfit: Fey-themed attire with playful patterns, fey prankster's hat, trickster's staff, flowing cloak, fey prankster's amulet.
+Filcher Medieval Outfit: Rogue's attire with hidden pockets, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Agitator Medieval Outfit: Rebel's attire with protest motifs, agitator's mask, concealed daggers, flowing cloak, agitator's amulet.
+Guerrilla Medieval Outfit: Stealthy attire with concealed weapons, concealed daggers, tactical belt, silent boots, hooded cloak.
+Guild Agent Medieval Outfit: Disguised attire with nondescript robe, guild agent's hood, concealed weapons, rugged boots, tactical belt.
+Gun Smuggler Medieval Outfit: Smuggler's attire with hidden compartments, smuggler's hat, concealed pistols, tactical belt, smuggler's boots.
+Heister Medieval Outfit: Heister's attire with dark motifs, heister's hood, concealed weapons, flowing cloak, heister's amulet.
+Investigator Medieval Outfit: Investigator's attire with detective motifs, investigator's hat, concealed evidence, flowing cloak, investigator's amulet.
+Rebel Medieval Outfit: Rebel's attire with protest motifs, rebel's mask, concealed daggers, flowing cloak, rebel's amulet.
+Trickster Medieval Outfit: Rogue's attire with playful patterns, trickster's hat, concealed daggers, flowing cloak, trickster's amulet.
+Knife Master Medieval Outfit: Agile tunic with flexible fabric, concealed knives, wrist wraps, flowing cloak, agile pants.
+Makeshift Scrapper Medieval Outfit: Scrapper's attire with rugged patches, scrapper's hat, improvised weapon, sturdy boots, tactical belt.
+Master of Disguise Medieval Outfit: Disguised robes with multiple faces, master's staff, mystical amulet, flowing cloak, master's headband.
+Nameless Shadow Medieval Outfit: Shadowy robes with dark engravings, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Needler Medieval Outfit: Agile tunic with flexible fabric, concealed needles, wrist wraps, flowing cloak, agile pants.
+Scavenger Medieval Outfit: Rogue's attire with hidden pockets, pickpocket gloves, tactical belt, rugged boots, hooded cloak.
+Liberator Medieval Outfit: Rebel's attire with protest motifs, liberator's mask, concealed daggers, flowing cloak, liberator's amulet.
+Phantom Thief Medieval Outfit: Phantom's attire with haunting symbols, phantom thief's mask, concealed daggers, flowing cloak, phantom thief's amulet.
+Pirate Medieval Outfit: Pirate's attire with pirate motifs, pirate's hat, cutlass, flowing cloak, pirate's boots.
+Planar Sneak Medieval Outfit: Planar attire with otherworldly symbols, planar staff, astral hood, flowing cloak, planar amulet.
+Poisoner Medieval Outfit: Rogue's attire with concealed poison vials, poisoner's hood, hidden daggers, tactical belt, silent boots.
+Rake Medieval Outfit: Rake's attire with elegant ruffles, rake's hat, concealed daggers, flowing cloak, rake's amulet.
+Relic Raider Medieval Outfit: Adventurer's attire with ancient runes, relic raider's hat, ancient artifact, sturdy boots, tactical belt.
+River Rat Medieval Outfit: River attire with aquatic patterns, river rat's hat, concealed daggers, flowing cloak, river rat's amulet.
+Roof Runner Medieval Outfit: Agile tunic with flexible fabric, roof runner's boots, wrist wraps, flowing cloak, agile pants.
+Rotdrinker Medieval Outfit: Rot-inspired attire with putrid symbols, rotdrinker's mask, concealed daggers, flowing cloak, rotdrinker's amulet.
+Sanctified Rogue Medieval Outfit: Rogue's attire with divine symbols, sanctified rogue's hood, concealed weapons, flowing cloak, sanctified rogue's amulet.
+Sapper Medieval Outfit: Rogue's attire with hidden pockets, concealed explosives, tactical belt, rugged boots, hooded cloak.
+Scout Medieval Outfit: Scout's attire with wilderness motifs, scout's hood, scout's staff, tactical belt, scout's boots.
+Scroll Scoundrel Medieval Outfit: Scroll-themed robes with hidden scrolls, scrollmaster's staff, scholar's spectacles, flowing cloak, scrollmaster's amulet.
+Swindler Medieval Outfit: Rogue's attire with cunning symbols, swindler's hat, concealed trinkets, flowing cloak, swindler's amulet.
+Seeker of the Lost Medieval Outfit: Adventurer's attire with ancient symbols, seeker's staff, ancient artifact, sturdy boots, tactical belt.
+Shadow Scion Medieval Outfit: Shadowy robes with dark engravings, shadowmaster's staff, shadowy hood, flowing cloak, shadowmaster's amulet.
+Shadow Walker Medieval Outfit: Stealthy attire with concealed weapons, concealed daggers, tactical belt, silent boots, hooded cloak.
+Sharper Medieval Outfit: Rogue's attire with hidden blades, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Skulking Slayer Medieval Outfit: Rogue's attire with hidden weapons, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Sly Saboteur Medieval Outfit: Saboteur attire with hidden tools, saboteur's hat, concealed explosives, flowing cloak, saboteur's amulet.
+Smuggler Medieval Outfit: Smuggler's attire with hidden compartments, smuggler's hat, concealed contraband, tactical belt, smuggler's boots.
+Snare Setter Medieval Outfit: Agile tunic with flexible fabric, concealed snares, wrist wraps, flowing cloak, agile pants.
+Sniper Medieval Outfit: Sniper's attire with concealment patterns, sniper's hood, concealed crossbow, flowing cloak, sniper's amulet.
+Snoop Medieval Outfit: Rogue's attire with hidden pockets, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Spy Medieval Outfit: Spy's attire with disguises, spy's mask, concealed daggers, flowing cloak, spy's amulet.
+Survivalist Medieval Outfit: Adventurer's attire with wilderness motifs, survivalist's staff, rugged boots, tactical belt, flowing cloak.
+Swamp Poisoner Medieval Outfit: Rogue's attire with concealed poison vials, swamp poisoner's hat, hidden daggers, tactical belt, silent boots.
+Swashbuckler Medieval Outfit: Swashbuckler's attire with rapier, swashbuckler's hat, flowing cloak, tactical belt, swashbuckler's boots.
+Swordmaster Medieval Outfit: Rogue's attire with concealed blades, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Sylvan Trickster Medieval Outfit: Trickster attire with natural motifs, sylvan trickster's hat, concealed daggers, flowing cloak, sylvan trickster's amulet.
+Thug Medieval Outfit: Rogue's attire with rugged patches, concealed weapons, tactical belt, rugged boots, hooded cloak.
+Tidal Trickster Medieval Outfit: Trickster attire with aquatic patterns, tidal trickster's hat, concealed daggers, flowing cloak, tidal trickster's amulet.
+Toxic Talon Medieval Outfit: Agile tunic with flexible fabric, concealed toxins, wrist wraps, flowing cloak, agile pants.
+Trapsmith Medieval Outfit: Rogue's attire with concealed traps, trapsmith's hood, concealed daggers, flowing cloak, trapsmith's amulet.
+Underground Chemist Medieval Outfit: Rogue's attire with concealed poison vials, underground chemist's hat, hidden daggers, tactical belt, silent boots.
+Vexing Dodger Medieval Outfit: Rogue's attire with agile patterns, vexing dodger's hat, concealed daggers, flowing cloak, vexing dodger's amulet.
+Waylayer Medieval Outfit: Rogue's attire with hidden weapons, concealed daggers, tactical belt, rugged boots, hooded cloak.
+Acrobat Rogue Medieval Outfit: Form-fitting acrobat's tunic, tight trousers, lightweight boots, and a utility belt for storing throwing knives.
+Bandit Rogue Medieval Outfit: Tattered leather armor, dark hooded cloak, fingerless gloves, and a bandolier for carrying throwing daggers.
+Bekyar Kidnapper Rogue Medieval Outfit: Tribal tunic adorned with feathers, rugged trousers, leather sandals, and a concealed blowgun.
+Bellflower Irrigator Rogue Medieval Outfit: Disguised farmer's attire, wide-brimmed hat, gardening gloves, and a satchel for carrying healing herbs.
+Burglar Rogue Medieval Outfit: Stealthy dark attire, fingerless gloves, climbing boots, and a grappling hook with rope.
+Carnivalist Rogue Medieval Outfit: Colorful entertainer's coat, patterned tights, jester shoes, and a bag of juggling balls.
+Cat Burglar Rogue Medieval Outfit: Black catsuit, stealthy mask, climbing gloves, and a belt with pouches for lockpicks and small treasures.
+Chameleon Rogue Medieval Outfit: Camouflaged cloak, earth-toned clothing, lightweight boots, and a pouch for concealed tools.
+Charlatan Rogue Medieval Outfit: Elaborate noble's attire, fancy hat, a false book with hidden compartments, and a concealed dagger.
+Consigliere Rogue Medieval Outfit: Dapper suit with hidden pockets, fedora hat, leather gloves, and a concealed garrote wire.
+Construct Saboteur Rogue Medieval Outfit: Engineer's attire, goggles, utility belt with wrench and gadgets, and a magnetic grappling hook.
+Counterfeit Mage Rogue Medieval Outfit: Elaborate robe with mystical symbols, a fake spellbook with concealed poisons, and a concealed wand.
+Cutpurse Rogue Medieval Outfit: Rugged commoner's clothing, worn cap, pouches for stolen goods, and a concealed blade in the boot.
+Dark Lurker Rogue Medieval Outfit: Shadowy cloak, dark leather armor, fingerless gloves, and a hood to conceal identity.
+Deadly Courtesan Rogue Medieval Outfit: Elegant court attire, concealed throwing darts, a hidden dagger in the cane, and a masquerade mask.
+Desert Raider Rogue Medieval Outfit: Sand-colored clothing for camouflage, a headscarf, fingerless gloves, and a pouch for desert survival supplies.
+Discretion Specialist Rogue Medieval Outfit: Disguised commoner's clothing, plain cap, fingerless gloves, and a concealed dagger.
+Dreamthief Rogue Medieval Outfit: Mystical robe with dream motifs, a mask to obscure identity, a concealed sleep poison vial, and a dreamcatcher necklace.
+Driver Rogue Medieval Outfit: Disguised coachman's attire, a cap with a concealed dagger, gloves for gripping reins, and a whip with a hidden blade.
+Earthshadow Rogue Medieval Outfit: Earth-toned clothing for blending into the environment, fingerless gloves, lightweight boots, and a concealed dagger.
+Eldritch Raider Rogue Medieval Outfit: Mysterious robe with arcane symbols, a concealed wand, a hidden spell component pouch, and an amulet with a hidden blade.
+Eldritch Scoundrel Rogue Medieval Outfit: Refined noble's attire, concealed daggers in the sleeves, a hidden spellbook with poison vials, and a charm necklace with a hidden blade.
+Escapologist Rogue Medieval Outfit: Fitted acrobat's tunic, lightweight trousers, flexible boots, and a utility belt for concealed lockpicks.
+False Medium Rogue Medieval Outfit: Mystical robe with celestial motifs, a concealed deck of cards for fortune-telling, and a hidden dagger in the staff.
+Fey Prankster Rogue Medieval Outfit: Elaborate coat with whimsical patterns, a concealed wand for casting illusions, a mischievous grin, and a playful crown.
+Filcher Rogue Medieval Outfit: Rugged commoner's clothing, fingerless gloves, and a pouch for stolen goods.
+Guerrilla Rogue Medieval Outfit: Camouflaged attire for stealth in the wilderness, fingerless gloves, lightweight boots, and a pouch for survival tools.
+Guild Agent Rogue Medieval Outfit: Disguised merchant's attire, a hooded cloak for anonymity, concealed lockpicks, and a hidden dagger in the belt.
+Gun Smuggler Rogue Medieval Outfit: Concealed weapons under a long coat, fingerless gloves, and a hidden pouch for ammunition.
+Heister Rogue Medieval Outfit: Disguised nobleman's attire, a masquerade mask for anonymity, a concealed small crossbow, and hidden pouches for stolen goods.
+Investigator Rogue Medieval Outfit: Detective's attire with a long coat, magnifying glass on a chain, concealed lockpicks, and a hidden blade in the sleeve.
+Kintargo Rebel Rogue Medieval Outfit: Disguised rebel's attire, a hooded cloak for anonymity, fingerless gloves, and a concealed small crossbow.
+Kitsune Trickster Rogue Medieval Outfit: Disguised commoner's clothing, a mask to obscure identity, fingerless gloves, and a concealed dagger.
+Knife Master Rogue Medieval Outfit: Sleek black outfit, fingerless gloves, a belt with pouches for throwing knives, and a hidden dagger in the boot.
+Makeshift Scrapper Rogue Medieval Outfit: Tattered armor made of scrap metal, fingerless gloves, a concealed wrench, and a hidden blade in the boot.
+Master of Disguise Rogue Medieval Outfit: Chameleon cloak, various disguises and props, fingerless gloves, and a concealed dagger.
+Nameless Shadow Rogue Medieval Outfit: Stealthy dark attire, fingerless gloves, climbing boots, and a grappling hook with rope.
+Needler Rogue Medieval Outfit: Fitted vest with hidden throwing darts, fingerless gloves, and a concealed vial of poison.
+Numerian Scavenger Rogue Medieval Outfit: Salvaged armor made from technological scraps, fingerless gloves, and a concealed energy pistol.
+Okeno Liberator Rogue Medieval Outfit: Tribal garb with animal motifs, a concealed blowgun, a hidden dagger in the belt, and a feathered headdress.
+Phantom Thief Rogue Medieval Outfit: Disguised nobleman's attire, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the cane.
+Pirate Rogue Medieval Outfit: Pirate's garb with tricorn hat, bandana, fingerless gloves, and a concealed small pistol.
+Planar Sneak Rogue Medieval Outfit: Planar traveler's attire with hidden compartments, fingerless gloves, and a concealed dagger.
+Poisoner Rogue Medieval Outfit: Disguised alchemist's attire, a belt with vials of poison, and a concealed dagger in the sleeve.
+Rake Rogue Medieval Outfit: Extravagant noble's attire, a fancy hat with hidden compartments, concealed lockpicks, and a hidden blade in the cane.
+Relic Raider Rogue Medieval Outfit: Adventurer's attire with concealed pouches, fingerless gloves, and a whip with a hidden blade.
+River Rat Rogue Medieval Outfit: Riverfolk clothing, fingerless gloves, a concealed slingshot, and a pouch for stolen goods.
+Roof Runner Rogue Medieval Outfit: Stealthy dark attire, fingerless gloves, climbing boots, and a grappling hook with rope.
+Rotdrinker Rogue Medieval Outfit: Outfit adorned with macabre symbols, a concealed vial of acid, fingerless gloves, and a mask to obscure identity.
+Sanctified Rogue Medieval Outfit: Disguised priestly attire, holy symbol with concealed vial of holy water, fingerless gloves, and a concealed dagger in the sleeve.
+Sapper Rogue Medieval Outfit: Engineer's attire with concealed tools, goggles, and a magnetic grappling hook.
+Scout Rogue Medieval Outfit: Camouflaged attire for wilderness scouting, fingerless gloves, lightweight boots, and a pouch for survival tools.
+Scroll Scoundrel Rogue Medieval Outfit: Disguised scribe's attire, a hidden dagger in the belt, concealed lockpicks, and a pouch for scrolls.
+Sczarni Swindler Rogue Medieval Outfit: Disguised nobleman's attire, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the cane.
+Seeker of the Lost Rogue Medieval Outfit: Adventurer's attire with concealed pouches, fingerless gloves, and a whip with a hidden blade.
+Shadow Scion Rogue Medieval Outfit: Stealthy dark attire, fingerless gloves, lightweight boots, and a grappling hook with rope.
+Shadow Walker Rogue Medieval Outfit: Camouflaged attire for blending into shadows, fingerless gloves, lightweight boots, and a pouch for concealed tools.
+Sharper Rogue Medieval Outfit: Sleek black outfit, fingerless gloves, a belt with concealed throwing cards, and a hidden dagger in the boot.
+Skulking Slayer Rogue Medieval Outfit: Disguised hunter's attire, fingerless gloves, a concealed blowgun, and a pouch for survival tools.
+Sly Saboteur Rogue Medieval Outfit: Disguised nobleman's attire, concealed lockpicks, a hidden blade in the cane, and a mischievous grin.
+Smuggler Rogue Medieval Outfit: Concealed compartments in a long coat, fingerless gloves, and a hidden pouch for contraband.
+Snare Setter Rogue Medieval Outfit: Disguised hunter's attire, fingerless gloves, a concealed blowgun, and a pouch for concealed traps.
+Sniper Rogue Medieval Outfit: Camouflaged attire for long-range sniping, fingerless gloves, lightweight boots, and a concealed small crossbow.
+Snoop Rogue Medieval Outfit: Disguised commoner's clothing, a hat with a concealed disguise kit, fingerless gloves, and a concealed dagger.
+Spy Rogue Medieval Outfit: Disguised nobleman's attire, a masquerade mask for anonymity, concealed lockpicks, and a hidden blade in the cane.
+Survivalist Rogue Medieval Outfit: Adventurer's attire with concealed pouches, fingerless gloves, and a whip with a hidden blade.
+Swamp Poisoner Rogue Medieval Outfit: Disguised alchemist's attire, a belt with vials of poison, and a concealed dagger in the sleeve.
+Swashbuckler Rogue Medieval Outfit: Buccaneer's garb with a feathered hat, a rapier sheathed at the hip, and a mischievous grin.
+Swordmaster Rogue Medieval Outfit: Elegant duelist's attire, a concealed rapier, fingerless gloves, and a hidden dagger in the boot.
+Sylvan Trickster Rogue Medieval Outfit: Elven-inspired attire with nature motifs, fingerless gloves, and a pouch for concealed nature-themed tools.
+Thug Rogue Medieval Outfit: Rugged commoner's clothing, fingerless gloves, and a pouch for stolen goods.
+Tidal Trickster Rogue Medieval Outfit: Sea-inspired attire with ocean motifs, fingerless gloves, and a pouch for concealed aquatic-themed tools.
+Toxic Talon Rogue Medieval Outfit: Poisonous-colored attire with claw motifs, a concealed vial of poison, fingerless gloves, and a mask to obscure identity.
+Trapsmith Rogue Medieval Outfit: Engineer's attire with concealed tools, goggles, and a magnetic grappling hook.
+Underground Chemist Rogue Medieval Outfit: Disguised alchemist's attire, a belt with vials of alchemical substances, and a concealed dagger in the sleeve.
+Vexing Dodger Rogue Medieval Outfit: Disguised commoner's clothing, a hat with a concealed disguise kit, fingerless gloves, and a concealed dagger.
+Waylayer Rogue Medieval Outfit: Rugged attire for wilderness ambushes, fingerless gloves, lightweight boots, and a pouch for survival tools.
+Air Cleric Medieval Outfit: Flowing robes with breezy patterns, Air staff topped with an air symbol, airy headband, levitation boots, cloud amulet.
+Animal Cleric Medieval Outfit: Robes with animal motifs, Animal staff with a carved totem, nature-inspired headdress, druidic sandals, animal charm necklace.
+Artifice Cleric Medieval Outfit: Robes with intricate mechanical symbols, Artifice staff with gears and runes, artificer's goggles, metallic boots, cogwheel amulet.
+Chaos Cleric Medieval Outfit: Wild and asymmetrical robes, Chaos staff adorned with chaotic symbols, chaotic headdress, mismatched boots, chaos amulet.
+Charm Cleric Medieval Outfit: Enchanting robes with charming symbols, Charm staff with a mesmerizing gem, charismatic hat, alluring gloves, charm bracelet.
+Community Cleric Medieval Outfit: Robes adorned with symbols of unity, Community staff with intertwined hands, community headband, communal sandals, unity amulet.
+Darkness Cleric Medieval Outfit: Dark robes with shadowy symbols, Darkness staff topped with a dark gem, shadowed hood, haunting boots, void amulet.
+Death Cleric Medieval Outfit: Funerary robes with deathly symbols, Death staff adorned with a skull, deathly hood, somber boots, skull amulet.
+Destruction Cleric Medieval Outfit: Robes adorned with symbols of destruction, Destruction staff with a destructive crystal, war-torn cape, sturdy boots, ruin amulet.
+Earth Cleric Medieval Outfit: Robes adorned with earthy symbols, Earth staff with a crystal embedded in stone, earthy headpiece, enchanted belt, gemstone amulet.
+Evil Cleric Medieval Outfit: Dark vestments with sinister symbols, Evil staff topped with a wicked skull, wicked headdress, cursed boots, malevolent talisman.
+Fire Cleric Medieval Outfit: Robes adorned with fiery symbols, Fire staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Glory Cleric Medieval Outfit: Regal vestments with symbols of glory, Glory staff with a radiant gem, majestic crown, flowing cape, glorious medallion.
+Good Cleric Medieval Outfit: Holy robes with symbols of goodness, Good staff with a glowing gem, divine crown, celestial sandals, benevolent amulet.
+Healing Cleric Medieval Outfit: Healer's attire with soothing symbols, Healing staff topped with a healing crystal, healer's cap, caring sandals, compassion amulet.
+Knowledge Cleric Medieval Outfit: Robes adorned with scholarly symbols, Knowledge staff with a book-shaped head, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Law Cleric Medieval Outfit: Regal robes with symbols of justice, Law staff with scales of justice, judge's gavel, stoic boots, scales of justice amulet.
+Liberation Cleric Medieval Outfit: Robes adorned with symbols of freedom, Liberation staff with broken chains, liberator's headband, agile sandals, freedom amulet.
+Luck Cleric Medieval Outfit: Robes adorned with symbols of fortune, Luck staff with a four-leaf clover, lucky hat, fortunate gloves, luck charm bracelet.
+Madness Cleric Medieval Outfit: Tattered and chaotic robes, Madness staff adorned with insane symbols, mad headdress, mismatched boots, chaos amulet.
+Magic Cleric Medieval Outfit: Robes adorned with mystical symbols, Magic staff with arcane orbs, magician's hat, flowing cloak, mystical amulet.
+Nobility Cleric Medieval Outfit: Regal vestments with symbols of nobility, Nobility staff with a gem-encrusted top, majestic crown, flowing cape, aristocratic amulet.
+Plant Cleric Medieval Outfit: Robes adorned with floral patterns, Plant staff with a leafy totem, nature-inspired headdress, druidic sandals, nature charm necklace.
+Protection Cleric Medieval Outfit: Robes with protective symbols, Protection staff with a shield motif, guardian helm, rugged boots, guardian amulet.
+Repose Cleric Medieval Outfit: Funerary robes with symbols of rest, Repose staff adorned with a tranquil gem, serene hood, haunting boots, spirit amulet.
+Rune Cleric Medieval Outfit: Robes adorned with ancient runes, Rune staff with glowing symbols, runic helm, enchanted belt, runic boots.
+Scalykind Cleric Medieval Outfit: Robes adorned with reptilian symbols, Scalykind staff with a serpent head, scaly headpiece, serpentine boots, reptilian amulet.
+Strength Cleric Medieval Outfit: Robes adorned with symbols of might, Strength staff with a hammerhead, warrior helm, sturdy boots, strength amulet.
+Sun Cleric Medieval Outfit: Radiant vestments with symbols of the sun, Sun staff with a blazing sunburst, solar crown, flowing cape, solar amulet.
+Travel Cleric Medieval Outfit: Robes adorned with symbols of journeys, Travel staff with a traveler's knapsack, traveler's hat, rugged boots, compass amulet.
+Trickery Cleric Medieval Outfit: Mischievous robes with cunning symbols, Trickery staff with a mask motif, trickster's hat, nimble boots, deception amulet.
+Void Cleric Medieval Outfit: Robes adorned with symbols of the void, Void staff with a cosmic void gem, voided hood, haunting boots, void amulet.
+War Cleric Medieval Outfit: Battle-worn armor with war symbols, War staff with a war banner, war helm, battle boots, war medallion.
+Water Cleric Medieval Outfit: Robes adorned with watery symbols, Water staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Weather Cleric Medieval Outfit: Robes adorned with stormy symbols, Weather staff with a swirling cloud, weathered cloak, thunderous boots, storm amulet.
+Angelfire Apostle Cleric Medieval Outfit: Flowing white robes adorned with golden feathers, Angelfire staff, divine halo crown, angelic sandals, ornate holy symbol necklace.
+Appeaser Cleric Medieval Outfit: Earthy robes with calming symbols, Appeaser's staff, druidic headband, nature-inspired sandals, wooden charm necklace.
+Asmodean Advocate Cleric Medieval Outfit: Dark robes with infernal markings, Asmodean staff, devilish horned headdress, sinister boots, demonic talisman necklace.
+Blossoming Light Cleric Medieval Outfit: Flowing green and gold robes, staff adorned with flowers, floral crown, botanical sandals, nature-infused amulet.
+Cardinal Cleric Medieval Outfit: Regal red and gold vestments, Cardinal's staff, mitre headdress, high-collared cape, sacred symbol medallion.
+Channeler of the Unknown Cleric Medieval Outfit: Mysterious dark robes, Unknown staff, hooded cowl, ethereal boots, enigmatic amulet.
+Cloistered Cleric Cleric Medieval Outfit: Scholarly robes with ancient texts, Cloistered staff, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Crashing Wave Cleric Medieval Outfit: Ocean-themed blue and silver robes, staff with a seashell head, seafoam crown, wave-patterned sandals, aquatic charm necklace.
+Crusader Cleric Medieval Outfit: Knightly crusader armor with sacred symbols, Crusader's sword, adorned helmet, sturdy boots, crusader's medallion.
+Demonic Apostle Cleric Medieval Outfit: Dark vestments with demonic runes, Demonic staff, sinister horned headdress, occult boots, demonic talisman necklace.
+Divine Paragon Cleric Medieval Outfit: Divine robes with celestial motifs, Divine staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Divine Scourge Cleric Medieval Outfit: Dark divine robes with purifying symbols, Divine Scourge staff, skull-adorned hood, blackened boots, cursed relic necklace.
+Divine Strategist Cleric Medieval Outfit: Strategist's attire with tactical symbols, Strategist's staff, commander's helm, sturdy boots, tactical amulet.
+Ecclesitheurge Cleric Medieval Outfit: Regal vestments with sacred writings, Ecclesitheurge staff, bishop's mitre, high-collared cape, holy symbol necklace.
+Elder Mythos Cultist Cleric Medieval Outfit: Cultist's robes with eldritch symbols, Cultist's staff, eldritch headpiece, ethereal boots, forbidden tome necklace.
+Evangelist Cleric Medieval Outfit: Evangelist's robes with inspiring symbols, Evangelist's staff, preacher's hat, flowing cloak, sacred medallion.
+Fiendish Vessel Cleric Medieval Outfit: Dark vestments with infernal motifs, Fiendish staff, wicked horned headdress, occult boots, fiendish talisman necklace.
+Forgemaster Cleric Medieval Outfit: Robes with smithing symbols, Forgemaster's hammer, blacksmith's apron, rugged boots, hammer-shaped amulet.
+Foundation of Faith Cleric Medieval Outfit: Divine robes with sacred architecture, Foundation staff, sacred headpiece, divine sandals, faith-imbued amulet.
+Herald Caller Cleric Medieval Outfit: Divine robes with celestial motifs, Herald Caller staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Hidden Priest Cleric Medieval Outfit: Disguised robes with secretive symbols, Hidden Priest staff, concealed cowl, shadowy boots, hidden relic necklace.
+Idealist Cleric Medieval Outfit: Flowing robes with visionary symbols, Idealist's staff, dreamer's headband, celestial sandals, visionary amulet.
+Iron Priest Cleric Medieval Outfit: Sturdy armor with sacred engravings, Iron Priest hammer, iron helmet, rugged boots, iron amulet.
+Lawspeaker Cleric Medieval Outfit: Law-themed robes with judgment symbols, Lawspeaker staff, judge's gavel, stoic boots, scales of justice amulet.
+Mendevian Priest Cleric Medieval Outfit: Battle-worn robes with protective symbols, Mendevian staff, crusader's helm, sturdy boots, holy seal amulet.
+Merciful Healer Cleric Medieval Outfit: Healer's attire with soothing symbols, Merciful Healer staff, healer's cap, caring sandals, compassion amulet.
+Roaming Exorcist Cleric Medieval Outfit: Exorcist's robes with warding symbols, Roaming Exorcist staff, spirit-repelling amulet, haunted boots, banishing sigil amulet.
+Sacred Attendant Cleric Medieval Outfit: Divine robes with celestial motifs, Sacred Attendant staff, gem-adorned halo crown, celestial sandals, divine amulet.
+Scroll Scholar Cleric Medieval Outfit: Scholarly robes with sacred writings, Scroll Scholar staff, scholarly spectacles, satchel of scrolls, holy tome necklace.
+Separatist Cleric Medieval Outfit: Disguised robes with secretive symbols, Separatist staff, concealed cowl, shadowy boots, hidden relic necklace.
+Stoic Caregiver Cleric Medieval Outfit: Caregiver's attire with soothing symbols, Stoic Caregiver staff, healer's cap, caring sandals, compassion amulet.
+Theologian Cleric Medieval Outfit: Theologian's robes with divine symbols, Theologian's staff, scholarly spectacles, flowing cloak, theological amulet.
+Triadic Priest Cleric Medieval Outfit: Divine robes with threefold symbols, Triadic Priest staff, tri-horned headpiece, celestial sandals, triad amulet.
+Undead Lord Cleric Medieval Outfit: Dark necromantic robes with ghastly symbols, Undead Lord staff, necromancer's hood, cursed boots, undead talisman necklace.
+Pilgrim Cleric Medieval Outfit: Pilgrim's robes with pilgrimage symbols, Pilgrim's staff, simple hat, humble sandals, sacred token necklace.
+Dragon Drinker Sorcerer Medieval Outfit: Robes adorned with dragon scales, Dragon Drinker staff with dragon fang, dragon helm, clawed gloves, dragon talisman.
+Eldritch Scrapper Sorcerer Medieval Outfit: Battle-worn robes with runic patterns, Eldritch Scrapper staff with a mystic gem, arcane gauntlets, enchanted belt, rugged boots.
+Mongrel Mage Sorcerer Medieval Outfit: Robes with mixed magical symbols, Mongrel Mage staff with an amalgamated crystal, magical gloves, enchanted belt, multi-hued cloak.
+Nine-Tailed Heir Sorcerer Medieval Outfit: Regal robes with mystical fox symbols, Nine-Tailed Heir staff with a fox-tail gem, fox mask, fox-themed cloak, fox charm necklace.
+Razmiran Priest Sorcerer Medieval Outfit: Priestly vestments with divine symbols, Razmiran Priest staff with a holy sigil, priestly headdress, sacred sandals, divine amulet.
+Seeker Sorcerer Medieval Outfit: Explorer's attire with arcane symbols, Seeker staff with a compass gem, adventurer's hat, travel boots, explorer's charm necklace.
+Sleep Sorcerer Medieval Outfit: Robes adorned with dreamlike patterns, Sleep Sorcerer staff with a moonstone, dreamcatcher hood, night-themed cloak, slumber amulet.
+Stone Warder Sorcerer Medieval Outfit: Robes with protective stone symbols, Stone Warder staff with a gem-encrusted stone, stone helm, stony boots, protective amulet.
+Tattooed Sorcerer Medieval Outfit: Robes adorned with enchanted tattoo patterns, Tattooed staff with mystical ink, tattooed gloves, enchanted belt, tattooed cloak.
+Umbral Scion Sorcerer Medieval Outfit: Dark robes with shadowy symbols, Umbral Scion staff with a void gem, shadowed hood, haunting boots, shadow amulet.
+Wildblooded Sorcerer Medieval Outfit: Robes adorned with untamed symbols, Wildblooded staff with a primal gem, shamanic headdress, tribal boots, nature amulet.
+Wishcrafter Sorcerer Medieval Outfit: Robes with mystical genie symbols, Wishcrafter staff with a wish-granting gem, genie headdress, genie-themed cloak, wish charm necklace.
+Name Sorcerer Medieval Outfit: Robes adorned with arcane glyphs, Name Sorcerer staff with a personalized sigil, nameplate amulet, enchanted belt, runic cloak.
+Aberrant Sorcerer Medieval Outfit: Robes adorned with alien symbols, Aberrant staff with an eldritch gem, aberrant mask, tentacle gloves, otherworldly amulet.
+Abyssal Sorcerer Medieval Outfit: Dark and sinister robes, Abyssal staff adorned with abyssal runes, abyssal helm, cursed boots, abyssal amulet.
+Accursed Sorcerer Medieval Outfit: Tattered and cursed robes, Accursed staff with cursed symbols, accursed hood, cursed boots, cursed amulet.
+Aquatic Sorcerer Medieval Outfit: Robes adorned with aquatic symbols, Aquatic staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Arcane Sorcerer Medieval Outfit: Robes adorned with arcane symbols, Arcane staff with a magic crystal, arcane headdress, enchanted belt, mystic amulet.
+Astral Sorcerer Medieval Outfit: Robes adorned with celestial symbols, Astral staff with a starry gem, star-crowned hood, celestial sandals, astral amulet.
+Boreal Sorcerer Medieval Outfit: Robes adorned with icy patterns, Boreal staff with a frosty crystal, ice-crowned hood, snowflake cape, frost amulet.
+Celestial Sorcerer Medieval Outfit: Divine robes with celestial symbols, Celestial staff with a radiant gem, divine crown, angelic sandals, celestial amulet.
+Daemon Sorcerer Medieval Outfit: Dark and infernal robes, Daemon staff adorned with hellish runes, infernal helm, cursed boots, daemon amulet.
+Deep Earth Sorcerer Medieval Outfit: Robes adorned with earthen symbols, Deep Earth staff with a gem-encrusted stone, earthy headpiece, enchanted belt, gemstone amulet.
+Destined Sorcerer Medieval Outfit: Robes adorned with celestial symbols, Destined staff with a glowing star, fate crown, flowing cape, destiny amulet.
+Div Sorcerer Medieval Outfit: Robes adorned with celestial symbols, Div staff with a glowing star, fate crown, flowing cape, destiny amulet.
+Djinni Sorcerer Medieval Outfit: Robes with mystical patterns, Djinni staff with a swirling cloud, genie headdress, genie-themed cloak, wish charm necklace.
+Draconic Sorcerer Medieval Outfit: Robes adorned with dragon scales, Draconic staff with a dragon head, dragon helm, clawed gloves, draconic amulet.
+Dreamspun Sorcerer Medieval Outfit: Robes with dreamlike patterns, Dreamspun staff with a moonstone, dreamcatcher hood, night-themed cloak, slumber amulet.
+Ectoplasm Sorcerer Medieval Outfit: Robes with ethereal symbols, Ectoplasm staff with a ghostly gem, spectral hood, ghostly boots, ectoplasm amulet.
+Efreeti Sorcerer Medieval Outfit: Robes with fiery patterns, Efreeti staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Elemental Sorcerer Medieval Outfit: Robes adorned with elemental symbols, Elemental staff with a combined elemental gem, elemental headpiece, enchanted belt, elemental amulet.
+Fey Sorcerer Medieval Outfit: Robes adorned with fey symbols, Fey staff with a mystical leaf, fey crown, enchanted belt, nature charm necklace.
+Ghoul Sorcerer Medieval Outfit: Tattered and cursed robes, Ghoul staff with a ghastly gem, accursed hood, cursed boots, cursed amulet.
+Harrow Sorcerer Medieval Outfit: Robes adorned with harrowing symbols, Harrow staff with a mystic deck, fortune-teller's hat, mysterious cloak, harrowing amulet.
+Imperious Sorcerer Medieval Outfit: Regal robes with symbols of royalty, Imperious staff with a gem-encrusted top, majestic crown, flowing cape, aristocratic amulet.
+Impossible Sorcerer Medieval Outfit: Robes adorned with mind-bending symbols, Impossible staff with an eldritch gem, eldritch mask, tentacle gloves, otherworldly amulet.
+Infernal Sorcerer Medieval Outfit: Dark and infernal robes, Infernal staff adorned with hellish runes, infernal helm, cursed boots, infernal amulet.
+Kobold Sorcerer Medieval Outfit: Robes adorned with draconic symbols, Kobold staff with a dragon scale, scaled headpiece, clawed gloves, draconic amulet.
+Maestro Sorcerer Medieval Outfit: Robes with enchanting musical notes, Maestro staff with a musical gem, conductor's hat, musical boots, musical charm necklace.
+Marid Sorcerer Medieval Outfit: Robes with watery patterns, Marid staff with a water droplet gem, watery headpiece, enchanted belt, aquatic charm necklace.
+Martyred Sorcerer Medieval Outfit: Robes adorned with divine symbols, Martyred staff with a sacred gem, divine crown, angelic sandals, divine amulet.
+Naga Sorcerer Medieval Outfit: Robes with serpentine symbols, Naga staff with a serpent head, scaly headpiece, serpentine boots, reptilian amulet.
+Nanite Sorcerer Medieval Outfit: Robes adorned with intricate patterns, Nanite staff with a glowing gem, tech-themed helm, technological boots, nanite amulet.
+Oni Sorcerer Medieval Outfit: Robes adorned with oni symbols, Oni staff with a menacing oni mask, oni helm, rugged boots, oni charm necklace.
+Orc Sorcerer Medieval Outfit: Tribal robes with savage symbols, Orc staff with a tribal totem, tribal headdress, savage boots, tribal amulet.
+Pestilence Sorcerer Medieval Outfit: Tattered robes with pestilent symbols, Pestilence staff with a diseased gem, plague mask, pestilent boots, plague amulet.
+Phoenix Sorcerer Medieval Outfit: Robes adorned with fiery feathers, Phoenix staff with a phoenix feather, flaming crown, heat-resistant boots, phoenix amulet.
+Possessed Sorcerer Medieval Outfit: Tattered robes with haunting symbols, Possessed staff with a cursed gem, eerie hood, cursed boots, haunted amulet.
+Protean Sorcerer Medieval Outfit: Robes adorned with chaotic symbols, Protean staff with a swirling gem, chaotic helm, nimble boots, chaotic amulet.
+Psychic Sorcerer Medieval Outfit: Robes adorned with psychic symbols, Psychic staff with a mystical gem, psychic headpiece, enchanted belt, psychic amulet.
+Rakshasa Sorcerer Medieval Outfit: Robes with arcane symbols, Rakshasa staff with an enigmatic gem, arcane headdress, enchanted belt, mystic amulet.
+Salamander Sorcerer Medieval Outfit: Robes adorned with fiery patterns, Salamander staff with a blazing gem, flaming crown, heat-resistant boots, flame amulet.
+Scorpion Sorcerer Medieval Outfit: Robes with venomous patterns, Scorpion staff with a scorpion tail, scorpion helm, venomous boots, scorpion amulet.
+Serpentine Sorcerer Medieval Outfit: Robes adorned with serpentine symbols, Serpentine staff with a snake head, scaly headpiece, serpentine boots, reptilian amulet.
+Shadow Sorcerer Medieval Outfit: Robes with shadowy symbols, Shadow staff with a shadowy gem, shadowed hood, haunting boots, shadow amulet.
+Shaitan Sorcerer Medieval Outfit: Robes adorned with earthy symbols, Shaitan staff with an elemental gem, shaitan headdress, enchanted belt, elemental amulet.
+Shapechanger Sorcerer Medieval Outfit: Robes with shifting symbols, Shapechanger staff with a shapeshifting gem, shapechanging hood, enchanted belt, shapeshifter amulet.
+Solar Sorcerer Medieval Outfit: Regal robes with celestial symbols, Solar staff with a radiant gem, divine crown, angelic sandals, celestial amulet.
+Starsoul Sorcerer Medieval Outfit: Robes adorned with celestial symbols, Starsoul staff with a starry gem, star-crowned hood, celestial sandals, astral amulet.
+Stormborn Sorcerer Medieval Outfit: Robes adorned with lightning symbols, Stormborn staff with a thundering gem, stormy headdress, lightning boots, storm amulet.
+Undead Sorcerer Medieval Outfit: Tattered and cursed robes, Undead staff with an eerie gem, undead hood, cursed boots, undead amulet.
+Unicorn Sorcerer Medieval Outfit: Regal robes with celestial symbols, Unicorn staff with a magical horn, divine crown, angelic sandals, celestial amulet.
+Verdant Sorcerer Medieval Outfit: Robes adorned with nature's beauty, Verdant staff with a flourishing gem, nature crown, enchanted belt, nature charm necklace.
+Vestige Sorcerer Medieval Outfit: Robes adorned with enigmatic symbols, Vestige staff with an ancient relic, ancient helm, enchanted belt, mystic amulet.
+Armored Hulk Barbarian Medieval Outfit: Heavy plate armor with tribal engravings, intimidating horned helmet, fur-lined cloak, spiked gauntlets, massive battleaxe.
+Beastkin Berserker Barbarian Medieval Outfit: Beast-like furs and pelts, tribal warpaint, rugged pants with knee-high boots, clawed gloves, primal greataxe.
+Breaker Barbarian Medieval Outfit: Sturdy leather tunic with reinforced shoulder guards, rugged pants with knee-high boots, war paint, leather bracers, massive two-handed maul.
+Brutal Pugilist Barbarian Medieval Outfit: Leather harness with metal knuckles, fingerless gloves, tribal tattoos, rugged pants with knee-high boots, spiked brass knuckles.
+Brutish Swamper Barbarian Medieval Outfit: Swamp-themed attire with muddy patterns, rugged pants with knee-high boots, tribal face paint, bone club.
+Cave Dweller Barbarian Medieval Outfit: Rough and rugged fur clothing, primal bone necklace, fur-lined hooded cloak, bone-tipped spear, stone club.
+Deepwater Rager Barbarian Medieval Outfit: Seashell-adorned armor with aquatic motifs, tribal tattoos, knee-high boots, enchanted trident.
+Dreadnought Barbarian Medieval Outfit: Heavy plate armor with intimidating engravings, horned helmet, fur-lined cloak, spiked gauntlets, massive greatsword.
+Drunken Brute Barbarian Medieval Outfit: Torn and stained clothing, belt with drinking flasks, unkempt beard, rugged pants with knee-high boots, broken bottle as an improvised weapon.
+Drunken Rager Barbarian Medieval Outfit: Torn and stained clothing, belt with drinking flasks, tribal tattoos, rugged pants with knee-high boots, berserker's axe.
+Elemental Kin Barbarian Medieval Outfit: Armor infused with elemental energy, tribal tattoos with elemental motifs, knee-high boots, enchanted elemental greataxe.
+Fearsome Defender Barbarian Medieval Outfit: Heavy plate armor with fearsome engravings, imposing helmet, fur-lined cloak, spiked gauntlets, massive warhammer.
+Feral Gnasher Barbarian Medieval Outfit: Savage fur clothing, tribal warpaint, rugged pants with knee-high boots, clawed gloves, primal greataxe.
+Flesheater Barbarian Medieval Outfit: Disturbing bones and skulls adorning the outfit, tribal tattoos, rugged pants with knee-high boots, bone club.
+Geminate Invoker Barbarian Medieval Outfit: Armor with gemstone engravings, mystical runes, knee-high boots, enchanted gem-laden greataxe.
+Giant Stalker Barbarian Medieval Outfit: Trophy-adorned clothing from slain giants, rugged pants with knee-high boots, tribal tattoos, massive greatclub.
+Hateful Rager Barbarian Medieval Outfit: Spiked and intimidating armor, horned helmet, fur-lined cloak, spiked gauntlets, massive greataxe.
+Hurler Barbarian Medieval Outfit: Animal fur clothing, tribal tattoos, rugged pants with knee-high boots, bandolier with thrown weapons, javelins.
+Invulnerable Rager Barbarian Medieval Outfit: Heavy plate armor with tribal engravings, horned helmet, fur-lined cloak, spiked gauntlets, massive battleaxe.
+Jungle Rager Barbarian Medieval Outfit: Jungle-themed clothing with leaves and vines, tribal tattoos, knee-high boots, bone-tipped spear.
+Mad Dog Barbarian Medieval Outfit: Beast-like furs and pelts, tribal warpaint, rugged pants with knee-high boots, clawed gloves, primal greataxe.
+Mooncursed Barbarian Medieval Outfit: Tribal clothing adorned with lunar symbols, rugged pants with knee-high boots, moonlit tattoos, enchanted crescent blade.
+Mounted Fury Barbarian Medieval Outfit: Sturdy leather tunic with mounted symbols, fur-lined cloak, rugged pants with knee-high boots, mounted lance.
+Numerian Liberator Barbarian Medieval Outfit: Reinforced leather vest with technological motifs, utility belt, knee-high boots, energy sword.
+Pack Hunter Barbarian Medieval Outfit: Animal fur clothing, tribal tattoos, rugged pants with knee-high boots, bandolier with thrown weapons, javelins.
+Pack Rager Barbarian Medieval Outfit: Animal pelts adorned with claws and fangs, tribal tattoos, knee-high boots, primal greatsword.
+Primal Hunter Barbarian Medieval Outfit: Tribal clothing adorned with animal pelts, rugged pants with knee-high boots, bone necklace, primal greataxe.
+Raging Cannibal Barbarian Medieval Outfit: Savage fur clothing, tribal warpaint, rugged pants with knee-high boots, bone club.
+Savage Barbarian Barbarian Medieval Outfit: Rough and rugged fur clothing, tribal tattoos, knee-high boots, clawed gloves, massive greataxe.
+Savage Technologist Barbarian Medieval Outfit: Tribal clothing with technological elements, rugged pants with knee-high boots, tribal tattoos, energy sword.
+Scarred Rager Barbarian Medieval Outfit: Tattered and worn clothing, tribal tattoos, rugged pants with knee-high boots, spiked gauntlets, massive greataxe.
+Sea Reaver Barbarian Medieval Outfit: Seashell-adorned armor with pirate motifs, rugged pants with knee-high boots, tribal tattoos, cutlass sword.
+Sharptooth Barbarian Medieval Outfit: Armor with tooth and bone motifs, tribal tattoos, knee-high boots, enchanted toothed greataxe.
+Shoanti Burn Rider Barbarian Medieval Outfit: Tribal attire with fiery patterns, rugged pants with knee-high boots, tribal tattoos, flaming whip.
+Superstitious Barbarian Medieval Outfit: Pelt-covered clothing with tribal charms, knee-high boots, enchanted tribal weapon.
+Titan Mauler Barbarian Medieval Outfit: Trophy-adorned clothing from slain giants, rugged pants with knee-high boots, tribal tattoos, oversized greatsword.
+Totem Warrior Barbarian Medieval Outfit: Totem-adorned armor with animal motifs, tribal tattoos, knee-high boots, enchanted totem weapon, animal-headed staff.
+True Primitive Barbarian Medieval Outfit: Rough and rugged fur clothing, tribal tattoos, knee-high boots, clawed gloves, stone axe.
+Untamed Rager Barbarian Medieval Outfit: Torn and stained clothing, tribal tattoos, rugged pants with knee-high boots, spiked gauntlets, berserker's axe.
+Urban Barbarian Barbarian Medieval Outfit: Leather harness with city-themed engravings, rugged pants with knee-high boots, fingerless gloves, improvised weapon, broken bottle.
+Wild Rager Barbarian Medieval Outfit: Rough and rugged fur clothing, tribal tattoos, knee-high boots, clawed gloves, berserker's axe.
+Wildborn Barbarian Medieval Outfit: Tribal clothing adorned with animal pelts, rugged pants with knee-high boots, bone necklace, primal greataxe.
+Ancient Guardian Druid Medieval Outfit: Bark-covered robes with ancient symbols, wooden mask, leaf-adorned pants with wooden sandals, staff topped with a gnarled branch.
+Ape Shaman Druid Medieval Outfit: Fur-covered vestment with ape motifs, wooden mask, primal pants with barefoot sandals, staff topped with a carved ape head.
+Aquatic Druid Medieval Outfit: Flowing blue vestment with wave patterns, seashell-adorned tiara, scaled pants with aquatic motifs, trident staff.
+Arctic Druid Medieval Outfit: Fur-lined vestment with icy patterns, frosty beard, fur-lined pants with snow boots, staff adorned with icicles.
+Tamer Druid Medieval Outfit: Earth-toned clothing with animal motifs, tribal tattoos, knee-high boots, enchanted staff adorned with animal carvings.
+Bat Shaman Druid Medieval Outfit: Dark vestment with bat symbols, bat-winged mask, dark pants with tall boots, staff topped with a bat totem.
+Bear Shaman Druid Medieval Outfit: Bear-themed vestment with fur accents, bear-head hood, fur-lined pants with bear paws, staff topped with a bear claw.
+Blight Druid Medieval Outfit: Tattered and withered clothing, skull-adorned hood, dark pants with tall boots, staff topped with a corrupted vine.
+Boar Shaman Druid Medieval Outfit: Fur-covered vestment with boar motifs, boar-head hood, earth-toned pants with fur-lined boots, staff topped with a boar totem.
+Cave Druid Medieval Outfit: Earth-toned robes with cave paintings, primitive mask, dark pants with tall boots, staff adorned with cave symbols.
+Death Druid Medieval Outfit: Grim and tattered clothing, skull-adorned hood, dark pants with tall boots, staff adorned with a skull.
+Defender of the True World Druid Medieval Outfit: Vestment with natural motifs, tribal tattoos, knee-high boots, staff adorned with primal symbols.
+Desert Druid Medieval Outfit: Sand-colored vestment with desert symbols, turban, sand-covered pants with desert sandals, staff adorned with a sun emblem.
+Devolutionist Druid Medieval Outfit: Ragged and primal clothing, bone-adorned hood, dark pants with tall boots, staff adorned with bones and furs.
+Dinosaur Druid Medieval Outfit: Vestment with dinosaur symbols, tribal tattoos, knee-high boots, staff adorned with dinosaur carvings.
+Draconic Druid Medieval Outfit: Armor with dragon motifs, dragon-head helmet, scaled pants with knee-high boots, staff adorned with dragon engravings.
+Dragon Shaman Druid Medieval Outfit: Tribal clothing with dragon symbols, tribal tattoos, knee-high boots, staff adorned with dragon carvings.
+Drovier Druid Medieval Outfit: Vestment with nature motifs, tribal tattoos, knee-high boots, staff adorned with aquatic and swamp symbols.
+Eagle Shaman Druid Medieval Outfit: Feathered vestment with eagle motifs, feathered mask, earth-toned pants with tall boots, staff topped with an eagle totem.
+Elemental Ally Druid Medieval Outfit: Elemental-themed clothing, tribal tattoos, knee-high boots, staff adorned with elemental symbols.
+Feral Child Druid Medieval Outfit: Primal and untamed clothing, leafy headband, rugged pants with barefoot sandals, staff adorned with vines and leaves.
+Feral Shifter Druid Medieval Outfit: Fur-covered vestment with primal symbols, tribal tattoos, knee-high boots, staff adorned with animal carvings.
+Feyspeaker Druid Medieval Outfit: Flowing green vestment with fey symbols, leafy crown, leaf-adorned pants with earth-toned sandals, staff adorned with fey charms.
+Fungal Pilgrim Druid Medieval Outfit: Robes with fungus motifs, mushroom-adorned hood, earth-toned pants with fungal motifs, staff topped with a mushroom.
+Goliath Druid Medieval Outfit: Fur and bone clothing with tribal tattoos, knee-high boots, staff adorned with goliath markings.
+Green Faith Initiate Druid Medieval Outfit: Green vestment with natural symbols, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with fey charms.
+Green Scourge Druid Medieval Outfit: Tattered green vestment with withered vines, skull-adorned hood, dark pants with tall boots, staff adorned with thorns.
+Halcyon Druid Medieval Outfit: Sky blue vestment with cloud patterns, feathered headband, sky blue pants with tall boots, staff topped with a wind charm.
+Jungle Druid Medieval Outfit: Leafy vestment with jungle symbols, leafy crown, leaf-adorned pants with earth-toned sandals, staff adorned with jungle carvings.
+Kraken Caller Druid Medieval Outfit: Seashell-adorned vestment with kraken motifs, tentacle mask, scaled pants with ocean-themed sandals, staff topped with a kraken totem.
+Leshy Warden Druid Medieval Outfit: Nature-inspired clothing, wooden mask, earth-toned pants with leafy sandals, staff adorned with leshy motifs.
+Life Channeler Druid Medieval Outfit: Earth-toned vestment with natural symbols, leaf-adorned pants with earth-toned sandals, staff adorned with vibrant plant life.
+Lion Shaman Druid Medieval Outfit: Fur-covered vestment with lion motifs, lion-head hood, earth-toned pants with fur-lined boots, staff topped with a lion totem.
+Mantella Druid Medieval Outfit: Swamp-themed clothing with tribal tattoos, knee-high boots, staff adorned with swamp symbols.
+Menhir Savant Druid Medieval Outfit: Stone-covered robes with ancient engravings, stone mask, leaf-adorned pants with stone sandals, staff adorned with a stone totem.
+Mooncaller Druid Medieval Outfit: Moonlit vestment with lunar symbols, moonlit tattoos, knee-high boots, staff adorned with a crescent moon.
+Mountain Druid Medieval Outfit: Earth-toned clothing with mountain motifs, tribal tattoos, knee-high boots, staff adorned with mountain symbols.
+Naga Aspirant Druid Medieval Outfit: Vestment with serpent motifs, snake-head hood, scaled pants with snake-themed sandals, staff topped with a snake totem.
+Nature Fang Druid Medieval Outfit: Nature-inspired clothing, tribal tattoos, knee-high boots, staff adorned with animal and plant symbols.
+Nature Priest Druid Medieval Outfit: Vestment with natural symbols, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with primal symbols.
+Nithveil Adept Druid Medieval Outfit: Tattered and ethereal clothing, shadowy hood, dark pants with tall boots, staff adorned with nithveil energy.
+Pack Lord Druid Medieval Outfit: Animal fur clothing with tribal tattoos, knee-high boots, staff adorned with animal motifs.
+Plains Druid Medieval Outfit: Earth-toned vestment with plains symbols, tribal tattoos, knee-high boots, staff adorned with prairie motifs.
+Planar Extremist Druid Medieval Outfit: Planar-themed vestment with arcane symbols, arcane tattoos, knee-high boots, staff adorned with planar symbols.
+Progenitor Druid Medieval Outfit: Nature-inspired clothing with tribal tattoos, knee-high boots, staff adorned with primal symbols.
+Reincarnated Druid Medieval Outfit: Tattered and ethereal clothing, ghostly hood, dark pants with tall boots, staff adorned with spiritual energy.
+Restorer Druid Medieval Outfit: Vestment with rejuvenating motifs, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with natural symbols.
+River Druid Medieval Outfit: River-themed clothing with aquatic motifs, tribal tattoos, knee-high boots, staff adorned with river symbols.
+Road Keeper Druid Medieval Outfit: Earth-toned vestment with road symbols, tribal tattoos, knee-high boots, staff adorned with travel charms.
+Rot Warden Druid Medieval Outfit: Tattered and withered clothing, skull-adorned hood, dark pants with tall boots, staff adorned with decaying vines.
+Saurian Shaman Druid Medieval Outfit: Reptile-themed vestment with tribal tattoos, knee-high boots, staff adorned with reptilian motifs.
+Season Keeper Druid Medieval Outfit: Vestment with seasonal motifs, leafy tiara, leaf-adorned pants with earth-toned sandals, staff adorned with seasonal symbols.
+Season Sage Druid Medieval Outfit: Vestment with seasonal motifs, tribal tattoos, knee-high boots, staff adorned with seasonal symbols.
+Serpent Shaman Druid Medieval Outfit: Vestment with snake symbols, snake-head hood, scaled pants with snake-themed sandals, staff topped with a snake totem.
+Shark Shaman Druid Medieval Outfit: Shark-themed vestment with tribal tattoos, knee-high boots, staff adorned with ocean motifs.
+Skinshaper Druid Medieval Outfit: Fur-covered vestment with tribal tattoos, knee-high boots, staff adorned with animal carvings.
+Sky Druid Medieval Outfit: Sky blue vestment with cloud patterns, feathered headband, sky blue pants with tall boots, staff adorned with cloud symbols.
+Storm Druid Medieval Outfit: Thundercloud-themed clothing with arcane symbols, arcane tattoos, knee-high boots, staff adorned with storm motifs.
+Sunrider Druid Medieval Outfit: Sun-themed vestment with solar symbols, sunlit tattoos, knee-high boots, staff adorned with a sun emblem.
+Supernaturalist Druid Medieval Outfit: Earth-toned clothing with arcane symbols, arcane tattoos, knee-high boots, staff adorned with arcane motifs.
+Survivor Druid Medieval Outfit: Tattered and rugged clothing, leafy headband, rugged pants with barefoot sandals, staff adorned with vines and leaves.
+Swamp Druid Medieval Outfit: Swamp-themed clothing with tribal tattoos, knee-high boots, staff adorned with swamp symbols.
+Swarm Monger Druid Medieval Outfit: Insect-themed clothing with tribal tattoos, knee-high boots, staff adorned with insect motifs.
+Tempest Druid Medieval Outfit: Storm-themed clothing with arcane symbols, arcane tattoos, knee-high boots, staff adorned with storm motifs.
+Tempest Tamer Druid Medieval Outfit: Vestment with storm motifs, tribal tattoos, knee-high boots, staff adorned with storm symbols.
+Toxicologist Druid Medieval Outfit: Vestment with poisonous motifs, tribal tattoos, knee-high boots, staff adorned with toxic symbols.
+Treesinger Druid Medieval Outfit: Forest-themed clothing with tribal tattoos, knee-high boots, staff adorned with tree motifs.
+Troll Fury Druid Medieval Outfit: Torn and primal clothing, bone-adorned hood, dark pants with tall boots, staff adorned with bone charms.
+Undine Adept Druid Medieval Outfit: Water-themed vestment with aquatic symbols, scaled pants with aquatic sandals, staff adorned with water motifs.
+Urban Druid Medieval Outfit: City-themed vestment with urban symbols, tribal tattoos, knee-high boots, staff adorned with urban motifs.
+Urushiol Druid Medieval Outfit: Poisonous-themed vestment with tribal tattoos, knee-high boots, staff adorned with toxic symbols.
+Wild Whisperer Druid Medieval Outfit: Nature-inspired clothing with tribal tattoos, knee-high boots, staff adorned with animal and plant symbols.
+Wolf Shaman Druid Medieval Outfit: Fur-covered vestment with wolf motifs, wolf-head hood, earth-toned pants with fur-lined boots, staff topped with a wolf totem.
+World Walker Druid Medieval Outfit: Vestment with nature motifs, tribal tattoos, knee-high boots, staff adorned with travel charms.
+Animal Speaker Bard Medieval Outfit: Nature-themed vestment with animal motifs, a leafy crown, earth-toned pants with fur-lined boots, and a wooden flute.
+Arcane Duelist Bard Medieval Outfit: Elegantly embroidered tunic, adorned with arcane symbols, tall boots, a sleek rapier at the hip, and a spellbook at the side.
+Arcane Healer Bard Medieval Outfit: Crisp white robes adorned with healing symbols, a golden headband, sandals, and a soothing harp slung across the back.
+Archaeologist Bard Medieval Outfit: Adventurer's outfit with practical pants, sturdy boots, a wide-brimmed hat, and a satchel for collected relics.
+Archivist Bard Medieval Outfit: Scholarly robe adorned with ancient symbols, a spectacles chain, quill and parchment, and a book of knowledge in hand.
+Argent Voice Bard Medieval Outfit: Noble's attire with silver embroidery, a polished rapier at the side, a silver pendant, and a silk handkerchief.
+Arrowsong Minstrel Bard Medieval Outfit: Elven-inspired tunic with leafy patterns, archery bracers, earth-toned pants, and a sleek longbow.
+Averaka Arbiter Bard Medieval Outfit: Regal robe with symbolic motifs, a feathered headband, formal boots, and a decorative staff.
+Brazen Deceiver Bard Medieval Outfit: Dashing outfit with a feathered hat, a cape, a golden chain, and a dagger tucked at the waist.
+Buccaneer Bard Medieval Outfit: Pirate-inspired attire with a tricorn hat, a sash across the chest, tall boots, and a rapier.
+Busker Bard Medieval Outfit: Casual musician's clothing with vibrant colors, a hat for tips, a lute on the back, and a charming smile.
+Celebrity Bard Medieval Outfit: Glamorous attire with fancy patterns, a glistening pendant, elegant shoes, and a silver-tipped cane.
+Chelish Diva Bard Medieval Outfit: Extravagant noble's attire with Chelaxian motifs, a decorative cane, formal boots, and an air of confidence.
+Chronicler of Worlds Bard Medieval Outfit: Cosmic-themed vestment with starry patterns, a headband adorned with celestial symbols, and an ornate quill.
+Court Bard Bard Medieval Outfit: Courtier's attire with regal motifs, a feathered cap, formal boots, and a lute on the back.
+Court Fool Bard Medieval Outfit: Colorful jester's attire with bells, a motley hat, and a playful lute on the back.
+Cultivator Bard Medieval Outfit: Rustic attire with earthy patterns, a wide-brimmed hat, gardening tools, and a small pouch for seeds.
+Daredevil Bard Medieval Outfit: Adventurer's attire with daring colors, a daring grin, a grappling hook, and a swashbuckler's rapier.
+Dawnflower Dervish Bard Medieval Outfit: Sun-themed vestment with radiant symbols, a headband adorned with sun motifs, and a scimitar at the hip.
+Demagogue Bard Medieval Outfit: Charismatic attire with powerful symbols, a decorative staff, formal boots, and an air of authority.
+Dervish Dancer Bard Medieval Outfit: Exotic dancer's attire with swirling patterns, a turban with flowing veils, and finger cymbals.
+Detective Bard Medieval Outfit: Sleuth's attire with a detective's hat, a magnifying glass, a notebook, and a mysterious demeanor.
+Dirge Bard Bard Medieval Outfit: Mourner's attire with somber motifs, a headband adorned with sorrowful symbols, and a haunting dirge on a lute.
+Disciple of the Forked Tongue Bard Medieval Outfit: Serpent-themed vestment with coiling patterns, a headband adorned with serpentine symbols, and a hissing flute.
+Dragon Herald Bard Medieval Outfit: Regal robe with draconic motifs, a horned circlet, formal boots, and a banner bearing the dragon's emblem.
+Dragon Yapper Bard Medieval Outfit: Adventurer's attire with dragon-themed motifs, a dragon-head hood, earth-toned pants, and a draconic flute.
+Duettist Bard Medieval Outfit: Elegant attire with harmonious patterns, a partner's handkerchief, formal boots, and two decorative flutes.
+Dwarven Scholar Bard Medieval Outfit: Dwarven-inspired vestment with runes and metalwork, a sturdy beard, sturdy boots, and a tome in hand.
+Faith Singer Bard Medieval Outfit: Devotional robe with sacred symbols, a simple circlet, formal boots, and a holy book in hand.
+Fey Courtier Bard Medieval Outfit: Fey-inspired attire with ethereal patterns, a leafy crown, earth-toned pants with boots, and a delicate flute.
+Fey Prankster Bard Medieval Outfit: Mischievous attire with playful patterns, a leafy crown, earth-toned pants with boots, and a set of pranks.
+Filidh Bard Medieval Outfit: Celtic-inspired vestment with knotwork patterns, a harp at the back, a kilt with boots, and a brimmed hat.
+First World Minstrel Bard Medieval Outfit: Fey-themed vestment with otherworldly patterns, a horned circlet, earth-toned pants with boots, and a magical flute.
+Flame Dancer Bard Medieval Outfit: Fire-themed vestment with fiery patterns, a fire-themed circlet, earth-toned pants with boots, and a flaming baton.
+Flamesinger Bard Medieval Outfit: Ember-themed vestment with smoldering patterns, a flaming headdress, earth-toned pants with boots, and a resonant voice.
+Fortune-Teller Bard Medieval Outfit: Mystic robe adorned with enigmatic symbols, a crystal ball, tarot cards, and a mysterious air.
+Geisha Bard Medieval Outfit: Traditional geisha attire with elaborate patterns, a delicate fan, and a soothing melody on a shamisen.
+Hatharat Agent Bard Medieval Outfit: Disguised attire with covert patterns, a wide-brimmed hat, a concealed weapon, and a secretive smile.
+Hoaxer Bard Medieval Outfit: Trickster's attire with deceptive patterns, a motley hat, a concealed trick, and a cunning grin.
+Impervious Messenger Bard Medieval Outfit: Messenger's attire with swift patterns, a messenger's satchel, formal boots, and a nimble demeanor.
+Juggler Bard Medieval Outfit: Entertainer's clothing with colorful patterns, juggling pins at the hip, a top hat, and a captivating smile.
+Lotus Geisha Bard Medieval Outfit: Geisha-inspired attire with lotus patterns, a delicate fan, and a soothing melody on a shamisen.
+Luring Piper Bard Medieval Outfit: Pied Piper's attire with charming patterns, a pipe at the hip, a motley hat, and an enchanting smile.
+Magician Bard Medieval Outfit: Showman's clothing with magical patterns, a magician's hat, a deck of cards, and a flair for illusion.
+Masked Performer Bard Medieval Outfit: Theatrical attire with masked patterns, a half-mask at the side, a colorful cape, and a theatrical flourish.
+Mute Musician Bard Medieval Outfit: Musician's attire with mute motifs, a musical instrument on the back, and a soulful expression.
+Negotiator Bard Medieval Outfit: Diplomat's attire with diplomatic patterns, a scroll in hand, formal boots, and a diplomatic air.
+Phrenologist Bard Medieval Outfit: Pseudoscientist's clothing with strange symbols, a phrenologist's headband, and a set of skull charts.
+Plant Speaker Bard Medieval Outfit: Druidic vestment with leafy patterns, a crown of flowers, earth-toned pants with boots, and a wooden flute.
+Prankster Bard Medieval Outfit: Mischievous attire with playful patterns, a motley hat, a set of pranks, and a cunning grin.
+Provocateur Bard Medieval Outfit: Seductive attire with alluring patterns, a decorative fan, a mischievous grin, and an alluring melody on a flute.
+Ringleader Bard Medieval Outfit: Entertainer's attire with captivating patterns, a whip at the hip, a top hat, and a commanding presence.
+Sandman Bard Medieval Outfit: Dreamweaver's vestment with dreamy patterns, a dreamcatcher at the side, and a soothing melody on a flute.
+Savage Skald Bard Medieval Outfit: Barbarian-inspired attire with tribal patterns, a feathered headband, earth-toned pants with boots, and a war drum.
+Sea Singer Bard Medieval Outfit: Seafarer's attire with maritime patterns, a tricorn hat, a spyglass, and a sailor's shanty on the lips.
+Shadow Puppeteer Bard Medieval Outfit: Puppeteer's attire with shadowy patterns, a puppet on the hand, a cloak, and a hint of mystery.
+Silver Balladeer Bard Medieval Outfit: Entertainer's attire with musical patterns, a silver pendant, a lute on the back, and a captivating presence.
+Solacer Bard Medieval Outfit: Comforter's robe with calming symbols, a headband adorned with soothing patterns, and a calming flute.
+Songhealer Bard Medieval Outfit: Healer's robe with musical patterns, a headband adorned with healing symbols, and a soothing harp.
+Sorrowsoul Bard Medieval Outfit: Mourner's attire with somber symbols, a headband adorned with sorrowful motifs, and a haunting dirge on a lute.
+Sound Striker Bard Medieval Outfit: Musician's clothing with sonic motifs, a resonant voice, a sonic staff, and a flair for sonic manipulation.
+Speaker of the Eye Bard Medieval Outfit: Diviner's attire with eye-themed patterns, a third eye headband, a crystal ball, and a mysterious demeanor.
+Stonesinger Bard Medieval Outfit: Earth-themed vestment with stony patterns, a headband adorned with earth symbols, and a magical drum.
+Street Performer Bard Medieval Outfit: Informal clothing with vibrant patterns, a hat for tips, a lute on the back, and a lively grin.
+Studious Librarian Bard Medieval Outfit: Scholar's attire with scholarly symbols, a spectacles chain, a scroll in hand, and a book on the belt.
+Thundercaller Bard Medieval Outfit: Storm-themed vestment with lightning patterns, a thunder-themed headband, and a magical drum.
+Voice of Brigh Bard Medieval Outfit: Inventor's clothing with mechanical patterns, a Brigh's symbol, a spanner, and a tinkering demeanor.
+Voice of the Wild Bard Medieval Outfit: Druidic vestment with wild patterns, a crown of leaves, earth-toned pants with boots, and a wooden flute.
+Wasteland Chronicler Bard Medieval Outfit: Survivor's attire with rugged patterns, a hooded cloak, a satchel for relics, and a knowing gaze.
+Watersinger Bard Medieval Outfit: Water-themed vestment with aquatic patterns, a water-themed circlet, earth-toned pants with boots, and a water-themed flute.
+Wit Bard Medieval Outfit: Entertainer's attire with witty patterns, a motley hat, a quill and parchment, and a clever retort.
+Banishing Warden Paladin Medieval Outfit: Resplendent armor with sigils of warding, a blessed amulet, a mystical staff, and an aura of protection.
+Champion of the Cascade Paladin Medieval Outfit: Ceremonial armor with cascading patterns, a waterfall-shaped crest, a glimmering longsword, and a confident stance.
+Chaos Knight Paladin Medieval Outfit: Chaotic armor adorned with twisted motifs, a chaos emblem, a serrated longsword, and an unpredictable demeanor.
+Chosen One Paladin Medieval Outfit: Iconic armor with divine symbols, a radiant halo, a holy longsword, and an aura of destiny.
+Combat Healer Squire Paladin Medieval Outfit: Practical armor with healing symbols, a squire's badge, a trusty mace, and a readiness to mend wounds.
+Divine Defender Paladin Medieval Outfit: Defender's armor with divine motifs, a shield bearing a holy symbol, a broadsword, and a stalwart demeanor.
+Divine Guardian Paladin Medieval Outfit: Guardian's armor with protective symbols, a guardian's helm, a glimmering longsword, and an aura of vigilance.
+Divine Hunter Paladin Medieval Outfit: Hunter's armor with divine symbols, a cloak of tracking, a bow and quiver, and a keen eye for prey.
+Dusk Knight Paladin Medieval Outfit: Twilight armor with shadowy motifs, a cloak of dusk, a darkblade, and a mysterious presence.
+Empyreal Knight Paladin Medieval Outfit: Empyrean armor with celestial patterns, a pair of angelic wings, a celestial glaive, and a divine aura.
+Faithful Wanderer Paladin Medieval Outfit: Wanderer's attire with sacred symbols, a rugged cloak, a staff of pilgrimage, and a journeyer's spirit.
+Forest Preserver Paladin Medieval Outfit: Guardian's armor with nature motifs, a wreath of leaves, a druidic glaive, and a harmonious aura.
+Forgefather's Seeker Paladin Medieval Outfit: Smith's attire with fiery symbols, a hammer of the forge, a shield bearing an anvil, and a fiery demeanor.
+Ghost Hunter Paladin Medieval Outfit: Hauntbane armor with spectral motifs, a ghostly visage helm, a silvered longsword, and a vigilant gaze.
+Gray Paladin Paladin Medieval Outfit: Neutral armor with balanced symbols, a brooding expression, a versatile longsword, and a sense of justice.
+Holy Guide Paladin Medieval Outfit: Pilgrim's attire with divine symbols, a sacred book, a lantern, and an aura of guidance.
+Holy Gun Paladin Medieval Outfit: Gunslinger's attire with blessed motifs, a blessed gun, a bandolier of bullets, and an unwavering aim.
+Holy Tactician Paladin Medieval Outfit: Strategist's attire with tactical symbols, a commander's insignia, a gleaming longsword, and a strategic mind.
+Hospitaler Paladin Medieval Outfit: Healer's attire with merciful symbols, a healing staff, a bag of medicinal herbs, and a caring demeanor.
+Hunting Paladin Paladin Medieval Outfit: Tracker's attire with hunting symbols, a cloak of the hunter, a bow and quiver, and a hunter's resolve.
+Invigorator Paladin Medieval Outfit: Energizing armor with empowering motifs, a pulsating aura, a glowing longsword, and an inspiring presence.
+Iomedaen Enforcer Paladin Medieval Outfit: Enforcer's armor with resolute symbols, a shield bearing Iomedae's symbol, a blessed longsword, and an aura of righteousness.
+Iroran Paladin Paladin Medieval Outfit: Monk's attire with Iroran symbols, a meditative aura, a staff of inner balance, and a calm presence.
+Knight of Coins Paladin Medieval Outfit: Merchant's attire with coin motifs, a medallion of prosperity, a ceremonial longsword, and a shrewd gaze.
+Kraken Slayer Paladin Medieval Outfit: Seafarer's attire with kraken-themed patterns, a trident with tentacle motifs, and a fierce determination.
+Legate Paladin Medieval Outfit: Military armor with commanding symbols, a legionnaire's helm, a ceremonial longsword, and an authoritative demeanor.
+Martyr Paladin Medieval Outfit: Sacrificial armor with martyr's symbols, a mournful expression, a holy longsword, and an aura of selflessness.
+Mind Sword Paladin Medieval Outfit: Psionic armor with mental symbols, a headband of mental focus, a psychic longsword, and a contemplative gaze.
+Pearl Seeker Paladin Medieval Outfit: Oceanic armor with pearl motifs, a diving helmet, a trident with a pearly blade, and a determined expression.
+Redeemer Paladin Medieval Outfit: Redeemer's armor with redemptive symbols, a redemptive aura, a glowing longsword, and an aura of forgiveness.
+Sacred Servant Paladin Medieval Outfit: Devoted attire with divine symbols, a servant's humility, a ceremonial staff, and an aura of dedication.
+Sacred Shield Paladin Medieval Outfit: Defender's armor with sacred symbols, a shield bearing a holy symbol, a broadsword, and an aura of protection.
+Scion of Talmandor Paladin Medieval Outfit: Talmandor's armor with avian symbols, a pair of eagle wings, a glaive with a keen edge, and a vigilant gaze.
+Shining Knight Paladin Medieval Outfit: Radiant armor with sun motifs, a helmet with a brilliant crest, a radiant longsword, and an aura of valor.
+Silver Champion Paladin Medieval Outfit: Silvered armor with lunar symbols, a moonlight helm, a silvered longsword, and a calm and composed demeanor.
+Soul Sentinel Paladin Medieval Outfit: Sentinel's armor with spiritual symbols, a soul warding talisman, a holy longsword, and a vigilant gaze.
+Stonelord Paladin Medieval Outfit: Stoneworker's attire with stone motifs, a stonebound helm, a stone hammer, and a steadfast and resolute demeanor.
+Sword of Valor Paladin Medieval Outfit: Valorous armor with courageous symbols, a valorous aura, a gleaming longsword, and an aura of bravery.
+Tempered Champion Paladin Medieval Outfit: Forged armor with elemental motifs, a gauntlet of elemental power, a gleaming longsword, and a fiery spirit.
+Temple Champion Paladin Medieval Outfit: Acolyte's attire with sacred symbols, a ceremonial helm, a temple staff, and an aura of divine might.
+Tortured Crusader Paladin Medieval Outfit: Crusader's armor with embittered symbols, a cloak of mourning, a sword with a dark past, and a solemn gaze.
+Tranquil Guardian Paladin Medieval Outfit: Guardian's armor with calming symbols, a serene expression, a shield bearing an inner peace emblem, and a meditative demeanor.
+Undead Scourge Paladin Medieval Outfit: Vanquisher's armor with undead symbols, a ghostly aura, a holy longsword, and an aura of righteous wrath.
+Vindictive Bastard Paladin Medieval Outfit: Avenger's armor with vengeful symbols, a dark cloak, a sword of retribution, and a brooding and wrathful demeanor.
+Virtuous Bravo Paladin Medieval Outfit: Gallant attire with chivalrous symbols, a chivalric helm, a rapier with a noble flourish, and a charismatic presence.
+Warrior of the Holy Light Paladin Medieval Outfit: Radiant armor with divine symbols, a helm of righteousness, a glowing longsword, and an aura of holy power.
+Wilderness Warden Paladin Medieval Outfit: Warden's armor with nature motifs, a cloak of the wilds, a druidic glaive, and a protective aura.
+Black Asp Monk Medieval Outfit: Sleek black gi with snake patterns, fingerless gloves, a wrapped headband, and a serpent tattoo coiling up the arm.
+Brazen Disciple Monk Medieval Outfit: Ornate red robes with gold trim, metal arm bracers, a warrior's headband, and a braided beard.
+Disciple of Wholeness Monk Medieval Outfit: Flowing blue and white robes, prayer beads, a serene expression, and a staff of healing.
+Drunken Master Monk Medieval Outfit: Tattered, loose-fitting garments, a gourd of spirits, a whimsical expression, and an unorthodox fighting stance.
+Elemental Monk Medieval Outfit: Robes adorned with elemental symbols, elemental tattoos, a staff infused with elemental power, and an aura of elemental energy.
+Far Strike Monk Medieval Outfit: Traveler's garb, a quiver of arrows, a composite bow, and a watchful gaze.
+Flowing Monk Medieval Outfit: Loose blue and white garments, a flowing sash, a calm expression, and a fluid and graceful fighting style.
+Gray Disciple Monk Medieval Outfit: Gray robes with cryptic symbols, a crystal amulet, a staff of knowledge, and a contemplative expression.
+Hamatulatsu Master Monk Medieval Outfit: Rugged traveler's garb, bracers with a martial arts motif, a focused gaze, and a pair of tonfas.
+Harrow Warden Monk Medieval Outfit: Harrower's vestments, a deck of harrow cards, a stoic expression, and a staff of divination.
+Hellcat Monk Medieval Outfit: Fiery-red robes with claw motifs, fiery tattoos, a pair of fiery gauntlets, and an aggressive fighting stance.
+Hungry Ghost Monk Medieval Outfit: Tattered, ethereal robes, a ghostly aura, a staff with ghostly carvings, and an otherworldly expression.
+Invested Regent Monk Medieval Outfit: Regal attire with noble symbols, a crown-like headband, a staff of command, and an aura of authority.
+Ironskin Monk Medieval Outfit: Durable leather gi, metal bracers, a headband of resilience, and a steady and unyielding fighting stance.
+Karmic Monk Medieval Outfit: Golden robes with karmic symbols, a necklace with a yin-yang pendant, a staff of balance, and a tranquil expression.
+Kata Master Monk Medieval Outfit: Martial artist's gi with kata symbols, a master's headband, a pair of tonfas, and a focused fighting style.
+Ki Mystic Monk Medieval Outfit: Mystic robes with ki symbols, a ki-infused staff, an enlightened expression, and an aura of inner power.
+Lifting Hand Monk Medieval Outfit: Laborer's attire, a headband of strength, a staff for support, and a determined and helpful demeanor.
+Maneuver Master Monk Medieval Outfit: Battle-ready attire, a pair of gauntlets, a martial headband, and a skilled and agile fighting style.
+Martial Artist Monk Medieval Outfit: Classic martial artist's gi, a headband of discipline, a pair of nunchaku, and a focused and disciplined fighting stance.
+Master of Many Styles Monk Medieval Outfit: Versatile attire with various martial arts symbols, a staff with multiple forms, and an adaptable fighting style.
+Menhir Guardian Monk Medieval Outfit: Druidic garb with stone motifs, a headband with a menhir symbol, a staff with a druidic totem, and a steadfast and protective demeanor.
+Monk of the Empty Hand Medieval Outfit: Simple, unadorned gi, a headband with a serene symbol, a martial staff, and a peaceful and centered expression.
+Monk of the Four Winds Medieval Outfit: Elemental robes representing four winds, a staff with swirling patterns, and a versatile and adaptable fighting style.
+Monk of the Healing Hand Medieval Outfit: Healer's attire with curative symbols, a staff of restoration, a serene expression, and an aura of healing.
+Monk of the Lotus Medieval Outfit: Lotus-themed attire, a necklace with a lotus pendant, a staff with lotus carvings, and a serene and enlightened expression.
+Monk of the Mantis Medieval Outfit: Mantis-themed gi, a pair of mantis kamas, a martial headband, and a swift and precise fighting style.
+Monk of the Sacred Mountain Medieval Outfit: Earth-toned robes with mountain symbols, a headband with a mountain emblem, a staff with stone carvings, and a resolute and immovable demeanor.
+Monk of the Seven Forms Medieval Outfit: Versatile gi representing seven forms, a staff with versatile techniques, and an adaptable and versatile fighting style.
+Nimble Guardian Monk Medieval Outfit: Agile traveler's attire, a staff with swift strikes, and a nimble and agile fighting style.
+Nornkith Monk Medieval Outfit: Robes adorned with runes, a headband with a rune symbol, a staff with rune carvings, and a wise and mystical expression.
+Ouat Monk Medieval Outfit: Unassuming attire with desert patterns, a scarf covering the face, a staff of sand magic, and a watchful and enigmatic demeanor.
+Perfect Scholar Monk Medieval Outfit: Scholar's robes with intricate symbols, a headband with a scholarly emblem, a staff of enlightenment, and a wise and knowledgeable expression.
+Qinggong Monk Medieval Outfit: Versatile attire with qinggong symbols, a staff with flexible maneuvers, and an agile and acrobatic fighting style.
+Sage Counselor Monk Medieval Outfit: Wise scholar's robes, a headband with a wise symbol, a staff of sage advice, and an aura of sagacity.
+Scaled Fist Monk Medieval Outfit: Dragon-themed gi, a pair of scaled gauntlets, a martial headband, and an imposing fighting style.
+Sensei Monk Medieval Outfit: Master's gi, a headband of mentorship, a staff of teaching, and a wise and mentoring expression.
+Serpent-Fire Adept Monk Medieval Outfit: Fiery-red robes with serpent motifs, a staff with fire techniques, and a fierce and aggressive fighting stance.
+Sin Monk Medieval Outfit: Enigmatic black robes with arcane symbols, a headband with a mysterious emblem, a staff of shadow magic, and an inscrutable and mysterious demeanor.
+Softstrike Monk Medieval Outfit: Gentle, flowing attire, a headband of peace, a staff with nonlethal techniques, and a compassionate and empathetic expression.
+Sohei Monk Medieval Outfit: Warrior's gi with battle symbols, a warrior's headband, a naginata, and a fierce and disciplined fighting style.
+Soul Shepherd Monk Medieval Outfit: Ceremonial attire with spiritual symbols, a staff with soulful carvings, and a wise and nurturing expression.
+Spirit Master Monk Medieval Outfit: Shamanic garb with spirit motifs, a headband with a spiritual emblem, a staff with spirit carvings, and a mystical and spiritual demeanor.
+Student of Stone Monk Medieval Outfit: Robes adorned with stone patterns, a headband with an earthy emblem, a staff with stone carvings, and a steady and unyielding demeanor.
+Terra-Cotta Monk Medieval Outfit: Earthen-hued robes with terra-cotta motifs, a staff with earthen carvings, and a grounded and resolute expression.
+Tetori Monk Medieval Outfit: Robes with wrestling symbols, a headband with a wrestling emblem, a staff for grappling, and a strong and grappling fighting style.
+Treetop Monk Medieval Outfit: Camouflaged attire with leafy patterns, a headband with a nature emblem, a staff with nature carvings, and a watchful and vigilant demeanor.
+Underfoot Adept Monk Medieval Outfit: Rugged traveler's garb, a staff with earth techniques, and a nimble and agile fighting style.
+Wanderer Monk Medieval Outfit: Wandering traveler's attire, a staff for support, a watchful gaze, and a staff that doubles as a walking stick.
+Wasteland Meditant Monk Medieval Outfit: Desolate attire with wasteland motifs, a headband with a meditative emblem, a staff with sand techniques, and a serene and focused expression.
+Water Dancer Monk Medieval Outfit: Flowing blue robes with water motifs, a staff with fluid techniques, and a graceful and fluid fighting style.
+Weapon Adept Monk Medieval Outfit: Martial artist's gi with weapon symbols, a pair of weaponized bracers, a martial headband, and a skilled and precise fighting style.
+Wildcat Monk Medieval Outfit: Feral attire with animal motifs, a headband with a beastly emblem, a staff with animal carvings, and an untamed and fierce fighting style.
+Windstep Master Monk Medieval Outfit: Air-themed gi with wind symbols, a staff with swift maneuvers, and an agile and acrobatic fighting style.
+Zen Archer Monk Medieval Outfit: Mystic archer's attire, a quiver of arrows, a composite bow, and a focused and serene expression.
+Abendego Diver Ranger Medieval Outfit: Weatherproof diving suit, underwater goggles, sturdy boots, and a waterproof pouch.
+Battle Scout Ranger Medieval Outfit: Lightweight combat armor, camouflage cloak, utility belt, and a rugged hat.
+Beast Master Ranger Medieval Outfit: Animal-themed armor, animal hide cloak, leather gauntlets, and a beast symbol pendant.
+Blightwarden Ranger Medieval Outfit: Plague-resistant attire, toxin-resistant gloves, herbal pouch, and a gas mask.
+Bow Nomad Ranger Medieval Outfit: Nomadic garb, archery bracer, quiver, and a wide-brimmed hat.
+Cinderwalker Ranger Medieval Outfit: Fire-resistant armor, ember-proof cloak, fireproof gloves, and a heat-resistant headband.
+Code Runner Ranger Medieval Outfit: Technological armor, data pouch, utility belt, and cyber-enhanced goggles.
+Corpse Hunter Ranger Medieval Outfit: Undead-resistant armor, bone trinkets, holy symbols, and an occult hat.
+Dandy Ranger Medieval Outfit: Fashionable attire, walking cane, stylish hat, and a monogrammed handkerchief.
+Darklands Sailor Ranger Medieval Outfit: Seafarer's attire, anchor necklace, sailor's hat, and a compass pendant.
+Deep Walker Ranger Medieval Outfit: Deep sea gear, bioluminescent cloak, aquatic gloves, and an oceanic headband.
+Divine Tracker Ranger Medieval Outfit: Sacred attire, holy symbols, prayer beads, and a blessed headband.
+Dragon Hunter Ranger Medieval Outfit: Draconic armor, dragon scale cloak, dragon fang pendant, and a fierce-looking helmet.
+Drake Warden Ranger Medieval Outfit: Drake-themed armor, drake bone necklace, drake tooth dagger, and a drake scale headband.
+Dungeon Rover Ranger Medieval Outfit: Explorer's attire, adventurer's pack, map case, and a torch holder.
+Dusk Stalker Ranger Medieval Outfit: Shadowy attire, shadow cloak, dark gloves, and a shrouded hood.
+Elemental Envoy Ranger Medieval Outfit: Elemental-infused armor, elemental token necklace, and an elemental gemstone.
+Falconer Ranger Medieval Outfit: Falcon-themed armor, falcon feather cloak, leather gauntlets, and a falcon crest pendant.
+Flamewarden Ranger Medieval Outfit: Flame-resistant armor, fiery cloak, fireproof gloves, and a flame emblem pendant.
+Fortune-Finder Ranger Medieval Outfit: Fortune seeker's attire, divination trinkets, fortune-telling cards, and a lucky charm bracelet.
+Freebooter Ranger Medieval Outfit: Pirate's attire, treasure map, pirate hat, and a compass pendant.
+Galvanic Saboteur Ranger Medieval Outfit: Mechanized armor, gadget-filled utility belt, and electrically charged gloves.
+Groom Ranger Medieval Outfit: Elegant wedding suit, wedding ring, and a boutonniere.
+Guide Ranger Medieval Outfit: Outdoorsman's attire, map, hiking boots, and a wide-brimmed hat.
+Guildbreaker Ranger Medieval Outfit: Rebel attire, revolutionary armband, hidden blades, and a mysterious cloak.
+Hooded Champion Ranger Medieval Outfit: Vigilante attire, mask, hidden blades, and a mysterious cloak.
+Horse Lord Ranger Medieval Outfit: Equestrian attire, riding boots, horseshoe pendant, and a horse emblem on the hat.
+Ilsurian Archer Ranger Medieval Outfit: Traditional attire with elven motifs, elven longbow, and a quiver of elven arrows.
+Infiltrator Ranger Medieval Outfit: Stealthy attire, infiltration tools, and a hooded cloak.
+Jungle Lord Ranger Medieval Outfit: Jungle-themed armor, vine-wrapped cloak, tribal bracelets, and a headdress adorned with feathers.
+Lantern Lighter Ranger Medieval Outfit: Luminous armor, lantern-topped staff, and an aura of mystic light.
+Nirmathi Irregular Ranger Medieval Outfit: Resistance attire, freedom symbol pendant, rebel armband, and a rugged hat.
+Planar Scout Ranger Medieval Outfit: Planar traveler's attire, planar compass, dimensional pouch, and planar goggles.
+Poison Darter Ranger Medieval Outfit: Poison-themed armor, poison vials, venomous gauntlets, and a toxic symbol pendant.
+Raven Master Ranger Medieval Outfit: Corvid-themed armor, raven feather cloak, raven emblem on the chest, and a raven head hat.
+Realm Wanderer Ranger Medieval Outfit: Dimensional traveler's attire, traveler's staff, dimensional pouch, and a mystical headband.
+Sable Company Marine Ranger Medieval Outfit: Marine armor, marine cloak, anchor pendant, and a marine hat.
+Sentinel Ranger Medieval Outfit: Watchman's armor, vigilant cloak, watchman emblem on the chest, and a keen-looking helmet.
+Shapeshifter Ranger Medieval Outfit: Animalistic armor, shapeshifter cloak, druidic trinkets, and a beast symbol pendant.
+Skirmisher Ranger Medieval Outfit: Agile combat armor, skirmisher cloak, combat gauntlets, and a rugged headband.
+Spirit Ranger Ranger Medieval Outfit: Ethereal armor, spirit cloak, spiritual trinkets, and a ghostly headband.
+Stormwalker Ranger Medieval Outfit: Storm-themed armor, stormcloak, lightning-etched gauntlets, and a storm symbol pendant.
+Summit Sentinel Ranger Medieval Outfit: Alpine ranger's attire, ice axe, climbing gear, and a snowflake pendant.
+Sword-Devil Ranger Medieval Outfit: Duelist's attire, fencing rapier, dueling gauntlets, and a stylish hat.
+Tanglebriar Demonslayer Ranger Medieval Outfit: Fey-themed armor, nature trinkets, and a mystical headband.
+Tidal Hunter Ranger Medieval Outfit: Tidal-themed armor, tidal cloak, shell necklace, and a seashell hat.
+Toxic Herbalist Ranger Medieval Outfit: Poison-resistant attire, vials of herbal concoctions, and a gas mask.
+Toxophilite Ranger Medieval Outfit: Archery-themed armor, quiver, arrow bracer, and an archer's hat.
+Transporter Ranger Medieval Outfit: Carrier's attire, satchel, load-bearing gauntlets, and a rugged hat.
+Trapper Ranger Medieval Outfit: Trapper's attire, trapping tools, and a fur-lined cloak.
+Trophy Hunter Ranger Medieval Outfit: Safari-style attire, hunting trophies, and a wide-brimmed hat.
+Urban Ranger Ranger Medieval Outfit: Urban-themed armor, cityscape cloak, urban accessories, and a fashionable hat.
+Warden Ranger Medieval Outfit: Guardian's armor, protective cloak, symbol of protection, and a vigilant helmet.
+Wave Warden Ranger Medieval Outfit: Coastal-themed armor, wave cloak, seashell necklace, and a wave emblem pendant.
+Wild Hunter Ranger Medieval Outfit: Savage hunter's attire, tribal tokens, and a bone necklace.
+Wild Shadow Ranger Medieval Outfit: Shadow-themed armor, shadow cloak, dark gauntlets, and a mysterious mask.
+Wild Soul Ranger Medieval Outfit: Feral armor, primal symbols, and a nature spirit pendant.
+Wild Stalker Ranger Medieval Outfit: Nature-themed armor, hunter's cloak, animal tokens, and a primal headband.
+Wilderness Explorer Ranger Medieval Outfit: Adventurer's attire, explorer's hat, survival gear, and a map holder.
+Wilderness Medic Ranger Medieval Outfit: Healer's attire, medical pouch, first aid kit, and a caduceus pendant.
+Witchguard Ranger Medieval Outfit: Witchhunter's armor, talismanic symbols, witchbane charms, and a witch hunter's hat.
+Yokai Hunter Ranger Medieval Outfit: Yokai-themed armor, warding symbols, yokai talismans, and a demon-slaying headband.
+Aerochemist Alchemist Outfit: Sky-blue robe with swirling wind patterns, goggles with aetheric lenses, wind-kissed {cape|cloak}, and a flask-shaped wind chime.
+Alchemical Sapper Alchemist Outfit: Earth-toned engineer's jumpsuit, bomb-shaped satchel, explosive-wired gloves, and a detonator gauntlet.
+Alchemical Trapper Alchemist Outfit: Camouflaged tunic with hidden pouches, vine-wrapped boots, trap-making gauntlets, and a multi-pocketed hat.
+Aquachymist Alchemist Outfit: Seashell-adorned robe, water-filled vials in a coral bandolier, aquatic-themed staff, and a clamshell amulet.
+Beastmorph Alchemist Outfit: Feral fur {cape|cloak}, clawed gloves, animal-themed mask, and a belt with mutagenic vials.
+Blazing Torchbearer Alchemist Outfit: Flame-patterned robe, gauntlets with flickering embers, a molten lava amulet, and a staff adorned with a fiery phoenix.
+Blightseeker Alchemist Outfit: Tattered plague doctor's attire, a pestilence mask, vials of sickly green potions, and a bone staff with a skull topper.
+Blood Alchemist Outfit: Crimson-blooded armor, a vial-filled belt with life-enhancing potions, blood-drop earrings, and a dagger with a ruby pommel.
+Bogborn Alchemist Outfit: Swamp camouflage {cape|cloak}, moss-covered hat, vials of murky potions on a vine belt, and a staff topped with a willow branch.
+Bramble Brewer Alchemist Outfit: Thorn-covered tunic, potion-filled gourd, a vine-wrapped staff with thorny spikes, and leaf-shaped throwing knives.
+Chirurgeon Alchemist Outfit: Healer's robe adorned with alchemical symbols, a medical satchel with life-saving potions, a stethoscope-like divining rod, and a staff with a serpent motif.
+Clone Master Alchemist Outfit: Robe with alchemical sigils, a flask belt filled with clone vials, a staff topped with twin homunculus figures, and an ancient grimoire on cloning.
+Concocter Alchemist Outfit: Colorful alchemist's coat, potion-filled bandolier, potion-making gauntlets, and a mortar-and-pestle amulet.
+Construct Rider Alchemist Outfit: Mechanized armor with integrated gears, a helm with targeting visor, a steam-powered gauntlet, and a construct-controlling scepter.
+Crimson Chymist Alchemist Outfit: Blood-red robe with pulsating veins, a chalice amulet with a mysterious elixir, a crimson vial belt, and a staff with a blood-red crystal.
+Cruorchymist Alchemist Outfit: Dusky black {cape|cloak} with crimson embroidery, vials of blood-red poisons on a belt, a bone staff with poison-tipped fangs, and a skull mask.
+Crypt Breaker Alchemist Outfit: Undead-resistant armor with sigils, a relic-encrusted helm, a staff with an anti-undead crystal, and a pouch of purifying salts.
+Deep Bomber Alchemist Outfit: Deep-sea diving suit with explosive harpoon gauntlets, an anchor-shaped pendant, a staff topped with a bioluminescent crystal, and a belt with explosive charges.
+Dimensional Excavator Alchemist Outfit: Traveler's coat with dimensional symbols, a pocket watch amulet with time manipulation abilities, a dimensional key staff, and a bag of rift-opening powders.
+Dragonblood Chymist Alchemist Outfit: Dragon-scale armor with fiery patterns, a dragon talon necklace, dragon-themed gauntlets that produce dragon breath, and a staff with a dragon head topper.
+Ectochymist Alchemist Outfit: Ethereal robe with glowing runes, a spectral pendant with ghostly powers, ectoplasmic gloves, and a staff that channels ghostly energy.
+Ectoplasm Master Alchemist Outfit: Ghostly hooded {cape|cloak}, a vial belt filled with spectral ectoplasm, ectoplasmic gloves for ghost manipulation, and a staff with a floating ghostly orb.
+Eldritch Poisoner Alchemist Outfit: Shadowy robe with eldritch runes, a vial belt with mysterious poisons, a void-infused staff, and a gem amulet for channeling eldritch energy.
+Energist Alchemist Outfit: Energetic robe with pulsating symbols, a vial belt filled with potent energy potions, a staff that channels raw energy, and an amulet with energy manipulation abilities.
+Energy Scientist Alchemist Outfit: Scientist's lab coat with energy circuit patterns, a vial-filled belt with energy essences, energy manipulation gloves, and a staff with an energy containment core.
+Fermenter Alchemist Outfit: Brewmaster's robe with alchemical symbols, a beer tankard amulet, a brewer's staff with a fermentation barrel topper, and a pouch filled with brewing ingredients.
+Fire Bomber Alchemist Outfit: Fiery red alchemist's coat, a grenade belt with explosive vials, fire-imbued gloves, and a staff topped with a blazing flame.
+First World Innovator Alchemist Outfit: Whimsical robe with Fey motifs, a staff with a floating Fey orb, a charm bracelet with Fey trinkets, and a pouch with First World herbs.
+Gloom Chymist Alchemist Outfit: Shadowy robe with dark symbols, a vial belt with shadowy poisons, a staff with an ominous skull topper, and a black gem amulet.
+Grenadier Alchemist Outfit: War-ready alchemist's coat, a grenade bandolier, explosive gauntlets, and a staff with a grenade launcher mechanism.
+Gun Chemist Alchemist Outfit: Steampunk-style alchemist's coat, a bandolier with gunpowder vials, a pistol-shaped staff, and a gunsmith's toolkit.
+Herbalist Alchemist Outfit: Nature-themed robe with plant motifs, a herbalist's satchel with healing herbs, a staff adorned with herbs and flowers, and a leaf pendant.
+Homunculist Alchemist Outfit: Homunculus-inspired robe with animated symbols, a homunculus pendant, homunculus gloves for miniature allies, and a staff with a homunculus figure.
+Horticulturist Alchemist Outfit: Nature's gardener robe with flora motifs, a belt with gardening tools, a staff adorned with blooming flowers, and a pouch with seeds.
+Ice Chemist Alchemist Outfit: Frosty robe with icy runes, an ice shard amulet, icy gloves that shoot frozen projectiles, and a staff with an ice crystal topper.
+Inspired Chemist Alchemist Outfit: Artistic robe with painterly motifs, an alchemist's palette amulet, a staff topped with a creative muse, and a pouch with various artistic pigments.
+Internal Alchemist Outfit: Transmutation robe with alchemical circles, a flask belt filled with elixirs, a transmutation glove, and a staff with a philosopher's stone topper.
+Interrogator Alchemist Outfit: Sleuth's {cape|cloak} with secretive symbols, an interrogation toolkit belt, a staff with a truth-compelling crystal, and a lie-detecting pendant.
+Mad Scientist Alchemist Outfit: Chaotic robe with bizarre alchemical scribbles, a chaotic amulet, a staff with a lightning generator, and a bag of unpredictable concoctions.
+Metamorph Alchemist Outfit: Shapeshifter's robe with transformative patterns, a belt with morphing elixirs, a staff with a morphing creature topper, and a potion-filled vial necklace.
+Mindchemist Alchemist Outfit: Psychedelic robe with mind-altering symbols, a telepathic pendant, a staff with a crystal ball topper, and a pouch of mental-enhancing elixirs.
+Mixologist Alchemist Outfit: Fancy mixologist's coat with swirling alchemical brews, a cocktail shaker amulet, a staff topped with a mixology cup, and a satchel filled with diverse mixtures.
+Mnemostiller Alchemist Outfit: Memory suppressor's robe with forgetful patterns, a Mnemostiller amulet, a staff with a memory-erasing crystal, and a pouch of Mnemostiller vials.
+Oenopion Researcher Alchemist Outfit: Vineyard-inspired robe with wine motifs, a grape-cluster amulet, a staff with a wine chalice topper, and a pouch of aged elixirs.
+Oozemaster Alchemist Outfit: Ooze-themed robe with gooey patterns, a flask belt with ooze samples, ooze-controlling gloves, and a staff with a blob of goo.
+Perfumer Alchemist Outfit: Fragrance master's robe with scent motifs, a perfume vial necklace, a staff with a blossom topper, and a pouch with fragrant extracts.
+Plague Bringer Alchemist Outfit: Plague doctor's attire with biohazard symbols, a gas mask amulet, plague-containment gloves, and a staff with a toxic cloud topper.
+Preservationist Alchemist Outfit: Preserving robe with alchemical preservation symbols, a jar-shaped amulet with preservative powers, a staff with a preservation jar topper, and a pouch with preserving ingredients.
+Promethean Alchemist Outfit: Fiery robe with alchemical fire motifs, a flame amulet, a staff that channels Promethean fire, and a pouch of alchemical fire essences.
+Psychonaut Alchemist Outfit: Psychedelic robe with mind-altering symbols, a mind-expanding pendant, a staff with a kaleidoscope crystal, and a pouch of consciousness-enhancing elixirs.
+Ragechemist Alchemist Outfit: Frenzied alchemist's coat with volatile symbols, a berserker amulet, rage-infused gauntlets, and a staff with a roaring dragon head.
+Reanimator Alchemist Outfit: Necromantic robe with undead motifs, a reanimation amulet, a staff with a bone topper, and a pouch of alchemical resurrection elixirs.
+Royal Alchemist Outfit: Regal alchemist's coat with noble symbols, a crown-shaped amulet, a staff with a scepter topper, and a pouch of alchemical royal extracts.
+Saboteur Alchemist Outfit: Stealthy alchemist's coat with sabotage symbols, a sabotage toolkit belt, a staff with a hidden blade, and a pouch of alchemical sabotage vials.
+Sacrament Alchemist Outfit: Priestly robe with divine symbols, a sacred chalice amulet, a staff with a holy symbol topper, and a pouch of alchemical sacraments.
+Tinkerer Alchemist Outfit: Mechanized alchemist's coat with clockwork patterns, a tinkerer's toolkit belt, a staff with a gear topper, and a pouch of mechanical elixirs.
+Toxicant Alchemist Outfit: Hazardous alchemist's coat with toxic symbols, a toxic vial belt, toxic-controlling gloves, and a staff with a poisonous snake topper.
+Trap Breaker Alchemist Outfit: Mechanized alchemist's coat with trap symbols, a trap breaker toolkit belt, a staff with a trap-disarming mechanism, and a pouch of alchemical trap-breaker vials.
+Vaultbreaker Alchemist Outfit: Burglar's robe with safe-cracking motifs, a vaultbreaker toolkit belt, a staff with a lockpick topper, and a pouch of alchemical vault-breaker vials.
+Vivisectionist Alchemist Outfit: Lab coat adorned with alchemical anatomical symbols, a vivisection toolkit belt, a staff with a scalpel topper, and a pouch of alchemical vivisection extracts.
+Wasteland Blightbreaker Alchemist Outfit: Post-apocalyptic robe with wasteland motifs, a wasteland mask amulet, a staff with a gas mask topper, and a pouch with alchemical wasteland remedies.
+Winged Marauder Alchemist Outfit: Winged rogue's {cape|cloak} with aeronautical symbols, a winged amulet, aerial gloves with gliding capabilities, and a staff with a feathered wing topper.
+Beast Rider Knight Outfit: Sturdy rider's armor with beast motifs, a helmet with beastly horns, a lance with a beast carvings, and a beast-skin {cape|cloak}.
+Castellan Knight Outfit: Regal plate armor with castle-like accents, a crown-shaped helm, a castle tower shield, and a ceremonial castle key pendant.
+Charger Knight Outfit: Charger's plate armor with thunderbolt engravings, a helm with charging bull horns, a lance with lightning patterns, and a lightning emblem {cape|cloak}.
+Circuit Judge Knight Outfit: Judge's robe with circuitry patterns, a gavel-shaped mace, a helmet with scales of justice, and a pendant with a circuitry design.
+Constable Knight Outfit: Constable's armor with law enforcement insignia, a constable hat with a badge, a baton-like mace, and a satchel with enforcement tools.
+Courtly Knight Knight Outfit: Noble's armor with courtly patterns, a courtly helmet with plumes, a regal {sword|longsword|spear|lance|polearm|mace|axe|weapon} with gem-encrusted hilt, and a {cape|cloak} with a noble crest.
+Daring Champion Knight Outfit: Brave knight's armor with daring symbols, a helmet with daring wings, a lance with a daring banner, and a {cape|cloak} with a triumphant design.
+Daring General Knight Outfit: Commanding general's armor with military insignia, a helm with general's plumes, a strategic {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved tactics, and a {cape|cloak} with victorious emblems.
+Drakerider Knight Outfit: Dragon-themed rider's armor, a helmet with dragon visage, a dragon lance with fiery patterns, and a {cape|cloak} with dragon wings.
+Emissary Knight Outfit: Ambassador's armor with diplomatic patterns, a helm with ambassadorial feathers, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved peace symbols, and a {cape|cloak} with a symbol of unity.
+Esquire Knight Outfit: Aspiring knight's armor with symbols of knighthood, a helmet with aspirant feathers, a training {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a knightly emblem.
+Fell Rider Knight Outfit: Dark rider's armor with fell engravings, a horned helm, a fell lance with dark motifs, and a {cape|cloak} with a sinister emblem.
+First Mother's Fang Knight Outfit: Tribal armor with fang motifs, a mask with animal features, a fang-tipped spear, and a fur-trimmed {cape|cloak}.
+Gallant Knight Outfit: Gallant knight's armor with gallant symbols, a helm with gallant feathers, a chivalrous {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a gallant emblem {cape|cloak}.
+Gendarme Knight Outfit: Law-enforcing knight's armor with gendarme insignia, a gendarme hat with a badge, a truncheon-like mace, and a satchel with enforcement tools.
+Ghost Rider Knight Outfit: Ethereal rider's armor with ghostly patterns, a spectral helmet, a ghostly lance with haunting carvings, and a {cape|cloak} with a spectral motif.
+Green Knight Knight Outfit: Nature-themed knight's armor with verdant motifs, a helm adorned with leaves, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a blade like foliage, and a {cape|cloak} with nature's emblem.
+Herald Squire Knight Outfit: Heraldic armor with banners of knighthood, a herald's trumpet, a training {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with heraldic symbols.
+Honor Guard Knight Outfit: Guard's armor with honor symbols, a crested helmet, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with honor engravings, and a {cape|cloak} with a symbol of valor.
+Hooded Knight Knight Outfit: Mysterious knight's armor with hidden symbols, a hooded helmet, a shadowy {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a concealed emblem.
+Huntmaster Knight Outfit: Hunter's armor with animalistic symbols, a horned helm, a hunting spear, and a {cape|cloak} with animal pelts.
+Hussar Knight Outfit: Dashing cavalry armor with hussar motifs, a plumed hussar hat, a saber with ornate hilt, and a {cape|cloak} with a hussar emblem.
+Knight of Arnisant Knight Outfit: Sacred knight's armor with divine symbols, a helm with holy wings, a blessed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a sacred emblem.
+Luring Cavalier Knight Outfit: Charming knight's armor with alluring symbols, a cavalier hat with a mesmerizing feather, an enchanting rapier, and a {cape|cloak} with captivating designs.
+Musketeer Knight Outfit: Musketeer's attire with gunpowder symbols, a musketeer hat with a feather, a musket, and a satchel with gunpowder and musket balls.
+Oceanrider Knight Outfit: Ocean-themed rider's armor, a helmet with aquatic motifs, a trident lance, and a {cape|cloak} with waves and sea creatures.
+Qabarat Outrider Knight Outfit: Desert rider's armor with Qabarat symbols, a turbanned helmet, a Qabarat scimitar, and a {cape|cloak} with sand dune patterns.
+Qadiran Horselord Knight Outfit: Regal rider's armor with Qadiran symbols, a turbaned helm, a Qadiran scimitar, and a {cape|cloak} with swirling desert patterns.
+Saurian Champion Knight Outfit: Reptilian knight's armor with saurian scales, a helm with a saurian visage, a saurian-forged {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a saurian emblem.
+Sister-in-Arms Knight Outfit: Sister-in-arms armor with camaraderie symbols, a sister-in-arms helmet, a sister-in-arms {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with symbols of sisterhood.
+Spellscar Drifter Knight Outfit: Spellscarred knight's armor with arcane symbols, a hooded helmet with a magical glow, a spellscarred {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with swirling spellscar patterns.
+Standard Bearer Knight Outfit: Bannered armor with standards of knighthood, a standard bearer helmet with noble feathers, a standard bearer {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a noble crest.
+Strategist Knight Outfit: Tactical armor with strategic symbols, a helmet with visionary lenses, a strategist {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved tactics, and a {cape|cloak} with strategic emblems.
+Verdivant Knight Outfit: Verdant knight's armor with nature's blessings, a helm with flourishing leaves, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a verdant hilt, and a {cape|cloak} with nature's emblem.
+Vermin Tamer Knight Outfit: Vermin-controlling armor with vermin motifs, a helm with vermin antennae, a vermin tamer's whip, and a {cape|cloak} with vermin designs.
+Wave Rider Knight Outfit: Sea-themed rider's armor, a helmet with cresting wave motifs, a sea trident lance, and a {cape|cloak} with ocean currents.
+Asp Knight Outfit: Serpent-themed armor with asp motifs, a serpent helmet, a snake-etched {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with serpent scales.
+Beast Knight Outfit: Feral knight's armor with beastly symbols, a helm with bestial features, a clawed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a beast fur trim.
+Blossom Knight Outfit: Floral knight's armor with blooming patterns, a helm with blossoming flowers, a petal {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a floral motif.
+Blue Rose Knight Outfit: Enchanted armor with blue rose emblems, a helmet with a blue rose crest, a thorned {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with a blue rose pattern.
+Cockatrice Knight Outfit: Cockatrice-themed armor with avian motifs, a helm with a cockatrice visage, a feathered lance, and a {cape|cloak} with a cockatrice wing pattern.
+Dragon Knight Outfit: Dragon-themed armor with draconic symbols, a dragon helm with fearsome horns, a dragon-forged {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with dragon scales.
+Eastern Star Knight Outfit: Eastern knight's armor with celestial symbols, a starry helmet, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with eastern engravings, and a {cape|cloak} with celestial motifs.
+Eclipse Knight Outfit: Lunar knight's armor with eclipse symbols, a helm with an eclipsed moon, a dark {sword|longsword|spear|lance|polearm|mace|axe|weapon} with lunar engravings, and a {cape|cloak} with lunar phases.
+Eel Knight Outfit: Aquatic knight's armor with eel motifs, a helmet with eel-like features, an electrified {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with underwater currents.
+Ennead Star Knight Outfit: Celestial armor with nine-star symbols, a crown with nine-star ornaments, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with stellar engravings, and a {cape|cloak} with celestial patterns.
+First Law Knight Outfit: Lawful knight's armor with legal symbols, a helmet with a scale of justice, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved laws, and a {cape|cloak} with legal emblems.
+Flame Knight Outfit: Fiery knight's armor with blazing symbols, a helm with flames, a flaming {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with fiery patterns.
+Green Knight Outfit: Nature-themed knight's armor with verdant symbols, a helm adorned with leaves, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a verdant hilt, and a {cape|cloak} with nature's emblem.
+Guard Knight Outfit: Guard's armor with protective symbols, a crested helmet, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with engraved protection motifs, and a {cape|cloak} with a sentinel emblem.
+Hammer Knight Outfit: Mighty knight's armor with hammer symbols, a helmet with hammer-shaped ornaments, a war hammer, and a {cape|cloak} with anvil motifs.
+Hero Knight Outfit: Legendary knight's armor with heroic symbols, a helmet with a heroic crest, a heroic {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with legendary emblems.
+Land Knight Outfit: Earth-themed knight's armor with elemental motifs, a helm with earth patterns, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a stone hilt, and a {cape|cloak} with earthy designs.
+Lion Knight Outfit: Lion-themed knight's armor with regal symbols, a lion crest helm, a lion-hilted {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with lion motifs.
+Monument Knight Outfit: Monumental knight's armor with stone-like patterns, a helm with a monument visage, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with a monument hilt, and a {cape|cloak} with stone-carved designs.
+Paw Knight Outfit: Animal-themed knight's armor with paw motifs, a helmet with animal ears, a clawed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with animal fur trim.
+Penitent Knight Outfit: Penitent knight's armor with repentance symbols, a helm with a remorseful visage, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with repentant engravings, and a {cape|cloak} with symbols of redemption.
+Reins Knight Outfit: Equestrian armor with reins and bridle motifs, a helmet with a horseshoe crest, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with equestrian engravings, and a {cape|cloak} with horseshoe patterns.
+Saddle Knight Outfit: Rider's armor with saddle and stirrup symbols, a helm with equestrian accents, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with equestrian engravings, and a {cape|cloak} with saddle and stirrup patterns.
+Scales Knight Outfit: Scaled knight's armor with reptilian symbols, a serpent crest helm, a scaled {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with dragon scales.
+Seal Knight Outfit: Enchanted knight's armor with seal motifs, a helmet with a magical seal, a runed {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with mystic sigils.
+Shield Knight Outfit: Knight's armor with a prominent shield emblem, a helmet with a shield crest, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} and shield set, and a {cape|cloak} with a shield pattern.
+Shroud Knight Outfit: Veiled knight's armor with shrouded symbols, a helmet with a mysterious veil, a dark {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with shrouded motifs.
+Songbird Knight Outfit: Avian knight's armor with songbird motifs, a helmet with feathers and beak-like accents, a songbird {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with bird feathers.
+Staff Knight Outfit: Mage knight's armor with staff motifs, a helmet with a mage's staff ornament, a runed staff, and a {cape|cloak} with mystical patterns.
+Star Knight Outfit: Celestial knight's armor with starry symbols, a helm with twinkling stars, a radiant {sword|longsword|spear|lance|polearm|mace|axe|weapon} with star engravings, and a {cape|cloak} with celestial motifs.
+{sword|longsword|spear|lance|polearm|mace|axe|weapon} Knight Outfit: {sword|longsword|spear|lance|polearm|mace|axe|weapon}-themed knight's armor with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon}s, a helm with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon} ornaments, a dual-wielding {sword|longsword|spear|lance|polearm|mace|axe|weapon} set, and a {cape|cloak} with crossed {sword|longsword|spear|lance|polearm|mace|axe|weapon}s.
+Tome Knight Outfit: Scholarly knight's armor with tome motifs, a helm with a tome ornament, a magical tome, and a {cape|cloak} with ancient script patterns.
+Warrior Knight Outfit: Battle-worn armor with warrior symbols, a helmet with battle scars, a battle-worn {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with warrior emblems.
+Waves Knight Outfit: Aquatic knight's armor with wave motifs, a helm with crashing wave patterns, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} with water-themed engravings, and a {cape|cloak} with ocean waves.
+Whip Knight Outfit: Whip-themed knight's armor with whip motifs, a helmet with a coiled whip ornament, a whip, and a {cape|cloak} with whip patterns.
+Vengeance Knight Outfit: Vengeful knight's armor with symbols of retribution, a helmet with a wrathful visage, a {sword|longsword|spear|lance|polearm|mace|axe|weapon} of vengeance, and a {cape|cloak} with symbols of justice.
+Ronin Knight Outfit: Wandering knight's armor with nomadic symbols, a nomad helmet with a mask, a nomad {sword|longsword|spear|lance|polearm|mace|axe|weapon}, and a {cape|cloak} with nomadic patterns.
+Ancient Lorekeeper Oracle Outfit: Scholarly robes with ancient inscriptions, a headband with arcane symbols, a scroll of ancient knowledge, and a staff topped with a crystal orb.
+Black-Blooded Oracle Outfit: Dark robes with blood-like patterns, a hooded cowl, a vial of mysterious black liquid, and a staff with a skull motif.
+Community Guardian Oracle Outfit: Regal armor with community symbols, a helmet with guardian markings, a symbol of protection, and a staff with a communal emblem.
+Cyclopean Seer Oracle Outfit: Cyclopean attire with all-seeing eyes, a helmet with a single large eye, an ancient seer's tome, and a staff with an eye-shaped crystal.
+Divine Numerologist Oracle Outfit: Robes with sacred numerical symbols, a headdress with celestial numbers, a numerologist's tome, and a staff with numerical engravings.
+Dual-Cursed Oracle Outfit: Mysterious attire with dual curse symbols, a hooded cowl, a {talisman | tome | totem | scroll | tattoo } of dual-curse protection, and a staff with intertwining elements.
+Elementalist Oracle Outfit: Elemental robes representing all four elements, a circlet with elemental gems, an elemental {talisman | tome | totem | scroll | tattoo }, and a staff with elemental manifestations.
+Enlightened Philosopher Oracle Outfit: Philosophical robes with profound symbols, a headband with philosophical engravings, a tome of enlightenment, and a staff with a wise crystal.
+Hermit Oracle Outfit: Hermit's attire with symbols of isolation, a hooded cowl, a hermit's journal, and a staff with a wilderness emblem.
+Inerrant Voice Oracle Outfit: Regal robes with divine symbols, a headpiece with celestial aura, a divine tome, and a staff with a radiant crystal.
+Keleshite Prophet Oracle Outfit: Keleshite attire with prophetic symbols, a turban with sacred markings, a prophet's scroll, and a staff with sacred engravings.
+Ocean's Echo Oracle Outfit: Aquatic robes with oceanic symbols, a seashell tiara, a vial of ocean's essence, and a staff with a shimmering crystal.
+Pei Zin Practitioner Oracle Outfit: Pei Zin attire with healing symbols, a medicinal headband, a pouch of herbal remedies, and a staff with a healing crystal.
+Planar Oracle Outfit: Planar robes with celestial symbols, a headdress with planar motifs, a plane-shifting {talisman | tome | totem | scroll | tattoo }, and a staff with planar crystals.
+Possessed Oracle Outfit: Haunting attire with symbols of possession, a hooded cowl with ghostly motifs, a vessel of containment, and a staff with ethereal engravings.
+Psychic Searcher Oracle Outfit: Psychic robes with clairvoyant symbols, a headband with psychic gems, a psychic's crystal ball, and a staff with a crystal orb.
+Purifier Oracle Outfit: Purifying robes with cleansing symbols, a headdress with purification engravings, a vial of holy water, and a staff with a sacred crystal.
+Reincarnated Oracle Outfit: Enigmatic attire with symbols of rebirth, a hooded cowl, a totem of reincarnation, and a staff with mystical markings.
+River Soul Oracle Outfit: River-themed robes with flowing motifs, a headpiece with riverine symbols, a vial of blessed water, and a staff with a flowing crystal.
+Seer Oracle Outfit: Seer's robes with prophetic symbols, a headband with a mystical eye, a seer's crystal ball, and a staff with an all-seeing eye.
+Shigenjo Oracle Outfit: Shigenjo attire with ancestral symbols, a traditional headpiece, a sacred ancestral scroll, and a staff with a family emblem.
+Spirit Guide Oracle Outfit: Spirit-themed robes with ethereal symbols, a headdress with spirit motifs, a spirit guide's {talisman | tome | totem | scroll | tattoo }, and a staff with spirit engravings.
+Stargazer Oracle Outfit: Celestial robes with starry symbols, a headband with cosmic gemstones, a stargazer's telescope, and a staff with a celestial crystal.
+Tree Soul Oracle Outfit: Forest-themed robes with tree symbols, a leafy crown, a vial of sacred sap, and a staff with a wooden motif.
+Warsighted Oracle Outfit: Battle-worn armor with visions of war, a helm with battle scars, a warsighted {talisman | tome | totem | scroll | tattoo }, and a staff with war imagery.
+Ancestor Oracle Outfit: Ancestral robes with symbols of lineage, a headdress with ancestral markings, an ancestor's {talisman | tome | totem | scroll | tattoo }, and a staff with family engravings.
+Apocalypse Oracle Outfit: Apocalyptic robes with symbols of doom, a hooded cowl with cataclysmic imagery, an apocalyptic tome, and a staff with world-ending engravings.
+Ascetic Oracle Outfit: Ascetic attire with symbols of self-denial, a simple headband, an ascetic's scroll, and a staff with humble engravings.
+Battle Oracle Outfit: Battle-hardened armor with symbols of war, a helmet with battle scars, a battle oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with martial engravings.
+Bones Oracle Outfit: Bone-themed robes with skeletal symbols, a skull crown, a bone oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with bone engravings.
+Dark Tapestry Oracle Outfit: Cosmic robes with eldritch symbols, a headdress with cosmic patterns, a dark tapestry {talisman | tome | totem | scroll | tattoo }, and a staff with otherworldly engravings.
+Dragon Oracle Outfit: Dragon-themed armor with draconic symbols, a helm with dragon features, a dragon oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with dragon engravings.
+Elemental Oracle Outfit: Elemental robes representing all four elements, a circlet with elemental gems, an elemental {talisman | tome | totem | scroll | tattoo }, and a staff with elemental manifestations.
+Flame Oracle Outfit: Fiery robes with blazing symbols, a helmet with flames, a flame oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with fiery engravings.
+Godclaw Oracle Outfit: Divinely inspired armor with sacred symbols, a helmet with divine markings, a godclaw oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with divine engravings.
+Heavens Oracle Outfit: Celestial robes with starry symbols, a headband with cosmic gemstones, a heavens oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with a celestial crystal.
+Intrigue Oracle Outfit: Intriguing attire with enigmatic symbols, a hooded cowl, an intrigue oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with cryptic engravings.
+Juju Oracle Outfit: Tribal attire with voodoo symbols, a headdress adorned with feathers and bones, a juju oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with tribal engravings.
+Life Oracle Outfit: Life-giving robes with symbols of vitality, a crown with blooming flowers, a life oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with rejuvenating engravings.
+Lore Oracle Outfit: Scholarly robes with knowledge symbols, a headband with ancient script, a lore oracle's tome, and a staff with inscribed engravings.
+Lunar Oracle Outfit: Moonlit robes with lunar symbols, a crescent moon crown, a lunar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with moonlit engravings.
+Metal Oracle Outfit: Metallic robes with metalwork symbols, a helmet with forged accents, a metal oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with metallic engravings.
+Nature Oracle Outfit: Nature-themed robes with natural symbols, a crown of leaves and blossoms, a nature oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with botanical engravings.
+Occult Oracle Outfit: Occult robes with mysterious symbols, a headdress with esoteric engravings, an occult tome, and a staff with occult engravings.
+Outer Rifts Oracle Outfit: Cosmic robes with otherworldly symbols, a headpiece with extraplanar gemstones, an outer rifts {talisman | tome | totem | scroll | tattoo }, and a staff with interstellar engravings.
+Reaper Oracle Outfit: Reaper's attire with symbols of death, a hooded cowl with grim imagery, a reaper's scythe, and a staff with a deathly motif.
+Shadow Oracle Outfit: Shadowy robes with enigmatic symbols, a hooded cowl with darkness motifs, a shadow oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with shadowy engravings.
+Solar Oracle Outfit: Radiant robes with solar symbols, a crown with a blazing sun, a solar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with solar engravings.
+Spellscar Oracle Outfit: Spellscarred robes with arcane symbols, a headdress with spellscar motifs, a spellscar oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with unstable engravings.
+Stone Oracle Outfit: Stonework robes with earthy symbols, a helmet with stone motifs, a stone oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with stone engravings.
+Streets Oracle Outfit: Urban attire with symbols of the city, a hooded cowl with street motifs, a streets oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with citys{cape|cloak} engravings.
+Succor Oracle Outfit: Healer's robes with symbols of aid, a circlet with a healing gem, a succor oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with soothing engravings.
+Time Oracle Outfit: Time-themed robes with symbols of temporality, a headband with ancient clockwork, a time oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with temporal engravings.
+Volcano Oracle Outfit: Volcanic robes with symbols of eruption, a helmet with magma accents, a volcano oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with volcanic engravings.
+Waves Oracle Outfit: Oceanic robes with wave symbols, a headdress with aquatic motifs, a waves oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with aquatic engravings.
+Whimsy Oracle Outfit: Playful attire with whimsical symbols, a jester's hat, a whimsy oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with playful engravings.
+Wind Oracle Outfit: Air-themed robes with symbols of wind, a crown with swirling winds, a wind oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with airy engravings.
+Winter Oracle Outfit: Wintry robes with snowflake symbols, a crown adorned with icicles, a winter oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with frosty engravings.
+Wood Oracle Outfit: Nature-themed robes with wooden symbols, a crown with leafy branches, a wood oracle's {talisman | tome | totem | scroll | tattoo }, and a staff with wooden engravings.
+Armored Battlemage Outfit: Heavy plate armor with enchanted runes, a war helm with glowing eyes, a battle-worn tome, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} topped with a gemstone.
+Beastblade Battlemage Outfit: Beast-themed battle armor with claw marks, a helmet with beastly visage, a roaring amulet, and a {rapier|sword|dagger|weapon} adorned with fangs.
+Bladebound Battlemage Outfit: Shadowy attire with arcane symbols, a dark hooded cloak, a bound sentient blade, and a {rapier|sword|dagger|weapon} with shadowy engravings.
+Card Caster Battlemage Outfit: Dapper attire with arcane cards, a top hat with magic cards, a deck of spell cards, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with cards.
+Deep Marshal Battlemage Outfit: Underwater-themed armor with aquatic symbols, a helmet with coral motifs, a conch shell amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with oceanic engravings.
+Eldritch Archer Battlemage Outfit: Mystic archer's attire with enchanted arrows, a hooded cloak with eldritch patterns, an enchanted quiver, and a bow.
+Eldritch Scion Battlemage Outfit: Arcane warrior's armor with flowing runes, a helm with arcane markings, a bloodstone amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with mystical engravings.
+Elemental Knight Battlemage Outfit: Elemental-infused armor representing all four elements, a helmet with elemental gemstones, a {talisman | scroll | cape | cloak | gemstone | buckler | tattoo } of elemental power, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with elemental engravings.
+Esoteric Battlemage Outfit: Mystical robes with esoteric symbols, a headdress with arcane engravings, a crystal amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with cryptic engravings.
+Fiend Flayer Battlemage Outfit: Fiery armor with demonic symbols, a helmet with demonic horns, a fiendish {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with hellish engravings.
+Greensting Slayer Battlemage Outfit: Woodland armor with symbols of nature's wrath, a helm with insect-like motifs, a greensting amulet, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with insect engravings.
+Hexbreaker Battlemage Outfit: Hex-breaking attire with protective symbols, a hooded cowl with warding runes, a {talisman | scroll | cape | cloak | gemstone | buckler | tattoo } of hex-breaking, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with dispelling engravings.
+Hexcrafter Battlemage Outfit: Mysterious robes with hex-related symbols, a headdress with arcane hexes, a hexcrafter's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with mystical runes.
+Iron-Ring Striker Battlemage Outfit: Sturdy armor with iron rings, a helmet with iron accents, an iron-ring {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with iron engravings.
+Jistkan Artificer Battlemage Outfit: Jistka-themed armor with ancient symbols, a helm with Jistkan patterns, an artificer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with Jistka runes.
+Kapenia Dancer Battlemage Outfit: Dancer's attire with swirling patterns, a headband with kapenia jewels, a kapenia dancer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with intricate dance engravings.
+Kensai Battlemage Outfit: Samurai-inspired armor with elegant symbols, a traditional headband, a kensai's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with traditional engravings.
+Magic Warrior Battlemage Outfit: Warrior's attire with magical symbols, a helmet with glowing runes, a warrior's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with warrior engravings.
+Mindblade Battlemage Outfit: Psionic armor with mental symbols, a helmet with psychic patterns, a mindblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with psionic engravings.
+Myrmidarch Battlemage Outfit: Archer's attire with enchanted arrows, a hooded cloak with mystical patterns, an enchanted quiver, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} bow.
+Nature-Bonded Battlemage Outfit: Nature-themed armor with symbols of druidic connection, a helm with nature patterns, a nature-bonded {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with natural engravings.
+Puppetmaster Battlemage Outfit: Puppeteer's attire with animated strings, a marionette crown, a puppetmaster's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with puppet strings.
+Sigilus Battlemage Outfit: Arcane robes with sigil symbols, a headdress with runic engravings, a sigilus {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with ancient runes.
+Skirnir Battlemage Outfit: Viking-inspired armor with Nordic symbols, a horned helmet, a skirnir's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon|axe} with Norse engravings.
+Sorrowblade Battlemage Outfit: Mourning attire with sorrowful symbols, a hooded cowl with mourning patterns, a sorrowblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|weapon} with lamenting engravings.
+Soul Forger Battlemage Outfit: Smithing attire with mystical runes, a smith's crown, a soul forger's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} adorned with arcane tools.
+Spell Dancer Battlemage Outfit: Enchanted attire with swirling symbols, a headband with spell dancer jewels, a spell dancer's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with dance engravings.
+Spell Trapper Battlemage Outfit: Trapper's armor with enchanted traps, a helm with trap markings, a spell trapper's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with trap engravings.
+Spellblade Battlemage Outfit: Mage-knight armor with magical symbols, a helm with arcane runes, a spellblade {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with enchanted engravings.
+Spire Defender Battlemage Outfit: Tower-guardian armor with fortress symbols, a helm with spire patterns, a spire defender's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a {staff|rapier|sword|dagger|whip|polearm|bow|weapon} with tower engravings.
+Staff Battlemage Outfit: Mystic robes with staff symbols, a headdress with a crystal gem, a staff battlemage's {talisman | scroll | cape | cloak | gemstone | buckler | tattoo }, and a staff adorned with intricate runes.
+Blood God Disciple Summoner Outfit: Ritualistic robes with blood symbols, a bone crown with dark energy, a sacrificial dagger, and a {staff|cloak|weapon|scepter} adorned with sinister runes.
+Blood Summoner Outfit: Crimson robes with arcane runes, a blood-red headband, a vial of blood essence, and a {staff|cloak|weapon|scepter} with blood droplet engravings.
+Broodmaster Summoner Outfit: Insect-themed attire with chitinous symbols, a helm with insectoid features, an insectoid {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with insect engravings.
+Counter-Summoner Outfit: Defensive attire with protective symbols, a hooded cloak with counter-magic runes, a counter-summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with warding engravings.
+Evolutionist Summoner Outfit: Evolving robes with ever-changing patterns, a morphing crown, an evolutionist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with evolving engravings.
+First Worlder Summoner Outfit: Fey-inspired attire with otherworldly symbols, a crown with ethereal gems, a first worlder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with fae engravings.
+God Caller Summoner Outfit: Divine robes with celestial symbols, a divine headdress with a divine gem, a god caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with divine engravings.
+Leshy Caller Summoner Outfit: Nature-themed attire with leshy symbols, a helm with leshy motifs, a leshy caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with nature engravings.
+Master Summoner Outfit: Regal robes with arcane symbols, a crown with magical gemstones, a master summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with mystical engravings.
+Morphic Savant Summoner Outfit: Shapeshifter's attire with changing symbols, a headdress with morphing runes, a morphic savant's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with transformative engravings.
+Naturalist Summoner Outfit: Nature-themed robes with natural symbols, a helm with botanical patterns, a naturalist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with nature-inspired engravings.
+Pyroclast Summoner Outfit: Flame-inspired attire with fiery symbols, a fire crown with burning embers, a pyroclast {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with flame engravings.
+Shadow Caller Summoner Outfit: Shadowy robes with dark runes, a hooded cowl with shadow motifs, a shadow caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with shadow engravings.
+Shaitan Binder Summoner Outfit: Earth-themed attire with elemental symbols, a helm with shaitan motifs, a shaitan binder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with earth engravings.
+Spirit Summoner Outfit: Ethereal robes with spectral symbols, a spirit headdress with ghostly elements, a spirit summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with spectral engravings.
+Storm Caller Summoner Outfit: Storm-themed robes with lightning symbols, a storm crown with crackling energy, a storm caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with lightning engravings.
+Story Summoner Outfit: Robes adorned with intricate tales, a book-shaped crown with mystic scripts, a story summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with storytelling engravings.
+Synthesist Summoner Outfit: Fusion-themed attire with mystical symbols, a helmet with blended elements, a synthesist's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with amalgamated engravings.
+Twinned Summoner Outfit: Mirrored robes with twinned symbols, a headband with dual crystals, a twinned summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with paired engravings.
+Unwavering Conduit Summoner Outfit: Enchanted robes with flowing symbols, a crown with channeling gemstones, an unwavering conduit's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with flowing engravings.
+Wild Caller Summoner Outfit: Nature-bound attire with primal symbols, a helm with untamed foliage, a wild caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with natural engravings.
+Aberrant Summoner Outfit: Anomalous robes with cosmic symbols, a headdress with eldritch energy, an aberrant {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with cosmic engravings.
+Aeon Summoner Outfit: Time-themed attire with temporal symbols, a helm with aeonic patterns, an aeon summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with temporal engravings.
+Agathion Summoner Outfit: Angelic attire with celestial symbols, a halo with divine light, an agathion {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with angelic engravings.
+Ancestor Summoner Outfit: Ancestral robes with ancient symbols, a headdress with ancestral markings, an ancestor summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with ancestral engravings.
+Angel Summoner Outfit: Celestial robes with divine symbols, a halo with radiant light, an angel summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with angelic engravings.
+Archon Summoner Outfit: Archonic attire with otherworldly symbols, a crown with radiant gems, an archon summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with ethereal engravings.
+Astral Summoner Outfit: Cosmic robes with starry symbols, a helmet with astral patterns, an astral summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with celestial engravings.
+Azata Summoner Outfit: Fey-inspired attire with ethereal symbols, a crown with fae gemstones, an azata summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with fae engravings.
+Daemon Summoner Outfit: Infernal robes with infernal symbols, a horned crown with malevolent energy, a daemon {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with hellish engravings.
+Deepwater Summoner Outfit: Aquatic attire with oceanic symbols, a helmet with deepwater patterns, a deepwater summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with aquatic engravings.
+Demon Summoner Outfit: Fiery robes with demonic symbols, a horned crown with infernal energy, a demon {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with hellish engravings.
+Devil Summoner Outfit: Infernal attire with devilish symbols, a horned crown with sinister energy, a devil {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with infernal engravings.
+Div Summoner Outfit: Divine robes with celestial symbols, a divine crown with radiant gems, a div summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with divine engravings.
+Elemental Summoner Outfit: Elemental-themed robes with elemental symbols, a helm with elemental gemstones, an elemental summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with elemental engravings.
+Genie Summoner Outfit: Exotic attire with genial symbols, a crown with mystical gems, a genie summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with genial engravings.
+Inevitable Summoner Outfit: Mechanical robes with clockwork symbols, a helm with gears and cogs, an inevitable summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with mechanized engravings.
+Kami Summoner Outfit: Nature-bound attire with kami symbols, a helmet with kami patterns, a kami summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with nature engravings.
+Kyton Summoner Outfit: Infernal robes with kyton symbols, a crown with chains and barbs, a kyton summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with barbed engravings.
+Plant Summoner Outfit: Flora-themed attire with botanical symbols, a helm with plant motifs, a plant summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with plant engravings.
+Protean Summoner Outfit: Chaos-inspired robes with ever-changing symbols, a headdress with protean runes, a protean summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with chaotic engravings.
+Psychopomp Summoner Outfit: Ethereal robes with psychopomp symbols, a headdress with spectral energy, a psychopomp summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with spectral engravings.
+Radiant Summoner Outfit: Celestial attire with radiant symbols, a crown with divine light, a radiant summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with celestial engravings.
+Shadow Summoner Outfit: Shadowy robes with dark runes, a hooded cloak with shadow motifs, a shadow summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with shadow engravings.
+Storykin Summoner Outfit: Robes adorned with mystic tales, a book-shaped crown with ancient scripts, a storykin summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with storytelling engravings.
+Twinned Summoner Outfit: Mirrored robes with twinned symbols, a headband with dual crystals, a twinned summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} with paired engravings.
+Void Summoner Outfit: Abyssal robes with void symbols, a crown with cosmic energy, a void summoner's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with abyssal engravings.
+Construct Caller Summoner Outfit: Mechanized attire with constructs symbols, a helm with mechanical elements, a construct caller's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with construct engravings.
+Devil Binder Summoner Outfit: Infernal robes with devilish symbols, a horned crown with infernal energy, a devil binder's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with infernal engravings.
+Devil Impostor Summoner Outfit: Deceptive attire with devilish symbols, a horned crown with illusory flames, a devil impostor's {talisman|tome|scroll|gemstone|tattoo|idol|totem}, and a {staff|cloak|weapon|scepter} adorned with illusory engravings.
+Alley Witch Outfit: Tattered cloak with mysterious symbols, a hood with shadowy accents, fingerless gloves adorned with charms, and a satchel with hidden potion vials.
+Ashiftah Witch Outfit: Flowing robes with shifting patterns, a turban with mystical gemstones, an amulet of cosmic symbols, and a crystal orb.
+Beast-Bonded Witch Outfit: Nature-inspired attire with beast symbols, a circlet with animal totems, a pendant with a beast charm, and a gnarled wooden {staff|wand}.
+Bonded Witch Outfit: Flowing robes with mystic symbols, a headband with enchanted crystals, a magical scroll satchel, and a crystal-tipped {staff|wand}.
+Bouda Witch Outfit: Shamanic attire with primal symbols, a bone necklace with animal fangs, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with spirit {runes|motifs|details|engravings}, and a bone {staff|wand}.
+Cartomancer Witch Outfit: Divination robes with celestial symbols, a fortune-teller's headscarf, a deck of enchanted tarot cards, and a crystal orb.
+Coral Witch Outfit: Oceanic robes with coral patterns, a seashell crown with enchantments, an aquatic {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a coral-tipped {staff|wand}.
+Demon-Sworn Witch Outfit: Dark robes with infernal symbols, a horned crown with demonic energy, a demon {talisman|amulet|orb|satchel|cauldron|charm|vial}, and an abyssal {staff|wand}.
+Dimensional Occultist Witch Outfit: Interdimensional robes with arcane symbols, a hood with dimensional patterns, a dimensional {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a {staff|wand} adorned with planar engravings.
+Dreamweaver Witch Outfit: Mystic attire with dream motifs, a dreamcatcher crown, an amulet with dream symbols, and a dream-infused {staff|wand}.
+Flood Walker Witch Outfit: Water-themed attire with aquatic symbols, a water crown with flowing patterns, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with water {runes|motifs|details|engravings}, and a {staff|wand} with watery engravings.
+Gingerbread Witch Outfit: Sweet-themed attire with gingerbread patterns, a gingerbread crown with sugary gems, a candy {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a gingerbread {staff|wand}.
+Gravewalker Witch Outfit: Dark robes with spectral symbols, a hooded cloak with ghostly accents, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with necromantic {runes|motifs|details|engravings}, and a bone {staff|wand}.
+Hag of Gyronna Witch Outfit: Worn robes with cursed symbols, a crown with sinister energy, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with vengeful {runes|motifs|details|engravings}, and a gnarled wooden {staff|wand}.
+Hagbound Witch Outfit: Tattered attire with mystical symbols, a headband with witchcraft charms, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with dark enchantments, and a bone {staff|wand}.
+Havocker Witch Outfit: Chaotic robes with unstable symbols, a crown with crackling energy, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with chaotic {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Hedge Witch Outfit: Earthy attire with natural symbols, a headband with herbal charms, a satchel with enchanted herbs, and a gnarled wooden {staff|wand}.
+Herb Witch Outfit: Botanical attire with herbal symbols, a crown with enchanting flowers, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with nature {runes|motifs|details|engravings}, and a herb-infused {staff|wand}.
+Hex Channeler Witch Outfit: Hex-themed attire with arcane symbols, a crown with hexing gems, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with hex {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Invoker Witch Outfit: Robes adorned with celestial symbols, a headband with celestial crystals, an invoker's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Jinx Witch Outfit: Mischievous attire with jinx symbols, a jester's cap with playful charms, a jinx {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a jesting {staff|wand}.
+Ley Line Guardian Witch Outfit: Robes adorned with ley line symbols, a crown with arcane crystals, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with ley line {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Medium Witch Outfit: Spirit-themed attire with ethereal symbols, a headband with spectral gems, a medium's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Mirror Witch Outfit: Reflective robes with arcane symbols, a mirrored crown with enchanting patterns, a mirror {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Mountain Witch Outfit: Earth-themed attire with mountain symbols, a crown with rocky gems, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with earth {runes|motifs|details|engravings}, and a stone {staff|wand}.
+Nexian Spellspy Witch Outfit: Esoteric robes with nexian symbols, a hood with mystic patterns, a spellspy {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Pact Witch Outfit: Infernal attire with pact symbols, a horned crown with infernal energy, a pact {talisman|amulet|orb|satchel|cauldron|charm|vial}, and an infernal {staff|wand}.
+Putrefactor Witch Outfit: Dark robes with decay symbols, a hooded cloak with morbid accents, a putrefactor {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a bone {staff|wand}.
+Rhetorician Witch Outfit: Scholarly attire with arcane symbols, a headband with intricate scrolls, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with mystical {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Scarred Witch Doctor Witch Outfit: Shamanic attire with ritual scars, a bone headdress with tribal marks, a witch doctor {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a bone {staff|wand}.
+Sea Witch Outfit: Ocean-inspired attire with maritime symbols, a crown with seafoam gems, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with water {runes|motifs|details|engravings}, and a coral-tipped {staff|wand}.
+Season Witch Outfit: Nature-themed attire with seasonal symbols, a crown with everchanging foliage, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with seasonal {runes|motifs|details|engravings}, and a wooden {staff|wand}.
+Seducer Witch Outfit: Alluring attire with enchanting symbols, a captivating headpiece with seductive charms, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with beguiling {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Synergist Witch Outfit: Harmonious robes with mystical symbols, a crown with intertwined crystals, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with harmony {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Tatterdemalion Witch Outfit: Tattered attire with arcane symbols, a patched hood with magical {runes|motifs|details|engravings}, a tatterdemalion {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Vellemancer Witch Outfit: Wind-themed attire with vellemancer symbols, a crown with swirling winds, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with wind {runes|motifs|details|engravings}, and a crystal-tipped {staff|wand}.
+Veneficus Witch Outfit: Poisonous attire with toxic symbols, a crown with venomous gems, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with poison {runes|motifs|details|engravings}, and a serpent {staff|wand}.
+Venom Siphoner Witch Outfit: Viper-themed attire with venom symbols, a snake headdress with enchantments, a venom {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a serpent {staff|wand}.
+White-Haired Witch Outfit: Enigmatic robes with spectral symbols, a white-haired hood with ethereal energy, a witch's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Winter Witch Outfit: Frost-themed attire with wintry symbols, an icy crown with enchantments, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with frost {runes|motifs|details|engravings}, and an ice {staff|wand}.
+Witch-Watcher Witch Outfit: Robes adorned with mystical symbols, a witch's hat with all-seeing eyes, a watcher's {talisman|amulet|orb|satchel|cauldron|charm|vial}, and a crystal-tipped {staff|wand}.
+Wyrm Witch Outfit: Dragon-themed attire with wyrm symbols, a crown with draconic energy, a {talisman|amulet|orb|satchel|cauldron|charm|vial} with dragon {runes|motifs|details|engravings}, and a dragon {staff|wand}.
+Black Powder Vaulter Gunslinger Outfit: Weathered coat with bullet holes, a bandolier with ammo pouches, fingerless gloves, and a sturdy boots.
+Blatherskite Gunslinger Outfit: Outlandish coat with colorful patches, a {wide-brimmed|marksman|stylish| } hat, a bandolier with various trinkets, and boots with jingling spurs.
+Bolt Ace Gunslinger Outfit: Sleek duster with rune engravings, a belt with crossbow bolt holsters, fingerless gloves, and stylish boots.
+Buccaneer Gunslinger Outfit: Pirate-inspired coat with swashbuckling motifs, a tricorn hat with feather accents, a sash with pistol holsters, and sturdy boots.
+Bushwhacker Gunslinger Outfit: Camouflage jacket with foliage patterns, a {wide-brimmed|marksman|stylish| } hat, a belt with gun holsters, and boots suitable for stealth.
+Commando Gunslinger Outfit: Tactical vest with pouches, a combat helmet, knee pads, and combat boots.
+Experimental Gunsmith Gunslinger Outfit: Lab coat with alchemical symbols, safety goggles, fingerless gloves, and sturdy boots.
+Firebrand Gunslinger Outfit: Fiery coat with flame motifs, a bandolier with molotov cocktails, fingerless gloves, and boots resistant to fire.
+Graveslinger Gunslinger Outfit: Grim trench coat with skull motifs, a {wide-brimmed|marksman|stylish| } hat with a grim reaper emblem, a belt with gun holsters, and sturdy boots.
+Gulch Gunner Gunslinger Outfit: Weathered poncho with desert accents, a {wide-brimmed|marksman|stylish| } hat, a bandolier with gun holsters, and sturdy boots.
+Gun Scavenger Gunslinger Outfit: Patchwork coat with salvageable parts, a scrap metal hat, a bandolier with ammo pouches, and boots perfect for traversing scrap heaps.
+Gun Tank Gunslinger Outfit: Armored vest with reinforced plates, a combat helmet with a targeting visor, fingerless gloves, and sturdy combat boots.
+Gunner Squire Gunslinger Outfit: Noble attire with gunsmith symbols, a squire's hat, a belt with pistol holsters, and polished boots.
+Maverick Gunslinger Outfit: Iconic duster with a flair, a {wide-brimmed|marksman|stylish| } hat, a belt with gun holsters, and boots with spurs.
+Musket Master Gunslinger Outfit: Elegant long coat with ornate engravings, a tricorn hat, a bandolier with musket shot, and polished boots.
+Mysterious Stranger Gunslinger Outfit: Mystifying cloak with arcane symbols, a {wide-brimmed|marksman|stylish| } hat with an enigmatic aura, a bandolier with gun holsters, and boots shrouded in mystery.
+Pistolero Gunslinger Outfit: Flamboyant coat with bold gunfighter designs, a {wide-brimmed|marksman|stylish| } hat with a decorative band, a belt with pistol holsters, and boots fit for dueling.
+Planar Rifter Gunslinger Outfit: Interdimensional coat with mysterious symbols, a portal-themed hat, a bandolier with rune-inscribed bullets, and boots capable of crossing planes.
+Scatter Gunner Gunslinger Outfit: Scattergun-themed vest with shotgun shell motifs, a combat helmet with a targeting visor, fingerless gloves, and sturdy combat boots.
+Siege Gunner Gunslinger Outfit: Heavy coat with cannon motifs, a metal helmet with rivets, a bandolier with cannonballs, and reinforced boots.
+Techslinger Gunslinger Outfit: Technomantic duster with gear motifs, goggles with embedded tech, a utility belt with gadgets, and boots designed for tech exploration.
+Thronewarden Gunslinger Outfit: Regal coat with noble symbols, a crown-like hat with a family crest, a belt with pistol holsters, and polished boots.
+Wyrm Sniper Gunslinger Outfit: Dragon-themed attire with wyrm symbols, a dragon-scale hat, a bandolier with rune-engraved bullets, and a dragon-clawed staff.
+Natural Kineticist Outfit: Earth-toned robes with nature motifs, a leaf-adorned headband, bracers with vine patterns, and sturdy boots.
+Aquakineticist Outfit: Aqua-themed attire with water symbols, a seashell necklace, bracers with wave patterns, and water-resistant boots.
+Arakineticist Outfit: Desert-inspired cloak with sand patterns, a sandstorm hood, bracers with rune engravings, and sand-resistant boots.
+Blightburner Kineticist Outfit: Scorched robes with fire motifs, a fire-emblem headband, bracers with ember engravings, and heat-resistant boots.
+Blighted Defiler Kineticist Outfit: Tainted cloak with dark energy, a corrupted crown, bracers with forbidden runes, and shadow-touched boots.
+Blood Kineticist Outfit: Blood-stained robes with crimson patterns, a blood talisman, bracers with blood runes, and boots perfect for blood manipulation.
+Cinderlands Adept Kineticist Outfit: Fiery attire with cinder patterns, a burning crown, bracers with flame engravings, and heat-resistant boots.
+Dark Elementalist Kineticist Outfit: Shadowy cloak with mysterious symbols, a dark hood, bracers with rune engravings, and shadow-touched boots.
+Elemental Annihilator Kineticist Outfit: Elemental-themed attire with destructive symbols, a crown with elemental runes, bracers with elemental engravings, and sturdy boots.
+Elemental Ascetic Kineticist Outfit: Serene robes with elemental symbols, a peaceful headband, bracers with rune engravings, and comfortable boots.
+Elemental Purist Kineticist Outfit: Purified attire with pristine symbols, a serene headband, bracers with rune engravings, and comfortable boots.
+Elysiokineticist Outfit: Celestial robes with ethereal symbols, a starry crown, bracers with cosmic runes, and boots that shine like the night sky.
+Ioun Kineticist Outfit: Ioun-infused robes with mystic patterns, a floating ioun stone, bracers with rune engravings, and boots with ioun-like glimmers.
+Kinetic Chirurgeon Kineticist Outfit: Healer's attire with alchemical symbols, a headband with healing crystals, bracers with rune engravings, and comfortable boots.
+Kinetic Knight Kineticist Outfit: Armored vest with kinetic symbols, a sturdy helmet, bracers with rune engravings, and combat boots.
+Leshykineticist Outfit: Nature-themed attire with leshy symbols, a crown with natural elements, bracers with vine engravings, and sturdy boots.
+Overwhelming Soul Kineticist Outfit: Soul-infused robes with ethereal symbols, a soul talisman, bracers with soul runes, and boots connected to the afterlife.
+Psammokinetic Kineticist Outfit: Desert-themed cloak with sand motifs, a sandstorm hood, bracers with rune engravings, and sand-resistant boots.
+Psychokineticist Outfit: Mind-themed attire with psychic symbols, a crystal crown with psychic energy, bracers with rune engravings, and comfortable boots.
+Terrakineticist Outfit: Earth-toned robes with terrakinetic symbols, a crown with earth elemental motifs, bracers with rune engravings, and sturdy boots.

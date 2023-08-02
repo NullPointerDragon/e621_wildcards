@@ -1,0 +1,97 @@
+Casual Male Outfit: Blue Polo Shirt, Khaki Shorts, White Sneakers
+Business Male Outfit: Gray Suit Jacket, Navy Blue Tie, White Dress Shirt, Charcoal Gray Dress Pants
+Athletic Male Outfit: Sleeveless Tank Top, Track Pants, Running Shoes
+Party-Ready Male Outfit: Leather Jacket, Graphic T-shirt, Distressed Jeans, Boots
+Beach Male Outfit: Hawaiian Shirt, Swim Shorts, Flip Flops
+Formal Male Outfit: Tailored Tuxedo, Bow Tie, Dress Shoes
+Winter Male Outfit: Cable Knit Sweater, Wool Peacoat, Dark Wash Jeans, Winter Boots
+Vintage Male Outfit: Retro Bowling Shirt, High-Waisted Jeans, Classic Sneakers
+Hipster Male Outfit: Plaid Flannel Shirt, Beanie Hat, Skinny Jeans, Retro Sneakers
+Chic Male Outfit: Tailored Blazer, Crisp White Shirt, Slim-fit Chinos, Loafers
+Relaxed Male Outfit: Graphic Print T-shirt, Jogger Pants, Slip-on Sneakers
+Urban Male Outfit: Leather Biker Jacket, Distressed Skinny Jeans, Chelsea Boots
+Preppy Male Outfit: V-neck Sweater, Button-down Oxford Shirt, Chinos, Penny Loafers
+Edgy Male Outfit: Black Hoodie, Moto Jeans, Combat Boots, Snapback Cap
+Classic Male Outfit: Navy Blazer, White Dress Shirt, Gray Dress Pants, Brogues
+Boho Male Outfit: Linen Shirt, Cropped Trousers, Espadrilles, Fedora Hat
+Casual Streetwear Male Outfit: Graphic Hoodie, Cargo Pants, High-top Sneakers
+Modern Business Male Outfit: Navy Suit, Light Blue Dress Shirt, Brown Oxford Shoes
+Sporty Male Outfit: Zip-up Track Jacket, Track Pants, Running Shoes
+Effortlessly Cool Male Outfit: Denim Shirt, Black Jeans, White Low-top Sneakers
+Casual Bohemian Male Outfit: Linen Button-up Shirt, Khaki Shorts, Leather Sandals
+Modern Dapper Male Outfit: Checked Suit, Brown Monk Strap Shoes, Pocket Square
+Casual Smart Male Outfit: Sweater Vest, Crisp Shirt, Chinos, Loafers
+Artsy Male Outfit: Graphic Art T-shirt, Painter's Overalls, Canvas Slip-on Shoes
+Casual Athleisure Male Outfit: Hoodie, Joggers, Athletic Sneakers
+Business Casual Male Outfit: Sweater, Dress Pants, Leather Loafers
+Romantic Male Outfit: Linen Shirt, Tailored Shorts, Boat Shoes
+Grunge Male Outfit: Flannel Shirt, Distressed Denim Shorts, Combat Boots
+Modern Preppy Male Outfit: Polo Shirt, Bermuda Shorts, Boat Shoes
+Laid-back City Male Outfit: Henley Shirt, Cargo Shorts, Slip-on Espadrilles
+Weekend Gardener Male Outfit: Plaid Button-up Shirt, Denim Overalls, Work Boots
+Casual Dog Walker Male Outfit: Baseball Cap, T-shirt, Athletic Shorts, Sneakers
+Barbecue Party Host Male Outfit: Button-up Shirt, Shorts, Leather Sandals
+Neighborhood Block Party Male Outfit: Hawaiian Shirt, Linen Shorts, Boat Shoes
+Athlete Male Outfit: Sporty Tank Top, Athletic Shorts, Compression Socks, Running Shoes
+Book Club Male Outfit: Cardigan, Button-up Shirt, Corduroy Pants, Loafers
+Jogger Male Outfit: Moisture-wicking T-shirt, Running Shorts, Performance Running Shoes
+Concert-goer Male Outfit: Band T-shirt, Distressed Jeans, High-top Sneakers
+Farm Worker Male Outfit: Plaid Flannel Shirt, Overalls, Work Boots, Straw Hat
+Rancher Male Outfit: Cowboy Hat, Western Shirt, Bootcut Jeans, Cowboy Boots
+Country Music Festival Male Outfit: Vintage Band Tee, Faded Jeans, Cowboy Hat, Western Boots
+Outdoor Explorer Male Outfit: Utility Jacket, Cargo Shorts, Hiking Boots, Backpack
+Biker Male Outfit: Leather Motorcycle Jacket, Biker Jeans, Engineer Boots
+Countryside Picnic Male Outfit: Linen Shirt, Chino Shorts, Slip-on Espadrilles
+Craftsman Male Outfit: Denim Apron, Plain T-shirt, Work Pants, Work Boots
+Wedding Male Outfit: Suit Vest, Dress Shirt, Dress Pants, Dress Shoes
+Farm Market Male Outfit: Henley Shirt, Rolled-up Chinos, Canvas Slip-on Shoes
+Rural Fair Male Outfit: Graphic Tee, Shorts, Trucker Hat, Sneakers
+Cowboy Male Outfit: Cowboy Hat, Western Shirt, Bootcut Jeans, Roper Boots
+Horseback Rider Male Outfit: Equestrian Helmet, Riding Jacket, Breeches, Riding Boots
+Summer Carnival Male Outfit: Tank Top, Cargo Shorts, Sneakers
+Bluegrass Festival Male Outfit: Overalls, Straw Hat, Lace-up Boots
+Rodeo Attendee Male Outfit: Rodeo T-shirt, Jeans, Cowboy Hat, Cowboy Boots
+Outdoor Wedding Male Outfit: Light Suit Jacket, Dress Shirt, Dress Pants, Oxfords
+Vineyard Picnic Male Outfit: Button-up Shirt, White Pants, Loafers
+Country Fair Male Outfit: Checked Shirt, Denim Shorts, Straw Hat, Sneakers
+Hip-hop Street Style Male Outfit: Baggy Graphic Hoodie, Ripped Jeans, High-top Sneakers, Snapback Cap
+Urban Artist Male Outfit: Paint-splattered Overalls, Graphic T-shirt, Converse Sneakers
+Streetwear Enthusiast Male Outfit: Oversized Bomber Jacket, Graphic Tee, Track Pants, Chunky Sneakers
+Cyberpunk Male Outfit: Futuristic Jacket, Tech-inspired T-shirt, Techwear Pants, High-top Sneakers
+Vintage Urban Male Outfit: Retro Bowling Shirt, High-waisted Trousers, Oxford Shoes, Fedora Hat
+City Bohemian Male Outfit: Boho Print Shirt, Linen Pants, Leather Sandals, Beaded Bracelets
+Business Casual Urban Male Outfit: Blazer, Polo Shirt, Slim-fit Chinos, Dress Loafers
+Minimalist Male Outfit: Monochrome Outfit: ,Black/White/Grey, Clean-cut Silhouettes
+Surfer Male Outfit: Surf-inspired Graphic T-shirt, Board Shorts, Flip Flops
+City Runner Male Outfit: Lightweight Running Jacket, Performance Shorts, Running Shoes
+Goth Male Outfit: Longline Black Coat, Fishnet Top, Skinny Jeans, Platform Boots
+Biker Male Outfit: Leather Biker Jacket, Distressed Jeans, Engineer Boots
+Skyscraper Office Male Outfit: Suit, Tie, Dress Shoes, Briefcase
+Tech Enthusiast Male Outfit: Tech-inspired Jacket, Smartwatch, Techwear Pants, Sneakers
+City Music Festival Male Outfit: Printed Button-up Shirt, Denim Shorts, Sunglasses, Sneakers
+Rocker Male Outfit: Leather Jacket, Band T-shirt, Ripped Jeans, Biker Boots
+Urban Professional Male Outfit: Tailored Blazer, Dress Shirt, Dress Pants, Leather Oxfords
+Dancer Male Outfit: Dance T-shirt, Dance Pants, Dance Sneakers
+Yoga Enthusiast Male Outfit: Breathable Yoga Tank, Yoga Shorts, Yoga Mat Carrier
+City Commuter Male Outfit: Commuter Jacket, T-shirt, Jeans, Comfortable Sneakers
+City College Student Male Outfit: College Sweatshirt, Jeans, Backpack, Sneakers
+Executive CEO Male Outfit: Navy Suit, Crisp White Dress Shirt, Silk Tie, Leather Dress Shoes
+Chef Male Outfit: Chef's Jacket, Checkered Pants, Chef's Hat, Non-slip Kitchen Shoes
+Doctor Male Outfit: White Lab Coat, Medical Scrubs, Stethoscope, Comfortable Shoes
+Firefighter Male Outfit: Firefighter Turnout Gear ,Jacket, Pants, Fire Helmet, Fire Boots
+Lawyer Male Outfit: Tailored Suit, Dress Shirt, Silk Tie, Leather Dress Shoes
+Police Officer Male Outfit: Police Uniform ,Shirt, Pants, Duty Belt, Police Cap, Police Boots
+Nurse Male Outfit: Medical Scrubs, Comfortable Shoes, Stethoscope, ID Badge
+Flight Attendant Male Outfit: Flight Attendant Uniform ,Blazer, Shirt, Slacks, Tie, Cabin Crew Shoes
+IT Professional Male Outfit: Business Casual Attire ,Button-up Shirt, Dress Pants, Dress Shoes,
+Architect Male Outfit: Architectural-inspired Outfit:, Turtleneck Sweater, Tailored Trousers, Dress Shoes
+Engineer Male Outfit: Engineer's Work Shirt, Work Pants, Steel-toed Boots, Safety Glasses
+Teacher Male Outfit: Dress Shirt, Tie, Dress Pants, Dress Shoes
+Photographer Male Outfit: Casual Professional Attire ,Button-up Shirt, Jeans, Casual Shoes,
+Fashion Designer Male Outfit: Trendy Designer Outfit:, Graphic T-shirt, Designer Jeans, Statement Sneakers
+Real Estate Agent Male Outfit: Professional Attire ,Blazer, Dress Shirt, Dress Pants, Loafers,
+Electrician Male Outfit: Work Coveralls, Work Boots, Safety Gloves, Hard Hat
+Marketing Specialist Male Outfit: Stylish Business Casual Attire ,Button-up Shirt, Chinos, Dress Shoes,
+Sales Representative Male Outfit: Professional Business Attire ,Dress Shirt, Dress Pants, Dress Shoes,
+Veterinarian Male Outfit: Veterinarian Scrubs, Lab Coat, Stethoscope, Comfortable Shoes
+Journalist Male Outfit: Casual Professional Attire ,Button-up Shirt, Dress Pants, Oxfords,

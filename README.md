@@ -62,31 +62,39 @@ Full list of wildcard files:
 
 Here's an example of prompt that generates anthros with 5-20 random tags, in a random detailed location, with a random angle and framing, with 1~10 clothing items, a random pose and 6 random artists:
 
-	(anthro)
+	{5-20$$__misc/e621/all_tags*__}
 
-	(hi res, best quality, high quality, detailed:1.2)
+	({__locations/e621/*__}, detailed background:1.2)
 
-	{5-20$$__e621_all_tags_above_100__}
+	{__composition/e621/angles*__}
+	{__composition/e621/framing*__}
 
-	({__e621_locations__}, detailed background:1.2)
+	(clothing, {1-10$$__clothing/e621/*__})
 
-	{__e621_angles__}
-	{__e621_framing__}
+	({__actions/e621/*__})
 
-	(clothing, {1-10$$__e621_clothing__})
-
-	({__e621_poses__})
-
-	({6$$__e621_all_artists_above_100__}:1.3)
+	({6$$__artists/e621/*__}:1.3)
 	
 The next one generates a random species, gender, body figure, location and outfit, with the possibility of a random angle, framing, pose and expression as well:
 
-	anthro, {__e621_figures__} ({__e621_genders__}:1.2), ({__species_enriched_nonmedia_nonhuman_500__}:1.3), {{__e621_colors__} body| }
+	anthro, {__body/e621/figures*__} ({__body/e621/genders*__}:1.2), ({__species/detailed/nonmedia_nonhuman_500__}:1.3), {{__colors/e621/*__} body| }
 
-	{{__e621_hair_colors__}| }, {{__e621_hair_styles__}| }, {{__e621_hair_traits_common__}| }
+	{{__hair/e621/colors*__}| }, {{__hair/e621/styles*__}| }, {{__hair/e621/traits_common*__}| }
 
-	{0-1$$__e621_angles__}, {0-1$$__e621_framing__}, {0-1$$__e621_poses__}, {0-1$$__e621_expressions__}
+	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/poses*__}, {0-1$$__actions/e621/expressions*__}
 
-	{{__cultural_adjectives__}| } {__e621_locations__} background, detailed background
+	{{__misc/cultural_adjectives__}| } {__locations/*__} background, detailed background
 
-	(clothing, {__outfits/*__}:1.1), {__e621_outfit_colors__}
+	(clothing, {__outfits/*__}:1.1), {__colors/*__}
+	
+And the following one uses detailed descriptors for fantasy characters (replace 'fantasy' with 'modern' or 'fancy' for other settings)
+
+	anthro, {__body/e621/figures*__} ({__body/e621/genders*__}:1.2), ({__species/detailed/nonmedia_nonhuman_500__}:1.3), {{__colors/e621/*__} body| }
+
+	{{__hair/e621/colors*__}| }, {{__hair/e621/styles*__}| }, {{__hair/e621/traits_common*__}| }
+
+	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/poses*__}, {0-1$$__actions/e621/expressions*__}
+
+	{__locations/detailed/fantasy*__} background, detailed background
+
+	(clothing, {__outfits/detailed/fantasy*__}:1.1), {__colors/*__}

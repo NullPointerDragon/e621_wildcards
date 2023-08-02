@@ -1,0 +1,110 @@
+Business Suit Outfit: Suit jacket, dress shirt, dress pants, skirt, tie, scarf for men, dress shoes
+Business Casual Outfit: Collared shirt, blouse, dress pants, skirt, blazer optional, dress shoes, flats
+Chef Uniform: Chef's coat, checkered pants, chef hat, apron, non-slip shoes
+Medical Scrubs Outfit: Scrub top, scrub pants, comfortable shoes
+Firefighter Uniform: Fire-resistant turnout coat and pants, helmet, gloves, steel-toed boots
+Police Officer Uniform: Police uniform shirt, pants, duty belt, police badge, boots
+Military Uniform: Camouflage, dress uniform varies based on branch and country, combat boots
+Flight Attendant Uniform: Uniform dress, suit, necktie, scarf, cabin crew hat, comfortable shoes
+Doctor's White Coat Outfit: White lab coat, professional attire underneath, comfortable shoes
+Nurse Uniform: Scrub top and pants, nursing dress, comfortable shoes
+Construction Worker Outfit: Hi-vis vest, work boots, work pants, hard hat
+Postal Worker Uniform: Postal service shirt, polo, postal trousers, shorts, cap, comfortable shoes
+UPS FedEx Delivery Driver Outfit: Brown, purple delivery driver uniform, comfortable shoes
+Police SWAT Team Uniform: Tactical gear vest, helmet, pants, tactical boots
+Bartender Outfit: Black, themed bartender attire, apron, comfortable shoes
+Waiter Waitress Uniform: Server apron, dress shirt, blouse, dress pants, skirt, comfortable shoes
+Barista Uniform: Coffee shop attire, barista apron, comfortable shoes
+Construction Manager Outfit: Reflective vest, hard hat, professional attire, work boots
+Fitness Instructor Outfit: Workout apparel leggings, tank top, etc, athletic shoes
+Lifeguard Uniform: Red, yellow lifeguard swimsuit, trunks, lifeguard shirt, rash guard, lifeguard shorts, whistle
+Office Casual Outfit: Polo shirt, blouse, khakis, dress pants, comfortable shoes
+School Uniform: School-specific uniform shirt, tie, blazer, skirt, pants, dress shoes
+Doctor's Scrubs Outfit: Scrub top, scrub pants, comfortable shoes
+Dentist's Coat Outfit: White dental coat, professional attire underneath, comfortable shoes
+Lab Technician Outfit: Lab coat, protective eyewear, gloves, comfortable shoes
+Paramedic Uniform: Paramedic shirt, jacket, EMS pants, comfortable shoes
+Flight Crew Uniform Pilots Outfit: Pilot uniform shirt, epaulets, pilot trousers, pilot cap, comfortable shoes
+Flight Crew Uniform Flight Attendants Outfit: Cabin crew dress, suit, necktie, scarf, cabin crew hat, comfortable shoes
+Security Guard Uniform: Security uniform shirt, polo, security pants, security badge, comfortable shoes
+Personal Trainer Outfit: Workout apparel leggings, tank top, etc, athletic shoes
+Soccer Player Outfit: Soccer jersey, shorts, soccer cleats, shin guards
+Basketball Player Outfit: Basketball jersey, shorts, basketball shoes
+Football Player Outfit: Football jersey, pants, football cleats, helmet
+Baseball Player Outfit: Baseball jersey, baseball pants, baseball cap, baseball cleats
+Punk Outfit: Studded, torn clothing, band t-shirts, ripped jeans, combat boots
+Hipster Outfit: Vintage-inspired clothing, skinny jeans, flannel shirt, hipster glasses
+Emo Outfit: Dark-colored clothing, band t-shirts, skinny jeans, studded belts
+Skateboarder Outfit: Skateboard brand apparel, baggy jeans, shorts, skate shoes
+Surfer Outfit: Board shorts, surf brand t-shirts, flip-flops
+Cyclist Outfit: Cycling jersey, padded shorts, cycling shoes, helmet
+Hiking Outfit: Moisture-wicking clothing, hiking boots, backpack
+Yoga Instructor Outfit: Yoga apparel leggings, tank top, etc, yoga mat
+Business Professional female Outfit: Tailored dress, blazer, dress shoes
+Business Professional male Outfit: Suit jacket, dress shirt, dress pants, tie, dress shoes
+Wedding Attire male Outfit: Tuxedo, suit, dress shirt, tie, bowtie, dress shoes
+Wedding Attire female Outfit: Wedding dress, formal gown, heels
+Casual Date Night male Outfit: Casual button-up shirt, jeans, chinos, casual shoes
+Casual Date Night female Outfit: Blouse, top, jeans, skirt, casual shoes
+Party Outfit male Outfit: Dress shirt, trendy top, stylish pants, dress shoes
+Party Outfit female Outfit: Cocktail dress, stylish top and skirt, heels, dressy flats
+Musician Outfit: Stage attire based on music genre eg, rock band t-shirts, leather jackets
+Photographer Outfit: Comfortable clothing, camera strap, comfortable shoes
+Tech Startup Outfit: Casual, trendy clothing, jeans, khakis, sneakers, stylish shoes
+Real Estate Agent Outfit: Business casual attire, professional shoes
+Film Crew Outfit: Crew t-shirt, work attire, comfortable shoes
+Fitness Competition Outfit: Competition-specific athletic wear, stage heels
+Fashion Model Outfit: Fashionable clothing based on photo shoot, runway show
+Waitstaff Outfit: Restaurant-specific uniform, apron, comfortable shoes
+Casino Dealer Outfit: Casino uniform, comfortable shoes
+News Anchor Outfit: Professional suit, dress, professional shoes
+Gymnast Outfit: Leotard, gymnastics apparel, athletic shoes
+Tennis Player Outfit: Tennis outfit polo shirt, dress, tennis shoes
+Golf Player Outfit: Golf polo shirt, golf pants, skirt, golf shoes
+Swim Team Outfit: Competitive swimwear one-piece, trunks, swim cap, goggles
+Ski/Snowboard Outfit: Ski/snowboard jacket, pants, thermal layers, snow boots
+Environmental Scientist Outfit: Fieldwork clothing protective clothing, hiking boots
+Event Planner Outfit: Professional business attire, comfortable shoes
+TV/Movie Producer Outfit: Business casual attire, comfortable shoes
+Graphic Designer Outfit: Creative casual attire, comfortable shoes
+Software Developer Outfit: Casual attire, t-shirt, polo, jeans, comfortable shoes
+Fitness Trainer Outfit: Workout apparel leggings, tank top, etc, athletic shoes
+Zoologist Outfit: Outdoor fieldwork clothing protective clothing, hiking boots
+Wildlife Photographer Outfit: Comfortable and weather-appropriate clothing, camera strap
+Archaeologist Outfit: Outdoor fieldwork clothing protective clothing, hiking boots
+Fashion Designer Outfit: Trendy and stylish attire, comfortable shoes
+Graphic Artist Outfit: Creative casual attire, comfortable shoes
+Event Coordinator Outfit: Business casual attire, comfortable shoes
+Music Producer Outfit: Casual and comfortable attire, studio-appropriate shoes
+Veterinarian Outfit: Veterinary scrubs, lab coat, comfortable shoes
+Medical Doctor Casual Outfit: Casual professional attire, comfortable shoes
+Medical Doctor Lab Coat Outfit: Medical scrubs, lab coat, comfortable shoes
+Dentist Outfit: Scrubs, professional attire, lab coat, comfortable shoes
+Physical Therapist Outfit: Scrubs, athletic apparel, comfortable shoes
+Psychologist Therapist Outfit: Professional attire, comfortable shoes
+Art Teacher Outfit: Casual and creative attire, comfortable shoes
+Librarian Outfit: Professional attire, comfortable shoes
+Police Detective Outfit: Undercover, plainclothes attire, comfortable shoes
+Fashion Blogger Influencer Outfit: Trendy and stylish attire, fashionable shoes
+Makeup Artist Outfit: Stylish and professional attire, comfortable shoes
+Personal Shopper/Stylist Outfit: Fashion-forward attire, comfortable shoes
+Soccer Coach Outfit: Team coach attire, athletic shoes
+Basketball Coach Outfit: Team coach attire, basketball shoes
+Football Coach Outfit: Team coach attire, football cleats
+Baseball Coach Outfit: Team coach attire, baseball cap, baseball cleats
+Hockey Coach Outfit: Team coach attire, hockey skates
+Soccer Referee Outfit: Referee uniform, soccer cleats
+Basketball Referee Outfit: Referee uniform, basketball shoes
+Football Referee Outfit: Referee uniform, football cleats
+Baseball Umpire Outfit: Umpire uniform, baseball cap, baseball cleats
+Hockey Referee Outfit: Referee uniform, hockey skates
+Social Media Manager Outfit: Casual, creative attire, comfortable shoes
+Video Game Developer Outfit: Casual and comfortable attire, studio-appropriate shoes
+Fitness Influencer Outfit: Workout apparel leggings, tank top, etc, athletic shoes
+Tech Entrepreneur Outfit: Casual and trendy attire, comfortable shoes
+Marketing Manager Outfit: Professional business attire, comfortable shoes
+Project Manager Outfit: Business casual attire, comfortable shoes
+Financial Analyst Outfit: Professional business attire, comfortable shoes
+Graphic Design Intern Outfit: Creative casual attire, comfortable shoes
+Corporate Lawyer Outfit: Business professional attire, professional shoes
+Elementary School Teacher Outfit: Teacher-specific attire eg, teacher dress, blouse, pants, tie
