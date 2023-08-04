@@ -1,32 +1,18 @@
 #general
 Medieval Castle Courtyard Background: cobblestone pathways, stone walls, wooden drawbridge, medieval banners
-
 Renaissance Market Background: colorful tents, barrels of spices, merchant stalls, woven tapestries
-
 18th-Century Parisian Café Background: wrought-iron tables, vintage lampposts, patterned awnings, hanging flower baskets
-
 Victorian Library Background: tall bookshelves, leather armchairs, antique globes, ornate fireplace
-
 Colonial Plantation Background: expansive sugarcane fields, colonial-style mansion, slave quarters, horse-drawn carriages
-
 Wild West Saloon Background: swinging doors, whiskey barrels, poker tables, old-fashioned jukebox
-
 Industrial Revolution Factory Background: massive steam engines, spinning machines, conveyor belts, stacks of coal
-
 Ancient Greek Amphitheater Background: stone seating, grand stage, marble columns, distant sea view
-
 Elegant Baroque Ballroom Background: gilded mirrors, opulent chandeliers, lavish draperies, intricate parquet flooring
-
 19th-Century London Street Background: gas street lamps, horse-drawn carriages, cobblestone roads, Victorian townhouses
-
 Pirate Ship Deck Background: ship's wheel, coiled ropes, wooden barrels, tattered sails
-
 Feudal Japanese Temple Garden Background: Zen rock garden, cherry blossom trees, wooden pagoda, stone lanterns
-
 Tudor Castle Exterior Background: half-timbered walls, moat with drawbridge, medieval turrets, imposing stone gate
-
 Baroque Palace Gardens Background: grand fountains, sculpted topiaries, vast reflecting pools, ornamental statues
-
 Ancient Roman Forum Background: Corinthian columns, paved walkways, ancient ruins, marble statues
 Medieval Village Market Background: thatched-roof stalls, hanging game, wooden carts, straw-covered ground
 Renaissance Palace Courtyard Background: ornate fountains, grand staircase, sculpted stone arches, majestic flags
@@ -281,3 +267,134 @@ Chinese Temple Courtyard Background: Traditional temple architecture, decorative
 Indian Holi Festival Background: Colorful powder clouds, joyful crowds, traditional music, vibrant celebration.
 African Baobab Tree Savannah Sunset Background: Silhouetted baobab trees against a vivid sunset, wildlife returning to their nests.
 Balinese Rice Terraces Background: Scenic rice terraces, traditional irrigation channels, palm-fringed valleys, cultural charm.
+#generic
+Baroque Opera House Background: Opulent opera boxes, lavish stage backdrop, ornate theater chandeliers, plush velvet seating.
+Victorian Gentleman's Study Background: Rich wood paneling, leather-bound books, mahogany desk, antique globe.
+Rococo Ballroom Background: Elaborate gilded columns, crystal chandeliers, mirrored walls, intricate ceiling paintings.
+Edwardian Drawing Room Background: Plush sofas, decorative fireplace, fine art paintings, ornate wallpaper.
+Renaissance Library Background: High ceilings, ornate bookshelves, classical busts, decorative tapestries.
+18th-Century Music Salon Background: Harpsichord, oil paintings of musicians, gilded mirrors, elegant seating.
+Victorian Dressing Chamber Background: Vanity table with ornate mirror, luxurious dressing gowns, jewelry boxes, perfumes.
+Rococo Dining Hall Background: Lavish dining table, ornate silverware, elegant dining chairs, grand candelabras.
+Baroque Royal Bedchamber Background: Canopied bed, sumptuous draperies, decorative fireplace, golden trimmings.
+Edwardian Palm Court Background: Glass-roofed conservatory, tropical plants, wicker furniture, elegant tea service.
+Renaissance Art Gallery Background: Gilded picture frames, diverse art collection, classical sculptures, soft gallery lighting.
+Victorian Billiards Room Background: Antique billiards table, cue racks, stained glass windows, ornate wainscoting.
+Rococo Salon Background: Ornate furniture, decorative tapestries, grand piano, elaborate gilded moldings.
+18th-Century French Boudoir Background: Canopied bed, delicate lace curtains, vanity table, floral wallpaper.
+Baroque Courtroom Background: Ornate judge's bench, wooden jury box, plush seating, intricate wood paneling.
+Victorian Conservatory Ballroom Background: Glass-domed ceiling, dance floor with floral patterns, wrought-iron benches, hanging plants.
+Edwardian Art Gallery Background: Picture rails, art easels, diverse art collection, soft gallery lighting.
+Renaissance Study Room Background: Dark wood paneling, leather armchairs, globe stand, intricate maps.
+Rococo Tea Room Background: Fine china tea sets, delicate lace doilies, floral wallpaper, dainty teacup display.
+18th-Century Salon Background: Elegant furnishings, intricate wall paneling, decorative mirrors, crystal chandeliers.
+Baroque Chapel Interior Background: Intricate altar, religious iconography, ornate pews, stained glass windows.
+Victorian Conservatory Lounge Background: Glass-roofed lounge area, comfortable seating, potted plants, sunlight streaming in.
+Edwardian Opera Box Background: Red velvet drapes, ornate railing, plush seating, opera glasses on a ledge.
+Rococo Dressing Room Background: Vanity table with ornate mirror, luxurious dressing gowns, delicate cosmetics, perfume bottles.
+Renaissance Banquet Hall Background: Long feasting table, rich tapestries, ornate tableware, grand fireplace.
+18th-Century Orangery Background: Rows of citrus trees, decorative terracotta pots, wrought-iron furniture, glass walls.
+Baroque Gallery of Mirrors Background: Elaborate gilt-framed mirrors, polished parquet flooring, crystal chandeliers, marble statues.
+Victorian Salon Background: Plush seating arrangements, ornate fireplace, decorative wall sconces, floral arrangements.
+Edwardian Conservatory Tea Room Background: Glass-domed ceiling, wrought-iron furniture, hanging plants, mosaic-tiled floor.
+Rococo Gaming Room Background: Gaming tables, plush velvet chairs, ornate carpets, decorative ceiling.
+Renaissance Dining Chamber Background: Long wooden dining table, intricate table settings, ornate wooden chairs, tapestries.
+18th-Century Reading Nook Background: Cozy seating area, bookshelves, reading lamps, embroidered cushions.
+Baroque Cabinet of Curiosities Background: Display cabinets with exotic artifacts, taxidermy specimens, ancient manuscripts, unique curiosities.
+Victorian Music Room Background: Grand piano, ornate musical instruments, sheet music stands, plush velvet drapes.
+Edwardian Sunroom Background: Sunlit space, comfortable wicker furniture, potted plants, decorative rugs.
+Rococo Dance Hall Background: Elegant ballroom chandeliers, polished wooden floor, grand columns, mirrored walls.
+Renaissance Drawing Room Background: Fine furnishings, ornate fireplace, classical artwork, detailed ceiling.
+18th-Century Writing Study Background: Mahogany writing desk, quill and ink set, leather-bound journals, brass reading lamp.
+Baroque Royal Antechamber Background: Lavish golden decor, red velvet thrones, grand chandelier, elegant wall coverings.
+Victorian Parlor Fireplace Background: Ornate fireplace mantle, plush armchairs, decorative artwork, damask wallpaper.
+Victorian Garden Party Background: Manicured lawns, elegant gazebos, linen-covered tables, string quartet.
+Rococo Fountain Terrace Background: Ornate fountain, decorative balustrades, marble statues, panoramic garden view.
+Edwardian Croquet Lawn Background: Meticulously mowed lawn, croquet hoops, wicker furniture, stylishly dressed players.
+Baroque Formal Garden Background: Elaborate parterre designs, hedge mazes, decorative fountains, grand pathways.
+Renaissance Courtyard Garden Background: Central courtyard, decorative fountain, manicured hedges, classical sculptures.
+18th-Century Hunting Grounds Background: Woodland paths, equestrian statues, hunting dogs, distant hunting lodge.
+Victorian Lakeside Promenade Background: Serene lake view, wrought-iron benches, decorative lampposts, weeping willows.
+Rococo Summer Pavilion Background: Ornate pavilion, decorative ironwork, lush flowerbeds, romantic garden setting.
+Edwardian Tennis Lawn Background: Well-maintained grass tennis court, white-clad players, spectators' seating, traditional wooden net.
+Baroque Rose Garden Background: Vibrant rosebeds, ornate trellises, decorative statuary, gravel pathways.
+Renaissance Terrace Overlook Background: Elevated terrace, panoramic cityscape view, ornate balustrades, flowering planters.
+18th-Century French Garden Background: Formal garden beds, symmetrical layouts, decorative hedgerows, picturesque sculptures.
+Victorian Seaside Pier Background: Ornate pier structure, elegant promenade, distant sailing ships, bustling waterfront.
+Rococo Gazebo Pavilion Background: Decorative gazebo, intricate woodwork, hanging lanterns, serene garden backdrop.
+Edwardian Beach Resort Background: Sandy beach, colorful beach umbrellas, striped changing cabins, wooden boardwalk.
+Baroque Waterfront Esplanade Background: Elaborate balustrades, decorative fountains, scenic river view, ornate lampposts.
+Renaissance Italian Villa Terrace Background: Terracotta pots, climbing vines, panoramic countryside view, classical statues.
+18th-Century Formal Canal Garden Background: Ornate canals, decorative bridges, sculpted hedges, classical statuary.
+Victorian Botanical Pavilion Background: Glass-roofed pavilion, exotic plants, decorative wrought-iron furniture, serene garden surroundings.
+Rococo Arboretum Background: Diverse collection of trees, meandering pathways, wooden benches, birdwatching stations.
+Edwardian Seaside Bandstand Background: Central bandstand, deck chairs, panoramic sea view, traditional brass band.
+Baroque Riverside Terrace Background: Riverside view, ornate balustrades, decorative lanterns, flowering plants.
+Renaissance Sculpture Garden Background: Classical sculptures, decorative pathways, manicured lawns, shady tree alcoves.
+18th-Century Ornamental Bridge Background: Elaborate stone bridge, scenic river view, ornate ironwork, trailing vines.
+Victorian Pleasure Garden Background: Lush landscapes, winding pathways, ornate gazebos, colorful flower displays.
+Rococo Vineyard Terrace Background: Vine-covered pergolas, wine barrels, decorative wrought-iron furniture, rolling vineyard views.
+Edwardian Picnic Meadow Background: Flowing grassy meadow, checkered picnic blankets, wicker baskets, wildflower surroundings.
+Baroque Garden Labyrinth Background: Intricate hedge maze, central gazebo, decorative topiaries, hidden seating nooks.
+Renaissance Castle Courtyard Background: Castle walls, decorative well, cobblestone courtyard, historical charm.
+18th-Century Formal Tea Garden Background: Neatly arranged tea plants, traditional tea-picking baskets, ornate tea tables, serene atmosphere.
+Victorian Seaside Promenade Background: Coastal walkway, decorative lampposts, colorful beach huts, distant sailboats.
+Rococo Lakeside Retreat Background: Serene lake view, wooden boathouse, water lilies, elegant picnic area.
+Edwardian Rose Arbor Background: Covered arbor with climbing roses, wooden benches, hanging lanterns, rustic charm.
+Baroque Garden Grotto Background: Decorative grotto, cascading waterfalls, hidden seating nooks, natural rock formations.
+Renaissance Courtyard Fountain Background: Central fountain, intricate stone carving, grand archways, potted citrus trees.
+18th-Century French Château Grounds Background: Elaborate fountain, sculpted gardens, elegant parterres, tree-lined avenues.
+Victorian Glass Conservatory Background: Glass-roofed conservatory, lush tropical plants, decorative mosaic flooring, wrought-iron furniture.
+Rococo French Quarter Plaza Background: Elegant square, decorative ironwork benches, lush flowerbeds, charming cafes.
+Edwardian Walled Garden Background: High brick walls covered in ivy, intricate iron gate, well-trimmed topiaries, gravel pathways.
+Baroque Temple Gardens Background: Classical temple structure, manicured gardens, grand columns, scenic views.
+Renaissance Sculpture Terrace Background: Classical sculptures, balustraded terrace, panoramic cityscape view, serene atmosphere.
+18th-Century English Cottage Garden Background: Quaint cottage, climbing roses on trellises, colorful cottage garden flowers, picket fence.
+Victorian Arboretum Background: Diverse collection of trees, stone pathways, rustic wooden benches, bird aviary.
+Rococo Riverside Walkway Background: Riverside path, ornate balustrades, decorative lanterns, scenic river view.
+Edwardian Wildflower Meadow Background: Flowing meadow grass, colorful wildflowers, distant rolling hills, serene atmosphere.
+Baroque Water Garden Background: Ornate water features, elegant canal, decorative bridges, lush garden borders.
+Renaissance Castle Courtyard Garden Background: Castle walls, central garden beds, decorative fountain, charming historical ambiance.
+18th-Century French Villa Gardens Background: Manicured lawns, decorative parterres, tree-lined paths, classic statuary.
+Victorian Aviary Garden Background: Decorative birdcages, diverse bird species, ornate benches, lush greenery.
+Rococo Riverside Promenade Background: Riverside path, decorative balustrades, weeping willows, scenic river view.
+Baroque City Square Background: Grand central plaza, elaborate fountains, ornate statues, historic architecture.
+Victorian Shopping Arcade Background: Glass-roofed shopping gallery, decorative ironwork, boutique storefronts, mosaic-tiled flooring.
+Rococo Café Boulevard Background: Sidewalk cafes, wrought-iron tables, elegant umbrellas, ornate building facades.
+Edwardian Theater District Background: Ornate theater marquees, gas street lamps, bustling crowds, entertainment venues.
+Renaissance City Hall Plaza Background: Elegant city hall building, central fountain, decorative paving, lively market stalls.
+18th-Century European Street Background: Cobbled street, ornate lampposts, decorative facades, bustling pedestrians.
+Victorian Horse-Drawn Carriage Square Background: Elegant carriages, cobblestone square, grand clock tower, decorative street lamps.
+Rococo Canal-Side Promenade Background: Picturesque canals, ornate bridges, decorative lampposts, waterfront cafes.
+Edwardian High-End Shopping Street Background: Luxury boutiques, opulent window displays, fashionable pedestrians, decorative street art.
+Baroque Courtyard Market Background: Market stalls in palace courtyard, decorative fountain, marble statues, elegant archways.
+Renaissance Al Fresco Dining Background: Outdoor dining terraces, ornate wrought-iron furniture, lush potted plants, historic buildings.
+18th-Century Town Square Fair Background: Fairground attractions, merry-go-round, festive booths, lively fairgoers.
+Victorian Gaslit Street Background: Gas street lamps, ornate building facades, horse-drawn carriages, bustling pedestrians.
+Rococo Plaza de España Background: Central plaza with grand fountain, decorative tilework, palm trees, historic buildings.
+Edwardian Cafe Society Background: Sidewalk cafes, wrought-iron tables, fashionable patrons, lively conversations.
+Baroque Market Hall Background: Elaborate market hall facade, market stalls inside, decorative archways, bustling market activity.
+Renaissance Market Square Background: Colorful market stalls, street performers, musicians playing, decorative fountains.
+18th-Century Wharfside Background: Bustling waterfront, tall sailing ships, wooden cargo crates, historical dockside activity.
+Victorian Train Station Background: Ornate station facade, steam locomotives, platform benches, bustling travelers.
+Rococo Art District Background: Art galleries, decorative signages, elegant window displays, pedestrians admiring art.
+Edwardian Public Square Background: Central square with ornate clock tower, park benches, lively street vendors, historical buildings.
+Baroque Cathedral Plaza Background: Grand cathedral, bustling market stalls, street musicians, ornate ironwork.
+Renaissance University Courtyard Background: University buildings, manicured lawns, decorative archways, students studying.
+18th-Century Colonial Town Square Background: Colonial-style buildings, central square with gazebo, colonial flags, cobblestone pathways.
+Victorian Horse-Drawn Carriage Boulevard Background: Elegant carriages, gas street lamps, tree-lined avenue, decorative building facades.
+Rococo Fashionable Promenade Background: Strolling pedestrians in stylish attire, decorative street lamps, boutique windows, lively ambiance.
+Edwardian Park with Promenade Background: Expansive park, tree-lined promenade, elegant benches, live music performances.
+Baroque Town Square Market Background: Vibrant market stalls, decorative fountains, lively vendors, historical buildings.
+Renaissance Piazza Background: Central square, grand architecture, lively market activity, historical charm.
+18th-Century Theatre Quarter Background: Ornate theater entrances, gas street lamps, enthusiastic theatergoers, bustling atmosphere.
+Victorian Riverside Esplanade Background: Riverside walkway, decorative balustrades, scenic river view, ornate lampposts.
+Rococo Café Garden Background: Sidewalk cafes with lush gardens, wrought-iron furniture, elegant umbrellas, pleasant atmosphere.
+Edwardian Grand Boulevard Background: Wide boulevard with decorative center gardens, historical architecture, bustling activity.
+Baroque Canal District Background: Picturesque canals, narrow bridges, ornate buildings, decorative lampposts.
+Renaissance Market Arcade Background: Covered market with archways, bustling market stalls, decorative signages, historical charm.
+18th-Century Colonial Port Background: Colonial-style buildings, waterfront activities, bustling dockside, historical ambiance.
+Victorian High Street Background: Victorian shops, gas street lamps, horse-drawn carriages, pedestrians with parasols.
+Rococo City Gardens Background: Ornate city gardens, decorative fountains, winding pathways, grand statues.
+Edwardian Boardwalk Amusement Park Background: Vintage amusement rides, striped carnival tents, popcorn carts, festive flags.
+Baroque Government Square Background: Government buildings, central square with ornate fountain, historical charm, bustling activity.

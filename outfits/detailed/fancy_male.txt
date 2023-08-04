@@ -23,3 +23,127 @@ Victorian Riding Habit: Riding habit, top hat, riding cap, riding boots
 Victorian Steampunk Adventurer: Steampunk explorer coat, goggles, utility belt, knee-high boots
 Victorian Street Urchin: Newsboy cap, ragged clothes, patched shoes
 Victorian Workwear \(Working Class\): Flat cap, waistcoat, trousers, work boots
+Pre-war Outfit: Tailored Suit, Dress Shirt, Brogues, Pocket Square
+Pre-war Outfit: Wool Trousers, Dress Shirt, Oxford Shoes, Newsboy Cap
+Pre-war Outfit: Trench Coat, Fedora Hat, Dress Pants, Loafers
+Gilded Age Outfit: Tailcoat, Waistcoat, Dress Pants, Top Hat
+Gilded Age Outfit: Morning Coat, Ascot Tie, Striped Trousers, Leather Shoes
+Gilded Age Outfit: Velvet Smoking Jacket, Cravat, Silk Trousers, Dress Shoes
+Belle Époque Outfit: Frock Coat, Bow Tie, Dress Pants, Top Hat
+Belle Époque Outfit: Tailored Jacket, Ascot Tie, High-waisted Trousers, Leather Shoes
+Belle Époque Outfit: Morning Coat, Cravat, Striped Trousers, Leather Shoes
+Edwardian Outfit: Tailcoat, Dress Shirt, Waistcoat, Top Hat
+Edwardian Outfit: Norfolk Jacket, Tweed Trousers, Newsboy Cap, Leather Shoes
+Edwardian Outfit: Morning Coat, Ascot Tie, Striped Trousers, Oxfords
+Victorian Outfit: Frock Coat, Cravat, Dress Pants, Walking Stick
+Victorian Outfit: Waistcoat, Dress Shirt, High-waisted Trousers, Bowler Hat
+Victorian Outfit: Morning Coat, Vest, Striped Trousers, Leather Shoes
+Wild West Outfit: Cowboy Hat, Western Shirt, Jeans, Cowboy Boots
+Wild West Outfit: Poncho, Bandana, Cowboy Boots, Leather Gloves
+Wild West Outfit: Duster Coat, Cowboy Shirt, Chaps, Stetson Hat
+Napoleonic Outfit: French Officer Uniform, Bicorn Hat, Riding Boots, Sash
+Napoleonic Outfit: Tailcoat, Waistcoat, Dress Pants, Hessian Boots
+Napoleonic Outfit: Revolutionary Attire, Tricorn Hat, Buckled Shoes, Sash
+Enlightenment Outfit: Tailcoat, Ruffled Shirt, Breeches, Buckled Shoes
+Enlightenment Outfit: Velvet Coat, Waistcoat, Cravat, Knee-high Boots
+Enlightenment Outfit: Court Suit, Jabot, Tricorn Hat, Silk Socks, Buckled Shoes
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Silk Coat, Ruffled Shirt, Breeches, Satin Shoes
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Embroidered Vest, Lace Cravat, Tricorn Hat, Knee-high Buckled Shoes
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Court Suit, Lace Jabot, Velvet Hat, Silk Socks, Buckled Shoes
+Regency Outfit: Tailcoat, Cravat, Breeches, Hessian Boots
+Victorian Outfit: Frock Coat, Waistcoat, Dress Shirt, Bow Tie, Top Hat
+Victorian Outfit: Tailcoat, Dress Pants, White Waistcoat, Bow Tie, Opera Gloves
+Crinoline Era Outfit: Morning Coat, Dress Pants, Ascot Tie, Bowler Hat
+Late Victorian Outfit: Three-Piece Suit, Necktie, Pocket Watch, Derby Hat
+Wild West Cowboy Outfit: Stetson Hat, Western Shirt, Denim Jeans, Cowboy Boots
+Edwardian Outfit: Morning Coat, Waistcoat, Dress Shirt, Ascot Tie, Bowler Hat
+Belle Époque Outfit: Frock Coat, Cravat, Breeches, Top Hat
+Art Nouveau Outfit: Velvet Jacket, Ascot Tie, Trousers with Side Stripes, Chelsea Boots
+Gibson Style Outfit: Norfolk Jacket, Knickers, Newsboy Cap, Brogues
+Sports {Victorian | Vintage | Period | Fancy} Outfit: Tennis Whites, Tennis Sweater, Canvas Sneakers, Boater Hat
+Suffragette Era Outfit: Three-Piece Suit, Bow Tie, Top Hat, Pocket Watch
+Ragtime Era Outfit: Newsboy Cap, Suspenders, High-waisted Trousers, Oxfords
+Garden Party {Victorian | Vintage | Period | Fancy} Outfit: Linen Suit, Straw Boater Hat, Two-tone Shoes, Walking Stick
+Pre-Raphaelite Outfit: Romantic Poet Style, Loose Shirt, Wide-brimmed Hat, Long Trench Coat
+Mourning {Victorian | Vintage | Period | Fancy} Attire: Black Morning Coat, Black Cravat, Black Trousers, Top Hat
+Steampunk Outfit: Steampunk Tailcoat, Vest with Watch Chain, Cogwheel Accessories, Leather Boots
+Romantic Era Outfit: Ruffled Shirt, Tailcoat, Top Hat, Dress Pants
+Railway Travel {Victorian | Vintage | Period | Fancy} Outfit: Travel Suit, Bowler Hat, Leather Travel Bag, Pocket Watch
+Bustle Era Outfit: Frock Coat, Dress Pants, Ascot Tie, Top Hat
+Indian Royalty {Victorian | Vintage | Period | Fancy} Outfit: Sherwani, Turban with Feather, Churidar Pants, Jootis
+Chinese {Victorian | Vintage | Period | Fancy} Outfit: Changshan, Mandarin Collar, Wide-leg Pants, Embroidered Slippers
+Meiji Era Outfit: Kimono, Hakama, Geta Sandals, Katana Sword
+African {Victorian | Vintage | Period | Fancy} Outfit: Dashiki Shirt, Kente Cloth Wrap, Beaded Necklace, Leather Sandals
+Maori {Victorian | Vintage | Period | Fancy} Outfit: Korowai Cloak, Piupiu Skirt, Ta Moko Tattoos, Poi Balls
+Native American {Victorian | Vintage | Period | Fancy} Outfit: Fringed Leather Shirt, Beaded Moccasins, Feather Headdress, Tomahawk
+Persian {Victorian | Vintage | Period | Fancy} Outfit: Kaftan, Turban, Baggy Pants, Pointed Shoes
+Ottoman {Victorian | Vintage | Period | Fancy} Outfit: Fes Hat, Caftan, Wide Sash, Pointed Slippers
+Caribbean {Victorian | Vintage | Period | Fancy} Outfit: Linen Shirt, Wide-brimmed Hat, Cotton Trousers, Sandals
+Aboriginal {Victorian | Vintage | Period | Fancy} Outfit: Possum Skin Cloak, Loincloth, Woomera Spear Thrower, Waddy Club
+Sikh {Victorian | Vintage | Period | Fancy} Outfit: Turban, Kurta, Breeches, Jutti Shoes
+Jewish {Victorian | Vintage | Period | Fancy} Outfit: Bekishe Coat, Streimel Hat, Gartel Belt, Leather Shoes
+Irish {Victorian | Vintage | Period | Fancy} Outfit: Aran Sweater, Flat Cap, Tweed Pants, Brogues
+Romani {Victorian | Vintage | Period | Fancy} Outfit: Waistcoat, Puffed Sleeves Shirt, Wide Sash, Pointed Shoes
+Hasidic {Victorian | Vintage | Period | Fancy} Outfit: Shtreimel Fur Hat, Kapote Coat, Tallit Prayer Shawl, Black Shoes
+Prussian Officer Uniform: Blue Tunic, Epaulettes, Breeches, High Leather Boots
+French Empire Outfit: Tailcoat, Cravat, Breeches, Leather Hessian Boots
+Mourning {Victorian | Vintage | Period | Fancy} Attire: Black Morning Coat, Black Cravat, Black Trousers, Top Hat
+Highland {Victorian | Vintage | Period | Fancy} Outfit: Kilt, Tartan Plaid, Sporran, Ghillie Brogues
+Civil War Outfit: Union or Confederate Uniform, Kepi Cap, Boots, Sword \(for officers\)
+Steampunk Outfit: Steampunk Tailcoat, Vest with Watch Chain, Cogwheel Accessories, Leather Boots
+Suffrage Movement Outfit: Three-Piece Suit, Bow Tie, Top Hat, Pocket Watch
+Hawaiian {Victorian | Vintage | Period | Fancy} Outfit: Malo \(Loincloth\), Kihei \(Shawl\), Lei, Barefoot
+Garden Party {Victorian | Vintage | Period | Fancy} Outfit: Linen Suit, Straw Boater Hat, Two-tone Shoes, Walking Stick
+Gymnasium {Victorian | Vintage | Period | Fancy} Outfit: Sleeveless Tank Top, Knee-length Shorts, Canvas Shoes
+American Western Outfit: Western Shirt, Denim Jeans, Cowboy Boots, Stetson Hat
+Sporting {Victorian | Vintage | Period | Fancy} Outfit: Norfolk Jacket, Knickers, Newsboy Cap, Brogues
+Caribbean {Victorian | Vintage | Period | Fancy} Outfit: Linen Shirt, Wide-brimmed Hat, Cotton Trousers, Sandals
+Seaside {Victorian | Vintage | Period | Fancy} Outfit: Seersucker Suit, Straw Boater Hat, Leather Sandals
+18th Century Aristocrat Outfit: Embroidered Velvet Coat, Waistcoat, Breeches, Buckled Shoes, Tricorn Hat
+18th Century Dandy Outfit: Tailcoat with Elaborate Embroidery, Ruffled Shirt, Silk Stockings, Cane, Silk Scarf
+18th Century Gentleman Outfit: Frock Coat, Cravat, Knee Breeches, Silk Socks, Buckled Shoes
+18th Century Courtier Outfit: Court Suit with Gold Embroidery, Diamond Brooch, Lace Jabot, Wig
+18th Century Country Gentleman Outfit: Riding Jacket, Top Hat, Leather Riding Boots, Pocket Watch
+19th Century Aristocrat Outfit: Tailcoat, Waistcoat, Cravat, Top Hat, Cane
+19th Century Industrialist Outfit: Frock Coat, Pinstripe Vest, Pocket Watch, Monocle, Bowler Hat
+19th Century Dandy Outfit: Velvet Smoking Jacket, Ascot Tie, Paisley Scarf, Dressing Gown, Silk Slippers
+19th Century Aristocratic Officer Outfit: Military Uniform with Decorations, Epaulettes, Sash, Dress Sword
+19th Century Ballroom Beau Outfit: Tailcoat, White Gloves, Dance Card, Polished Oxfords
+Middle Class Citizen {Victorian | Vintage | Period | Fancy} Outfit: Tailcoat, Waistcoat, Knee Breeches, Leather Shoes
+Middle Class Artisan {Victorian | Vintage | Period | Fancy} Outfit: Linen Shirt, Leather Apron, Simple Trousers, Work Boots
+Middle Class Clerk {Victorian | Vintage | Period | Fancy} Outfit: Frock Coat, Necktie, Wool Trousers, Oxford Shoes
+Middle Class Shopkeeper {Victorian | Vintage | Period | Fancy} Outfit: Jacket, Cravat, Trousers, Leather Brogues
+Middle Class Bookbinder {Victorian | Vintage | Period | Fancy} Outfit: Apron, Linen Shirt, Trousers, Leather Apron
+19th Century Military Officer Outfit: Military Uniform with Epaulettes, Dress Sword, Decorations, Officer's Hat
+19th Century Police Officer Outfit: Police Uniform with Brass Buttons, Baton, Police Cap, Leather Boots
+19th Century Firefighter Outfit: Firefighter Uniform with Brass Buttons, Fireman Helmet, Fire Hose, Firefighter Axe
+19th Century Train Conductor Outfit: Conductor Uniform with Brass Buttons, Pocket Watch, Train Ticket Book, Conductor Hat
+19th Century Navy Sailor Outfit: Sailor Uniform, Pea Coat, Sailor Hat, Canvas Shoes
+18th Century British Redcoat \(Military\) Outfit: Red Coat with Brass Buttons, White Waistcoat, Breeches, Tricorn Hat
+18th Century Naval Officer \(Navy\) Outfit: Naval Uniform with Epaulettes, Tricorn Hat, Cutlass, Brass Buckled Shoes
+18th Century Dragoon \(Military\) Outfit: Blue Dragoon Coat, White Breeches, Black Leather Riding Boots, Cavalry Hat
+18th Century French Musketeer \(Military\) Outfit: Musketeer Uniform with Plumed Hat, Rapier, Leather Boots
+19th Century Shopkeeper Outfit: Vest, Cravat, Dress Shirt, Trousers, Leather Shoes
+19th Century Bank Clerk Outfit: Frock Coat, Necktie, Waistcoat, Trousers, Oxford Shoes
+19th Century Blacksmith Outfit: Leather Apron, Linen Shirt, Trousers, Work Boots
+19th Century Postman Outfit: Navy Blue Coat, Satchel, Cap, Leather Shoes
+Rococo Nobleman Outfit: Embroidered Coat with Waistcoat, Lace Cravat, Breeches, Velvet Shoes
+Georgian Dandy Outfit: Tailcoat with Elaborate Embroidery, Ruffled Shirt, Silk Stockings, Cane
+18th Century Fop Outfit: Velvet Smoking Jacket, Ascot Tie, Cane, Dressing Gown, Silk Slippers
+Masquerade Enthusiast {Victorian | Vintage | Period | Fancy} Outfit: Masquerade Costume, Mask, Cape, Buckled Shoes
+18th Century Aristocratic Officer Outfit: Embroidered Military Uniform, Epaulettes, Decorative Sword, Dress Hat
+Regency Dandy Outfit: Tailcoat, Cravat, High Collar Shirt, Top Hat, Walking Stick
+Victorian Gentleman Outfit: Frock Coat, Ascot Tie, Wool Trousers, Pocket Watch, Polished Shoes
+Belle Époque Elegance Outfit: Morning Coat, Bowler Hat, Monocle, Pocket Watch, Umbrella
+Edwardian Dandy Outfit: Tailcoat, Cravat, Homburg Hat, Walking Stick, Patent Leather Shoes
+Gilded Age Magnate Outfit: Three-Piece Suit, Diamond-studded Cufflinks, Top Hat, Monocle
+Baroque Noble Outfit: Embroidered Coat with Brocade Waistcoat, Jabot, Knee Breeches, Buckled Shoes
+Georgian Beau Outfit: Velvet Suit with Lace Trim, Ruffled Shirt, Diamond Brooch, Tricorn Hat
+18th Century Fop Outfit: Silk Dressing Gown, Frilled Shirt, Lavish Waistcoat, Silk Slippers
+18th Century Masked Ball Outfit: Masquerade Costume, Velvet Cape, Dominos Mask, Buckled Shoes
+18th Century Military Officer Outfit: Regimental Uniform, Epaulettes, Dress Sword, Decorative Sash
+Victorian Aristocrat Outfit: Tailcoat, Cravat, Waistcoat with Gold Buttons, Top Hat, Cane
+Edwardian Noble Outfit: Tailcoat, Ascot Tie, Waistcoat with Embroidery, Homburg Hat
+Belle Époque Dandy Outfit: Velvet Smoking Jacket, Silk Ascot, Monocle, Dressing Gown
+Gilded Age Industrialist Outfit: Tuxedo with Cummerbund, Diamond-studded Cufflinks, Silk Top Hat
+Regency Fop Outfit: Regency Tailcoat, Exaggerated Necktie, Top Hat, Walking Stick

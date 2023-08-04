@@ -62,3 +62,128 @@ Victorian Tea Gown: Loose-fitting tea gown, decorative sash, bonnet, delicate sl
 Victorian Walking Dress: Day dress, moderate bustle, straw bonnet, walking boots, shoes
 Victorian Winter Ensemble: Winter coat, fur trim, muff, bonnet, warm boots
 Victorian Workwear: Practical work attire, apron, bonnet, sensible boots
+Pre-war Outfit: Day Dress, Pumps, Gloves, Wide-brimmed Hat
+Pre-war Outfit: Pleated Skirt, Blouse, Oxfords, Vintage Handbag
+Pre-war Outfit: Midi Dress, T-strap Heels, Cloche Hat, Handheld Fan
+Gilded Age Outfit: Ball Gown, Opera Gloves, Tiara, Beaded Purse
+Gilded Age Outfit: Bustle Dress, Parasol, Lace Gloves, Choker Necklace
+Gilded Age Outfit: Tea Gown, Feathered Headpiece, Laced Boots, Fan
+Belle Époque Outfit: Empire Waist Gown, Lace Gloves, Feathered Fascinator, Fan
+Belle Époque Outfit: Ball Gown with Train, Opera Gloves, Pearl Necklace, Tiara
+Belle Époque Outfit: Tea Gown, Wide-brimmed Hat, Lace-Up Boots, Parasol
+Edwardian Outfit: Tea Gown, Long Gloves, Picture Hat, Pearl Choker
+Edwardian Outfit: Gibson Girl Blouse, A-line Skirt, Lace-up Boots, Parasol
+Edwardian Outfit: Edwardian Walking Suit, Wide-brimmed Hat, Lace-up Boots, Wrist Purse
+Victorian Outfit: Bustle Dress, Lace Gloves, Bonnet, Cameo Brooch
+Victorian Outfit: Day Dress, Parasol, Low-heeled Boots, Cameo Necklace
+Victorian Outfit: Victorian Ball Gown, Opera Gloves, Tiara, Choker Necklace
+Wild West Outfit: Fringe Jacket, Denim Skirt, Cowgirl Boots, Western Hat
+Wild West Outfit: Prairie Dress, Cowgirl Boots, Wide-brimmed Hat, Leather Belt
+Wild West Outfit: Western-style Dress, Leather Vest, Ankle Boots, Leather Fringe Purse
+Napoleonic Outfit: Empire Waist Gown, Feathered Headpiece, Silk Gloves, Fan
+Napoleonic Outfit: Regency Gown, Reticule Bag, Lace Gloves, Cameo Brooch
+Napoleonic Outfit: Liberty Cap, Simple Dress, Shawl, Wooden Clogs
+Enlightenment Outfit: Robe à la Française, Heeled Mules, Decorative Fan, Statement Necklace
+Enlightenment Outfit: Gown with Panniers, Embroidered Shoes, Feathered Hair Accessory, Handheld Fan
+Enlightenment Outfit: Marie Antoinette-style Dress, Masquerade Mask, Elbow-length Gloves, Court Shoes
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Robe à la Française, Heeled Mules, Fan, Statement Necklace
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Rococo Gown, Powdered Wig, Silk Gloves, Embroidered Heels
+Rococo {Historical | Vintage | Period | Fancy} Outfit: Grand Ball Gown, Elbow-length Gloves, Marie Antoinette-style Wig, Court Shoes
+Regency Outfit: Empire Waist Gown, Ribbon Choker, Flat Slippers, Reticule Bag
+Victorian Outfit: Day Dress with Bustle, Gloves, Bonnet, High-button Boots
+Victorian Outfit: Ball Gown with Crinoline, Tiara, Opera Gloves, Fan
+Crinoline Era Outfit: Bustle Gown, Parasol, Feathered Hat, Lace Gloves
+Late Victorian Outfit: Tailored Walking Suit, Small Top Hat, High-button Boots, Cameo Brooch
+Wild West Outfit: Fringe Jacket, Denim Skirt, Cowgirl Boots, Western Hat
+Edwardian Outfit: S-curve Gown, Wide-brimmed Hat, Gloves, T-strap Heels
+Belle Époque Outfit: Empire Waist Gown, Feathered Headpiece, Silk Gloves, Fan
+Art Nouveau Outfit: Flowy Dress with Floral Motifs, Art Nouveau Jewelry, Mary Jane Shoes
+Gibson Style Outfit: S-bend Gown, Picture Hat, Parasol, Lace Gloves
+Sports Outfit: Golf Dress, Golf Cap, Two-toned Oxfords, Golf Clubs
+Suffragette Era Outfit: Shirtwaist Dress, Sash, Wide-brimmed Hat, Suffragette Banner
+Ragtime Era Outfit: Flapper Dress, Cloche Hat, T-strap Heels, Long Pearl Necklace
+Garden Party {Victorian | Vintage | Period | Fancy} Outfit: Floral Tea Dress, Wide-brimmed Sun Hat, Parasol, Lace Gloves
+Pre-Raphaelite Outfit: Flowy Gown with Floral Prints, Bohemian Headband, Lace-up Boots
+Mourning {Victorian | Vintage | Period | Fancy} Attire: Black Mourning Gown, Black Veil, Jet Jewelry, Mourning Fan
+Steampunk Outfit: Steampunk Corset Dress, Goggles, Lace-up Boots, Gear Jewelry
+Romantic Era Outfit: Flowing Gown with Empire Waist, Hair Jewelry, Ballet Flats
+Railway Travel {Victorian | Vintage | Period | Fancy} Outfit: Travel Dress with Cape, Travel Hat, Leather Gloves, Travel Trunk
+Bustle Era Outfit: Bustle Gown, Parasol, Wide-brimmed Hat, Lace Gloves
+Indian Royalty {Victorian | Vintage | Period | Fancy} Outfit: Anarkali Gown, Maang Tikka, Jhumka Earrings, Mojris
+Chinese {Victorian | Vintage | Period | Fancy} Outfit: Cheongsam Qipao, Floral Hairpin, Silk Slippers, Tassled Purse
+Meiji Era {Victorian | Vintage | Period | Fancy} Outfit: Furisode Kimono, Obi Belt, Zori Sandals, Folding Fan
+African {Victorian | Vintage | Period | Fancy} Outfit: Ankara Print Dress, Gele Headwrap, Cowrie Shell Jewelry, Beaded Sandals
+Maori {Victorian | Vintage | Period | Fancy} Outfit: Wahine Piupiu, Pounamu Necklace, Pihepi Earrings, Flax Woven Bag
+Native American {Victorian | Vintage | Period | Fancy} Outfit: Buckskin Dress, Beaded Hair Ties, Turquoise Jewelry, Leather Pouch
+Persian {Victorian | Vintage | Period | Fancy} Outfit: Qajar Robe, Hijab, Embroidered Scarf, Pointed Slippers
+Ottoman {Victorian | Vintage | Period | Fancy} Outfit: Ferace, Yashmak Veil, Harem Pants, Ottoman Slippers
+Caribbean {Victorian | Vintage | Period | Fancy} Outfit: Ruffled Blouse, Sarong Skirt, Shell Necklace, Barefoot Sandals
+Aboriginal {Victorian | Vintage | Period | Fancy} Outfit: Dirndl Dress, Tjapaltjarri Necklace, Kangaroo Skin Bag, Emu Feather Headband
+Sikh {Victorian | Vintage | Period | Fancy} Outfit: Salwar Kameez, Chiffon Dupatta, Jhumka Earrings, Mojris
+Jewish {Victorian | Vintage | Period | Fancy} Outfit: Tichel Headscarf, Long Skirt, Shabbat Candles, Shofar
+Irish {Victorian | Vintage | Period | Fancy} Outfit: Celtic Knot Dress, Shawl, Claddagh Ring, Leather Boots
+Romani {Victorian | Vintage | Period | Fancy} Outfit: Full Skirt Dress, Headscarf with Coins, Bangle Bracelets, Embroidered Shawl
+Hasidic {Victorian | Vintage | Period | Fancy} Outfit: Sheitel Wig, Modest Dress, Kosher Necklace, Closed Toe Shoes
+Prussian {Victorian | Vintage | Period | Fancy} Uniform: Fitted Jacket, Long Skirt, Feathered Shako Hat, Leather Gloves
+French Empire Outfit: Empire Waist Gown, Turban, Opera Gloves, Dainty Slippers
+Mourning {Victorian | Vintage | Period | Fancy} Attire: Black Mourning Gown, Black Veil, Jet Jewelry, Mourning Fan
+Highland {Victorian | Vintage | Period | Fancy} Outfit: Tartan Gown, Sash, Tam O'Shanter Hat, Leather Brogues
+Civil War Outfit: Civilian Dress, Bonnet, Shawl, Lace-up Boots
+Steampunk Outfit: Steampunk Corset Dress, Goggles, Lace-up Boots, Gear Jewelry
+Suffrage Movement Outfit: Shirtwaist Dress, Sash, Wide-brimmed Hat, Suffrage Banner
+Hawaiian {Victorian | Vintage | Period | Fancy} Outfit: Holoku Dress, Lei, Haku Lei \(Headband\), Barefoot
+Garden Party {Victorian | Vintage | Period | Fancy} Outfit: Floral Tea Dress, Wide-brimmed Sun Hat, Parasol, Lace Gloves
+Gymnasium {Victorian | Vintage | Period | Fancy} Outfit: Gymnasium Dress, Bloomers, Tennis Shoes
+American Western Outfit: Prairie Dress, Cowboy Boots, Wide-brimmed Hat, Bandana
+Sporting {Victorian | Vintage | Period | Fancy} Outfit: Bloomer Suit, Straw Boater Hat, Laced Oxfords, Croquet Set
+Caribbean {Victorian | Vintage | Period | Fancy} Outfit: Ruffled Blouse, Sarong Skirt, Shell Necklace, Barefoot Sandals
+Seaside {Victorian | Vintage | Period | Fancy} Outfit: Bathing Costume with Bloomers, Sunbonnet, Beach Umbrella
+Civil War Nurse Outfit: Nurse Uniform with Apron, Bonnet, Cape, Lace-up Boots
+18th Century Aristocrat Outfit: Robe à la Française, Pompadour Wig, Fan, Diamond Necklace, Satin Slippers
+18th Century Socialite Outfit: Court Gown with Watteau Train, Feathered Hairpiece, Opera Gloves, Masquerade Mask
+18th Century High Society Outfit: Hoop Skirt Ball Gown, Gilded Mask, Diamond Earrings, Opera Length Gloves
+18th Century Aristocratic Heiress Outfit: Brocade Gown, Cameo Necklace, Feathered Hair Accessory, Lace Parasol
+18th Century Country Lady Outfit: Riding Habit, Velvet Hat with Plume, Riding Crop, Leather Riding Boots
+19th Century High Society Outfit: Bustle Gown, Tiara, Lace Gloves, Opera Length Pearl Necklace
+19th Century Socialite Outfit: Ball Gown with Detachable Train, Choker Necklace, Opera Gloves, Statement Fan
+19th Century Victorian Belle Outfit: Victorian Day Dress, Lace Parasol, Cameo Brooch, Floral Bonnet
+19th Century Aristocratic Lady Outfit: Empire Waist Gown, Feathered Headpiece, Lace Fan, Pearl Drop Earrings
+19th Century Ballroom Beauty Outfit: Ball Gown with Tulle Skirt, Hair Combs with Jewels, Opera Length Gloves
+Middle Class Lady {Victorian | Vintage | Period | Fancy} Outfit: Day Dress with Puffed Sleeves, Bonnet, Simple Necklace, Low-heeled Shoes
+Middle Class Seamstress {Victorian | Vintage | Period | Fancy} Outfit: Simple Gown with Apron, Sewing Basket, Spectacles, Simple Bonnet
+Middle Class Schoolteacher {Victorian | Vintage | Period | Fancy} Outfit: Modest Dress, Eyeglasses, Leather Satchel, Flat Shoes
+Middle Class Milliner {Victorian | Vintage | Period | Fancy} Outfit: Fitted Bodice Dress, Decorative Hat, Ribbon-trimmed Gloves, Lace-up Boots
+Middle Class Apothecary {Victorian | Vintage | Period | Fancy} Outfit: Blouse, Skirt with Apron, Mortar and Pestle, Simple Headband
+19th Century Military Nurse Outfit: Military Nurse Uniform with Red Cross, Nurse Cap, Stethoscope, Leather Shoes
+19th Century Governess Outfit: High-necked Dress, Spectacles, Books, Simple Bonnet
+19th Century Postmistress Outfit: Modest Dress, Spectacles, Mailbag, Bonnet
+19th Century Factory Worker Outfit: Simple Blouse, Skirt with Apron, Wooden Clogs, Headscarf
+19th Century Schoolteacher Outfit: Modest Dress, Eyeglasses, Chalkboard, Simple Bonnet
+18th Century French Courtier \(Court Dress\) Outfit: Court Gown with Elaborate Hoop Skirt, Mantua, Feathered Hairpiece, Fan
+18th Century Kitchen Maid \(Servant\) Outfit: Simple Working Dress, Apron, Cap, Wooden Clogs
+18th Century Tavern Wench \(Working Class\) Outfit: Low-cut Bodice Dress, Apron, Tankard, Headscarf
+18th Century Gypsy Fortune Teller \(Nomadic\) Outfit: Flowing Bohemian Dress, Coin Belt, Headscarf with Coins, Crystal Ball
+19th Century Seamstress Outfit: Fitted Bodice Dress, Sewing Basket, Spectacles, Simple Bonnet
+19th Century Schoolteacher Outfit: Modest Dress, Eyeglasses, Books, Simple Bonnet
+19th Century Milliner Outfit: Fitted Bodice Dress, Decorative Hat, Ribbon-trimmed Gloves, Lace-up Boots
+19th Century Governess Outfit: High-necked Dress, Spectacles, Books, Simple Bonnet
+Rococo Aristocrat Outfit: Robe à la Française with Watteau Train, Powdered Wig, Diamond Necklace, Silk Slippers
+Georgian Belle Outfit: Empire Waist Gown, Feathered Hair Accessory, Lace Fan, Opera Length Gloves
+18th Century Coquette Outfit: Fitted Bodice Dress, Ribbon-trimmed Hat, Lace Parasol, Silk Gloves
+Masquerade Diva {Victorian | Vintage | Period | Fancy} Outfit: Elaborate Ball Gown, Feathered Mask, Opera Gloves, Diamond Choker
+18th Century Courtier Outfit: Court Gown with Hoop Skirt, Diamond Tiara, Opera Gloves, Fan
+Regency Lady Outfit: Empire Waist Gown, Ribbon-trimmed Bonnet, Cameo Brooch, Lace Gloves
+Victorian Socialite Outfit: Bustle Gown, Diamond Tiara, Opera Length Gloves, Pearl Necklace
+Belle Époque Aristocrat Outfit: S-curve Gown, Plumed Hat, Lace Parasol, Fan, Cameo Earrings
+Edwardian Elegance Outfit: Titanic-style Gown, Wide-brimmed Hat with Feathers, Opera Gloves, Pearl Necklace
+Gilded Age Debutante Outfit: Gilded Gown, Tiaras with Gems, Opera Gloves, Diamond Necklace
+Baroque Aristocrat Outfit: Ornate Gown with Panniers, Pompadour Wig, Jeweled Necklace, Satin Slippers
+Georgian Courtesan Outfit: Corseted Gown with Ruffled Bodice, Feathered Hairpiece, Lace Fan, Silk Gloves
+18th Century Siren Outfit: Corseted Dress with Low Neckline, Feathered Headpiece, Lace Fan, Opera Gloves
+18th Century Masked Ball Outfit: Elaborate Ball Gown with Masked Visage, Feathered Mask, Lace Gloves, Diamond Earrings
+18th Century Aristocratic Officer Outfit: Military-Inspired Gown with Decorative Braiding, Officer's Hat, Medals, Embroidered Gloves
+Victorian Belle Outfit: Ball Gown with Bustle, Tiara, Lace Gloves, Diamond Necklace
+Edwardian Elegance Outfit: Edwardian Gown with Beaded Bodice, Wide-brimmed Hat, Opera Gloves, Pearl Necklace
+Belle Époque Socialite Outfit: Gown with S-curve Silhouette, Plumed Hat, Lace Parasol, Diamond Brooch
+Gilded Age Fashionista Outfit: Elaborate Gown with Exquisite Embroidery, Diamond Tiara, Opera Length Gloves
+Regency Aristocrat Outfit: Empire Waist Gown, Feathered Hair Accessory, Cameo Brooch, Lace Gloves
