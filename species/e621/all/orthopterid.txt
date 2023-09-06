@@ -1,0 +1,1 @@
+{37::orthopterid|121::grasshopper|58::locust|141::cricket}

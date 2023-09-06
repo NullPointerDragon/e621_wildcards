@@ -1,0 +1,1 @@
+{178::cervine humanoid|47::capreoline humanoid|53::reindeer humanoid}

@@ -1,0 +1,1 @@
+{8088::hyena|82::hyena humanoid|68::werehyena|737::aardwolf|334::brown hyena|19269::spotted hyena|3898::striped hyena|1880::gnoll}

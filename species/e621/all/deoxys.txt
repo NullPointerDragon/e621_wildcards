@@ -1,0 +1,1 @@
+{100::deoxys|95::normal forme deoxys|60::attack forme deoxys}

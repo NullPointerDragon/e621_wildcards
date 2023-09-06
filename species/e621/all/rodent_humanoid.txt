@@ -1,0 +1,1 @@
+{325::rodent humanoid|115::sciurid humanoid|26::ground squirrel humanoid|52::chipmunk humanoid|1566::tree squirrel humanoid|10::murid humanoid|1342::mouse humanoid|284::rat humanoid}

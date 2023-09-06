@@ -1,0 +1,1 @@
+{87::deerling|201::spring deerling|105::summer deerling|65::autumn deerling|72::winter deerling}

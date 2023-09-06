@@ -1,0 +1,1 @@
+{4155::welsh corgi|59::pembroke welsh corgi|15287::german shepherd|117::berger blanc suisse|24::cattledog|1638::australian cattle dog|216::sheepdog|61::australian kelpie|1917::australian shepherd|137::belgian shepherd|1290::collie|5647::border collie|659::rough collie|94::shetland sheepdog|124::malinois dog|298::old english sheepdog|170::beauceron}

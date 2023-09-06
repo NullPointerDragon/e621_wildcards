@@ -1,0 +1,1 @@
+{343::caprine humanoid|902::sheep humanoid|741::goat humanoid}

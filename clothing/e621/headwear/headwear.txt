@@ -1,0 +1,9 @@
+hat
+headscarf
+shemagh
+hood
+taqiyah
+turban
+headset
+headphones
+helmet

@@ -1,0 +1,1 @@
+{65::galliform humanoid|92::phasianid|1061::turkey|1851::peafowl|202::quail|39::gallus \(genus\)|11922::chicken|123::leghorn chicken|1::phasianus|74::common pheasant|1::chrysolophus|201::golden pheasant}

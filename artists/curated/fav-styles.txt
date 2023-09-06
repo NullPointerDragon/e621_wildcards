@@ -1,0 +1,87 @@
+((crosshatching))
+((pointillism))
+(woodcut print)
+({badly|poorly} {drawn|doodled}{| with crayons})
+({badly|poorly} {drawn|doodled}{| with markers})
+({ink |}stamp)
+({telegram |}sticker)
+19{2|3|4|5}0s comic style, line art, vintage screen print
+19{6|7|8|9}0s comic style, line art, vintage screen print
+(CRT Monitor)
+(LaserDisc)
+{colored |}((chalk art) [[drawing]] on a blackboard)
+Pencil and Markers
+VHS {tape|recording}
+Watercolor and gouache
+acrylic on canvas
+acrylic paint
+air brush
+amateur {crayon|marker} drawing
+arts and crafts
+artstation
+black and white brushwork
+blueprint
+(cartoon network)
+({boiling lines|shimmering outlines})
+chalk and brush
+colored chalk drawing
+colored pencils sketch
+concept art
+daguerreotype
+digital painting
+fantasy illustration
+gouache
+graphite
+greyscale pencil sketch
+illustration
+impasto impressionism painting
+infrared photography
+ink and watercolor
+ink blots
+medieval art
+modern comic style, line art, screen print
+oil painting
+oil pastels
+paint splatters
+painted ceramics
+painted enamel
+pastel painting
+photographic negative
+pinhole photography
+polariod
+professional illustration
+sculpture
+sharpie marker drawing
+soft pastel
+spray paint
+spraypaint and enamel
+technical drawing
+tempera painting
+tie-dye
+graffiti on a {brick|concrete|painted} wall
+ultraviolet photography
+watercolor painting
+{1980's|1990's|2000's} anime
+{bright|white} chalk on {dark|black} background
+{marker |}pen and ink
+{mirror |}selfie{|, looking at viewer}
+{office |}(stock photography){|, posing}{|, looking at viewer}{|, smile}
+{realism|realistic|photorealism|photorealistic}
+{traditional |neo}folk art
+{{marble|obsidian|stone|concrete|iron|copper|crystal|glass} |}statue
+{|CMYK} screen print {registration error|registration misalignment|position misalignment in overlapped patterns}
+{|single|2|3|4|5|6|7|8|CMYK} color screen print
+((looney tunes))
+(19{2|3|4|5|6|7|8|9}0{|s|'s}{||| soviet| soviet| chinese| american| american| eastern european| yugoslavian}{| propaganda| advertisement} poster)
+(19{2|3|4|5|6|7|8|9}0{|s|'s}{||| soviet| soviet| chinese| american| american| eastern european| yugoslavian}{| propaganda| advertisement} poster)
+double exposure
+overexposed
+underexposed
+high-speed photography
+carpet
+tapestry
+((sketchy inked lineart drawing))
+(retro artstyle, oldschool:1.3){|, scan}{|, cowboy shot}{|, science fiction}{|, cyberpunk}
+(1980s \(style\), retro artstyle, oldschool:1.3){|, scan}{|, traditional media}{|, cowboy shot}{|, science fiction}{|, cyberpunk}
+(1980s \(style\):1.3), retro artstyle, oldschool{|, scan}{|, traditional media}{|, cowboy shot}{|, science fiction}{|, cyberpunk}
+(1980s \(style\), retro artstyle:1.3){|, scan}{|, traditional media}{|, cowboy shot}{|, science fiction}{|, cyberpunk}

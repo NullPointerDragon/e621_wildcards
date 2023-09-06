@@ -1,0 +1,1 @@
+{62::musteline humanoid|4::weasel humanoid|279::stoat humanoid}

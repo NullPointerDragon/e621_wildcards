@@ -1,0 +1,1 @@
+{2086::food creature|935::living fruit|386::fruit humanoid|113::living vegetable|550::food humanoid|157::candy humanoid|495::living candy|273::candy people \(at\)}

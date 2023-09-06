@@ -1,0 +1,1 @@
+{31::bovid taur|13::bovine taur|52::bucentaur|155::cattle taur|44::caprine taur|73::sheep taur}

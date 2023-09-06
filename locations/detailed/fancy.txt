@@ -398,3 +398,83 @@ Victorian High Street Background: Victorian shops, gas street lamps, horse-drawn
 Rococo City Gardens Background: Ornate city gardens, decorative fountains, winding pathways, grand statues.
 Edwardian Boardwalk Amusement Park Background: Vintage amusement rides, striped carnival tents, popcorn carts, festive flags.
 Baroque Government Square Background: Government buildings, central square with ornate fountain, historical charm, bustling activity.
+Village Marketplace Background: Open-air market stalls, local produce, bustling shoppers, cobblestone paths.
+Cottage Kitchen Background: Rustic wooden furniture, cast-iron stove, hanging pots, baskets of vegetables.
+Country Inn Interior Background: Wooden beams, stone fireplace, wooden tables and benches, lantern lighting.
+Cobblestone Street Background: Narrow street, uneven cobblestones, simple wooden facades, gas street lamps.
+Farmyard Background: Red barn, grazing animals, haystacks, wooden fences.
+Coastal Fishing Village Background: Colorful fishing boats, nets drying, fishing gear, small harbor.
+Village Well Background: Stone well with bucket, wooden pulley, village gathering spot, simple benches.
+Rustic Cottage Garden Background: Cottage garden flowers, wooden trellises, vegetable patches, rustic wooden bench.
+Country Schoolroom Background: Wooden desks, chalkboard, educational charts, inkwells.
+Village Blacksmith Forge Background: Anvil and tools, blazing furnace, horseshoes, wagon wheels.
+Village Church Interior Background: Wooden pews, simple altar, stained glass windows, quiet atmosphere.
+Backyard Clothesline Background: Hanging laundry, wooden clothespins, rustic backyard setting.
+Village Water Mill Background: Working water mill, turning water wheel, nearby stream, simple wooden building.
+Country Path through Fields Background: Dirt path, rolling fields, wildflowers, distant farmhouses.
+Village Pottery Workshop Background: Potter's wheel, clay vessels, shelves of pottery, worktable with tools.
+Street Market Background: Temporary market stalls, various wares for sale, busy shoppers, street vendors.
+Cottage Living Room Background: Simple furnishings, worn rugs, family portraits, cozy fireplace.
+Country Bakery Background: Wooden shelves with baked goods, brick oven, flour sacks, aromatic scents.
+Village Tavern Interior Background: Wooden bar, simple tables and benches, hearth, local patrons.
+Rural Bridge Crossing Background: Wooden bridge over a small stream, rural surroundings, simple handrail.
+Village Dairy Farm Background: Milking cows, dairy equipment, stacks of hay, open fields.
+Country Picnic Background: Picnic blanket, basket of food, open countryside, blue sky.
+Village Shoemaker Workshop Background: Leather hides, shoemaking tools, finished shoes, workbench.
+Roadside Inn Exterior Background: Simple inn building, hitching posts, small stable, dusty road.
+Village Carpenter Workshop Background: Wood shavings, woodworking tools, wooden projects in progress, sawdust-covered floor.
+Village Herbalist's Stall Background: Display of herbs and remedies, jars of dried plants, local remedies, informative signs.
+Village Cobblestone Alley Background: Narrow alley between buildings, cobblestone ground, hanging laundry, rustic charm.
+Cottage Attic Background: Storage chests, old trunks, cobweb-covered corners, dusty light.
+Rural Gravel Path Background: Gravel path through fields, wildflowers at the edges, open skies.
+Village Orchard Background: Rows of fruit trees, blossoms or ripe fruit, grassy pathways, rustic fences.
+Country Windmill Background: Working windmill, turning sails, open fields, simple wooden construction.
+Village Cooper Workshop Background: Wooden barrels in various stages of production, tools for coopering, stacks of barrel staves.
+Rural Haystacks Background: Stacks of hay bales, open field, distant farm buildings, rural tranquility.
+Village Tannery Background: Leather hides hanging, tanning vats, tools for leatherwork, rustic building.
+Village Tailor Workshop Background: Sewing machines, bolts of fabric, dress forms, tailor's tools.
+Simple Village Well Background: Basic stone well, worn steps, nearby bucket and rope, practical utility.
+Village Apiary Background: Beehives, busy bees, wooden frames, natural surroundings.
+Rural Footpath by Stream Background: Footpath along a stream, overhanging branches, peaceful water flow, serene ambiance.
+Village Cobblers' Row Vintage Background: Rows of small shops, signs indicating cobblers, simple wooden facades, leather materials.
+Country Roadside Cross Vintage Background: Simple wooden cross, overgrown grass, rural backdrop, serene atmosphere.
+Venetian Canal Vintage Background: Narrow canal, arched bridges, gondolas, historic buildings.
+Parisian Montmartre Vintage Background: Cobblestone streets, artist easels, charming cafes, hilltop views.
+London's Tower Bridge Vintage Background: Towering suspension bridge, iconic twin towers, River Thames view, historic charm.
+New York's Central Park Vintage Background: Vast green space, meandering pathways, iconic Bow Bridge, scenic beauty.
+Prague's Charles Bridge Vintage Background: Historic stone bridge, baroque statues, Vltava River, castle backdrop.
+Sydney's Opera House Vintage Background: Distinctive modern architecture, harbor views, iconic sail-like shells, vibrant cityscape.
+Rome's Piazza Navona Vintage Background: Elegant central square, baroque fountains, historic buildings, lively atmosphere.
+San Francisco's Cable Car Vintage Background: Iconic cable car, historic tracks, charming city streets, panoramic views.
+Kyoto's Bamboo Forest Vintage Background: Tall bamboo grove, filtered sunlight, serene ambiance, natural beauty.
+Amsterdam's Canal District Vintage Background: Picturesque canals, historic houses, iconic bridges, scenic waterways.
+Cairo's Giza Pyramids Vintage Background: Ancient pyramids, vast desert landscape, iconic historical site, grandeur.
+Vienna's Schönbrunn Palace Vintage Background: Grand palace façade, manicured gardens, ornate fountains, historical elegance.
+Istanbul's Hagia Sophia Vintage Background: Iconic dome, intricate mosaics, historic architecture, cultural significance.
+Boston's Beacon Hill Vintage Background: Cobblestone streets, historic brownstones, gas street lamps, charming atmosphere.
+Moscow's Red Square Vintage Background: Central square, historic Kremlin walls, St. Basil's Cathedral, bustling activity.
+Tokyo's Imperial Palace Gardens Vintage Background: Manicured gardens, traditional bridges, serene water features, imperial architecture.
+Edinburgh's Castle Hill Vintage Background: Historic castle perched on hill, cobblestone streets, city views, medieval charm.
+Mumbai's Gateway of India Vintage Background: Iconic arch, waterfront location, historic significance, bustling harbor.
+Charleston's Rainbow Row Vintage Background: Row of colorful historic houses, cobblestone streets, charming architecture.
+Rio de Janeiro's Sugarloaf Mountain Vintage Background: Iconic mountain peak, stunning views, cable car, natural beauty.
+Berlin's Brandenburg Gate Vintage Background: Historic city gate, iconic architecture, grandeur, city center focal point.
+Montreal's Old Port Vintage Background: Quaint cobblestone streets, historic warehouses, waterfront views, charming atmosphere.
+Beijing's Forbidden City Vintage Background: Vast palace complex, iconic red walls, traditional architecture, historical significance.
+Lisbon's Tram 28 Vintage Background: Iconic yellow tram, historic routes, narrow streets, cityscape views.
+Florence's Ponte Vecchio Vintage Background: Historic bridge over the Arno River, iconic shops, old-world charm.
+Buenos Aires' La Boca Neighborhood Vintage Background: Colorful houses, tango performances, lively streets, cultural vibrancy.
+Prague's Astronomical Clock Vintage Background: Historic clock tower, intricate clock face, hourly show, central square.
+Boston's Freedom Trail Vintage Background: Historic trail markers, cobblestone paths, significant sites, colonial history.
+Cairo's Khan El Khalili Bazaar Vintage Background: Bustling bazaar, vibrant stalls, historic architecture, rich atmosphere.
+Edinburgh's Royal Mile Vintage Background: Historic street, medieval architecture, bustling crowds, lively ambiance.
+Quebec City's Old Town Vintage Background: Historic stone walls, charming streets, European ambiance, city views.
+Paris' Montparnasse Tower Vintage Background: Tall observation tower, panoramic city views, iconic cityscape, modern architecture.
+Venice's St. Mark's Square Vintage Background: Elegant central square, iconic basilica, historic clock tower, lively atmosphere.
+Athens' Acropolis Vintage Background: Ancient citadel, iconic Parthenon temple, historical significance, elevated views.
+New Orleans' French Quarter Vintage Background: Historic district, colorful buildings, wrought-iron balconies, lively streets.
+Sydney's The Rocks Vintage Background: Historic area, cobblestone streets, colonial buildings, waterfront views.
+Prague's Prague Castle Vintage Background: Majestic castle complex, sweeping city views, historic architecture, cultural significance.
+London's British Museum Vintage Background: Iconic museum façade, cultural treasures, grand architecture, historical significance.
+Cairo's Al-Muizz Street Vintage Background: Historic street, ancient architecture, bustling market stalls, cultural vibrancy.
+Istanbul's Bosphorus Bridge Vintage Background: Iconic suspension bridge, spanning the strait, city views, modern engineering.

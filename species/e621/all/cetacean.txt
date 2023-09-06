@@ -1,0 +1,1 @@
+{865::cetacean|105::cetacean humanoid|100::orca humanoid|46::baleen whale|62::blue whale|236::sperm whale|3058::oceanic dolphin|7175::orca|172::bottlenose dolphin|239::beluga|110::narwhal}

@@ -1,0 +1,1 @@
+{101::proboscidean|20::proboscidean humanoid|56::elephant humanoid|77::elephantid|5477::elephant|67::african elephant|327::mammoth}

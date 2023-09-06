@@ -1,0 +1,1 @@
+{972::humanoid taur|3510::centaur|52::bucentaur}

@@ -1,0 +1,1 @@
+{61662::horse|48549::pony|64737::earth pony|817::draft horse|155::fjord horse|164::shire|931::clydesdale|175::friesian|111::horse taur|80::appaloosa|200::gypsy vanner|211::american paint horse|62::arabian horse|55::andalusian horse}

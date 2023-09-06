@@ -1,0 +1,1 @@
+{311::corvid|62::corvid humanoid|56::jay \(bird\)|97::new world jay|2996::blue jay|413::magpie \(corvid\)|23::holarctic magpie|146::eurasian magpie|69::yellow-billed magpie|1918::raven|4535::crow|58::hooded crow}

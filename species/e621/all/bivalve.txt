@@ -1,0 +1,1 @@
+{42::bivalve|53::oyster|147::clam}

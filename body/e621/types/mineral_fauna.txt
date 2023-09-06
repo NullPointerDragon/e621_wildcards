@@ -1,0 +1,11 @@
+mineral body, rock
+mineral body, lava
+mineral body, crystal
+mineral body, metallic body
+mineral body, ice
+mineral body, snow
+mineral body, sand
+mineral body, mud
+mineral body, clay
+mineral body, gravel
+mineral body, golem

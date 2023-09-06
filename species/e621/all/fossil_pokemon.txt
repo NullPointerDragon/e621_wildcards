@@ -1,0 +1,1 @@
+{86::omanyte|92::omastar|85::kabuto|113::kabutops|189::aerodactyl|59::lileep|96::cradily|89::armaldo|55::cranidos|113::rampardos|70::carracosta|156::archen|252::archeops|305::aurorus|83::amaura|72::tyrunt|456::tyrantrum|144::dracozolt|59::dracovish}

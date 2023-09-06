@@ -1,0 +1,1 @@
+{9::eulipotyphlan humanoid|74::mole humanoid|106::hedgehog humanoid|38051::hedgehog|900::mole \(animal\)|114::shrew|155::arctic shrew|2::wereeulipotyphlan|1200::werehog}

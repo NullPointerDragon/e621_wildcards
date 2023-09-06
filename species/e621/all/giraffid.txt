@@ -1,0 +1,1 @@
+{468::giraffid|26::giraffid humanoid|61::giraffe humanoid|629::okapi|5898::giraffe}

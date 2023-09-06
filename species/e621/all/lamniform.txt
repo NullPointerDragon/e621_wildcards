@@ -1,0 +1,1 @@
+{37::lamniform|44::lamnid|101::mako shark|91::salmon shark|527::great white shark|55::goblin shark|257::thresher shark|137::megalodon}

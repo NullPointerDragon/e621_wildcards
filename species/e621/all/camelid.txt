@@ -1,0 +1,1 @@
+{1326::llama|1774::alpaca|54::alpaca taur|358::camel|71::dromedary|58::guanaco|10::camelid humanoid|57::alpaca humanoid|9::camelid taur}

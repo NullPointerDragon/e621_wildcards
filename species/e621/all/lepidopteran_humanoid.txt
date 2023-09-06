@@ -1,0 +1,1 @@
+{32::lepidopteran humanoid|106::butterfly humanoid|479::moth humanoid}

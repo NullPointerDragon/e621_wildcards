@@ -1,0 +1,1 @@
+{586::reptile humanoid|110::crocodilian humanoid|64::dinosaur humanoid|483::lizard humanoid|189::chameleon humanoid|1020::snake humanoid|50::turtle humanoid}

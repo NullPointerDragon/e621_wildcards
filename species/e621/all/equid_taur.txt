@@ -1,0 +1,1 @@
+{56::equid taur|463::equine taur|111::horse taur|80::zebra taur|3510::centaur}

@@ -1,0 +1,1 @@
+{345::terrier|68::yorkshire terrier|1167::bull terrier|114::american pit bull terrier|305::boston terrier|467::jack russell terrier|66::scottish terrier}

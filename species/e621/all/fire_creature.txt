@@ -1,0 +1,1 @@
+{892::fire creature|188::fire humanoid}

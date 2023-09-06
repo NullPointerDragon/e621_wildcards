@@ -1,0 +1,1 @@
+{166::mineral fauna|35::mineral humanoid|89::petrosapien|82::snow humanoid|54::ice humanoid|124::rock humanoid|95::crystal humanoid|543::rock creature|190::lava creature|69::sand creature|141::ice creature|63::snow creature|50::crystal creature|259::gem creature}

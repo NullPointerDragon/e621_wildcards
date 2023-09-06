@@ -1,0 +1,1 @@
+{105::cetacean humanoid|100::orca humanoid}

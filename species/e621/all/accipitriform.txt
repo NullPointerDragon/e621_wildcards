@@ -1,0 +1,1 @@
+{507::vulture|98::old world vulture|466::bearded vulture|253::egyptian vulture|852::secretary bird|1411::accipitrid|1826::eagle|171::harpy eagle|64::sea eagle|1956::bald eagle|20::true eagle|468::golden eagle|721::philippine eagle|27::aquilinae|56::ornate hawk-eagle|34::buteo|223::red-tailed hawk|37::chickenhawk|34::true hawk|13::accipiter|86::eurasian sparrowhawk|351::osprey}

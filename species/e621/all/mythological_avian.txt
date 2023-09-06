@@ -1,0 +1,1 @@
+{230::cockatrice|1977::harpy|146::harpy humanoid|20287::gryphon|63::gryphon taur|2104::hippogriff|58::ubumetori|358::mythological firebird|56::mythological fenghuang|1947::phoenix}

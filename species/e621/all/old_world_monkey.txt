@@ -1,0 +1,1 @@
+{71::old world monkey|200::baboon|211::mandrill|69::macaque|127::japanese macaque}

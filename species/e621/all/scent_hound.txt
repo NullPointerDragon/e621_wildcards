@@ -1,0 +1,1 @@
+{149::scent hound|757::basset hound|1498::beagle|123::bloodhound|66::coonhound}

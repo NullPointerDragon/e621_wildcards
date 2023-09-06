@@ -1,0 +1,1 @@
+{82::mollusk humanoid|1584::cephalopod humanoid|5730::inkling|355::octopus humanoid|343::squid humanoid|78::gastropod humanoid|119::slug humanoid}

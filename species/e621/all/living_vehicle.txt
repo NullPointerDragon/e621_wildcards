@@ -1,0 +1,1 @@
+{1896::living aircraft|480::aircraft humanoid|318::dire aircraft|91::living tank|27::dire vehicle|91::dire car|136::living car|52::living watercraft}

@@ -1,0 +1,1 @@
+{10316::domestic pig|9792::wild boar|470::warthog|16::suid humanoid|181::pig humanoid}

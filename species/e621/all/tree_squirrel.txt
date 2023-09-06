@@ -1,0 +1,1 @@
+{17915::tree squirrel|62::giant squirrel|89::grey squirrel|111::eastern grey squirrel|1174::eurasian red squirrel|9::pine squirrel|78::american red squirrel}

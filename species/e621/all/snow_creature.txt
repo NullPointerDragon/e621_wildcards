@@ -1,0 +1,1 @@
+{63::snow creature|82::snow humanoid}

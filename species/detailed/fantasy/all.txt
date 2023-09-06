@@ -1,0 +1,34 @@
+humanoid, human
+humanoid, elf
+humanoid, half-elf
+humanoid, half-orc
+humanoid, gnome, (short:1.2)
+humanoid, halfing, hobbit, (short:1.2)
+humanoid, dwarf, (short:1.2)
+humanoid, changeling, shapeshifter
+humanoid, vampire, dhampir
+humanoid, elf, drow
+humanoid, dwarf, duergar
+humanoid, fetchling, shadow creature
+humanoid, fey
+humanoid, fauna flora, leshy
+humanoid, goblin
+humanoid, orc
+humanoid, hobgoblin
+humanoid, tiefling, {demon|devil|daemon}
+humanoid, aasimar, angel
+humanoid, elemental, fire creature, ifrit
+humanoid, elemental, water creature, undine
+humanoid, elemental, rock creature, oread
+humanoid, elemental, air creature, sylph
+anthro, reptilian, draconic, kobold
+anthro, reptilian, draconic, dragonborn
+anthro, reptilian, lizard, lizardfolk
+anthro, reptilian, snake, yuan-ti, vishkanya
+anthro, mammal, hyena, gnoll
+anthro, mammal, vulpine, kitsune
+anthro, mammal, feline, catfolk
+anthro, mammal, rodent, ratfolk
+anthro, amphibian, frog, grippli
+anthro, avian, bird, tengu, aarakocra
+anthro, mammal, simian, vanara

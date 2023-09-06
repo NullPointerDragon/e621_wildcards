@@ -1,0 +1,1 @@
+{3::cnidarian humanoid|12::anthozoan humanoid|67::sea anemone humanoid|1::medusozoan humanoid|222::jellyfish humanoid|551::coral|128::sea anemone|758::jellyfish}

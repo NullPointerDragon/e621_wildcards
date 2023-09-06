@@ -1,0 +1,1 @@
+{958::bovine humanoid|5033::cattle humanoid}

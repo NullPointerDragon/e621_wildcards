@@ -1,0 +1,1 @@
+{2807::weasel|177::long-tailed weasel|1896::stoat|191::black-footed ferret|359::common ferret|5975::domestic ferret|267::mustela humanoid|257::least weasel}

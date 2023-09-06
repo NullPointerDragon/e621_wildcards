@@ -1,0 +1,1 @@
+{23::grazing antelope|55::sable antelope|650::oryx|297::gemsbok}

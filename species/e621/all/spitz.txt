@@ -1,0 +1,1 @@
+{1330::akita|218::akita inu|75::american akita|332::chow chow|64::finnish spitz|146::korean jindo|237::karelian bear dog|1613::pomeranian|6963::shiba inu|95::keeshond|304::elkhound|64::lapphund|28801::husky|1066::siberian husky|94::red husky|2274::alaskan malamute|1250::samoyed|212::kishu inu}

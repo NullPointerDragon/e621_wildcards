@@ -1,0 +1,1 @@
+{53300::demon|868::canid demon|15698::hellhound|357::caprine demon|2402::goat demon|59::sheep demon|8108::demon humanoid|2528::oni|58::daemonette \(warhammer\)}

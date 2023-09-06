@@ -1,0 +1,50 @@
+Ringmaster Outfit: Tailcoat, Top Hat with Feather, Whip, Knee-high Boots
+Trapeze Artist Outfit: Tight-fitting Unitard, Wrist Straps, Flying Boots, Chalk Bag
+Strongman Outfit: Leopard-print Singlet, Weightlifting Belt, Barbell, Mustache
+Tightrope Walker Outfit: Tight Leggings, Vest with Straps, Balancing Pole, Ballet Slippers
+Clown Outfit: Baggy Polka-dot Jumpsuit, Oversized Shoes, Red Nose, Rainbow Wig
+Fortune Teller Outfit: Gypsy-Inspired Vest, Wide Belt, Tarot Cards, Scarf
+Magician Outfit: Tuxedo with Cape, Top Hat, Magic Wand, Pocket Watch
+Contortionist Outfit: Flexible Bodysuit, Contortion Training Gear, Barefoot
+Juggler Outfit: Colorful Vest, Juggling Clubs or Balls, Bowler Hat, Wacky Accessories
+Assistant Outfit: Velvet Jacket, Sash Belt, Crystal Ball Stand, Curly Wig
+Acrobat Outfit: Matching Unitard, Partner Balancing Tricks, Gymnastics Shoes
+Fire Eater Outfit: Flaming Performer's Costume, Fire-Eating Props, Fire-Resistant Gloves
+Animal Trainer Outfit: Tailored Vest with Whistle, Animal Accessories, Hat, Whip
+Barker Outfit: Loud Suit Jacket, Megaphone, Carnival Hat, Suspenders
+Musician Outfit: Striped Vest, Bowtie, Musical Instrument (trumpet, drums, etc.), Derby Hat
+Classic Clown Outfit: Baggy Polka-dot Jumpsuit, Oversized Shoes, Red Nose, Rainbow Wig, Suspenders, Giant Bowtie
+Mime Clown Outfit: Striped Black and White Outfit, White Gloves, Beret, Face Paint
+Jester Clown Outfit: Harlequin Jumpsuit, Jester Hat with Bells, Face Paint, Scepter
+Sad Clown Outfit: Oversized Torn Clothing, Oversized Shoes, Teardrop Makeup, Droopy Hat
+Elegant Clown Outfit: Tailcoat with Bright Lapels, Monocle, Top Hat, Cane, Gloves
+Punk Clown Outfit: Leather Jacket with Patches, Spiked Collar, Wild Hair, Studded Boots
+Steampunk Clown Outfit: Victorian-style Clown Outfit with Gears, Monocle, Top Hat, Pocket Watch
+Candyland Clown Outfit: Candy-inspired Jumpsuit, Oversized Candy Props, Colorful Wig, Bowtie
+Cartoon Clown Outfit: Exaggerated Baggy Outfit, Comically Large Shoes, Cartoon Eyes Makeup, Wacky Hat
+Animal Clown Outfit: Animal-themed Jumpsuit, Animal Face Paint, Furry Hat, Paw Gloves
+Illusionist Outfit: Velvet Tuxedo with Sequin Lapels, Top Hat, Magic Wand, White Gloves
+Street Magician Outfit: Modern Outfit with Suspender Pants, Fedora Hat, Deck of Cards, Pocket Watch
+Enchanter Outfit: Long Robes with Runes and Symbols, Mystical Staff, Pendant, Forehead Crystal
+Escapist Outfit: Striped Prisoner Jumpsuit, Chain Accessories, Shackles, Locked Trunk
+Paranormal Magician Outfit: Dark Cape, Fedora Hat, Ouija Board, Crystal Ball, Spooky Jewelry
+Aerial Acrobat Outfit: Sleeveless Bodysuit, Aerial Silks Accessories, Chalk Bag, Barefoot
+Human Cannonball Outfit: Metallic Bodysuit with Attached Harness, Helmet with Goggles, Boots
+Hoop Acrobat Outfit: Tight-fitting Unitard, Hoop Prop, Chalk Bag, Ballet Slippers
+Balance Acrobat Outfit: Colorful Unitard, Balance Board, Wrist Straps, Barefoot
+Clown Acrobat Outfit: Comically Large Unitard, Clown Accessories, Red Nose, Oversized Shoes
+Hula Hoop Acrobat Outfit: Funky Unitard, Hula Hoop Tricks, Wristbands, Sneakers
+Trampoline Acrobat Outfit: Sporty Outfit, Trampoline Jumps, Headband, Athletic Shoes
+Ribbon Dancer Acrobat Outfit: Flowing Unitard with Ribbons, Dance Shoes, Headband
+Haunted Ringmaster Outfit: Tattered Tailcoat, Creepy Top Hat, Skull Cane, Pale Makeup
+Sinister Clown Outfit: Torn Jumpsuit with Stains, Jagged Mask, Blood-smeared Hands, Chains
+Possessed Acrobat Outfit: Tattered Unitard, Hollow Eyes Makeup, Chain Accessory, Blood-splattered Hands
+Undead Strongman Outfit: Ripped Singlet with Exposed Bones, Grave-dirt Makeup, Broken Chains, Worn Boots
+Wicked Magician Outfit: Dark Robes with Sinister Symbols, Glowing Eyes Makeup, Blood-stained Hands, Skull-topped Staff
+Haunting Contortionist Outfit: Torn Bodysuit, Ghostly Makeup, Twisted Poses, Barefoot
+Possessed Jester Outfit: Tattered Harlequin Jumpsuit, Manic Eyes Makeup, Blood-stained Gloves, Crazed Laughter
+Nightmarish Puppeteer Outfit: Torn Victorian Outfit, Puppet Strings, Lifeless Eyes Makeup, Creepy Smile
+Cursed Barker Outfit: Torn Suit, Haggard Expression, Haunted Megaphone, Dark Aura
+Haunted Fortune Teller Outfit: Ratty Cloak, Mystic Crystal Ball, Whispers of Doom, Haunting Gaze
+Malevolent Trainer Outfit: Blood-stained Outfit, Spiked Whip, Feral Gaze, Twisted Smile
+Creepy Fire Eater Outfit: Burned Attire, Ashen Makeup, Fiery Eyes, Demon Horns

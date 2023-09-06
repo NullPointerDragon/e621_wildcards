@@ -1,0 +1,1 @@
+{11::hymenopteran humanoid|56::ant humanoid|451::bee humanoid|122::wasp humanoid}

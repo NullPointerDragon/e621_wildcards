@@ -1,0 +1,1 @@
+{71::thrush \(bird\)|255::bluebird|366::eastern bluebird}

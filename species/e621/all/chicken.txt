@@ -1,0 +1,1 @@
+{11922::chicken|123::leghorn chicken}

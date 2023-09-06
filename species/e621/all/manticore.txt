@@ -1,0 +1,1 @@
+{372::manticore|77::manticore humanoid}

@@ -1,0 +1,1 @@
+{291::ailurid|3::ailurid humanoid|113::red panda humanoid|21250::red panda}

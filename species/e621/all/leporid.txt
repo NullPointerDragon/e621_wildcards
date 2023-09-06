@@ -1,0 +1,1 @@
+{531::leporid|183026::rabbit|33::oryctolagus|240::domestic rabbit|73::rex rabbit|257::dutch rabbit|60::angora rabbit|1106::lop rabbit|96::holland lop|64::english lop|609::flemish giant|142::harlequin rabbit|443::dwarf rabbit|910::netherland dwarf rabbit|3184::hare|51::snowshoe hare|134::japanese hare|75::arctic hare|76::mountain hare|452::lepi}

@@ -1,0 +1,343 @@
+butter
+cheese
+cheese singles
+cheese wedge
+cheese wheel
+cottage cheese
+cream cheese
+liquid cheese
+melted cheese
+shredded cheese
+spray cheese
+cheese whiz
+string cheese
+swiss cheese
+condensed milk
+cream
+whipped cream
+yogurt
+meat
+bacon
+beef
+steak
+raw steak
+chicken meat
+chicken nugget
+fried chicken
+raw chicken
+roast chicken
+roast chicken leg
+duck meat
+fish meat
+fried egg
+peanut \(food\)
+pork
+ham
+rabbit meat
+raw meat
+sashimi
+sausage
+bologna
+salami
+turkey meat
+fruit
+acorn
+apple
+avocado
+banana
+berry
+blackberry \(fruit\)
+blueberry \(fruit\)
+kiwifruit
+raspberry
+strawberry
+cherry
+chestnut
+coconut
+citrus fruits
+grapefruit
+lemon
+lime
+orange \(fruit\)
+blood orange \(fruit\)
+tangerine \(fruit\)
+date \(fruit\)
+devil fruit
+dragonfruit
+eggplant
+fruit of knowledge
+giant fruit
+grape
+raisin
+heart fruit
+jackfruit
+lychee \(fruit\)
+mango \(fruit\)
+melon
+cantaloupe
+honeydew melon
+watermelon
+watermelon half
+watermelon slice
+miracle fruit
+nectarine \(fruit\)
+olive \(fruit\)
+papaya \(fruit\)
+passion fruit
+peach \(fruit\)
+peanut butter fruit
+silver peanut butter fruit
+pear
+pepper \(fruit\)
+bell pepper
+cayenne pepper
+chili pepper
+jalapeño pepper
+persimmon
+pineapple
+plum \(fruit\)
+pomegranate
+pumpkin
+squash \(fruit\)
+starfruit \(fruit\)
+tomato
+cherry tomato
+wumpa fruit
+vegetable
+asparagus
+broccoli
+cabbage
+carrot
+cauliflower
+celery
+cucumber
+edible mushroom
+portobello mushroom
+shiitake mushroom
+sulphur shelf
+garlic
+giant vegetable
+lettuce
+onion
+leek
+pea \(food\)
+potato
+radish
+spinach
+sweet potato
+turnip
+zucchini
+Grains
+corn
+bread
+bagel
+baguette
+biscuit \(food\)
+breadsticks
+croissant
+english muffin
+toast
+cereal
+cracker
+noodles
+ramen
+pasta
+lasagna
+macaroni
+spaghetti
+rice
+onigiri
+wheat
+Confections
+dessert
+cake
+carrot cake
+cheesecake
+chocolate cake
+fruit cake
+wedding cake
+candy
+candy cane
+candy corn
+candy necklace
+chocolate
+chocolate bar
+Hershey's
+chocolate bunny
+chocolate cum
+chocolate egg
+chocolate fountain
+chocolate milk
+chocolate rain
+chocolate syrup
+Hershey's Kisses
+hot chocolate
+white chocolate
+cotton candy
+gum
+gummy \(food\)
+gummy bear \(food\)
+gummy cola
+gummy worm \(food\)
+shark gummy
+jelly bean
+licorice
+living candy
+lollipop
+M&M's
+Mars Bar
+marshmallow
+Milky Way \(candy\)
+mint \(candy\)
+peanut butter cup
+Reese's
+peppermint/peppermint \(candy\)
+peppermint stick
+rare candy
+Skittles \(candy\)
+Snickers
+Twix
+churro
+cookie
+chocolate chip cookie
+fortune cookie
+gingerbread cookie
+macaroon
+cupcake
+doughnut
+gelatin
+ice cream
+ice cream float
+ice cream sandwich
+macaron \(food\)
+popsicle
+pawpsicle
+shaved ice
+snow cone
+black pepper
+hot sauce
+ketchup
+marmalade \(food\)
+mayonnaise
+mustard
+relish \(food\)
+salt
+soy sauce
+tofu \(food\)
+wasabi
+whipped cream
+Meals
+Dishes
+Snacks
+burger
+cinnamon bun
+chips \(food\)
+corn chips
+potato chips
+dumplings
+fries
+hot dog
+corn dog
+lasagna
+macaroni and cheese
+meatball
+mre
+muffin
+nachos
+onion rings
+pancake
+pie
+apple pie
+blueberry pie
+custard pie
+key lime pie
+moon pie
+pumpkin pie
+pizza
+Pocky
+Pop-Tarts
+popcorn
+pretzel \(food\)
+pudding
+custard
+sandwich \(food\)
+dagwood sandwich
+grilled cheese
+peanut butter and jelly
+sandvich \(team fortress 2\)
+submarine sandwich
+s'more
+soup
+stew
+sushi
+taco
+tater tots
+waffle
+Beverages
+beverage
+alcohol
+beer
+champagne
+cognac
+liquor
+mojito (drink)
+rum
+sake
+whiskey
+wine
+vodka
+apple juice
+bubble tea
+carrot juice
+coconut drink
+coffee
+energy drink
+grape juice
+hot chocolate
+lemon juice
+lemonade
+pink lemonade
+milk
+chocolate milk
+strawberry milk
+orange juice
+raspberry juice
+smoothie
+soda
+cola
+Coca-Cola
+Pepsi
+Dr Pepper
+grape soda
+Mountain Dew
+orange soda
+root beer
+sarsaparilla
+Sprite (soda)
+tea
+tomato juice
+water
+cat food
+dog food
+poffin
+pokéblock
+poké bean
+poké puff
+Japanese foods
+aburaage
+dango \(food\)
+grilled corn
+ikayaki \(food\)
+mochi \(food\)
+narutomaki
+onigiri
+ramen
+ramune
+kakigori
+sashimi
+sushi
+makizushi
+nigirizushi
+taiyaki
+takoyaki
+yakisoba

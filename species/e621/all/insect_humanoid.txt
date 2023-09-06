@@ -1,0 +1,1 @@
+{1048::insect humanoid|90::mantis humanoid|56::dipteran humanoid|32::lepidopteran humanoid|106::butterfly humanoid|479::moth humanoid|11::hymenopteran humanoid|56::ant humanoid|451::bee humanoid|122::wasp humanoid}

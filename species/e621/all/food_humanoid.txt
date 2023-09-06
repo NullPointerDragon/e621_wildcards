@@ -1,0 +1,1 @@
+{550::food humanoid|386::fruit humanoid|157::candy humanoid}

@@ -1,0 +1,1 @@
+{181::crustacean|54::decapodian \(futurama\)|382::shrimp|147::crustacean humanoid|2::maxillopod|51::barnacle|4::malacostracan|140::paguroid|49::isopoda|4::woodlouse|58::pill bug|24::decapoda|1477::crab|233::lobster}

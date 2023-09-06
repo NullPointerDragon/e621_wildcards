@@ -1,0 +1,1 @@
+{13848::goo creature|2000::goo humanoid|356::goo dragon}

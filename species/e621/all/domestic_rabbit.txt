@@ -1,0 +1,1 @@
+{240::domestic rabbit|73::rex rabbit|257::dutch rabbit|60::angora rabbit|1106::lop rabbit|96::holland lop|64::english lop|609::flemish giant|142::harlequin rabbit|443::dwarf rabbit|910::netherland dwarf rabbit}

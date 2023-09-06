@@ -1,0 +1,1 @@
+{1038::mantis|6::flower mantis|80::orchid mantis|90::mantis humanoid}

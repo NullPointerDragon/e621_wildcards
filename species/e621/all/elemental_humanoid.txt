@@ -1,0 +1,1 @@
+{172::elemental humanoid|2760::plant humanoid|380::floran|581::flower humanoid|386::fruit humanoid|225::deku scrub|247::fungi humanoid|283::mushroom humanoid|129::water humanoid|188::fire humanoid|35::mineral humanoid|89::petrosapien|82::snow humanoid|54::ice humanoid|124::rock humanoid|95::crystal humanoid|32::air humanoid|231::cloud humanoid}

@@ -1,0 +1,1 @@
+{110::primitive dog|107::xoloitzcuintli}

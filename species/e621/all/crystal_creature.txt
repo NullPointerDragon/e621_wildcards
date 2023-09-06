@@ -1,0 +1,1 @@
+{50::crystal creature|95::crystal humanoid}

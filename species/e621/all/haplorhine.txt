@@ -1,0 +1,1 @@
+{1334::ape|3049::gorilla|207::orangutan|53::gibbon|3::pan \(genus\)|598::chimpanzee|8879::monkey|7::new world monkey|25::callitrichid|3::lion tamarin|50::golden lion tamarin|29::cebid|107::capuchin monkey|43::atelid|179::spider monkey|71::old world monkey|200::baboon|211::mandrill|69::macaque|127::japanese macaque}

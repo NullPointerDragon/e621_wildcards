@@ -1,0 +1,1 @@
+{6363::spider|589::spider taur|65::tarantula taur|48::araneomorph|91::jumping spider|1::theridiid|15::widow spider|74::black widow spider|1::mygalomorph|600::tarantula|462::scorpion|51::scorpion taur|53::arachnid taur|210::arachne|162::drider|197::arachnid humanoid|130::scorpion humanoid|1981::spider humanoid}

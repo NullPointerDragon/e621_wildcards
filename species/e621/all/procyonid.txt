@@ -1,0 +1,1 @@
+{5::procyonid humanoid|700::raccoon humanoid|34073::raccoon|290::coati|397::ring-tailed cat|446::cacomistle}

@@ -1,0 +1,1 @@
+{10::camelid humanoid|57::alpaca humanoid}

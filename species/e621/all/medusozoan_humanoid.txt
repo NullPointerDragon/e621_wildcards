@@ -1,0 +1,1 @@
+{1::medusozoan humanoid|222::jellyfish humanoid}

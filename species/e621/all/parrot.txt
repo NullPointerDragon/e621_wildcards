@@ -1,0 +1,1 @@
+{703::parrot|348::cockatoo|347::cockatiel|29::cacatua|60::umbrella cockatoo|137::sulphur-crested cockatoo|244::parakeet|14::loriinae|132::budgerigar|85::lovebird|55::neotropical parrot|230::macaw|508::spix's macaw|9::ara \(genus\)|218::scarlet macaw|63::blue-and-yellow macaw|27::afrotropical parrot|114::african grey}

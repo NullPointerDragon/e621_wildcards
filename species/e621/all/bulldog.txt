@@ -1,0 +1,1 @@
+{423::bulldog|65::boxer \(dog\)|70::english bulldog}

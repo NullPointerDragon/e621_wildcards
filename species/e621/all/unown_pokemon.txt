@@ -1,0 +1,1 @@
+{119::unown a|65::unown b|77::unown c|93::unown d|126::unown e|97::unown o|67::unown p|91::unown r|91::unown s|88::unown t|81::unown u|62::unown v|64::unown w|60::unown x|75::unown y|64::unown f|62::unown g|74::unown h|114::unown i|65::unown k|84::unown l|72::unown m|81::unown n}

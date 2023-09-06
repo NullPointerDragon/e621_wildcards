@@ -1,0 +1,1 @@
+{614::suina|23::suina humanoid|16::suid humanoid|181::pig humanoid|10316::domestic pig|9792::wild boar|470::warthog|128::piglin}

@@ -1,0 +1,1 @@
+{2696::sciurid|115::sciurid humanoid|26::ground squirrel humanoid|52::chipmunk humanoid|1566::tree squirrel humanoid|452::flying squirrel|288::ground squirrel|8611::chipmunk|18::marmot|56::groundhog|97::prairie dog|17915::tree squirrel|62::giant squirrel|89::grey squirrel|111::eastern grey squirrel|1174::eurasian red squirrel|9::pine squirrel|78::american red squirrel}

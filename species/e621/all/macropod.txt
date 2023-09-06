@@ -1,0 +1,1 @@
+{109::macropod|73::potoroo|83::quokka|65::tree-kangaroo|1066::wallaby|14107::kangaroo|384::red kangaroo}

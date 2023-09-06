@@ -1,0 +1,1 @@
+{16::small molosser|305::boston terrier|322::pug|581::saint bernard|223::mastiff|1676::great dane|2707::rottweiler|63::shar pei|423::bulldog|65::boxer \(dog\)|70::english bulldog|351::tibetan mountain dog|29::swiss mountain dog|1290::bernese mountain dog|75::newfoundland dog|75::kangal|68::great pyrenees}

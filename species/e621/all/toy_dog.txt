@@ -1,0 +1,1 @@
+{305::boston terrier|649::cavalier king charles spaniel|871::chihuahua|264::chinese crested dog|196::papillon|10007::shih tzu|110::toy poodle|16::small molosser|322::pug}

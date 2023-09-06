@@ -1,0 +1,1 @@
+{121::red pikmin|100::blue pikmin|106::yellow pikmin|59::purple pikmin}

@@ -1,13 +1,5 @@
-Elemental Creature
-ambiguous species
-amphibian, amphibian
-amphibian, anura, toad frog
-amphibian, axolotl
-amphibian, frog
-amphibian, mole salamander
-amphibian, newt
-amphibian, salamander
 animate inanimate
+animate inanimate, Fire Creature
 animate inanimate, Inanimate Object
 animate inanimate, Inkblot
 animate inanimate, Living Clothing
@@ -15,525 +7,532 @@ animate inanimate, Living Doll
 animate inanimate, Living Fruit
 animate inanimate, Living Inflatable
 animate inanimate, Living Plushie
+animate inanimate, Mineral Fauna
 animate inanimate, Penis Creature
-animate inanimate, Rock Creature
 animate inanimate, Shadow Creature
-animate inanimate, Tentacle Monster
 animate inanimate, cell \(organism\)
 animate inanimate, chua
 animate inanimate, draconic, Gargoyle
-animate inanimate, flesh creature
+animate inanimate, eldritch horror, Tentacle Monster
+animate inanimate, eldritch horror, flesh creature
+animate inanimate, food-based, Food Creature
+animate inanimate, gelatinous, Goo Creature
 animate inanimate, koraidon
 animate inanimate, living candy
 animate inanimate, living piñata
-animate inanimate, machine, Digital Creature
-animate inanimate, machine, Living Aircraft
-animate inanimate, machine, Living Machine
-animate inanimate, machine, Living Vehicle
+animate inanimate, machine, robot, Digital Creature
+animate inanimate, machine, robot, Living Aircraft
+animate inanimate, machine, robot, Living Machine
+animate inanimate, machine, robot, Living Vehicle
 animate inanimate, microorganism \(organism\)
-arthropod, myriapod, myriapod
-avian, Mythological Avian
-avian, Mythological Firebird
-avian, Phoenix
-avian, bird
-bird, accipitrid, accipitrid
-bird, accipitrid, old world vulture
-bird, accipitrid, philippine eagle
-bird, accipitriform, accipitriform
-bird, accipitriform, bald eagle
-bird, accipitriform, eagle
-bird, accipitriform, sea eagle
-bird, accipitriform, vulture
-bird, anatidae, anserinae
-bird, anseriform, anatid
-bird, anseriform, anseriform
-bird, anseriform, duck
-bird, avian, avian
-bird, cacatuidae, cockatoo
-bird, charadriiform, lari
-bird, columbiform, columbid
-bird, columbiform, pigeon
-bird, corvid, blue jay
-bird, corvid, corvid
-bird, corvid, corvus \(genus\)
-bird, corvid, crow
-bird, corvid, jay \(bird\)
-bird, corvid, new world jay
-bird, corvidae, magpie \(corvid\)
-bird, falconiform, falcon
-bird, falconiform, falconid
-bird, galliform, galliform
-bird, laridae, gull
-bird, laridae, larid
-bird, oscine, oscine
-bird, passerine, hirundinid
-bird, passerine, passerine
-bird, passerine, raven
-bird, passerine, swallow \(bird\)
-bird, pelecaniformes, pelecaniform
-bird, phasianid, chicken
-bird, phasianid, gallus \(genus\)
-bird, phasianid, peafowl
-bird, phasianid, phasianid
-bird, phasianid, turkey
-bird, phoenicopteridae, flamingo
-bird, psittacidae, macaw
-bird, psittacidae, neotropical parrot
-bird, psittacidae, parakeet
-bird, psittaciform, parrot
-bird, psittaciform, true parrot
-bird, ramphastidae, toucan
-bird, sagittariidae, secretary bird
-bird, spheniscidae, penguin
-bird, strigidae, bubo \(genus\)
-bird, strigidae, snowy owl
-bird, strigidae, true owl
-bird, strigiform, owl
-bird, turdidae, thrush \(bird\)
-canid, Wendigo
-celestial being, humanoid, Angel
-deity, Deity
-deity, humanoid, Asura
-equine, winged, Winged Unicorn
-extraterrestrial, Alien
-fire-associated, Fire Creature
-fish, actinopterygii, eel
-fish, cyprinid, amur carp
-fish, cyprinid, carp
-fish, cyprinid, koi
-fish, cyprinid, typical carp
-fish, cypriniformes, cyprinid
-fish, cypriniformes, cypriniform
-fish, elasmobranchii, lamniform
-fish, elasmobranchii, requiem shark
-fish, elasmobranchii, tiger shark
-fish, lamniformes, lamnid
-fish, rajiformes, batoid
-fish, selachimorpha, shark
-food-based, Food Creature
-fungus/animal hybrid, Fungi Fauna
-gelatinous, Goo Creature
-hybrid
-hybrid, Chimera
-hybrid, Mammal Taur
-hybrid, Mythological Sphinx
-hybrid, Taur
-hybrid, avian/mammal, Gryphon
-hybrid, canid/demonic, Canid Demon
-hybrid, demon, Demon
-hybrid, demon, Succubus
-hybrid, demon, Yokai
-hybrid, demonic canine, Hellhound
-hybrid, equine/avian, Hippogriff
-hybrid, feline, Nekomata
-hybrid, goat/demonic, Caprine Demon
-hybrid, goat/demonic, Goat Demon
-hybrid, marine, Merfolk
-hybrid, owl/demonic, Owl Demon
-hybrid, plant/animal, Flora Fauna
-hybrid, serpent, Naga
-hybrid, small demon, Imp
-hybrid, snake, Lamia
-hybrid, spirit, Ghost
-insect, coleoptera, elateroid
-insect, coleoptera, firefly
-insect, coleopteran, beetle
-insect, dipteran, dipteran
-insect, hymenopteran, ant
-insect, hymenopteran, bee
-insect, hymenopteran, hymenopteran
-insect, hymenopteran, wasp
-insect, lepidopteran, butterfly
-insect, lepidopteran, lepidopteran
-insect, lepidopteran, moth
-insect, mantodea, mantis
-invertebrate, annelid, worm
-invertebrate, annelida, annelid
-invertebrate, arachnid, arachnid
-invertebrate, arachnid, spider
-invertebrate, arthropod, arthropod
-invertebrate, gastropod, slug
-invertebrate, gastropod, snail
-invertebrate, insect, insect
-invertebrate, mollusk, gastropod
-invertebrate, mollusk, mollusk
-invertebrate, star, Asterozoan
-machine, android
-machine, animatronic
-machine, cyborg
-machine, mammal, Protogen
-machine, reptile, Synth \(Vader-san\)
+animate inanimate, mineral fauna, Elemental Creature
+animate inanimate, mineral fauna, Rock Creature
+anthro, ambiguous species
+anthro, amphibian, amphibian
+anthro, amphibian, anura, toad frog
+anthro, amphibian, axolotl
+anthro, amphibian, frog
+anthro, amphibian, mole salamander
+anthro, amphibian, newt
+anthro, amphibian, salamander
+anthro, avian, Mythological Avian
+anthro, avian, Mythological Firebird
+anthro, avian, Phoenix
+anthro, avian, bird
+anthro, avian, bird, accipitrid, accipitrid
+anthro, avian, bird, accipitrid, old world vulture
+anthro, avian, bird, accipitrid, philippine eagle
+anthro, avian, bird, accipitriform, accipitriform
+anthro, avian, bird, accipitriform, bald eagle
+anthro, avian, bird, accipitriform, eagle
+anthro, avian, bird, accipitriform, sea eagle
+anthro, avian, bird, accipitriform, vulture
+anthro, avian, bird, anatidae, anserinae
+anthro, avian, bird, anseriform, anatid
+anthro, avian, bird, anseriform, anseriform
+anthro, avian, bird, anseriform, duck
+anthro, avian, bird, avian, avian
+anthro, avian, bird, cacatuidae, cockatoo
+anthro, avian, bird, charadriiform, lari
+anthro, avian, bird, columbiform, columbid
+anthro, avian, bird, columbiform, pigeon
+anthro, avian, bird, corvid, blue jay
+anthro, avian, bird, corvid, corvid
+anthro, avian, bird, corvid, corvus \(genus\)
+anthro, avian, bird, corvid, crow
+anthro, avian, bird, corvid, jay \(bird\)
+anthro, avian, bird, corvid, new world jay
+anthro, avian, bird, corvidae, magpie \(corvid\)
+anthro, avian, bird, falconiform, falcon
+anthro, avian, bird, falconiform, falconid
+anthro, avian, bird, galliform, galliform
+anthro, avian, bird, laridae, gull
+anthro, avian, bird, laridae, larid
+anthro, avian, bird, oscine, oscine
+anthro, avian, bird, passerine, hirundinid
+anthro, avian, bird, passerine, passerine
+anthro, avian, bird, passerine, raven
+anthro, avian, bird, passerine, swallow \(bird\)
+anthro, avian, bird, pelecaniformes, pelecaniform
+anthro, avian, bird, phasianid, chicken
+anthro, avian, bird, phasianid, gallus \(genus\)
+anthro, avian, bird, phasianid, peafowl
+anthro, avian, bird, phasianid, phasianid
+anthro, avian, bird, phasianid, turkey
+anthro, avian, bird, phoenicopteridae, flamingo
+anthro, avian, bird, psittacidae, macaw
+anthro, avian, bird, psittacidae, neotropical parrot
+anthro, avian, bird, psittacidae, parakeet
+anthro, avian, bird, psittaciform, parrot
+anthro, avian, bird, psittaciform, true parrot
+anthro, avian, bird, ramphastidae, toucan
+anthro, avian, bird, sagittariidae, secretary bird
+anthro, avian, bird, spheniscidae, penguin
+anthro, avian, bird, strigidae, bubo \(genus\)
+anthro, avian, bird, strigidae, snowy owl
+anthro, avian, bird, strigidae, true owl
+anthro, avian, bird, strigiform, owl
+anthro, avian, bird, turdidae, thrush \(bird\)
+anthro, canid, Wendigo
+anthro, equine, winged, Winged Unicorn
+anthro, hybrid
+anthro, hybrid, Chimera
+anthro, hybrid, Mythological Sphinx
+anthro, hybrid, avian/mammal, Gryphon
+anthro, hybrid, canid/demonic, Canid Demon
+anthro, hybrid, demonic canine, Hellhound
+anthro, hybrid, equine/avian, Hippogriff
+anthro, hybrid, feline, Nekomata
+anthro, hybrid, goat/demonic, Caprine Demon
+anthro, hybrid, goat/demonic, Goat Demon
+anthro, hybrid, owl/demonic, Owl Demon
+anthro, hybrid, plant/animal, Flora Fauna
+anthro, mammal, afrosoricida, afrosoricid
+anthro, mammal, ailuridae, ailurid
+anthro, mammal, ailuridae, giant panda
+anthro, mammal, ailuridae, red panda
+anthro, mammal, bovid, antelope
+anthro, mammal, bovid, cape buffalo
+anthro, mammal, bovid, gazelle
+anthro, mammal, bovid, grazing antelope
+anthro, mammal, bovid, holstein friesian cattle
+anthro, mammal, bovid, miltank
+anthro, mammal, bovid, oryx
+anthro, mammal, bovid, true antelope
+anthro, mammal, bovid, yak
+anthro, mammal, bovine, bovid
+anthro, mammal, bovine, bovine
+anthro, mammal, bovine, cattle
+anthro, mammal, camelid, alpaca
+anthro, mammal, camelid, camelid
+anthro, mammal, camelid, llama
+anthro, mammal, canid, Cerberus
+anthro, mammal, canid, Dire Wolf
+anthro, mammal, canid, Sparkledog
+anthro, mammal, canid, african wild dog
+anthro, mammal, canid, anubian jackal
+anthro, mammal, canid, arctic wolf
+anthro, mammal, canid, coyote
+anthro, mammal, canid, domestic dog
+anthro, mammal, canid, jackal
+anthro, mammal, canid, maned wolf
+anthro, mammal, canid, raccoon dog
+anthro, mammal, canid, red wolf
+anthro, mammal, canid, sergal
+anthro, mammal, canid, small molosser
+anthro, mammal, canid, spitz
+anthro, mammal, canid, tanuki
+anthro, mammal, canid, urocyon
+anthro, mammal, canid, wolf
+anthro, mammal, canid, wolfdog
+anthro, mammal, canine, Foo Dog
+anthro, mammal, canine, akita
+anthro, mammal, canine, alaskan malamute
+anthro, mammal, canine, australian cattle dog
+anthro, mammal, canine, australian shepherd
+anthro, mammal, canine, basset hound
+anthro, mammal, canine, beagle
+anthro, mammal, canine, bernese mountain dog
+anthro, mammal, canine, bird dog
+anthro, mammal, canine, border collie
+anthro, mammal, canine, borzoi
+anthro, mammal, canine, bull terrier
+anthro, mammal, canine, cattledog
+anthro, mammal, canine, cavalier king charles spaniel
+anthro, mammal, canine, chihuahua
+anthro, mammal, canine, cocker spaniel
+anthro, mammal, canine, collie
+anthro, mammal, canine, dalmatian
+anthro, mammal, canine, dingo
+anthro, mammal, canine, dobermann
+anthro, mammal, canine, german shepherd
+anthro, mammal, canine, golden retriever
+anthro, mammal, canine, great dane
+anthro, mammal, canine, herding dog
+anthro, mammal, canine, hunting dog
+anthro, mammal, canine, husky
+anthro, mammal, canine, labrador
+anthro, mammal, canine, mastiff
+anthro, mammal, canine, molosser
+anthro, mammal, canine, mountain dog
+anthro, mammal, canine, nordic sled dog
+anthro, mammal, canine, pastoral dog
+anthro, mammal, canine, pinscher
+anthro, mammal, canine, pit bull
+anthro, mammal, canine, pomeranian
+anthro, mammal, canine, pomsky
+anthro, mammal, canine, poodle
+anthro, mammal, canine, retriever
+anthro, mammal, canine, rottweiler
+anthro, mammal, canine, rough collie
+anthro, mammal, canine, saluki
+anthro, mammal, canine, samoyed
+anthro, mammal, canine, scent hound
+anthro, mammal, canine, sheepdog
+anthro, mammal, canine, shiba inu
+anthro, mammal, canine, shih tzu
+anthro, mammal, canine, siberian husky
+anthro, mammal, canine, sighthound
+anthro, mammal, canine, spaniel
+anthro, mammal, canine, swiss mountain dog
+anthro, mammal, canine, terrier
+anthro, mammal, canine, toy dog
+anthro, mammal, canine, welsh corgi
+anthro, mammal, caprine, caprine
+anthro, mammal, caprine, goat
+anthro, mammal, caviidae, capybara
+anthro, mammal, cercopithecidae, old world monkey
+anthro, mammal, cervid, capreoline
+anthro, mammal, cervid, cervine
+anthro, mammal, cervid, deer
+anthro, mammal, cervid, moose
+anthro, mammal, cervid, mule deer
+anthro, mammal, cervid, red deer
+anthro, mammal, cervid, reindeer
+anthro, mammal, cervid, white-tailed deer
+anthro, mammal, chiropteran, bat
+anthro, mammal, chiropteran, microbat
+anthro, mammal, chiropteran, pteropodid
+anthro, mammal, chiropteran, yangochiropteran
+anthro, mammal, cingulata, armadillo
+anthro, mammal, cricetidae, cricetid
+anthro, mammal, dasyuromorph, dasyurid
+anthro, mammal, dasyuromorph, dasyuromorph
+anthro, mammal, dasyuromorph, thylacine
+anthro, mammal, didelphidae, didelphid
+anthro, mammal, didelphidae, possum
+anthro, mammal, didelphidae, virginia opossum
+anthro, mammal, draconic, Furred Dragon
+anthro, mammal, equid, asinus
+anthro, mammal, equid, clydesdale
+anthro, mammal, equid, donkey
+anthro, mammal, equid, draft horse
+anthro, mammal, equid, earth pony
+anthro, mammal, equid, equine
+anthro, mammal, equid, horse
+anthro, mammal, equid, pony
+anthro, mammal, equid, zebra
+anthro, mammal, equine , unicorn 
+anthro, mammal, equine, Bat Pony
+anthro, mammal, equine, Kirin
+anthro, mammal, equine, Pegasus
+anthro, mammal, equine/humanoid, Centaur
+anthro, mammal, erinaceomorph, hedgehog
+anthro, mammal, eulipotyphlan, eulipotyphlan
+anthro, mammal, eupleridae, euplerid
+anthro, mammal, felid, bengal tiger
+anthro, mammal, felid, bobcat
+anthro, mammal, felid, calico cat
+anthro, mammal, felid, caracal
+anthro, mammal, felid, caracal \(genus\)
+anthro, mammal, felid, cheetah
+anthro, mammal, felid, clouded leopard
+anthro, mammal, felid, cougar
+anthro, mammal, felid, domestic cat
+anthro, mammal, felid, hairless cat
+anthro, mammal, felid, hyena
+anthro, mammal, felid, jaguar
+anthro, mammal, felid, leopard
+anthro, mammal, felid, leopardus
+anthro, mammal, felid, lion
+anthro, mammal, felid, lynx
+anthro, mammal, felid, machairodontine
+anthro, mammal, felid, maine coon
+anthro, mammal, felid, ocelot
+anthro, mammal, felid, pantherine
+anthro, mammal, felid, serval
+anthro, mammal, felid, siamese
+anthro, mammal, felid, snow leopard
+anthro, mammal, felid, spotted hyena
+anthro, mammal, felid, sprigatito
+anthro, mammal, felid, striped hyena
+anthro, mammal, felid, tabby cat
+anthro, mammal, felid, tiger
+anthro, mammal, felid, wildcat
+anthro, mammal, feline, Liger
+anthro, mammal, feline, cat
+anthro, mammal, feline, sphynx \(cat\)
+anthro, mammal, feline, tuxedo cat
+anthro, mammal, giraffid, okapi
+anthro, mammal, giraffidae, giraffe
+anthro, mammal, giraffidae, giraffid
+anthro, mammal, herpestidae, herpestid
+anthro, mammal, herpestidae, meerkat
+anthro, mammal, herpestidae, mongoose
+anthro, mammal, hippopotamidae, common hippopotamus
+anthro, mammal, hippopotamidae, hippopotamid
+anthro, mammal, hyenid, aardwolf
+anthro, mammal, lagomorph, domestic rabbit
+anthro, mammal, lagomorph, dwarf rabbit
+anthro, mammal, lagomorph, hare
+anthro, mammal, lagomorph, netherland dwarf rabbit
+anthro, mammal, lagomorph, oryctolagus
+anthro, mammal, lagomorph, rabbit
+anthro, mammal, macropod, kangaroo
+anthro, mammal, macropod, macropod
+anthro, mammal, macropod, wallaby
+anthro, mammal, marine, marine
+anthro, mammal, marsupial, bandicoot
+anthro, mammal, marsupial, koala
+anthro, mammal, marsupial, marsupial
+anthro, mammal, marsupial, vombatiform
+anthro, mammal, mephitid, skunk
+anthro, mammal, monotreme, echidna
+anthro, mammal, monotreme, monotreme
+anthro, mammal, murid, mouse
+anthro, mammal, murid, murid
+anthro, mammal, murid, murine
+anthro, mammal, murid, rat
+anthro, mammal, murid, rodent
+anthro, mammal, mustelid, badger
+anthro, mammal, mustelid, domestic ferret
+anthro, mammal, mustelid, gulonine
+anthro, mammal, mustelid, honey badger
+anthro, mammal, mustelid, marten
+anthro, mammal, mustelid, mephitid
+anthro, mammal, mustelid, mink
+anthro, mammal, mustelid, mustelid
+anthro, mammal, mustelid, musteline
+anthro, mammal, mustelid, otter
+anthro, mammal, mustelid, pine marten
+anthro, mammal, mustelid, river otter
+anthro, mammal, mustelid, stoat
+anthro, mammal, mustelid, striped skunk
+anthro, mammal, mustelid, true musteline
+anthro, mammal, mustelid, weasel
+anthro, mammal, mustelid, wolverine
+anthro, mammal, mustelid, zangoose
+anthro, mammal, ovine, domestic sheep
+anthro, mammal, ovine, sheep
+anthro, mammal, phyllostomidae, phyllostomid
+anthro, mammal, pilosa, pilosan
+anthro, mammal, pilosan, sloth
+anthro, mammal, pinniped, seal
+anthro, mammal, pinniped, walrus
+anthro, mammal, pinnipedia, pinniped
+anthro, mammal, primate, Kong
+anthro, mammal, primate, ape
+anthro, mammal, primate, gorilla
+anthro, mammal, primate, haplorhine
+anthro, mammal, primate, lemur
+anthro, mammal, primate, monkey
+anthro, mammal, primate, primate
+anthro, mammal, primate, ring-tailed lemur
+anthro, mammal, primate, strepsirrhine
+anthro, mammal, proboscidea, elephant
+anthro, mammal, proboscidea, elephantid
+anthro, mammal, proboscidea, proboscidean
+anthro, mammal, procyonid, procyonid
+anthro, mammal, procyonid, raccoon
+anthro, mammal, rabbit/antelope hybrid, Jackalope
+anthro, mammal, rhinocerotidae, rhinoceros
+anthro, mammal, rodent, beaver
+anthro, mammal, rodent, caviid
+anthro, mammal, rodent, chinchilla
+anthro, mammal, rodent, chinchillid
+anthro, mammal, rodent, dipodid
+anthro, mammal, rodent, eurasian red squirrel
+anthro, mammal, rodent, hamster
+anthro, mammal, rodent, jerboa
+anthro, mammal, rodent, porcupine
+anthro, mammal, sciurid, chipmunk
+anthro, mammal, sciurid, ground squirrel
+anthro, mammal, sciurid, rodent
+anthro, mammal, sciurid, sciurid
+anthro, mammal, sciurid, tree squirrel
+anthro, mammal, suidae, domestic pig
+anthro, mammal, suidae, suid
+anthro, mammal, suidae, suina
+anthro, mammal, suidae, sus \(pig\)
+anthro, mammal, suidae, wild boar
+anthro, mammal, talpidae, mole \(animal\)
+anthro, mammal, tenrecidae, tenrec
+anthro, mammal, tubulidentata, aardvark
+anthro, mammal, ursid, american black bear
+anthro, mammal, ursid, sloth bear
+anthro, mammal, ursidae, black bear
+anthro, mammal, ursidae, brown bear
+anthro, mammal, ursidae, grizzly bear
+anthro, mammal, ursidae, polar bear
+anthro, mammal, ursidae, ursine
+anthro, mammal, ursine, bear
+anthro, mammal, vermilingua, anteater
+anthro, mammal, viverrid, genet
+anthro, mammal, viverridae, viverrid
+anthro, mammal, vulpine, arctic fox
+anthro, mammal, vulpine, cross fox
+anthro, mammal, vulpine, fennec
+anthro, mammal, vulpine, fox
+anthro, mammal, vulpine, grey fox
+anthro, mammal, vulpine, red fox
+anthro, mammal, vulpine, silver fox
+anthro, mammal, xenarthra, xenarthran
+anthro, marine creatures, fish
+anthro, marine mammal, cetacean, cetacean
+anthro, marine mammal, cetacean, dolphin
+anthro, marine mammal, cetacean, oceanic dolphin
+anthro, marine mammal, cetacean, orca
+anthro, marine mammal, cetacean, toothed whale
+anthro, marine reptile, draconic, aquatic, Aquatic Dragon
+anthro, marine, arthropod, crustacean, crab
+anthro, marine, arthropod, crustacean, crustacean
+anthro, marine, arthropod, crustacean, decapoda
+anthro, marine, arthropod, crustacean, malacostracan
+anthro, marine, cnidarian, cnidarian
+anthro, marine, cnidarian, jellyfish
+anthro, marine, cnidarian, medusozoan
+anthro, marine, echinoderm, echinoderm
+anthro, marine, echinoderm, starfish
+anthro, marine, fish, actinopterygii, eel
+anthro, marine, fish, cyprinid, amur carp
+anthro, marine, fish, cyprinid, carp
+anthro, marine, fish, cyprinid, koi
+anthro, marine, fish, cyprinid, typical carp
+anthro, marine, fish, cypriniformes, cyprinid
+anthro, marine, fish, cypriniformes, cypriniform
+anthro, marine, fish, elasmobranchii, lamniform
+anthro, marine, fish, elasmobranchii, requiem shark
+anthro, marine, fish, elasmobranchii, tiger shark
+anthro, marine, fish, lamniformes, lamnid
+anthro, marine, fish, rajiformes, batoid
+anthro, marine, fish, selachimorpha, shark
+anthro, marine, gastropod, aquatic gastropod
+anthro, marine, invertebrate, mollusk, gastropod
+anthro, marine, invertebrate, mollusk, mollusk
+anthro, marine, invertebrate, star, Asterozoan
+anthro, marine, mollusk, cephalopod, cephalopod
+anthro, marine, mollusk, cephalopod, coleoid
+anthro, marine, mollusk, cephalopod, decapodiform
+anthro, marine, mollusk, cephalopod, octopodiform
+anthro, marine, mollusk, cephalopod, octopus
+anthro, marine, mollusk, cnidarian, anthozoan
+anthro, marine, nudibranch, sea slug
+anthro, marine, porifera, sea sponge
+anthro, mixed breed
+anthro, monstrous and varied, Monster
+anthro, reptile, chelonian, turtle
+anthro, reptile, crocodilian, crocodilian
+anthro, reptile, crocodylid, alligator
+anthro, reptile, crocodylid, alligatorid
+anthro, reptile, crocodylid, crocodile
+anthro, reptile, crocodylid, crocodylid
+anthro, reptile, dinosaur, avian, Feathered Dinosaur
+anthro, reptile, dinosaur, ceratopsian
+anthro, reptile, dinosaur, dinosaur
+anthro, reptile, dinosaur, diplodocid
+anthro, reptile, dinosaur, dromaeosaurid
+anthro, reptile, dinosaur, hadrosaurid
+anthro, reptile, dinosaur, ornithischian
+anthro, reptile, dinosaur, parasaurolophus
+anthro, reptile, dinosaur, pterodactylus
+anthro, reptile, dinosaur, pterosaur
+anthro, reptile, dinosaur, sauropod
+anthro, reptile, dinosaur, stegosaurian
+anthro, reptile, dinosaur, stegosaurus
+anthro, reptile, dinosaur, theropod
+anthro, reptile, dinosaur, thyreophoran
+anthro, reptile, dinosaur, triceratops
+anthro, reptile, dinosaur, tyrannosaurid
+anthro, reptile, dinosaur, tyrannosaurus
+anthro, reptile, dinosaur, tyrannosaurus rex
+anthro, reptile, dinosaur, velociraptor
+anthro, reptile, draco, dragon 
+anthro, reptile, draconic, Hydra
+anthro, reptile, draconic, Kobold
+anthro, reptile, draconic, Western Dragon
+anthro, reptile, draconic, Wingless Dragon
+anthro, reptile, draconic, avian, Feathered Dragon
+anthro, reptile, draconic, multi-legged, Draconcopode
+anthro, reptile, draconic, winged, Flying Wyvern
+anthro, reptile, draconic, winged, Wyvern
+anthro, reptile, mammal, draconic, Eastern Dragon
+anthro, reptile, mammal, furry, Furred Reptilian
+anthro, reptile, snake, cobra
+anthro, reptile, snake, pit viper
+anthro, reptile, snake, python
+anthro, reptile, snake, rattlesnake
+anthro, reptile, snake, snake
+anthro, reptile, snake, viper
+anthro, reptile, squamate, agamid
+anthro, reptile, squamate, chameleon
+anthro, reptile, squamate, gecko
+anthro, reptile, squamate, iguanid
+anthro, reptile, squamate, komodo dragon
+anthro, reptile, squamate, lizard
+anthro, reptile, squamate, monitor lizard
+anthro, undead, Vampire
+anthro, unknown species
+exoskeleton, arthropod, myriapod, myriapod
+fauna flora, fungus/animal hybrid, Fungi Fauna
+fauna flora, plant, Flower Creature
+humanoid, celestial being, Angel
+humanoid, deity, Asura
+humanoid, deity, Deity
+humanoid, extraterrestrial, Alien
+humanoid, hybrid, demon, Demon
+humanoid, hybrid, demon, Succubus
+humanoid, hybrid, demon, Yokai
+humanoid, hybrid, small demon, Imp
+humanoid, hybrid, spirit, Ghost
+humanoid, shape shifter, Changeling
+humanoid, shape shifter, Were
+humanoid, shape shifter, canine, Werecanid
+humanoid, shape shifter, canine, Werecanine
+humanoid, shape shifter, canine, Werewolf
+humanoid, shape shifter, eulipotyphlan Wereeulipotyphlan
+humanoid, spirit, Guardian Spirit
+humanoid, spiritual entity, Spirit
+humanoid, undead, Animated Skeleton
+humanoid, undead, Mummy
+insect, arthropod
+insect, arthropod, arachnid, arachnid
+insect, arthropod, arachnid, spider
+insect, arthropod, coleoptera, elateroid
+insect, arthropod, coleoptera, firefly
+insect, arthropod, coleopteran, beetle
+insect, arthropod, dipteran, dipteran
+insect, arthropod, hymenopteran, ant
+insect, arthropod, hymenopteran, bee
+insect, arthropod, hymenopteran, hymenopteran
+insect, arthropod, hymenopteran, wasp
+insect, arthropod, lepidopteran, butterfly
+insect, arthropod, lepidopteran, lepidopteran
+insect, arthropod, lepidopteran, moth
+insect, arthropod, mantodea, mantis
 machine, robot
-mammal, afrosoricida, afrosoricid
-mammal, ailuridae, ailurid
-mammal, ailuridae, giant panda
-mammal, ailuridae, red panda
-mammal, bovid, antelope
-mammal, bovid, cape buffalo
-mammal, bovid, gazelle
-mammal, bovid, grazing antelope
-mammal, bovid, holstein friesian cattle
-mammal, bovid, miltank
-mammal, bovid, oryx
-mammal, bovid, true antelope
-mammal, bovid, yak
-mammal, bovine, bovid
-mammal, bovine, bovine
-mammal, bovine, cattle
-mammal, camelid, alpaca
-mammal, camelid, camelid
-mammal, camelid, llama
-mammal, canid, Cerberus
-mammal, canid, Dire Wolf
-mammal, canid, Sparkledog
-mammal, canid, african wild dog
-mammal, canid, anubian jackal
-mammal, canid, arctic wolf
-mammal, canid, coyote
-mammal, canid, domestic dog
-mammal, canid, jackal
-mammal, canid, maned wolf
-mammal, canid, raccoon dog
-mammal, canid, red wolf
-mammal, canid, sergal
-mammal, canid, small molosser
-mammal, canid, spitz
-mammal, canid, tanuki
-mammal, canid, urocyon
-mammal, canid, wolf
-mammal, canid, wolfdog
-mammal, canine, Foo Dog
-mammal, canine, akita
-mammal, canine, alaskan malamute
-mammal, canine, australian cattle dog
-mammal, canine, australian shepherd
-mammal, canine, basset hound
-mammal, canine, beagle
-mammal, canine, bernese mountain dog
-mammal, canine, bird dog
-mammal, canine, border collie
-mammal, canine, borzoi
-mammal, canine, bull terrier
-mammal, canine, cattledog
-mammal, canine, cavalier king charles spaniel
-mammal, canine, chihuahua
-mammal, canine, cocker spaniel
-mammal, canine, collie
-mammal, canine, dalmatian
-mammal, canine, dingo
-mammal, canine, dobermann
-mammal, canine, german shepherd
-mammal, canine, golden retriever
-mammal, canine, great dane
-mammal, canine, herding dog
-mammal, canine, hunting dog
-mammal, canine, husky
-mammal, canine, labrador
-mammal, canine, mastiff
-mammal, canine, molosser
-mammal, canine, mountain dog
-mammal, canine, nordic sled dog
-mammal, canine, pastoral dog
-mammal, canine, pinscher
-mammal, canine, pit bull
-mammal, canine, pomeranian
-mammal, canine, pomsky
-mammal, canine, poodle
-mammal, canine, retriever
-mammal, canine, rottweiler
-mammal, canine, rough collie
-mammal, canine, saluki
-mammal, canine, samoyed
-mammal, canine, scent hound
-mammal, canine, sheepdog
-mammal, canine, shiba inu
-mammal, canine, shih tzu
-mammal, canine, siberian husky
-mammal, canine, sighthound
-mammal, canine, spaniel
-mammal, canine, swiss mountain dog
-mammal, canine, terrier
-mammal, canine, toy dog
-mammal, canine, welsh corgi
-mammal, caprine, caprine
-mammal, caprine, goat
-mammal, caviidae, capybara
-mammal, cercopithecidae, old world monkey
-mammal, cervid, capreoline
-mammal, cervid, cervine
-mammal, cervid, deer
-mammal, cervid, moose
-mammal, cervid, mule deer
-mammal, cervid, red deer
-mammal, cervid, reindeer
-mammal, cervid, white-tailed deer
-mammal, chiropteran, bat
-mammal, chiropteran, microbat
-mammal, chiropteran, pteropodid
-mammal, chiropteran, yangochiropteran
-mammal, cingulata, armadillo
-mammal, cricetidae, cricetid
-mammal, dasyuromorph, dasyurid
-mammal, dasyuromorph, dasyuromorph
-mammal, dasyuromorph, thylacine
-mammal, didelphidae, didelphid
-mammal, didelphidae, possum
-mammal, didelphidae, virginia opossum
-mammal, draconic, Furred Dragon
-mammal, equid, asinus
-mammal, equid, clydesdale
-mammal, equid, donkey
-mammal, equid, draft horse
-mammal, equid, earth pony
-mammal, equid, equine
-mammal, equid, horse
-mammal, equid, pony
-mammal, equid, zebra
-mammal, equine , unicorn 
-mammal, equine, Bat Pony
-mammal, equine, Kirin
-mammal, equine, Pegasus
-mammal, equine/humanoid, Centaur
-mammal, erinaceomorph, hedgehog
-mammal, eulipotyphlan, eulipotyphlan
-mammal, eupleridae, euplerid
-mammal, felid, bengal tiger
-mammal, felid, bobcat
-mammal, felid, calico cat
-mammal, felid, caracal
-mammal, felid, caracal \(genus\)
-mammal, felid, cheetah
-mammal, felid, clouded leopard
-mammal, felid, cougar
-mammal, felid, domestic cat
-mammal, felid, hairless cat
-mammal, felid, hyena
-mammal, felid, jaguar
-mammal, felid, leopard
-mammal, felid, leopardus
-mammal, felid, lion
-mammal, felid, lynx
-mammal, felid, machairodontine
-mammal, felid, maine coon
-mammal, felid, ocelot
-mammal, felid, pantherine
-mammal, felid, serval
-mammal, felid, siamese
-mammal, felid, snow leopard
-mammal, felid, spotted hyena
-mammal, felid, sprigatito
-mammal, felid, striped hyena
-mammal, felid, tabby cat
-mammal, felid, tiger
-mammal, felid, wildcat
-mammal, feline, Liger
-mammal, feline, cat
-mammal, feline, sphynx \(cat\)
-mammal, feline, tuxedo cat
-mammal, giraffid, okapi
-mammal, giraffidae, giraffe
-mammal, giraffidae, giraffid
-mammal, herpestidae, herpestid
-mammal, herpestidae, meerkat
-mammal, herpestidae, mongoose
-mammal, hippopotamidae, common hippopotamus
-mammal, hippopotamidae, hippopotamid
-mammal, hyenid, aardwolf
-mammal, lagomorph, domestic rabbit
-mammal, lagomorph, dwarf rabbit
-mammal, lagomorph, hare
-mammal, lagomorph, netherland dwarf rabbit
-mammal, lagomorph, oryctolagus
-mammal, lagomorph, rabbit
-mammal, macropod, kangaroo
-mammal, macropod, macropod
-mammal, macropod, wallaby
-mammal, marine, marine
-mammal, marsupial, bandicoot
-mammal, marsupial, koala
-mammal, marsupial, marsupial
-mammal, marsupial, vombatiform
-mammal, mephitid, skunk
-mammal, monotreme, echidna
-mammal, monotreme, monotreme
-mammal, murid, mouse
-mammal, murid, murid
-mammal, murid, murine
-mammal, murid, rat
-mammal, murid, rodent
-mammal, mustelid, badger
-mammal, mustelid, domestic ferret
-mammal, mustelid, gulonine
-mammal, mustelid, honey badger
-mammal, mustelid, marten
-mammal, mustelid, mephitid
-mammal, mustelid, mink
-mammal, mustelid, mustelid
-mammal, mustelid, musteline
-mammal, mustelid, otter
-mammal, mustelid, pine marten
-mammal, mustelid, river otter
-mammal, mustelid, stoat
-mammal, mustelid, striped skunk
-mammal, mustelid, true musteline
-mammal, mustelid, weasel
-mammal, mustelid, wolverine
-mammal, mustelid, zangoose
-mammal, ovine, domestic sheep
-mammal, ovine, sheep
-mammal, phyllostomidae, phyllostomid
-mammal, pilosa, pilosan
-mammal, pilosan, sloth
-mammal, pinniped, seal
-mammal, pinniped, walrus
-mammal, pinnipedia, pinniped
-mammal, primate, Kong
-mammal, primate, ape
-mammal, primate, gorilla
-mammal, primate, haplorhine
-mammal, primate, lemur
-mammal, primate, monkey
-mammal, primate, primate
-mammal, primate, ring-tailed lemur
-mammal, primate, strepsirrhine
-mammal, proboscidea, elephant
-mammal, proboscidea, elephantid
-mammal, proboscidea, proboscidean
-mammal, procyonid, procyonid
-mammal, procyonid, raccoon
-mammal, rhinocerotidae, rhinoceros
-mammal, rodent, beaver
-mammal, rodent, caviid
-mammal, rodent, chinchilla
-mammal, rodent, chinchillid
-mammal, rodent, dipodid
-mammal, rodent, eurasian red squirrel
-mammal, rodent, hamster
-mammal, rodent, jerboa
-mammal, rodent, porcupine
-mammal, sciurid, chipmunk
-mammal, sciurid, ground squirrel
-mammal, sciurid, rodent
-mammal, sciurid, sciurid
-mammal, sciurid, tree squirrel
-mammal, suidae, domestic pig
-mammal, suidae, suid
-mammal, suidae, suina
-mammal, suidae, sus \(pig\)
-mammal, suidae, wild boar
-mammal, talpidae, mole \(animal\)
-mammal, tenrecidae, tenrec
-mammal, tubulidentata, aardvark
-mammal, ursid, american black bear
-mammal, ursid, sloth bear
-mammal, ursidae, black bear
-mammal, ursidae, brown bear
-mammal, ursidae, grizzly bear
-mammal, ursidae, polar bear
-mammal, ursidae, ursine
-mammal, ursine, bear
-mammal, vermilingua, anteater
-mammal, viverrid, genet
-mammal, viverridae, viverrid
-mammal, vulpine, arctic fox
-mammal, vulpine, cross fox
-mammal, vulpine, fennec
-mammal, vulpine, fox
-mammal, vulpine, grey fox
-mammal, vulpine, red fox
-mammal, vulpine, silver fox
-mammal, xenarthra, xenarthran
-marine creatures, fish
-marine invertebrate, cephalopod, cephalopod
-marine invertebrate, cephalopod, coleoid
-marine invertebrate, cephalopod, decapodiform
-marine invertebrate, cephalopod, octopodiform
-marine invertebrate, cephalopod, octopus
-marine invertebrate, cnidarian, anthozoan
-marine invertebrate, cnidarian, cnidarian
-marine invertebrate, cnidarian, jellyfish
-marine invertebrate, cnidarian, medusozoan
-marine invertebrate, crustacean, crab
-marine invertebrate, crustacean, crustacean
-marine invertebrate, crustacean, decapoda
-marine invertebrate, crustacean, malacostracan
-marine invertebrate, echinoderm, echinoderm
-marine invertebrate, echinoderm, starfish
-marine invertebrate, gastropod, aquatic gastropod
-marine invertebrate, nudibranch, sea slug
-marine invertebrate, porifera, sea sponge
-marine mammal, cetacean, cetacean
-marine mammal, cetacean, dolphin
-marine mammal, cetacean, oceanic dolphin
-marine mammal, cetacean, orca
-marine mammal, cetacean, toothed whale
-marine reptile, draconic, aquatic, Aquatic Dragon
-mineral/animal hybrid, Mineral Fauna
-mixed breed
-monstrous and varied, Monster
+machine, robot, android
+machine, robot, animatronic
+machine, robot, cyborg
+machine, robot, mammal, Protogen
+machine, robot, reptile, Synth \(Vader-san\)
 otherworldly creature, horrifying, Eldritch Abomination
-plant, Flower Creature
-rabbit/antelope hybrid, Jackalope
-reptile, chelonian, turtle
-reptile, crocodilian, crocodilian
-reptile, crocodylid, alligator
-reptile, crocodylid, alligatorid
-reptile, crocodylid, crocodile
-reptile, crocodylid, crocodylid
-reptile, dinosaur, avian, Feathered Dinosaur
-reptile, dinosaur, ceratopsian
-reptile, dinosaur, dinosaur
-reptile, dinosaur, diplodocid
-reptile, dinosaur, dromaeosaurid
-reptile, dinosaur, hadrosaurid
-reptile, dinosaur, ornithischian
-reptile, dinosaur, parasaurolophus
-reptile, dinosaur, pterodactylus
-reptile, dinosaur, pterosaur
-reptile, dinosaur, sauropod
-reptile, dinosaur, stegosaurian
-reptile, dinosaur, stegosaurus
-reptile, dinosaur, theropod
-reptile, dinosaur, thyreophoran
-reptile, dinosaur, triceratops
-reptile, dinosaur, tyrannosaurid
-reptile, dinosaur, tyrannosaurus
-reptile, dinosaur, tyrannosaurus rex
-reptile, dinosaur, velociraptor
-reptile, draco, dragon 
-reptile, draconic, Hydra
-reptile, draconic, Kobold
-reptile, draconic, Western Dragon
-reptile, draconic, Wingless Dragon
-reptile, draconic, avian, Feathered Dragon
-reptile, draconic, multi-legged, Draconcopode
-reptile, draconic, winged, Flying Wyvern
-reptile, draconic, winged, Wyvern
-reptile, mammal, draconic, Eastern Dragon
-reptile, mammal, furry, Furred Reptilian
-reptile, snake, cobra
-reptile, snake, pit viper
-reptile, snake, python
-reptile, snake, rattlesnake
-reptile, snake, snake
-reptile, snake, viper
-reptile, squamate, agamid
-reptile, squamate, chameleon
-reptile, squamate, gecko
-reptile, squamate, iguanid
-reptile, squamate, komodo dragon
-reptile, squamate, lizard
-reptile, squamate, monitor lizard
-shape shifter, Changeling
-shape shifter, Were
-shape shifter, canine, Werecanid
-shape shifter, canine, Werecanine
-shape shifter, canine, Werewolf
-shape shifter, eulipotyphlan Wereeulipotyphlan
+serpentine, annelida, annelid
+serpentine, gastropod, slug
+serpentine, gastropod, snail
+serpentine, hybrid, marine, Merfolk
+serpentine, hybrid, serpent, Naga
+serpentine, hybrid, snake, Lamia
+serpentine, invertebrate, annelid, worm
 small humanoid, Fairy
-spirit, Guardian Spirit
-spiritual entity, Spirit
-undead, Vampire
-undead, humanoid, Animated Skeleton
-undead, humanoid, Mummy
-unknown species
+taur, hybrid, Mammal Taur
+taur, hybrid, Taur

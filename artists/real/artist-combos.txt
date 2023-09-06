@@ -1,0 +1,37 @@
+flat colors, outline, naive art, by [billy childish|frederick cayley robinson]
+shaded, {|{photo|}realistic,} (by kenket:1.1), by ross tran, by michael & inessa garmash, by pino daeni, by kiguri, by alena aenami, by ruan jiam
+shaded, {|{photo|}realistic,} (by taran fiddler:1.1), by snowskau, by michael & inessa garmash, by pino daeni, by kiguri, by alena aenami, by ruan jia
+shaded, {|{photo|}realistic,} (by tohfu:1.2), by negger, (by kenket:0.5), by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
+shaded, {|{photo|}realistic,} [(by kenket:1.1)|by ross tran|by michael & inessa garmash|by pino daeni|by kiguri|by alena aenami|by ruan jiam]
+shaded, {|{photo|}realistic,} [(by taran fiddler:1.1)|by snowskau|by michael & inessa garmash|by pino daeni|by kiguri|by alena aenami|by ruan jia]
+shaded, {|{photo|}realistic,} by [chunie|darkgem|dreiker]
+shaded, {|{photo|}realistic,} by [ewgengster \(artist\)|kenket|stephan martiniere|leyendecker|norman rockwell]
+shaded, {|{photo|}realistic,} by [foxovh, darkgem, ross tran, michael garmash, pino daeni]
+shaded, {|{photo|}realistic,} by [honovy|oouna]
+shaded, {|{photo|}realistic,} by [kenket|claweddrip|thebigslick|hioshiru]
+shaded, {|{photo|}realistic,} by [nomax|kenket|caraid]
+shaded, {|{photo|}realistic,} by [pino daeni|iskra|honovy]
+shaded, {|{photo|}realistic,} by [pino daeni|ruan jia|miles-df|alayna lemmer|carlo galli bibiena]
+shaded, {|{photo|}realistic,} by [thebigslick|snowskau|kuroodod]
+shaded, {|{photo|}realistic,} by chunie, by darkgem, by dreiker
+shaded, {|{photo|}realistic,} by ewgengster \(artist\), by kenket, by stephan martiniere, by leyendecker, by norman rockwell
+shaded, {|{photo|}realistic,} by foxovh, darkgem, ross tran, michael garmash, pino daeni
+shaded, {|{photo|}realistic,} by honovy, by oouna
+shaded, {|{photo|}realistic,} by kenket, by claweddrip, by thebigslick, by hioshiru
+shaded, {|{photo|}realistic,} by nomax, by kenket, by caraid
+shaded, {|{photo|}realistic,} by pino daeni, by iskra, by honovy
+shaded, {|{photo|}realistic,} by pino daeni, by ruan jia, by miles-df, by alayna lemmer, by carlo galli bibiena
+shaded, {|{photo|}realistic,} by thebigslick, by snowskau, by kuroodod
+shaded, {|{photo|}realistic,} by tohfu, by negger, by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
+shaded, {|{photo|}realistic,} outline, by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
+{shaded|cel shading|flat colors}, outline, by tohfu, by negger, by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
+{shaded|cel shading}, outline, {|toony,} (brian kesinger, by kenket:1.2), by haps, by dramamine {3::|by frans van mieris, by hans makart, by leonid afremov, by jeannette guichard-bunel, by jillian tamaki, by amy sillman|2::by {1-$$, by $$frans van mieris|hans makart|leonid afremov|jeannette guichard-bunel|jillian tamaki|amy sillman}}
+{shaded|cel shading}, outline, {|toony,} (by fluff-kevlar:1.1), by greg rutkowski, by chunie, by foxovh
+{shaded|cel shading}, outline, {|toony,} [(by fluff-kevlar:1.1)|by greg rutkowski|by chunie|by foxovh]
+{shaded|cel shading}, outline, {|toony,} by [haps|carrot]
+{shaded|cel shading}, outline, {|toony,} by [haps|carrot|braeburned|sssnowy]
+{shaded|cel shading}, outline, {|toony,} by haps, by carrot
+{shaded|cel shading}, outline, {|toony,} by haps, by carrot, by braeburned, by sssnowy
+{shaded|cel shading}, {|outline,} {|toony,} {1-$$, $$(brian kesinger:1.2)|(by kenket:1.2)|by haps|by dramamine}, by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
+{|cel shading, outline, {|toony,}} by {4-6$$, by $$mystikfox61|dangpa|darkgem|null-ghost|bakemonoy|strange-fox|nurinaki}
+{|cel shading, outline, {|toony,}} {4-6$$, $$Brian Kesinger|Cory Loftis|Sachin Teng|Tom Whalen|Wlop|Greg Rutkowski|Yuumei|by braeburned|by daftpatriot|by haps|by zackary911}

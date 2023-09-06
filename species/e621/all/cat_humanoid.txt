@@ -1,0 +1,1 @@
+{26671::cat humanoid|2850::miqo'te|122::calico cat humanoid}

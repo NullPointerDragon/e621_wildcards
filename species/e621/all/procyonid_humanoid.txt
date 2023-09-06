@@ -1,0 +1,1 @@
+{5::procyonid humanoid|700::raccoon humanoid}

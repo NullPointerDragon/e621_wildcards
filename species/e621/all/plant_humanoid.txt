@@ -1,0 +1,1 @@
+{2760::plant humanoid|380::floran|581::flower humanoid|386::fruit humanoid|225::deku scrub}

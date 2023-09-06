@@ -1,0 +1,80 @@
+Realism Style:  Oil paint, acrylics, charcoal.  Precise rendering, accurate proportions.  Natural hues, subtle light and shadow.
+Impressionism Style:  Oil paint, watercolors.  Quick brushwork, visible strokes.  Bright, vibrant colors, fleeting light effects.
+Cubism Style:  Collage, mixed media.  Geometric abstraction, multiple viewpoints.  Monochromatic or limited palette, fragmented forms.
+Surrealism Style:  Oil paint, found objects.  Dreamlike imagery, juxtaposition.  Fantastical colors, unexpected pairings.
+Abstract Expressionism Style:  Acrylics, large canvases.  Gestural brushwork, spontaneous creation.  Bold, expressive colors, emotional intensity.
+Pop Art Style:  Silkscreen, acrylics.  Repetition, appropriation.  Vivid, bold colors, strong graphic outlines.
+Renaissance Style:  Oil paint, fresco.  Realistic anatomy, linear perspective.  Balanced colors, use of chiaroscuro.
+Baroque Style:  Oil paint, sculpture.  Dramatic compositions, tenebrism.  High contrast, rich details.
+Minimalism Style:  Steel, glass, monochromatic paint.  Simplified forms, repetition.  Neutral colors, stark simplicity.
+Postmodernism Style:  Mixed media, digital art.  Eclectic, self-referential.  Diverse palette, play with conventions.
+Pointillism Style:  Oil paint, small dots of color.  Application of tiny dots to create images.  Optical mixing, vibrant and harmonious colors.
+Fauvism Style:  Bold oil paint, non-naturalistic colors.  Expressive brushstrokes, simplified forms.  Intense and arbitrary colors, emotional impact.
+Dadaism Style:  Collage, found objects.  Absurd, nonsensical compositions.  Varied and chaotic, challenging traditional norms.
+Art Nouveau Style:  Curved lines, organic forms, stained glass.  Ornamental design, flowing lines.  Pastel shades, decorative details.
+Expressionism Style:  Oil paint, bold brushwork.  Distorted perspectives, emotional intensity.  Highly emotive, strong contrast.
+Constructivism Style:  Geometric shapes, industrial materials.  Abstract compositions, emphasis on structure.  Simple color schemes, stark juxtaposition.
+Abstract Art Style:  Diverse, non-representational media.  Focus on form, line, and color.  Unlimited possibilities, experimental contrasts.
+Suprematism Style:  Geometric shapes, primary colors.  Non-objective compositions, pure abstraction.  Simple color combinations, minimal contrast.
+Photorealism Style:  Acrylics, airbrush, or pencil.  Hyper-realistic rendering, meticulous detail.  True-to-life colors, high level of detail.
+Abstract Surrealism Style:  Mixed media, unconventional materials.  Dreamlike abstractions, subconscious exploration.  Surreal palettes, juxtaposition of elements.
+Art Deco Style:  Symmetrical patterns, luxurious materials.  Streamlined designs, geometric forms.  Rich, vibrant colors, bold contrasts.
+Street Art/Graffiti Style:  Spray paint, stencils.  Urban murals, political messages.  Bright and eye-catching, strong visual impact.
+Trompe-l'oeil Style:  Oil paint, precise technique.  Realistic illusion of three-dimensionality.  Accurate representation, depth and shadow.
+Neo-Impressionism Style:  Pointillism, oil paint.  Optically blended colors, divisionism.  Harmonious hues, optical effects.
+Hard-edge Painting Style:  Acrylic paint, tape or stencils.  Defined geometric shapes, sharp lines.  Bold and flat, clear color separation.
+Abstract Expressionism Style:  Acrylics, large canvases.  Gestural brushwork, spontaneous creation.  Bold, expressive colors, emotional intensity.
+Neo-expressionism Style:  Oil paint, mixed media.  Intense brushstrokes, raw emotions.  Bright and bold, expressive contrasts.
+Conceptual Art Style:  Diverse, idea-based focus.  Emphasis on the concept rather than aesthetics.  Varied, depending on the underlying idea.
+Installation Art Style:  Mixed media, site-specific installations.  3D works that interact with the space.  Diverse, often immersive experiences.
+Land Art Style:  Natural elements like rocks, soil, and plants.  Creating large-scale works in the landscape.  Harmonious with the natural surroundings.
+Graffuturism Style:  Spray paint, graphic design.  Merging graffiti with abstract and futuristic elements.  Vibrant colors, dynamic compositions.
+Digital Art Style:  Computer software, digital tools.  Using digital media to create art.  Unlimited possibilities, vibrant digital colors.
+Outsider Art Style:  Found objects, unconventional media.  Artistic expression outside traditional norms.  Varied, often raw and unpolished.
+Biomorphism Style:  Organic shapes and forms.  Inspired by natural biological structures.  Earthy tones, organic color schemes.
+Graffiti Art Style:  Spray paint, markers, stencils.  Expressive lettering, urban murals.  Bold, eye-catching, and vibrant.
+Stuckism Style:  Traditional media like oil, acrylics.  Figurative and representational art.  Varies, often bold and emotional.
+Reverse Glass Painting Style:  Paint on the back of glass.  Reversed process for translucent effect.  Vivid, glowing colors, and depth.
+Folk Art Style:  Wood, fabric, natural pigments.  Traditional crafts passed down through generations.  Earthy tones, decorative details.
+Indigenous Art Style:  Varies depending on the culture.  Traditional art forms of indigenous peoples.  Reflective of cultural symbols and beliefs.
+Ink Wash Painting (Sumi-e) Style:  Ink and water on rice paper.  Brushstrokes with varying ink density.  Monochromatic, varying shades of ink.
+Lithography Style:  Stone or metal plates, greasy ink.  Image transferred from plate to paper.  Range of tones, subtle transitions.
+Mosaic Style:  Small pieces of glass, stone, or tile (tesserae).  Assembling tesserae to form images or patterns.  Diverse colors, texture-rich surfaces.
+Woodblock Printing Style:  Carved wooden blocks, ink.  Printing impressions on paper or fabric.  Bold and defined, limited color palette.
+Engraving Style:  Metal plates (copper, steel), burin or etching tools.  Incising images into the plate for printing.  Black and white, fine lines, intricate details.
+Collage Style:  Mixed media, cut and pasted together.  Assembling disparate elements to form a new composition.  Diverse colors and textures, unexpected combinations.
+Art Brut/Outsider Art Style:  Various, often unconventional and found objects.  Raw, uninhibited expression outside artistic norms.  Varied, uninhibited, and untrained aesthetics.
+Digital Collage Style:  Digital media, software tools.  Assembling images digitally to create a new composition.  Endless possibilities, digital manipulation effects.
+Assemblage Style:  Found objects, mixed media.  Combining objects into a single artwork.  Varied, incorporating the characteristics of found objects.
+Monochrome Painting Style:  Any medium, single color palette.  Working with a single hue to evoke emotions.  Tonal variations, focus on shades of one color.
+Reverse Painting on Glass Style:  Glass, paint applied on the back surface.  Creating images in reverse order.  Translucent, glowing effects.
+Graffito (Scratchboard) Style:  Prepared boards, scratching tools.  Scratching away a top layer to reveal a contrasting layer.  Dramatic black and white, fine details.
+Primitivism Style:  Natural pigments, rudimentary tools.  Simple, unsophisticated imagery.  Earth tones, elemental forms.
+Drypoint Style:  Metal plates, etching needle.  Drawing on the plate's surface.  Soft, rich lines, limited color palette.
+Charcoal Drawing Style:  Charcoal sticks or pencils.  Using charcoal for expressive and textured drawings.  Black and white, dramatic shading.
+Stencil Art Style:  Stencils, spray paint or ink.  Using stencils to create repeated images.  Vibrant, defined shapes.
+Prismacolor Style:  Prismacolor pencils.  Detailed and vibrant colored pencil art.  Rich, blended colors, fine detailing.
+Decoupage Style:  Cut-out images, glue, varnish.  Layering images on a surface.  Varies, depending on the selected images.
+Sand Art Style:  Colored sand, glass containers.  Arranging colored sand in layers or patterns.  Vivid colors, textured appearance.
+Gouache Painting Style:  Gouache (opaque watercolor) and paper/canvas.  Bold and opaque painting technique.  Flat and intense colors, high coverage.
+Drip Painting Style:  Drips and splatters of paint on canvas.  Allowing paint to drip and splatter spontaneously.  Random and layered, unpredictable patterns.
+Spray Paint Art Style:  Spray paint, canvas or other surfaces.  Creating art with sprayed paint.  Vibrant colors, blending effects.
+Batik Style:  Fabric, wax, and dye.  Applying wax to resist dye and create patterns.  Rich, colorful patterns.
+Gold Leaf Painting Style:  Gold leaf, adhesive.  Applying gold leaf to a surface.  Lustrous gold against other colors.
+Charcoal Powder Drawing Style:  Charcoal powder, blending tools.  Using charcoal powder for expressive and smudgy effects.  Monochromatic, soft gradients.
+Papier Collé Style:  Collage made with paper and other materials.  Combining various materials onto a surface.  Varied, depending on the chosen elements.
+Vorticism Style:  Geometric shapes, machinery-inspired forms.  Emphasizing angularity and dynamism.  Bold and vibrant colors, fractured compositions.
+Poster Art Style:  Paper, various media (paint, print, etc.).  Creating visually striking posters for promotion.  Bold, eye-catching, and communicative.
+Reverse Painting on Acrylic Style:  Acrylic sheets, paint applied on the back surface.  Creating images in reverse order on acrylic.  Translucent, vivid colors, depth effect.
+Neo-Plasticism (De Stijl) Style:  Geometric shapes, primary colors.  Non-objective compositions, pure abstraction.  Simple color combinations, minimal contrast.
+Washi Tape Art Style:  Washi tape (decorative adhesive tape).  Using tape to create designs and patterns.  Diverse colors and patterns, textured look.
+Environmental Art Style:  Natural elements, earth, rocks, etc.  Creating art in and with nature.  Harmonious with the environment, site-specific.
+Henna Art (Mehndi) Style:  Henna paste, applied to the skin.  Intricate patterns for temporary body art.  Reddish-brown, intricate designs.
+Wood Carving Style:  Wood, carving tools.  Sculpting wood to create three-dimensional art.  Natural wood tones, texture-rich.
+Glitch Art Style:  Digital images or videos.  Intentional digital errors and glitches.  Varies, distorted and unexpected effects.
+Sgraffito Style:  Clay or plaster with contrasting layers of colors.  Scratching through the top layer to reveal the layer below.  Dramatic contrast between layers.
+Inlay/Intarsia Style:  Wood or stone with different colored pieces.  Fitting together various colored pieces.  Rich and varied colors, intricate designs.
+Raku Pottery Style:  Ceramic clay, low-firing technique.  Fast-firing and reduction in oxygen for unique glazes.  Random and unpredictable colors and patterns.
+Neon Art Style:  Neon gas-filled tubes, electrified.  Creating glowing, colorful light sculptures.  Bright and vibrant neon hues.
+Spatter Painting Style:  Paint, brushes, flicking or dripping technique.  Flicking paint to create random patterns.  Multicolored splatters, energetic appearance.
+Contour Drawing Style:  Pen, pencil, or other drawing tools.  Drawing the outlines and edges of a subject.  Monochromatic, emphasis on shape.

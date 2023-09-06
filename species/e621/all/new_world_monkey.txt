@@ -1,0 +1,1 @@
+{7::new world monkey|25::callitrichid|3::lion tamarin|50::golden lion tamarin|29::cebid|107::capuchin monkey|43::atelid|179::spider monkey}

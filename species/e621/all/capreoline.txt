@@ -1,0 +1,1 @@
+{91::capreoline|47::capreoline humanoid|53::reindeer humanoid|1742::moose|1458::white-tailed deer|796::mule deer|203::roe deer|10546::reindeer}

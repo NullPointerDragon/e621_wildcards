@@ -1,0 +1,1 @@
+{27::pachycephalosaurid|151::pachycephalosaurus|13::iguanodontid|59::iguanodon|135::hadrosaurid|964::parasaurolophus|76::saurolophus|59::hypsilophodon|92::thyreophoran|57::stegosaurian|647::stegosaurus|39::ankylosaurian|30::ankylosaurid|188::ankylosaurus|125::ceratopsian|128::protoceratops|55::styracosaurus|2283::triceratops}

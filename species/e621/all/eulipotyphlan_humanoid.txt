@@ -1,0 +1,1 @@
+{9::eulipotyphlan humanoid|74::mole humanoid|106::hedgehog humanoid}

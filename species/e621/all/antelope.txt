@@ -1,0 +1,1 @@
+{1638::antelope|41::spiral-horned antelope|102::bongo \(antelope\)|264::kudu|4254::gazelle|102::thomson's gazelle|18::nanger|282::grant's gazelle|132::impala|97::true antelope|76::springbok|103::gerenuk|65::dik-dik|19::alcelaphine|124::gnu|23::grazing antelope|55::sable antelope|650::oryx|297::gemsbok}

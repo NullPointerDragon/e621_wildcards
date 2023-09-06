@@ -1,0 +1,1 @@
+{26::ground squirrel humanoid|52::chipmunk humanoid}

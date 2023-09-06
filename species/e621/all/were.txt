@@ -1,0 +1,1 @@
+{157::were|6::wereequine|119::werehorse|44::wererodent|101::wererat|21396::werewolf|643::werefox|289::weredog|54::werehusky|6336::worgen|3::werelagomorph|100::wererabbit|2::wereeulipotyphlan|1200::werehog|104::werechiropteran|5::werefelid|21::werefeline|225::werecat|32::werepantherine|102::weretiger|112::werelion|116::wereursid|66::wereursine|68::werehyena}

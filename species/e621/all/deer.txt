@@ -1,0 +1,1 @@
+{39801::deer|178::cervine humanoid|47::capreoline humanoid|53::reindeer humanoid|533::deer taur|331::cervine taur|3295::cervine|610::elk|2533::red deer|116::muntjac|87::tufted deer|198::fallow deer|103::chital|120::sika deer|236::water deer|88::chinese water deer|91::capreoline|1742::moose|1458::white-tailed deer|796::mule deer|203::roe deer|10546::reindeer}

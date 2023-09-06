@@ -1,0 +1,1 @@
+{3203::undead|5118::animated skeleton|2916::zombie|1074::mummy|91::spectre|128::lich|52::dracolich|119::ghoul|256::jiangshi}

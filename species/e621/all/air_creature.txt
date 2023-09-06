@@ -1,0 +1,1 @@
+{32::air humanoid|231::cloud humanoid|102::living cloud}

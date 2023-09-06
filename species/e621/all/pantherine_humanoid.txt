@@ -1,0 +1,1 @@
+{29::pantherine humanoid|1142::tiger humanoid|524::lion humanoid|134::jaguar humanoid|84::leopard humanoid|161::snow leopard humanoid}

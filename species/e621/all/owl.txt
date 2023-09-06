@@ -1,0 +1,1 @@
+{8897::owl|110::true owl|89::bubo \(genus\)|671::snowy owl|137::great horned owl|90::eurasian eagle-owl|30::masked owl|494::barn owl}

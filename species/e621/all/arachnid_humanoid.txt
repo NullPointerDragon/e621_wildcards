@@ -1,0 +1,1 @@
+{197::arachnid humanoid|130::scorpion humanoid|1981::spider humanoid}

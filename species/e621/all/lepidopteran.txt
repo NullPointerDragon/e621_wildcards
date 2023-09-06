@@ -1,0 +1,1 @@
+{376::lepidopteran|4213::butterfly|89::blue morpho|128::monarch butterfly|4113::moth|56::hawk moth|53::rosy maple moth|58::saturniid|102::luna moth|32::lepidopteran humanoid|106::butterfly humanoid|479::moth humanoid}

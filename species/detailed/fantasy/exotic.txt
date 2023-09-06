@@ -1,0 +1,8 @@
+serpentine, humanoid, marine, triton
+serpentine, humanoid, marine, mermaid
+serpentine, humanoid, snake, naga
+machine, robot, humanoid, golem
+anthro, humanoid, mammal, werewolf
+humanoid, giant
+humanoid, troll
+humanoid, hairless, vedalken

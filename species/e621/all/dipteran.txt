@@ -1,0 +1,1 @@
+{1044::dipteran|173::mosquito|58::housefly|56::dipteran humanoid}

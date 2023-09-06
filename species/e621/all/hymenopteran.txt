@@ -1,0 +1,1 @@
+{1004::ant|136::honeypot ant|5235::bee|84::bumble bee \(species\)|181::honey bee|884::wasp|41::vespid|178::hornet|11::hymenopteran humanoid|56::ant humanoid|451::bee humanoid|122::wasp humanoid}

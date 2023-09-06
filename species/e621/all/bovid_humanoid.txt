@@ -1,0 +1,1 @@
+{397::bovid humanoid|958::bovine humanoid|5033::cattle humanoid|343::caprine humanoid|902::sheep humanoid|741::goat humanoid}

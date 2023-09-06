@@ -1,0 +1,1 @@
+{108::ursine humanoid|71::panda humanoid|62::polar bear humanoid}

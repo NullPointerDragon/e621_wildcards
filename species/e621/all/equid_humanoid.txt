@@ -1,0 +1,1 @@
+{190::equid humanoid|1464::equine humanoid|637::horse humanoid|61::zebra humanoid|5::asinus humanoid|91::donkey humanoid|206::unicorn humanoid}

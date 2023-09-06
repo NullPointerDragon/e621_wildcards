@@ -1,0 +1,1 @@
+{47::capreoline humanoid|53::reindeer humanoid}

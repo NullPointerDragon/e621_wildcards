@@ -1,0 +1,1 @@
+{13::anseriform|52::anatid|5979::duck|12::dabbling duck|8::anas|243::mallard|16::anserinae|303::goose|91::canada goose|525::swan|103::mute swan}

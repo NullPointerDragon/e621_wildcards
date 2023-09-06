@@ -1,0 +1,1 @@
+{11::glitch creature|12::glitch pokemon|64::missingno.}

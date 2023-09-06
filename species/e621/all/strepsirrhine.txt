@@ -1,0 +1,1 @@
+{38::strepsirrhine|2098::lemur|143::aye-aye|1606::ring-tailed lemur|53::crowned lemur}

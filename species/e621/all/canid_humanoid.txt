@@ -1,0 +1,1 @@
+{1285::canid humanoid|1411::canine humanoid|4075::dog humanoid|5162::wolf humanoid|14560::fox humanoid|157::fennec humanoid|603::tanuki humanoid|557::jackal humanoid}

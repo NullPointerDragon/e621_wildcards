@@ -1,0 +1,1 @@
+{20696::robot|21122::animatronic|8844::android|6106::robot humanoid}

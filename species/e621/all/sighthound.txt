@@ -1,0 +1,1 @@
+{16::sighthound|368::afghan hound|1151::borzoi|181::greyhound|2011::saluki|121::whippet|144::irish wolfhound}

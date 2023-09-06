@@ -1,0 +1,1 @@
+{96::primate humanoid|582::monkey humanoid}

@@ -1,0 +1,17 @@
+animate inanimate, living card
+animate inanimate, living clothing
+animate inanimate, living doll
+animate inanimate, living furniture
+animate inanimate, living inflatable
+animate inanimate, living piñata
+animate inanimate, living plushie
+animate inanimate, living puppet
+animate inanimate, living scarecrow
+animate inanimate, mimic
+animate inanimate, object head
+animate inanimate, food humanoid
+animate inanimate, living candy
+animate inanimate, living fruit
+animate inanimate, fruit humanoid
+animate inanimate, living vegetable
+animate inanimate, vegetable humanoid

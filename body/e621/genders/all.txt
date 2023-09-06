@@ -1,0 +1,8 @@
+ambiguous gender
+female
+intersex
+andromorph
+gynomorph
+herm
+maleherm
+male

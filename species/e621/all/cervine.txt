@@ -1,0 +1,1 @@
+{3295::cervine|610::elk|178::cervine humanoid|2533::red deer|116::muntjac|87::tufted deer|198::fallow deer|103::chital|120::sika deer|331::cervine taur}

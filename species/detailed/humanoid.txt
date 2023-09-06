@@ -1,0 +1,35 @@
+human humanoid
+goblin humanoid
+elf humanoid
+animal humanoid
+ogre humanoid
+gnome humanoid
+dwarf humanoid
+hylian humanoid
+smurf humanoid
+twili humanoid
+draenei humanoid
+tarutaru humanoid
+draco shokan humanoid
+halfling humanoid
+tiefling humanoid
+winged humanoid
+asura humanoid
+monstrous humanoid
+faceless humanoid
+crown humanoid
+horned humanoid
+pokemon humanoid
+goo humanoid
+food humanoid
+robot humanoid
+elemental humanoid
+lalafell humanoid
+alien humanoid
+demon humanoid
+draph humanoid
+harvin humanoid
+kor \(magic: the gathering\) humanoid
+angel humanoid
+orc humanoid
+tailed humanoid

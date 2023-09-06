@@ -1,0 +1,1 @@
+{97::true antelope|102::thomson's gazelle|18::nanger|282::grant's gazelle|76::springbok|103::gerenuk|65::dik-dik}

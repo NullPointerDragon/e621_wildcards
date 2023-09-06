@@ -1,0 +1,1 @@
+{35::mineral humanoid|89::petrosapien|82::snow humanoid|54::ice humanoid|124::rock humanoid|95::crystal humanoid}

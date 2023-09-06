@@ -1,0 +1,1 @@
+{115::sciurid humanoid|26::ground squirrel humanoid|52::chipmunk humanoid|1566::tree squirrel humanoid}

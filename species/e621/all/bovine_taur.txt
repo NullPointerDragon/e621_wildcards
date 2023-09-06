@@ -1,0 +1,1 @@
+{13::bovine taur|52::bucentaur|155::cattle taur}

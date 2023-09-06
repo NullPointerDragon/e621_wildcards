@@ -1,0 +1,1 @@
+{288::ground squirrel|8611::chipmunk|18::marmot|56::groundhog|97::prairie dog}

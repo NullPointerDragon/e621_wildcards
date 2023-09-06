@@ -1,0 +1,1 @@
+{79::arthropod taur|70::insect taur|53::arachnid taur|589::spider taur|65::tarantula taur|51::scorpion taur}

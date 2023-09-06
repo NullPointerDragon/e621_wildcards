@@ -1,0 +1,1 @@
+{1027::ursine|50::grolar bear|267::black bear|480::moon bear|558::american black bear|261::kermode bear|2098::brown bear|3241::grizzly bear|102::kodiak bear|836::sloth bear|321::sun bear|13332::polar bear|108::ursine humanoid|71::panda humanoid|62::polar bear humanoid|66::wereursine}

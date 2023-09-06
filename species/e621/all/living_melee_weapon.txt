@@ -1,0 +1,1 @@
+{17::living melee weapon|164::living sword}

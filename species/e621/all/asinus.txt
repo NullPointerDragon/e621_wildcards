@@ -1,0 +1,1 @@
+{8::asinus|5::asinus humanoid|91::donkey humanoid|8355::donkey}

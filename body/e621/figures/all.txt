@@ -1,0 +1,29 @@
+Short
+Tall
+Dwarfism
+Giant
+Emaciated
+Skinny
+Slim
+Slightly Chubby
+Overweight
+Obese
+Morbidly Obese
+Musclegut
+Athletic
+Muscular
+Big Muscles
+Huge Muscles
+Hyper Muscles
+Musclegut
+Curvy Figure
+Hourglass Figure
+Voluptuous
+Pear-Shaped Figure
+Short Stack
+Teapot \(figure\)
+Stocky
+Top Heavy
+Bottom Heavy
+Girly
+Manly

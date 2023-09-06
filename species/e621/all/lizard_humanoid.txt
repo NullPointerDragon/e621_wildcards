@@ -1,0 +1,1 @@
+{483::lizard humanoid|189::chameleon humanoid}

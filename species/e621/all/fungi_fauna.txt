@@ -1,0 +1,1 @@
+{698::fungi fauna|247::fungi humanoid|283::mushroom humanoid}
