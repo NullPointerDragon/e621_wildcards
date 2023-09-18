@@ -7,7 +7,7 @@ Folders with "detailed" on their names were augmented with ChatGPT.
 Folders with "curated" were manually created by contributors.
 Most full outfits are in the "outfits" folder now.
 
-Wildcard categories:
+## Wildcard categories:
 	actions/
 	body/
 	colors/
