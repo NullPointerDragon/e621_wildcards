@@ -1,0 +1,17 @@
+amber eyes
+black eyes
+blue eyes
+brown eyes
+green eyes
+grey eyes
+heterochromia, {__colors*__} eyes, {__colors*__} eyes
+multicolored eyes
+orange eyes
+pink eyes
+purple eyes
+red eyes
+rainbow eyes
+tan eyes
+teal eyes
+white eyes
+yellow eyes

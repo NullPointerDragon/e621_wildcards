@@ -1,9 +1,9 @@
 Casual Outfit: Blue Polo Shirt, Khaki Shorts, White Sneakers
-Business Outfit: Gray Suit Jacket, Navy Blue Tie, White Dress Shirt, Charcoal Gray Dress Pants
+Business Outfit: Gray Suit Jacket, Navy Blue Tie, White button-up shirt, Charcoal Gray Dress Pants
 Athletic Outfit: Sleeveless Tank Top, Track Pants, Running Shoes
 Party-Ready Outfit: Leather Jacket, Graphic T-shirt, Distressed Jeans, Boots
 Beach Outfit: Hawaiian Shirt, Swim Shorts, Flip Flops
-Formal Outfit: Tailored Tuxedo, Bow Tie, Dress Shoes
+Formal Outfit: Tailored Tuxedo, Bow Tie, Formal Shoes
 Winter Outfit: Cable Knit Sweater, Wool Peacoat, Dark Wash Jeans, Winter Boots
 Vintage Outfit: Retro Bowling Shirt, High-Waisted Jeans, Classic Sneakers
 Hipster Outfit: Plaid Flannel Shirt, Beanie Hat, Skinny Jeans, Retro Sneakers
@@ -12,10 +12,10 @@ Relaxed Outfit: Graphic Print T-shirt, Jogger Pants, Slip-on Sneakers
 Urban Outfit: Leather Biker Jacket, Distressed Skinny Jeans, Chelsea Boots
 Preppy Outfit: V-neck Sweater, Button-down Oxford Shirt, Chinos, Penny Loafers
 Edgy Outfit: Black Hoodie, Moto Jeans, Combat Boots, Snapback Cap
-Classic Outfit: Navy Blazer, White Dress Shirt, Gray Dress Pants, Brogues
+Classic Outfit: Navy Blazer, White button-up shirt, Gray Dress Pants, Brogues
 Boho Outfit: Linen Shirt, Cropped Trousers, Espadrilles, Fedora Hat
 Casual Streetwear Outfit: Graphic Hoodie, Cargo Pants, High-top Sneakers
-Modern Business Outfit: Navy Suit, Light Blue Dress Shirt, Brown Oxford Shoes
+Modern Business Outfit: Navy Suit, Light Blue button-up shirt, Brown Oxford Shoes
 Sporty Outfit: Zip-up Track Jacket, Track Pants, Running Shoes
 Effortlessly Cool Outfit: Denim Shirt, Black Jeans, White Low-top Sneakers
 Casual Bohemian Outfit: Linen Button-up Shirt, Khaki Shorts, Leather Sandals
@@ -43,7 +43,7 @@ Outdoor Explorer Outfit: Utility Jacket, Cargo Shorts, Hiking Boots, Backpack
 Biker Outfit: Leather Motorcycle Jacket, Biker Jeans, Engineer Boots
 Countryside Picnic Outfit: Linen Shirt, Chino Shorts, Slip-on Espadrilles
 Craftsman Outfit: Denim Apron, Plain T-shirt, Work Pants, Work Boots
-Wedding Outfit: Suit Vest, Dress Shirt, Dress Pants, Dress Shoes
+Wedding Outfit: Suit Vest, button-up shirt, Dress Pants, Formal Shoes
 Farm Market Outfit: Henley Shirt, Rolled-up Chinos, Canvas Slip-on Shoes
 Rural Fair Outfit: Graphic Tee, Shorts, Trucker Hat, Sneakers
 Cowboy Outfit: Cowboy Hat, Western Shirt, Bootcut Jeans, Roper Boots
@@ -51,7 +51,7 @@ Horseback Rider Outfit: Equestrian Helmet, Riding Jacket, Breeches, Riding Boots
 Summer Carnival Outfit: Tank Top, Cargo Shorts, Sneakers
 Bluegrass Festival Outfit: Overalls, Straw Hat, Lace-up Boots
 Rodeo Attendee Outfit: Rodeo T-shirt, Jeans, Cowboy Hat, Cowboy Boots
-Outdoor Wedding Outfit: Light Suit Jacket, Dress Shirt, Dress Pants, Oxfords
+Outdoor Wedding Outfit: Light Suit Jacket, button-up shirt, Dress Pants, Oxfords
 Vineyard Picnic Outfit: Button-up Shirt, White Pants, Loafers
 Country Fair Outfit: Checked Shirt, Denim Shorts, Straw Hat, Sneakers
 Hip-hop Street Style Outfit: Baggy Graphic Hoodie, Ripped Jeans, High-top Sneakers, Snapback Cap
@@ -66,33 +66,33 @@ Surfer Outfit: Surf-inspired Graphic T-shirt, Board Shorts, Flip Flops
 City Runner Outfit: Lightweight Running Jacket, Performance Shorts, Running Shoes
 Goth Outfit: Longline Black Coat, Fishnet Top, Skinny Jeans, Platform Boots
 Biker Outfit: Leather Biker Jacket, Distressed Jeans, Engineer Boots
-Skyscraper Office Outfit: Suit, Tie, Dress Shoes, Briefcase
+Skyscraper Office Outfit: Suit, Tie, Formal Shoes, Briefcase
 Tech Enthusiast Outfit: Tech-inspired Jacket, Smartwatch, Techwear Pants, Sneakers
 City Music Festival Outfit: Printed Button-up Shirt, Denim Shorts, Sunglasses, Sneakers
 Rocker Outfit: Leather Jacket, Band T-shirt, Ripped Jeans, Biker Boots
-Urban Professional Outfit: Tailored Blazer, Dress Shirt, Dress Pants, Leather Oxfords
+Urban Professional Outfit: Tailored Blazer, button-up shirt, Dress Pants, Leather Oxfords
 Dancer Outfit: Dance T-shirt, Dance Pants, Dance Sneakers
 Yoga Enthusiast Outfit: Breathable Yoga Tank, Yoga Shorts, Yoga Mat Carrier
 City Commuter Outfit: Commuter Jacket, T-shirt, Jeans, Comfortable Sneakers
 City College Student Outfit: College Sweatshirt, Jeans, Backpack, Sneakers
-Executive CEO Outfit: Navy Suit, Crisp White Dress Shirt, Silk Tie, Leather Dress Shoes
+Executive CEO Outfit: Navy Suit, Crisp White button-up shirt, Silk Tie, Leather Formal Shoes
 Chef Outfit: Chef's Jacket, Checkered Pants, Chef's Hat, Non-slip Kitchen Shoes
 Doctor Outfit: White Lab Coat, Medical Scrubs, Stethoscope, Comfortable Shoes
 Firefighter Outfit: Firefighter Turnout Gear ,Jacket, Pants, Fire Helmet, Fire Boots
-Lawyer Outfit: Tailored Suit, Dress Shirt, Silk Tie, Leather Dress Shoes
+Lawyer Outfit: Tailored Suit, button-up shirt, Silk Tie, Leather Formal Shoes
 Police Officer Outfit: Police Uniform ,Shirt, Pants, Duty Belt, Police Cap, Police Boots
 Nurse Outfit: Medical Scrubs, Comfortable Shoes, Stethoscope, ID Badge
 Flight Attendant Outfit: Flight Attendant Uniform ,Blazer, Shirt, Slacks, Tie, Cabin Crew Shoes
-IT Professional Outfit: Business Casual Attire ,Button-up Shirt, Dress Pants, Dress Shoes,
-Architect Outfit: Architectural-inspired Outfit:, Turtleneck Sweater, Tailored Trousers, Dress Shoes
+IT Professional Outfit: Business Casual Attire ,Button-up Shirt, Dress Pants, Formal Shoes,
+Architect Outfit: Architectural-inspired Outfit:, Turtleneck Sweater, Tailored Trousers, Formal Shoes
 Engineer Outfit: Engineer's Work Shirt, Work Pants, Steel-toed Boots, Safety Glasses
-Teacher Outfit: Dress Shirt, Tie, Dress Pants, Dress Shoes
+Teacher Outfit: button-up shirt, Tie, Dress Pants, Formal Shoes
 Photographer Outfit: Casual Professional Attire ,Button-up Shirt, Jeans, Casual Shoes,
 Fashion Designer Outfit: Trendy Designer Outfit:, Graphic T-shirt, Designer Jeans, Statement Sneakers
-Real Estate Agent Outfit: Professional Attire ,Blazer, Dress Shirt, Dress Pants, Loafers,
+Real Estate Agent Outfit: Professional Attire ,Blazer, button-up shirt, Dress Pants, Loafers,
 Electrician Outfit: Work Coveralls, Work Boots, Safety Gloves, Hard Hat
-Marketing Specialist Outfit: Stylish Business Casual Attire ,Button-up Shirt, Chinos, Dress Shoes,
-Sales Representative Outfit: Professional Business Attire ,Dress Shirt, Dress Pants, Dress Shoes,
+Marketing Specialist Outfit: Stylish Business Casual Attire ,Button-up Shirt, Chinos, Formal Shoes,
+Sales Representative Outfit: Professional Business Attire ,button-up shirt, Dress Pants, Formal Shoes,
 Veterinarian Outfit: Veterinarian Scrubs, Lab Coat, Stethoscope, Comfortable Shoes
 Journalist Outfit: Casual Professional Attire ,Button-up Shirt, Dress Pants, Oxfords,
 Casual Urban Explorer Outfit: Utility Jacket, Graphic T-shirt, Cargo Shorts, Hiking Boots
@@ -125,64 +125,64 @@ Casual Brunch with Friends Outfit: Button-up Shirt, Chinos, Loafers
 Casual Video Game Cafe Outfit: Gaming-themed T-shirt, Jeans, Sneakers
 Casual Bowling Night Outfit: Bowling Shirt, Jeans, Bowling Shoes
 Casual Rooftop Hangout Outfit: Tank Top, Jogger Pants, Flip Flops
-Formal Black Tie Event Outfit: Black Tuxedo, White Dress Shirt, Black Bow Tie, Patent Leather Shoes
-Cocktail Party Outfit: Tailored Suit, Dress Shirt, Skinny Tie, Dress Shoes
-Charity Gala Outfit: Classic Tuxedo, Bow Tie, Cufflinks, Black Dress Shoes
-Awards Ceremony Outfit: Designer Suit, Dress Shirt, Silk Tie, Leather Dress Shoes
-Elegant Anniversary Dinner Outfit: Three-Piece Suit, Crisp White Dress Shirt, Dress Shoes
+Formal Black Tie Event Outfit: Black Tuxedo, White button-up shirt, Black Bow Tie, Patent Leather Shoes
+Cocktail Party Outfit: Tailored Suit, button-up shirt, Skinny Tie, Formal Shoes
+Charity Gala Outfit: Classic Tuxedo, Bow Tie, Cufflinks, Black Formal Shoes
+Awards Ceremony Outfit: Designer Suit, button-up shirt, Silk Tie, Leather Formal Shoes
+Elegant Anniversary Dinner Outfit: Three-Piece Suit, Crisp White button-up shirt, Formal Shoes
 Opera Night Outfit: Classic Suit with Tailcoat, White Bow Tie, Opera Scarf, Patent Leather Shoes
-Business Conference Outfit: Business Suit, Dress Shirt, Patterned Tie, Leather Oxfords
-Evening Wedding Outfit: Tailored Suit, Light-colored Dress Shirt, Patterned Tie, Dress Shoes
-High-End Restaurant Dinner Outfit: Blazer, Dress Shirt, Dress Pants, Loafers
-Formal Charity Ball Outfit: Classic Tuxedo, Black Bow Tie, Cufflinks, Black Dress Shoes
-Art Gallery Opening Outfit: Tailored Suit, Patterned Dress Shirt, Pocket Square, Oxfords
-Business Awards Ceremony Outfit: Tailored Suit, Dress Shirt, Silk Tie, Dress Shoes
-Elegant Birthday Party Outfit: Dress Shirt, Dress Pants, Loafers, Leather Belt
-Garden Party Outfit: Linen Blazer, Dress Shirt, Chinos, Loafers
-Symphony Orchestra Performance Outfit: Formal Suit, Dress Shirt, Bow Tie, Dress Shoes
-Formal Networking Event Outfit: Blazer, Dress Shirt, Dress Pants, Loafers
-Romantic Dinner Date Outfit: Dress Shirt, Dress Pants, Loafers
-Business Luncheon Outfit: Dress Shirt, Dress Pants, Loafers
-Engagement Party Outfit: Tailored Suit, Crisp White Dress Shirt, Dress Shoes
-Graduation Ceremony Outfit: Dress Shirt, Dress Pants, Tie, Dress Shoes
-Classical Music Concert Outfit: Formal Suit, Dress Shirt, Tie, Dress Shoes
-Formal Business Meeting Outfit: Tailored Suit, Dress Shirt, Silk Tie, Dress Shoes
-Evening Fundraiser Gala Outfit: Black Tuxedo, White Dress Shirt, Black Bow Tie, Dress Shoes
-Elegant Dinner Cruise Outfit: Dress Shirt, Dress Pants, Loafers
-Company Anniversary Celebration Outfit: Tailored Suit, Dress Shirt, Silk Tie, Dress Shoes
-Masquerade Ball Outfit: Formal Suit, Dress Shirt, Masquerade Mask, Dress Shoes
-Theatre Opening Night Outfit: Tailored Suit, Dress Shirt, Pocket Square, Oxfords
-Formal Birthday Celebration Outfit: Dress Shirt, Dress Pants, Loafers, Leather Belt
-Wedding Guest Outfit: Tailored Suit, Dress Shirt, Patterned Tie, Dress Shoes
-Museum Gala Outfit: Tailored Suit, Dress Shirt, Silk Tie, Dress Shoes
-Business Casual Tech Startup Outfit: Dress Shirt, Chinos, Casual Blazer, Suede Loafers
-Creative Agency Outfit: Patterned Dress Shirt, Slim-fit Chinos, Leather Brogues
-Financial Analyst Outfit: Dress Shirt, Dress Pants, Tie, Leather Dress Shoes
-Marketing Manager Outfit: Tailored Suit, Dress Shirt, Skinny Tie, Dress Shoes
+Business Conference Outfit: Business Suit, button-up shirt, Patterned Tie, Leather Oxfords
+Evening Wedding Outfit: Tailored Suit, Light-colored button-up shirt, Patterned Tie, Formal Shoes
+High-End Restaurant Dinner Outfit: Blazer, button-up shirt, Dress Pants, Loafers
+Formal Charity Ball Outfit: Classic Tuxedo, Black Bow Tie, Cufflinks, Black Formal Shoes
+Art Gallery Opening Outfit: Tailored Suit, Patterned button-up shirt, Pocket Square, Oxfords
+Business Awards Ceremony Outfit: Tailored Suit, button-up shirt, Silk Tie, Formal Shoes
+Elegant Birthday Party Outfit: button-up shirt, Dress Pants, Loafers, Leather Belt
+Garden Party Outfit: Linen Blazer, button-up shirt, Chinos, Loafers
+Symphony Orchestra Performance Outfit: Formal Suit, button-up shirt, Bow Tie, Formal Shoes
+Formal Networking Event Outfit: Blazer, button-up shirt, Dress Pants, Loafers
+Romantic Dinner Date Outfit: button-up shirt, Dress Pants, Loafers
+Business Luncheon Outfit: button-up shirt, Dress Pants, Loafers
+Engagement Party Outfit: Tailored Suit, Crisp White button-up shirt, Formal Shoes
+Graduation Ceremony Outfit: button-up shirt, Dress Pants, Tie, Formal Shoes
+Classical Music Concert Outfit: Formal Suit, button-up shirt, Tie, Formal Shoes
+Formal Business Meeting Outfit: Tailored Suit, button-up shirt, Silk Tie, Formal Shoes
+Evening Fundraiser Gala Outfit: Black Tuxedo, White button-up shirt, Black Bow Tie, Formal Shoes
+Elegant Dinner Cruise Outfit: button-up shirt, Dress Pants, Loafers
+Company Anniversary Celebration Outfit: Tailored Suit, button-up shirt, Silk Tie, Formal Shoes
+Masquerade Ball Outfit: Formal Suit, button-up shirt, Masquerade Mask, Formal Shoes
+Theatre Opening Night Outfit: Tailored Suit, button-up shirt, Pocket Square, Oxfords
+Formal Birthday Celebration Outfit: button-up shirt, Dress Pants, Loafers, Leather Belt
+Wedding Guest Outfit: Tailored Suit, button-up shirt, Patterned Tie, Formal Shoes
+Museum Gala Outfit: Tailored Suit, button-up shirt, Silk Tie, Formal Shoes
+Business Casual Tech Startup Outfit: button-up shirt, Chinos, Casual Blazer, Suede Loafers
+Creative Agency Outfit: Patterned button-up shirt, Slim-fit Chinos, Leather Brogues
+Financial Analyst Outfit: button-up shirt, Dress Pants, Tie, Leather Formal Shoes
+Marketing Manager Outfit: Tailored Suit, button-up shirt, Skinny Tie, Formal Shoes
 Media Producer Outfit: Casual Blazer, Graphic T-shirt, Jeans, Sneakers
 Social Media Manager Outfit: Patterned Shirt, Chinos, Desert Boots
-Business Consultant Outfit: Professional Suit, Dress Shirt, Tie, Dress Shoes
-Human Resources Manager Outfit: Business Suit, Dress Shirt, Tie, Dress Shoes
-Public Relations Specialist Outfit: Smart Casual Blazer, Dress Shirt, Dress Pants, Loafers
+Business Consultant Outfit: Professional Suit, button-up shirt, Tie, Formal Shoes
+Human Resources Manager Outfit: Business Suit, button-up shirt, Tie, Formal Shoes
+Public Relations Specialist Outfit: Smart Casual Blazer, button-up shirt, Dress Pants, Loafers
 Software Engineer Outfit: Casual Polo Shirt, Khaki Pants, Sneakers
-Executive Assistant Outfit: Dress Shirt, Dress Pants, Tie, Dress Shoes
+Executive Assistant Outfit: button-up shirt, Dress Pants, Tie, Formal Shoes
 Office Manager Outfit: Casual Button-up Shirt, Chinos, Loafers
 Data Analyst Outfit: Business Casual Attire , Button-up Shirt, Dress Pants, Loafers
 UX Designer Outfit: Casual Graphic T-shirt, Slim-fit Jeans, Sneakers
-Investment Banker Outfit: Formal Business Suit, Dress Shirt, Silk Tie, Dress Shoes
-Insurance Agent Outfit: Dress Shirt, Dress Pants, Tie, Dress Shoes
-Sales Manager Outfit: Tailored Suit, Dress Shirt, Patterned Tie, Dress Shoes
+Investment Banker Outfit: Formal Business Suit, button-up shirt, Silk Tie, Formal Shoes
+Insurance Agent Outfit: button-up shirt, Dress Pants, Tie, Formal Shoes
+Sales Manager Outfit: Tailored Suit, button-up shirt, Patterned Tie, Formal Shoes
 Physical Therapist Outfit: Polo Shirt, Khaki Pants, Comfortable Sneakers
 Graphic Designer Outfit: Casual Graphic T-shirt, Slim-fit Jeans, Sneakers
-Event Planner Outfit: Professional Suit, Dress Shirt, Tie, Dress Shoes
-Supply Chain Manager Outfit: Business Suit, Dress Shirt, Silk Tie, Dress Shoes
-Public Accountant Outfit: Business Suit, Dress Shirt, Silk Tie, Dress Shoes
+Event Planner Outfit: Professional Suit, button-up shirt, Tie, Formal Shoes
+Supply Chain Manager Outfit: Business Suit, button-up shirt, Silk Tie, Formal Shoes
+Public Accountant Outfit: Business Suit, button-up shirt, Silk Tie, Formal Shoes
 Dental Hygienist Outfit: Polo Shirt, Khaki Pants, Comfortable Sneakers
-Architectural Designer Outfit: Casual Blazer, Dress Shirt, Dress Pants, Loafers
+Architectural Designer Outfit: Casual Blazer, button-up shirt, Dress Pants, Loafers
 Construction Project Manager Outfit: Casual Button-up Shirt, Chinos, Steel Toe Boots
 Business Analyst Outfit: Business Casual Attire , Button-up Shirt, Dress Pants, Loafers
 Software Developer Outfit: Casual Polo Shirt, Khaki Pants, Sneakers
-Human Resources Coordinator Outfit: Casual Blazer, Dress Shirt, Dress Pants, Loafers
+Human Resources Coordinator Outfit: Casual Blazer, button-up shirt, Dress Pants, Loafers
 Marketing Coordinator Outfit: Patterned Shirt, Chinos, Desert Boots
 Administrative Assistant Outfit: Casual Button-up Shirt, Chinos, Loafers
 Construction Worker Outfit: High-Visibility Vest, Work Shirt, Work Pants, Steel Toe Boots, Hard Hat
@@ -202,8 +202,8 @@ Food Truck Vendor Outfit: Food Truck T-shirt, Apron, Cargo Shorts, Sneakers
 Waste Collector Outfit: Reflective Vest, Work Pants, Work Boots, Work Gloves
 Security Guard Outfit: Security Uniform, Combat Boots, Security Badge
 Hotel Housekeeper Outfit: Housekeeping Uniform, Slip-resistant Shoes
-Waiter Outfit: Dress Shirt, Vest, Dress Pants, Dress Shoes
-Bartender Outfit: Button-up Shirt, Vest, Dress Pants, Dress Shoes
+Waiter Outfit: button-up shirt, Vest, Dress Pants, Formal Shoes
+Bartender Outfit: Button-up Shirt, Vest, Dress Pants, Formal Shoes
 Barista Outfit: Casual Button-up Shirt, Apron, Chinos, Sneakers
 Chef Outfit: Chef's Jacket, Checkered Pants, Chef's Hat, Non-slip Kitchen Shoes
 Firefighter Outfit: Firefighter Turnout Gear , Jacket and Pants, Fire Helmet, Fire Boots
@@ -214,7 +214,7 @@ IT Support Technician Outfit: Polo Shirt, Khaki Pants, Casual Shoes
 Housekeeping Staff Outfit: Housekeeping Uniform, Slip-resistant Shoes
 Office Receptionist Outfit: Button-up Shirt, Dress Pants, Loafers
 Lifeguard Outfit: Lifeguard Swimsuit, Sun Hat, Flip Flops, Lifeguard Whistle
-Catering Staff Outfit: Black Dress Shirt, Black Dress Pants, Apron, Dress Shoes
+Catering Staff Outfit: Black button-up shirt, Black Dress Pants, Apron, Formal Shoes
 Goth Outfit: Black Leather Jacket, Skull Graphic T-shirt, Skinny Jeans, Combat Boots
 Goth Outfit: Draped Velvet Coat, Ruffled Shirt, Victorian-style Trousers, Steampunk Boots
 Goth Outfit: Hooded Cloak, Hooded Sweater, Leather Pants, Ankle Boots
@@ -234,7 +234,7 @@ Punk Outfit: Ripped Fishnet Top, Leather Pants with Chains, Spike Cuffs, Biker B
 Punk Outfit: Patched Military Jacket, Ripped Jeans, Combat Boots, Beanie Hat
 Preppy Outfit: V-neck Sweater, Polo Shirt, Chinos, Penny Loafers
 Preppy Outfit: Blazer, Oxford Shirt, Patterned Bow Tie, Khaki Shorts, Boat Shoes
-Preppy Outfit: Cardigan, Button-up Shirt, Plaid Tie, Dress Pants, Dress Shoes
+Preppy Outfit: Cardigan, Button-up Shirt, Plaid Tie, Dress Pants, Formal Shoes
 Preppy Outfit: Seersucker Suit, Bow Tie, Penny Loafers, Straw Hat
 Bohemian Outfit: Flowy Tunic, Embroidered Vest, Linen Pants, Leather Sandals
 Bohemian Outfit: Earth-tone Kimono, Graphic Tee, Harem Pants, Slides
@@ -256,10 +256,10 @@ Emo Outfit: Studded Denim Jacket, Band Hoodie, Skinny Ripped Jeans, Combat Boots
 Emo Outfit: Striped Sweater, Black Skinny Jeans, Fingerless Gloves, Sneakers
 Emo Outfit: Leather Moto Jacket, Skull Graphic T-shirt, Ripped Jeans, Studded Belt
 Emo Outfit: Plaid Flannel Shirt, Band T-shirt, Dark Wash Jeans, Canvas Sneakers
-Business Casual Outfit: Blazer, Dress Shirt, Chinos, Loafers
+Business Casual Outfit: Blazer, button-up shirt, Chinos, Loafers
 Business Casual Outfit: Sweater Vest, Polo Shirt, Dress Pants, Dressy Loafers
-Business Casual Outfit: Casual Blazer, Patterned Dress Shirt, Khaki Pants, Oxford Shoes
-Business Casual Outfit: Dress Shirt, Sweater, Dress Pants, Brogue Shoes
+Business Casual Outfit: Casual Blazer, Patterned button-up shirt, Khaki Pants, Oxford Shoes
+Business Casual Outfit: button-up shirt, Sweater, Dress Pants, Brogue Shoes
 Boho-Chic Outfit: Flowy Boho Shirt, Embroidered Vest, Distressed Jeans, Suede Boots
 Boho-Chic Outfit: Linen Tunic, Wide-Leg Cropped Pants, Leather Sandals, Woven Belt
 Boho-Chic Outfit: Patchwork Denim Jacket, Graphic Tee, Tribal Print Shorts, Beaded Necklace
@@ -274,15 +274,15 @@ Military Outfit: Utility Vest, Cargo Shorts, Desert Boots, Aviator Sunglasses
 90s Grunge Outfit: Grunge-inspired Longline Cardigan, Fitted T-shirt, Acid Wash Jeans, Doc Martens
 Romantic Outfit: Romantic Blouse, Tapered Trousers, Loafers, Pocket Watch
 Romantic Outfit: Ruffled Shirt, Velvet Blazer, Tailored Trousers, Brogue Shoes
-Romantic Outfit: Flowing Cape, Dress Shirt, Formal Vest, Dress Pants, Dress Shoes
+Romantic Outfit: Flowing Cape, button-up shirt, Formal Vest, Dress Pants, Formal Shoes
 Romantic Outfit: Silk Cravat, Fitted Waistcoat, Tailored Suit, Leather Shoes
 Nautical Outfit: Breton Striped Sweater, White Chinos, Boat Shoes, Captain's Hat
 Nautical Outfit: Navy Blazer, White Oxford Shirt, Anchor Print Bow Tie, Navy Pants, Deck Shoes
 Nautical Outfit: Nautical T-shirt, Navy Blue Shorts, Canvas Sneakers, Aviator Sunglasses
 Nautical Outfit: Double-Breasted Navy Blazer, Crisp White Shirt, Khaki Pants, Loafers
-Glam Outfit: Sequined Blazer, Satin Dress Shirt, Tailored Dress Pants, Dress Shoes
+Glam Outfit: Sequined Blazer, Satin button-up shirt, Tailored Dress Pants, Formal Shoes
 Glam Outfit: Glittery Blazer, Velvet Turtleneck, Slim-fit Trousers, Patent Leather Shoes
-Glam Outfit: Metallic Gold Jacket, Printed Dress Shirt, Black Tuxedo Pants, Brogue Shoes
+Glam Outfit: Metallic Gold Jacket, Printed button-up shirt, Black Tuxedo Pants, Brogue Shoes
 Glam Outfit: Embellished Dinner Jacket, Satin Bow Tie, Velvet Dress Pants, Dress Loafers
 Cyberpunk Outfit: Cybernetic-inspired Jacket, Futuristic Graphic Tee, Cargo Pants, Holographic Sneakers
 Cyberpunk Outfit: Cyber Armor Vest, Neon Accent Hoodie, Techwear Cargo Pants, High-top Tech Sneakers
@@ -353,7 +353,7 @@ Communist Outfit: Propaganda T-shirt, Worker Pants, Worker Boots
 50s Outfit: Leather Jacket, White T-shirt, Cuffed Jeans, Converse Chuck Taylors
 50s Outfit: Knit Cardigan, Button-up Shirt, Tweed Trousers, Wingtip Shoes
 50s Outfit: Bowling Shirt, Khaki Pants, Suspenders, Two-tone Oxfords
-Conservative Outfit: Navy Blue Suit, White Dress Shirt, Conservative Tie, Oxford Shoes
+Conservative Outfit: Navy Blue Suit, White button-up shirt, Conservative Tie, Oxford Shoes
 Conservative Outfit: Tailored Blazer, Dress Pants, Tie Bar, Classic Leather Loafers
 Conservative Outfit: Tweed Jacket, Dress Slacks, Wingtip Brogues, Pocket Square
 Liberal Outfit: Colored Chinos, Graphic Tee, Denim Jacket, Sneakers
@@ -374,7 +374,7 @@ Caribbean Outfit: Tropical Print Shirt, Cargo Shorts, Flip Flops
 Hobo Outfit: Oversized, Tattered Jacket, Beanie Hat, Patched Pants, Old Sneakers
 Hobo Outfit: Torn Flannel Shirt, Frayed Jeans, Hiking Boots
 Hobo Outfit: Holey Cardigan, Ragged Scarf, Pajama Pants, Slippers
-Academic Outfit: Tweed Blazer, Dress Shirt with Bow Tie, Dress Pants, Oxford Shoes
+Academic Outfit: Tweed Blazer, button-up shirt with Bow Tie, Dress Pants, Oxford Shoes
 Academic Outfit: Corduroy Blazer, Turtleneck Sweater, Slacks, Loafers
 Academic Outfit: Academic Gown, Mortarboard Cap, Oxford Shoes
 Modern African Outfit: Dashiki Shirt, Ankara Pants, Kente Cloth Shoes, Beaded Bracelets
@@ -383,7 +383,7 @@ Modern African Outfit: African Print Shirt, Cargo Shorts, Woven Slip-on Shoes, W
 Modern Mediterranean Outfit: Linen Shirt, Tailored Shorts, Leather Sandals, Straw Fedora Hat
 Modern Mediterranean Outfit: Nautical Striped T-shirt, Chinos, Boat Shoes, Sunglasses
 Modern Mediterranean Outfit: Linen Button-up Shirt, Rolled-up Jeans, Loafers
-Billionaire Outfit: Tailored Three-Piece Suit, Silk Tie, Dress Shoes, Cufflinks
+Billionaire Outfit: Tailored Three-Piece Suit, Silk Tie, Formal Shoes, Cufflinks
 Billionaire Outfit: Designer Tuxedo, Bow Tie, Patent Leather Oxfords
 Billionaire Outfit: Cashmere Sweater, Dress Pants, Luxury Watch, Loafers
 Student Outfit: Hoodie, Distressed Jeans, Backpack, Sneakers
@@ -392,7 +392,7 @@ Student Outfit: Varsity Jacket, Polo Shirt, Khaki Pants, Sneakers
 Casual Outfit: Graphic T-shirt, Denim Jacket, Cargo Shorts, White Sneakers
 Casual Outfit: Henley Shirt, Distressed Jeans, Baseball Cap, Slip-on Sneakers
 Casual Outfit: Hooded Sweatshirt, Jogger Pants, Backpack, Sporty Sandals
-Religious Outfit , Christian: Dress Shirt, Dress Pants, Dress Shoes, Cross Necklace
+Religious Outfit , Christian: button-up shirt, Dress Pants, Formal Shoes, Cross Necklace
 Religious Outfit , Islamic: Thobe, Kufi Cap, Leather Sandals
 Religious Outfit , Jewish: Kippah , Yarmulke, Button-up Shirt, Dress Pants, Oxfords
 Suburban Outfit: Polo Shirt, Chinos, Boat Shoes, Sunglasses
@@ -401,7 +401,7 @@ Suburban Outfit: Plaid Flannel Shirt, Jeans, Hiking Boots
 Urban Outfit: Leather Jacket, Graphic T-shirt, Skinny Jeans, Chelsea Boots
 Urban Outfit: Bomber Jacket, Jogger Pants, Baseball Cap, High-top Sneakers
 Urban Outfit: Camouflage Jacket, Distressed Jeans, Beanie Hat, Lace-up Boots
-Metropolitan Outfit: Tailored Suit, Dress Shirt, Dress Shoes, Tie
+Metropolitan Outfit: Tailored Suit, button-up shirt, Formal Shoes, Tie
 Metropolitan Outfit: Turtleneck Sweater, Wool Trousers, Chelsea Boots, Wool Coat
 Metropolitan Outfit: Designer Blazer, Dress Pants, Loafers, Silk Pocket Square
 Rural Outfit: Plaid Shirt, Denim Overalls, Cowboy Hat, Western Boots
@@ -422,7 +422,7 @@ Spring Outfit: Bomber Jacket, V-neck T-shirt, Rolled-up Jeans, Low-top Sneakers
 Rainy Outfit: Waterproof Hooded Jacket, Jeans, Rain Boots, Compact Umbrella
 Rainy Outfit: Rain-resistant Windbreaker, Hoodie, Jogger Pants, Waterproof Sneakers
 Rainy Outfit: Poncho, Rain Hat, Rubberized Rain Pants, Wellington Boots
-Night-time Outfit: Tailored Suit, Dress Shirt, Dress Shoes, Silk Tie
+Night-time Outfit: Tailored Suit, button-up shirt, Formal Shoes, Silk Tie
 Night-time Outfit: Dressy Button-up Shirt, Dress Pants, Loafers
 Night-time Outfit: Dark Denim Jacket, Black T-shirt, Skinny Jeans, Chelsea Boots
 Sleepwear Outfit: Pajama Set , Button-up Shirt, Pajama Pants, Slippers
@@ -440,24 +440,24 @@ Cozy Outfit: Chunky Knit Sweater, Jeans, Suede Moccasin Slippers
 Funny Outfit: Silly Costume Onesie, Comical Slippers, Silly Hat
 Funny Outfit: Novelty T-shirt, Quirky Shorts, Funky Socks, Funny Hat
 Funny Outfit: Loud Hawaiian Shirt, Colorful Shorts, Goofy Sunglasses, Flip Flops
-Serious Outfit: Tailored Suit, Crisp Dress Shirt, Leather Dress Shoes, Silk Tie
-Serious Outfit: Dress Shirt, Dress Pants, Loafers, Professional Briefcase
+Serious Outfit: Tailored Suit, Crisp button-up shirt, Leather Formal Shoes, Silk Tie
+Serious Outfit: button-up shirt, Dress Pants, Loafers, Professional Briefcase
 Serious Outfit: Classic Button-up Shirt, Dress Pants, Oxford Shoes, Pocket Square
 Lower Class Outfit: Worn-out T-shirt, Baggy Jeans, Tattered Sneakers, Baseball Cap
 Lower Class Outfit: Plaid Flannel Shirt, Cargo Shorts, Work Boots
 Lower Class Outfit: Patched Jacket, Patched Jeans, Beanie Hat, Frayed Sneakers
 Middle Class Outfit: Polo Shirt, Chinos, Loafers, Leather Belt
-Middle Class Outfit: Oxford Shirt, Tailored Trousers, Dress Shoes, Watch
+Middle Class Outfit: Oxford Shirt, Tailored Trousers, Formal Shoes, Watch
 Middle Class Outfit: Sweater, Jeans, Desert Boots, Scarf
-Upper Class Outfit: Tailored Suit, Dress Shirt, Cufflinks, Luxury Watch
-Upper Class Outfit: Linen Blazer, Dress Pants, Leather Dress Shoes, Pocket Square
+Upper Class Outfit: Tailored Suit, button-up shirt, Cufflinks, Luxury Watch
+Upper Class Outfit: Linen Blazer, Dress Pants, Leather Formal Shoes, Pocket Square
 Upper Class Outfit: Cashmere Sweater, Dress Slacks, Leather Loafers, Monogrammed Cufflinks
 Parent Outfit: Casual Button-up Shirt, Khaki Shorts, Slip-on Sneakers
 Parent Outfit: Polo Shirt, Denim Jeans, Loafers, Sunglasses
 Parent Outfit: Button-up Shirt, Trousers, Oxford Shoes, Leather Briefcase
-Grandparent Outfit: Classic Cardigan, Slacks, Dress Shoes, Fedora Hat
+Grandparent Outfit: Classic Cardigan, Slacks, Formal Shoes, Fedora Hat
 Grandparent Outfit: Cable-knit Sweater, Dress Pants, Walking Cane, Oxford Shoes
-Grandparent Outfit: Vest, Pleated Slacks, Bow Tie, Dress Shoes
+Grandparent Outfit: Vest, Pleated Slacks, Bow Tie, Formal Shoes
 Femboy Outfit: Pastel Button-up Shirt, High-waisted Skinny Jeans, Platform Boots, Choker Necklace
 Femboy Outfit: Floral Skater Dress, Fishnet Tights, Mary Jane Shoes, Oversized Bow Headband
 Femboy Outfit: Ruffled Blouse, Pleated Skirt, Knee-high Socks, Ballet Flats
@@ -475,16 +475,16 @@ Suspicious Outfit: Trench Coat, Dark Sunglasses, Fedora Hat, Briefcase
 Suspicious Outfit: All-black Outfit, Face Mask, Fingerless Gloves, Steel-toed Boots
 Suspicious Outfit: Hooded Jacket, Cargo Pants, Shemagh Scarf, Tactical Boots
 Suspicious Outfit: Camouflage Shirt, Cargo Shorts, Tactical Belt, Hiking Boots
-Pilot Outfit: Pilot Uniform, Pilot Cap, Aviator Sunglasses, Dress Shoes
+Pilot Outfit: Pilot Uniform, Pilot Cap, Aviator Sunglasses, Formal Shoes
 Police Officer Outfit: Police Uniform, Police Badge, Utility Belt, Combat Boots
 Firefighter Outfit: Firefighter Turnout Gear, Fire Helmet, Fireproof Gloves, Fire Boots
-Military Officer Outfit: Military Dress Uniform, Hat with Badge, Leather Gloves, Dress Shoes
+Military Officer Outfit: Military Dress Uniform, Hat with Badge, Leather Gloves, Formal Shoes
 Astronaut Outfit: Space Suit, Helmet, Astronaut Gloves, Moon Boots
 Rock Star Outfit: Leather Jacket, Distressed Jeans, Studded Boots, Guitar
-Scientist Outfit: Lab Coat, Dress Shirt, Dress Pants, Glasses
-Movie Director Outfit: Director's Cap, Dress Shirt, Dress Pants, Director's Chair
-Doctor Outfit: White Lab Coat, Dress Shirt, Dress Pants, Stethoscope
-Lawyer Outfit: Tailored Suit, Dress Shirt, Silk Tie, Leather Briefcase
+Scientist Outfit: Lab Coat, button-up shirt, Dress Pants, Glasses
+Movie Director Outfit: Director's Cap, button-up shirt, Dress Pants, Director's Chair
+Doctor Outfit: White Lab Coat, button-up shirt, Dress Pants, Stethoscope
+Lawyer Outfit: Tailored Suit, button-up shirt, Silk Tie, Leather Briefcase
 Office Worker Outfit: Button-up Shirt, Dress Pants, Oxford Shoes, Briefcase
 Retail Worker Outfit: Company Polo Shirt, Khaki Pants, Comfortable Shoes, Name Tag
 Janitor Outfit: Janitor Uniform, Work Boots, Cleaning Gloves, Mop
@@ -492,7 +492,7 @@ Delivery Driver Outfit: Delivery Uniform, Cap, Cargo Pants, Work Boots
 Construction Worker Outfit: Hard Hat, Reflective Vest, Work Pants, Steel-toed Boots
 Barista Outfit: Barista Apron, T-shirt, Khaki Pants, Slip-resistant Shoes
 Teacher Outfit: Button-up Shirt, Dress Pants, Oxford Shoes, Glasses
-Waiter Outfit: Waiter Vest, Dress Shirt, Dress Pants, Bow Tie
+Waiter Outfit: Waiter Vest, button-up shirt, Dress Pants, Bow Tie
 Taxi Driver Outfit: Taxi Company Uniform, Driver Cap, Jeans, Comfortable Shoes
 Fast Food Worker Outfit: Fast Food Uniform, Name Tag, Apron, Non-slip Shoes
 Californian Outfit: Graphic Tank Top, Board Shorts, Flip Flops, Baseball Cap
@@ -500,7 +500,7 @@ Californian Outfit: Surfer-style T-shirt, Khaki Shorts, Vans Sneakers, Sunglasse
 Californian Outfit: Hawaiian Shirt, Cargo Shorts, Slip-on Sneakers, Straw Fedora
 New Yorker Outfit: Peacoat, Button-up Shirt, Slim-fit Trousers, Leather Oxfords
 New Yorker Outfit: Black Leather Jacket, Graphic Tee, Ripped Jeans, High-top Sneakers
-New Yorker Outfit: Blazer, Dress Shirt, Dress Pants, Loafers
+New Yorker Outfit: Blazer, button-up shirt, Dress Pants, Loafers
 Canadian Outfit: Plaid Flannel Shirt, Jeans, Bean Boots, Beanie Hat
 Canadian Outfit: Cable-knit Sweater, Corduroy Pants, Hiking Boots, Scarf
 Canadian Outfit: Buffalo Plaid Jacket, Thermal Henley, Work Pants, Steel-toed Boots
@@ -513,16 +513,16 @@ Modern Latin American Outfit: Salsa Shirt, White Linen Pants, Suede Loafers, Cuf
 Traditional Latin American Outfit: Charro Suit , Mariachi Suit, Cowboy Hat, Embroidered Boots, Bolo Tie
 Traditional Latin American Outfit: Poncho, Andean Hat, Alpaca Wool Scarf, Leather Sandals
 Traditional Latin American Outfit: Guayabera Shirt, Linen Pants, Huarache Sandals, Straw Sombrero
-Modern Italian Outfit: Tailored Linen Blazer, Dress Shirt, Chinos, Loafers
+Modern Italian Outfit: Tailored Linen Blazer, button-up shirt, Chinos, Loafers
 Modern Italian Outfit: Striped Polo Shirt, White Pants, Espadrilles, Fedora Hat
 Modern Italian Outfit: Leather Jacket, Slim-fit Jeans, Leather Boots, Aviator Sunglasses
 Florida Outfit: Hawaiian Shirt, Cargo Shorts, Flip Flops, Straw Hat
 Florida Outfit: Polo Shirt, Bermuda Shorts, Boat Shoes, Sunglasses
 Florida Outfit: Pastel T-shirt, White Linen Pants, Slip-on Sneakers, Visor Hat
-Wall Street Outfit: Charcoal Suit, Dress Shirt, Silk Tie, Leather Oxford Shoes
-Wall Street Outfit: Gray Blazer, Dress Pants, Dress Shoes, Tie Clip
-Wall Street Outfit: Navy Suit, Checkered Dress Shirt, Brogues, Pocket Square
-Princeton Alumni Outfit: Tweed Blazer, Dress Shirt, Bow Tie, Leather Oxford Shoes
+Wall Street Outfit: Charcoal Suit, button-up shirt, Silk Tie, Leather Oxford Shoes
+Wall Street Outfit: Gray Blazer, Dress Pants, Formal Shoes, Tie Clip
+Wall Street Outfit: Navy Suit, Checkered button-up shirt, Brogues, Pocket Square
+Princeton Alumni Outfit: Tweed Blazer, button-up shirt, Bow Tie, Leather Oxford Shoes
 Princeton Alumni Outfit: V-neck Sweater, Khaki Pants, Suede Loafers, Leather Portfolio
 Princeton Alumni Outfit: Polo Shirt, Chinos, Penny Loafers, Leather Belt
 Dodgy Neighbourhood Outfit: Baggy Hoodie, Ripped Jeans, High-top Sneakers, Beanie Hat
@@ -537,11 +537,11 @@ Heavy Metal Outfit: Dark Hoodie, Cargo Pants, High-top Sneakers, Fingerless Glov
 Funk Outfit: Colorful Patterned Shirt, Bell-bottom Pants, Platform Shoes, Afro Wig
 Funk Outfit: Denim Overalls, Tie-dye Shirt, Sneakers, Funky Sunglasses
 Funk Outfit: Bright-colored T-shirt, Printed Shorts, Canvas Sneakers, Bucket Hat
-Classic Outfit: Navy Blazer, Dress Shirt, Dress Pants, Oxford Shoes
+Classic Outfit: Navy Blazer, button-up shirt, Dress Pants, Oxford Shoes
 Classic Outfit: Wool Coat, Turtleneck Sweater, Dress Trousers, Loafers
-Classic Outfit: Dress Shirt, Khaki Pants, Leather Belt, Penny Loafers
+Classic Outfit: button-up shirt, Khaki Pants, Leather Belt, Penny Loafers
 Christian Outfit: Collared Polo Shirt, Chinos, Boat Shoes, Cross Necklace
-Christian Outfit: Button-up Shirt, Dress Pants, Dress Shoes, Leather Bracelet
+Christian Outfit: Button-up Shirt, Dress Pants, Formal Shoes, Leather Bracelet
 Christian Outfit: Sweater Vest, Slacks, Loafers, Pocket Square
 Spiritual Outfit: Linen Shirt, Flowy Pants, Beaded Necklace, Sandals
 Spiritual Outfit: Hooded Cloak, Relaxed-fit Jeans, Leather Sandals, Crystal Bracelet
@@ -550,14 +550,14 @@ Vegan Outfit: Organic Cotton Shirt, Ethical Denim Jeans, Vegan Sneakers, Recycle
 Vegan Outfit: Linen Button-up Shirt, Hemp Shorts, Canvas Slip-ons, Cork Bracelet
 Vegan Outfit: Vegan Leather Jacket, Recycled Polyester T-shirt, Faux Leather Pants, Vegan Chelsea Boots
 Health Professional Outfit: Scrubs Set, Comfortable Sneakers, Stethoscope, ID Badge
-Health Professional Outfit: Lab Coat, Dress Shirt, Dress Pants, Comfortable Shoes
+Health Professional Outfit: Lab Coat, button-up shirt, Dress Pants, Comfortable Shoes
 Health Professional Outfit: Scrub Jacket, Cargo Pants, Nursing Clogs, Badge Reel
 Security Professional Outfit: Security Uniform, Combat Boots, Utility Belt, Walkie-talkie
 Security Professional Outfit: Black Suit, Sunglasses, Earpiece, ID Badge
 Security Professional Outfit: High-visibility Vest, Work Pants, Steel-toed Boots, Flashlight
 Entertainment Professional Outfit: Stage Costume, Dress Boots, Statement Accessories, Microphone
 Entertainment Professional Outfit: Band T-shirt, Distressed Jeans, High-top Sneakers, Leather Cuff
-Entertainment Professional Outfit: Dress Shirt, Dress Pants, Dress Shoes, Bow Tie
+Entertainment Professional Outfit: button-up shirt, Dress Pants, Formal Shoes, Bow Tie
 Convention Attendee Outfit: Geeky T-shirt, Jeans, Sneakers, Backpack
 Convention Attendee Outfit: Graphic Hoodie, Cargo Shorts, Fanny Pack, Cap
 Convention Attendee Outfit: Nerd Glasses, Button-up Shirt, Khaki Pants, Messenger Bag
@@ -576,8 +576,8 @@ Pub Patron Outfit: Bomber Jacket, T-shirt, Ripped Jeans, High-top Sneakers
 Fast Food Patron Outfit: Graphic T-shirt, Track Pants, Athletic Sandals, Baseball Cap
 Fast Food Patron Outfit: Polo Shirt, Jeans, Sneakers, Messenger Bag
 Fast Food Patron Outfit: Hoodie, Sweatpants, Sporty Slides, Beanie Hat
-Politician Outfit: Tailored Suit, Dress Shirt, Silk Tie, Dress Shoes
-Politician Outfit: Blazer, Dress Pants, Dress Shoes, Pocket Square
+Politician Outfit: Tailored Suit, button-up shirt, Silk Tie, Formal Shoes
+Politician Outfit: Blazer, Dress Pants, Formal Shoes, Pocket Square
 Politician Outfit: Button-up Shirt, Khaki Pants, Loafers, Tie Clip
 Rebel Outfit: Leather Biker Jacket, Band T-shirt, Distressed Jeans, Combat Boots
 Rebel Outfit: Camouflage Jacket, Ripped Denim Shorts, High-top Sneakers, Snapback Cap
@@ -588,7 +588,7 @@ Hooligan Outfit: Leather Jacket, Skinny Jeans, Biker Boots, Fingerless Gloves
 Slob Outfit: Oversized Hoodie, Sweatpants, Slippers, Messy Hair
 Slob Outfit: Worn-out T-shirt, Basketball Shorts, Flip Flops, Baseball Cap
 Slob Outfit: Graphic Sweatshirt, Baggy Jeans, Old Sneakers, Scruffy Beard
-Nouveau Riche Outfit: Tailored Suit, Crisp Dress Shirt, Luxury Watch, Leather Oxfords
+Nouveau Riche Outfit: Tailored Suit, Crisp button-up shirt, Luxury Watch, Leather Oxfords
 Nouveau Riche Outfit: Silk Shirt, Linen Pants, Loafers, Panama Hat
 Nouveau Riche Outfit: Velvet Blazer, Dress Pants, Monk Strap Shoes, Pocket Square
 Traveler Outfit: Safari Shirt, Cargo Shorts, Hiking Boots, Explorer Hat
@@ -597,12 +597,12 @@ Traveler Outfit: Field Jacket, Convertible Pants, Trail Shoes, Travel Watch
 Costume Party Outfit: Superhero Costume, Cape, Mask, Costume Boots
 Costume Party Outfit: Pirate Costume, Eye Patch, Tricorn Hat, Boots
 Costume Party Outfit: Disco Costume, Bell-bottom Pants, Platform Shoes, Afro Wig
-Preacher Outfit: Black Clerical Shirt, White Collar, Dress Pants, Dress Shoes
-Preacher Outfit: Dark Suit, Dress Shirt, Necktie, Dress Shoes
+Preacher Outfit: Black Clerical Shirt, White Collar, Dress Pants, Formal Shoes
+Preacher Outfit: Dark Suit, button-up shirt, Necktie, Formal Shoes
 Preacher Outfit: Long Robe, Sash, Sandals, Cross Necklace
-Professor Outfit: Tweed Jacket, Dress Shirt, Dress Pants, Oxford Shoes
+Professor Outfit: Tweed Jacket, button-up shirt, Dress Pants, Oxford Shoes
 Professor Outfit: V-neck Sweater, Corduroy Trousers, Loafers, Briefcase
-Professor Outfit: Elbow Patch Blazer, Bow Tie, Dress Shirt, Wingtip Shoes
+Professor Outfit: Elbow Patch Blazer, Bow Tie, button-up shirt, Wingtip Shoes
 Trendy Outfit: Graphic Hoodie, Distressed Jeans, Sneakers, Baseball Cap
 Trendy Outfit: Bomber Jacket, Jogger Pants, Fashion Sneakers, Beanie Hat
 Trendy Outfit: Denim Jacket, Floral Shirt, Chinos, Loafers
@@ -619,14 +619,14 @@ Gen X Outfit: Leather Jacket, Band T-shirt, Ripped Jeans, Ankle Boots
 Gen X Outfit: Denim Vest, Plaid Shirt, Cargo Pants, Doc Martens
 Gen X Outfit: Windbreaker, Faded Jeans, Sneakers, Beanie Hat
 Boomer Outfit: Polo Shirt, Khaki Pants, Loafers, Golf Visor
-Boomer Outfit: Casual Button-up Shirt, Dress Pants, Dress Shoes, Belt
-Boomer Outfit: V-neck Sweater, Slacks, Dress Shoes, Cufflinks
+Boomer Outfit: Casual Button-up Shirt, Dress Pants, Formal Shoes, Belt
+Boomer Outfit: V-neck Sweater, Slacks, Formal Shoes, Cufflinks
 1940s Outfit: Double-breasted Suit, Fedora Hat, Oxford Brogues, Pocket Watch
 1940s Outfit: Wool Trousers, Button-up Shirt, Suspenders, Wingtip Shoes
 1940s Outfit: Trench Coat, Fedora Hat, Wide-leg Trousers, Brogues
 1930s Outfit: Three-Piece Suit, Newsboy Cap, Oxford Shoes, Pocket Square
 1930s Outfit: Dress Pants, Sweater Vest, Two-tone Shoes, Vintage Tie
-1930s Outfit: Wide-leg Trousers, Dress Shirt with Collar Pin, Loafers, Bow Tie
+1930s Outfit: Wide-leg Trousers, button-up shirt with Collar Pin, Loafers, Bow Tie
 1920s Outfit: Tuxedo, Bow Tie, Patent Leather Oxfords, Cufflinks
 1920s Outfit: Waistcoat, High-waisted Trousers, Suspenders, Two-tone Shoes
 1920s Outfit: Fedora Hat, Pinstripe Suit, Wingtip Shoes, Pocket Watch

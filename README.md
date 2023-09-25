@@ -52,7 +52,7 @@ The next one generates a random species, gender, body figure, location and outfi
 
 	{{__hair/e621/colors*__}| }, {{__hair/e621/styles*__}| }, {{__hair/e621/traits_common*__}| }
 
-	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/poses*__}, {0-1$$__actions/e621/expressions*__}
+	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/solo/poses*__}, {0-1$$__actions/e621/solo/expressions*__}
 
 	{{__misc/cultural_adjectives__}| } {__locations/*__} background, detailed background
 
@@ -65,7 +65,7 @@ And the following one uses detailed descriptors for fantasy characters (replace 
 	{{__hair/e621/colors*__}| }, {{__hair/e621/styles*__}| }, {{__hair/e621/traits_common*__}| }
 	{0-3$${__body/e621/traits*__}| }
 
-	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/poses*__}, {0-1$$__actions/e621/expressions*__}
+	{0-1$$__composition/e621/angles*__}, {0-1$$__composition/e621/framing*__}, {0-1$$__actions/e621/solo/poses*__}, {0-1$$__actions/e621/solo/expressions*__}
 
 	{__locations/detailed/fantasy*__} background, detailed background
 
