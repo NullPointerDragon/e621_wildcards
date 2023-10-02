@@ -1,0 +1,12 @@
+anthro
+taur, quadruped
+feral, quadruped, animal
+[toon, toony, cute, chibi:anthro:0.5]
+monster, creepy, nightmare fuel, scary
+serpentine, legless, long tail
+living machine, robot, android, animatronic, animate inanimate
+living machine, living aircraft, living vehicle, aeromorph, animate inanimate
+living plushie, stitch \(sewing\), textile, fuzzy, animate inanimate
+living inflatable, living pooltoy, plastic, air valve, animate inanimate
+goo creature, translucent body, transculent hair, slime, animate inanimate
+elemental creature, living {fire | magma | water | ice | air | electricity | mineral | rock | metal | lava | shadow | flora fauna | food | fungi} creature, animate inanimate} 

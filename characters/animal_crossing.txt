@@ -1,0 +1,20 @@
+isabelle \(animal crossing\), nintendo, female, mammal, canid, canine, domestic dog, slightly chubby, yellow body, yellow fur, blonde hair, fluffy hair, parted bangs, topknot, black nose, 
+tom nook \(animal crossing\), nintendo, male, mammal, canid, tanuki, overweight, brown fur, brown body, tanuki markings, 
+beau \(animal crossing\), nintendo, girly male, mammal, cervine, deer, curvy, thicc, twink, brown fur, light countershading, small horns
+raymond \(animal crossing\), nintendo, male, mammal, feline, domestic cat, thicc, grey body, grey fur, blonde hair, forehead tuft, bald, black ears, black tail, heterochromia, green eyes, brown eyes, square glasses
+apollo \(animal crossing\), nintendo, male, avian, bird, bald eagle, muscular, bara, black body, black feathers, white head, yellow beak, 
+ankha \(animal crossing\), nintendo, female, mammal, feline, domestic cat, yellow body, yellow fur, dark blue hair, bob cut, striped tail, black eyes, uraeus
+bob \(animal crossing\), nintendo, male, mammal, feline, domestic cat, purple body, pink fur, purple fur, multicolored body, mottled, head markings, bald, yellow sclera, pink nose
+flick \(animal crossing\), nintendo, male, reptile, scaly, chameleon, red body, red scales, purple eyes, small horn, yellow horn, nose horn, head spikes, half-closed eyes, chameleon tail
+digby \(animal crossing\), nintendo, male, mammal, canid, canine, domestic dog, slightly chubby, brown fur, brown body, brown ears, light countershading, head tuft, [hair bangs:0.5], 
+audie \(animal crossing\), nintendo, female, mammal, canid, wolf, curvy, orange fur, blonde hair, forehead tuft, blue eyes, cheek tuft, light countershading, wolf tail, blue inner ear, 
+sable able \(animal crossing\), nintendo, female, mammal, eulipotyphlan, hedgehog, overweight, brown body, brown fur, freckles, light face, light countershading, long hair, quill hair, brown hair
+mabel able \(animal crossing\), nintendo, female, mammal, eulipotyphlan, hedgehog, overweight, blue body, blue fur, cheek markings, light face, light countershading, long hair, quill hair, blue hair
+sasha \(animal crossing\), nintendo, girly male, mammal, lagomorph, rabbit, curvy, thicc, green fur, green body, countershading, light face, blonde hair, forehead tuft, bald, dark eyes, long ears, 
+cherry \(animal crossing\), nintendo, female, mammal, canid, canine, domestic dog, curvy, slightly chubby, red body, red fur, head tuft, monotone body, black ears, lop ears,  ear piercing, black markings, eye marking, green eyes, pink nose, long eyelashes, 
+c.j. \(animal crossing\), nintendo, male, mammal, rodent, beaver, stocky, brown fur, brown body, light countershading, buckteeth, large eyebrows, blue eyes, freckles, blonde hair, forehead tuft, bald, beaver tail
+marshal \(animal crossing\), nintendo, male, mammal, rodent, squirrel, shortstack, tan body, tan fur, forehead tuft, blonde hair, squirrel tail, large tail, cheek blush
+rover \(animal crossing\), nintendo, male, mammal, feline, domestic cat, blue body, blue fur, white countershading, pointy ears, yellow inner ear, red eyes, slit pupils, noseless, white face, bald, (noseless)
+crazy redd \(animal crossing\), nintendo, male, mammal, vulpine, fox, athletic, potbelly, orange fur, orange body, white countershading, fox tail, eyes squinted, squint
+rosie  \(animal crossing\), nintendo, female, mammal, feline, domestic cat, cute, light blue body, light blue fur, blue hair, forehead tuft, dark eyes, white markings, light pink inner ears
+whitney \(animal crossing\), nintendo, female, mammal, canid, wolf, curvy, white fur, light blue tint, white hair, forehead tuft, blue eyes, cheek tuft, red nose, wolf tail, blue inner ear, 
