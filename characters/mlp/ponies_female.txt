@@ -1,0 +1,9 @@
+scootaloo \(mlp\), friendship is magic, female, tomboy, small, athletic, mammal, equine, pony, pegasus, orange body, orange fur, purple hair, short hair, wavy hair, spiky tail, feathered wings, small wings, brave
+applebloom \(mlp\), friendship is magic, female, small, thick thighs, mammal, equine, pony, earth pony, light yellow body, light yellow fur, [red|pink] hair, wavy hair, long hair, pink bow, pink ribbon, large bow, orange eyes, fluffy tail, glad
+sweetie belle \(mlp\), friendship is magic, female, small, slightly chubby, mammal, equine, pony, unicorn, white body, white fur, curled hair, long hair, two-toned hair, light purple hair, light pink hair, fluffy tail, green eyes, unicorn horn
+derpy hooves \(mlp\), friendship is magic, female, mammal, equine, pony, pegasus, grey body, grey fur, blonde hair, mullet, amber eyes, crossed eyes, feathered wings, derp eyes, cutie mark
+octavia \(mlp\), friendship is magic, female, mammal, equine, pony, grey body, grey fur, dark hair, swept bangs, purple eyes, long hair, pink bowtie, cutiemark
+bonbon \(mlp\), friendship is magic, female, mammal, equine, pony, curvy, light yellow body, light yellow fur, two tone hair, dark blue hair, pink hair, curled hair, wavy hair, blue eyes, cutiemark
+lyra heartstrings \(mlp\), friendship is magic, female, mammal, equine, pony, unicorn, wide hips, potbelly, light green body, light green fur, two tone hair, light teal hair, white hair, curled hair, yellow eyes, unicorn horn, cutiemark
+trixie \(mlp\), friendship is magic, [male:female:0.3], trans female, mammal, equine, pony, unicorn, light blue body, light blue fur, white hair, two tone hair, flowing hair, purple eyes, wearing wizard hat, purple hat, unicorn horn, cutiemark
+babs seed \(mlp\), friendship is magic, female, mammal, equine, pony, earth pony, curvy, slightly chubby, [orange|tan] body, pink hair, swept bangs, cutiemark, mean
