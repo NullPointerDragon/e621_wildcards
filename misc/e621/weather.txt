@@ -1,0 +1,18 @@
+clear sky
+clear sky
+open sky
+open sky
+clouds
+clouds
+cloudy
+cloudy
+overcast
+overcast
+drizzle
+rainy
+rain
+heavy rain
+storm
+thunderstorm
+windy
+snowing

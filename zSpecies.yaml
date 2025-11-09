@@ -1,0 +1,632 @@
+#My experience is with Automatic1111
+#Put in normal wildcards location for dynamic prompts
+#Call with __SpeciesSolo/R__ or go deeper with __SpeciesSolo/Mammal/Canine/Dog/R__
+#Some species are intentionally categorized incorrectly, for example, hyenas are honorary canines in my book
+#Caution: small white space mistakes can render the whole file to be unusable until fixed
+#Recommended: Get tagcomplete and enable Search for Wildcards so autocomplete will show you what wildcards are avialable when you start typing __SpeciesSolo...
+#Tag Complete: https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+#Dependencies: 
+#Dynamic Prompts: https://github.com/adieyal/sd-dynamic-prompts
+#Webui prompt postprocessor (formerly SendToNegative): https://github.com/acorderob/sd-webui-prompt-postprocessor - the syntax <!things I don't want!> sends things I don't want to negative prompt
+#You may not have the same LORAs as me, so you may need to remove them or download them.
+#Most LORAs I used the original name for, except Cynfall's LORAs which I prefix with Cyn_
+
+#Random emphasis shortcut that I use in many wildcards (__r__)
+r:
+  - |-
+    1.{0|1|2}
+
+SpeciesSolo:
+  R:
+    - |-
+      {0.125::__SpeciesSolo/Amphibian/R__
+      |1::__SpeciesSolo/Avian/R__
+      |6::__SpeciesSolo/Mammal/R__
+      |0.25::__SpeciesSolo/Fish/R__
+      |2.5::__SpeciesSolo/Scalie/R__
+      |0.1::__SpeciesSolo/Monster/R__
+      |0.1::__SpeciesSolo/Alien/R__
+      |0.125::__SpeciesSolo/Insect/R__
+      |0.125::__SpeciesSolo/Digimon/R__
+      |0.25::__SpeciesSolo/Pokemon/R__
+      }
+  Alien:
+    R:
+      - |-
+        {1:: (sangheili:1.3), (alien:1.2),
+        |1::  (turian:1.3),  {|}  
+        |1:: (krogan:1.3), (alien,:1.2) scalie, 
+        |0.5:: (kig-yar, :1.3) (alien, scalie,) spikes, 
+        |0.5:: (xenomorph, :1.3) (alien:1.2) eyeless,  
+        |2:: (olidistrict:1.2) (prawn \(district 9\), :1.3) (alien, arthropod,:1.2)  (exoskeleton,<!armor, machine!>:__r__) }
+  Amphibian:
+    R:
+      - |-
+        {3::__SpeciesSolo/Amphibian/Frog/R__
+        |1::__SpeciesSolo/Amphibian/Salamander/R__}
+    Frog:
+      R:
+        - |-
+          {1:: (frog:1.2), {|green body,}
+          |2:: (poison dart frog,:1.2) {2::black body, blue body,| purple body, red body,} spots, {|multicolored body,}
+          |1:: (tree frog:1.2), green body, 
+          |1:: (toad \(frog\),:1.2), frog, (brown body,) amphibian,}
+    Salamander:
+      R:
+        - |-
+          {1::(salamander \(amphibian\),:1.2) (amphibian) {red body, {|black spots,} | black body {|yellow spots,}} <!frill!>
+          |0.2::(axolotl,:1.3), salamander \(amphibian\), amphibian, white body, pink body,}
+  Avian:
+    R:
+      - |-
+        {0.5:: (albatross:1.2) white body,
+        |4:: __SpeciesSolo/Avian/Accipitriform/R__
+        |5:: __SpeciesSolo/Avian/Passerine/R__
+        |3:: __SpeciesSolo/Avian/Owl/R__
+        |2:: __SpeciesSolo/Avian/Anseriform/R__
+        |2:: __SpeciesSolo/Avian/Columbid/R__
+        |2:: __SpeciesSolo/Avian/Galliform/R__
+        |3:: __SpeciesSolo/Avian/Parrot/R__
+        |0.5:: (crane:1.2) {|2::white body,} {|(long neck:{0.5|0.7|1.0|1.2})} avian, {|tail feathers,} {2::|beak,} {|talons,} 
+        |0.5:: (flamingo:1.2) {|2::pink body,} {|(long neck:{0.5|0.7|1.0|1.2})} avian, {|tail feathers,} {2::|beak,} {|talons,} 
+        |0.5:: ({heron,|pelican,}:1.2) pelecaniform,  avian, {|tail feathers,} {2::|beak,}
+        |0.5:: (toucan,:1.2) {|multicolored body,} avian, {|tail feathers,} {2::|beak,}
+        |0.25:: ({2::ostrich|emu}:1.2), ratite, avian,{|tail feathers,} {|beak,} 
+        |0.25::  (penguin:1.2), black body, white countershading,  avian,  {2::|beak,} 
+        |2::  (chocobo:1.2) {|yellow body,} avian,  {|tail feathers,} {2::|beak,} {|talons,} 
+        |1:: (phoenix:1.2),  mythological firebird, {|orange body,}  avian, {|feather hair,}  {|tail feathers,} {2::|beak,}
+        |1:: (puffin:1.2), alcid, avian, {|tail feathers,} {2::|beak,} 
+        |0.25:: (gull:1.2) lari, white body, avian, {|tail feathers,} {2::|beak,} 
+        |1:: (stork:1.2)  white body,  avian, {|long neck,} {|tail feathers,} {2::|beak,}
+        |1:: (hippogriff:1.2)  mythological avian, avian,  beak, talons, digitigrade,  hooves, 
+        |1:: (gryphon:1.2) mythological avian, {2::|brown body,| blue body,| bald eagle,} beak, {|talons}
+        |0:: roadrunner, 
+        } 
+    Accipitriform:
+      R:
+        - |-
+          {1:: (vulture,:1.2) {0-2$$ $$brown body,| black body,}
+          |1:: (secretary bird,:1.2) {|white body,} {|feather hair,}
+          |1:: (osprey:1.2), 
+          |1:: (golden eagle:1.2), {|brown body,}
+          |1:: (harpy eagle:1.2), 
+          |1:: ({|peregrine} falcon:1.2)
+          |0.5::  (red-tailed hawk,:1.2)
+          |1:: ({|bald} eagle,:1.2) accipitriform, avian, {|tail feathers,} {2::|beak,} {|talons,}}
+    Passerine:
+      R:
+        - |-
+          {1:: (bluebird,:1.2) blue body, 
+          |1:: (bushtit,:1.2) {1-2$$ $$white body|brown body,}
+          |1:: (cardinal \(bird\),:1.2)  red body,
+          |2:: ({crow|raven}:1.2) {|corvid,} {|black body,} 
+          |2:: (blue jay:1.2) {|corvid,} blue body, {|feather hair,}
+          |0.5:: (finch,:1.2)
+          |1::  (swallow \(bird\),:1.2) countershading,
+          |0.5:: (sparrow,:1.2)
+          |0.5:: (robin \(bird\),)
+          |0.5:: (canary :1.2) yellow body,
+          |0:: {mockingbird,|chickadee,|}} passerine, avian, {|tail feathers,} {2::|beak,} {|talons,}
+    Galliform:
+      R:
+        - |-
+          {1:: (chicken:1.2), {brown body,| white body,| multicolored body, {0-2$$ $$white body,| brown body,|black body,}}
+          |1:: (turkey:1.2),
+          |1::  (peafowl:1.2) (multicolored body,) blue body, <!brown body!>
+          |0:: (quail:1.2),} galliform, avian, {|tail feathers,} {|feather hair,} {2::|beak,} {|talons,}
+    Parrot:
+      R:
+        - |-
+          {1:: ({|budgerigar,|cockatiel,} cockatoo,:1.2)  {0-2$$ $$white body,|yellow body,|multicolored body,} {|rosy cheeks,}
+          |1:: (macaw:1.2), {|multicolored body,}}  parrot, avian, {|tail feathers,} {|feather hair,} {2::|beak,} {|talons,}
+    Columbid:
+      R:
+        - |-
+          {1:: (pigeon:1.2)
+          |1:: (dodo:1.2)
+          |2:: (dove:1.2)}  columbid, avian, {|tail feathers,} {2::|beak,} {|talons,}
+    Anseriform:
+      R:
+        - |-
+          {1:: (duck:1.2) {2::|1::white body,|1::yellow body} {|multicolored body,}
+          |1:: (mallard:1.2) {|green head,|green body,} {|multicolored body,}
+          |1:: (goose:1.2) {0-2$$ $$white body,|multicolored body,}
+          |2:: (swan:1.2) {|white body,}}  anseriform, avian, {|tail feathers,} {2::|beak,}
+    Owl:
+      R:
+        - |-
+          {1:: (barn owl:1.2), 
+          |1:: (eurasian eagle-owl:1.2), 
+          |1:: ({1-2$$ $$great horned owl,|bubo \(genus\),}:1.2) 
+          |1:: (snowy owl:1.2) {0-2$$ $$white body,| speckled body,}}  owl, avian, {|tail feathers,} {2::|beak,}
+  Insect:
+    R:
+      - |-
+        {3:: (moth:1.3) (lepidopteran, arthropod, insect,:1.2)  insect wings, antennae \(anatomy\),  {|(exoskeleton:__r__)} 
+        |0:: (butterfly:1.3) (lepidopteran, arthropod, insect,:1.2)  insect wings, antennae \(anatomy\),  {|(exoskeleton:__r__)} 
+        |1:: (wasp:1.3) (hymenopteran, arthropod, insect,:1.2)  insect wings, antennae \(anatomy\),  {|2::(exoskeleton:__r__)} 
+        |3:: (bee:1.3) (hymenopteran, arthropod, insect,:1.2)  insect wings, antennae \(anatomy\),  {|2::(exoskeleton:__r__)}  
+        |1:: (ant:1.3) (arthropod, insect,:1.2)  antennae \(anatomy\),  (exoskeleton:__r__) 
+        |2:: (cockroach:1.3) (blattodea,:1.2)   (arthropod, insect,:1.2)  (exoskeleton:__r__) 
+        |2:: (mantis:1.3), green body, (arthropod, insect:1.2), (exoskeleton:__r__) 
+        |2:: (spider:1.4)  (arachnid :1.3), {|arthropod,} {2::|1::black body,}  {|(multi arm,)}  {|(exoskeleton:__r__)} }
+  Mammal:
+    R:
+      - |-
+        {4::__SpeciesSolo/Mammal/Canine/R__
+        |0.1::__SpeciesSolo/Mammal/Cetacean/R__
+        |3::__SpeciesSolo/Mammal/Feline/R__
+        |2::__SpeciesSolo/Mammal/Lagomorph/R__
+        |1::__SpeciesSolo/Mammal/Mustelid/R__
+        |2::__SpeciesSolo/Mammal/Rodent/R__
+        |3::__SpeciesSolo/Mammal/Ungulate/R__
+        |0.3::__SpeciesSolo/Mammal/Ursid/R__
+        |2::__SpeciesSolo/Mammal/Other/R__}
+    Canine:
+      R:
+        - |-
+          {2::__SpeciesSolo/Mammal/Canine/Fox/R__
+          |4::__SpeciesSolo/Mammal/Canine/Dog/R__
+          |2:: (wolf:1.2), canine,
+          |2:: (werewolf:1.2), {0-4$$ $$wolf,|monster,|canine,|evil,|were,} 
+          |1:: (coyote:1.2), canine,  
+          |1:: (jackal:1.2), canine,
+          |2::  ({|anubis,} anubian jackal:1.2)  {2::<!headdress!> {<!jewelry!>|jewelry, {0-3$$ $$gold \(metal\),| bracelet,| necklace,}  } |1::headdress, jewelry, {0-3$$ $$gold \(metal\),| bracelet,| necklace,} }  {1::|1::<!jewelry!>|1::jewelry}  {1::|2::brown body,|2::black body,} canine
+          |1:: (african wild dog:1.2), canine,  
+          |0.5:: (maned wolf:1.2), canine,  
+          |2:: {(hyena:1.2),| (spotted hyena:1.2), spots, {|hyena,} | (striped hyena:1.2), stripes, {|hyena,}}
+          |0.5:: (gnoll:1.2), hyena, {0-3$$ $$monster,|were,|evil,}
+          }
+      Fox:
+        R:
+          - |-
+            {2:: (fox:1.2) {|dipstick tail,} {|fluffy tail,}
+            |5:: (red fox:1.2), fox, {|dipstick tail,} {|fluffy tail,}
+            |2:: (arctic fox:1.2), fox, white body, {2::|dipstick tail,} {|fluffy tail,}
+            |1:: (silver fox:1.2), fox, silver body, {|dipstick tail,} {|fluffy tail,}
+            |2:: (fennec:1.2), fox, {|big ears,} {2::|fluffy tail,}} {|canine,}
+      Dog:
+        R:
+          - |-
+            {3:: (german shepherd:1.2),
+            |3:: (dobermann:1.2),
+            |3:: (border collie:1.2),
+            |2.5:: (golden retriever:1.2),
+            |2.5:: (labrador:1.2), {|2::{tan|black|yellow|brown|white,} body,}
+            |2.5:: (australian shepherd:1.2),
+            |2.5:: (corgi:1.2),
+            |2:: (husky:1.2),
+            |2:: (malamute:1.2),
+            |2:: (rottweiler:1.2),
+            |2:: (great dane:1.2),
+            |2:: (dalmatian:1.2),
+            |1.5:: (pit bull:1.2),
+            |1.5:: (saint bernard:1.2),
+            |1.5:: (bull terrier:1.2),
+            |1.5:: (samoyed:1.2),
+            |1:: (shiba inu:1.2),
+            |1:: (greyhound:1.2),
+            |1:: (ibizan hound:1.2),
+            |1:: (jack russel terrier:1.2),
+            |1:: (bulldog:1.2),
+            |1:: (pug:1.2),
+            |1:: (boston terrier:1.2),
+            |0.5:: (xoloitzcuintli,:1.2)
+            |0.5:: (chihuahua:1.2),
+            |0.25:: (dachshund:1.2),
+            |0.25:: (kangal, :1.2),} domestic dog, {|canine,}
+    Cetacean:
+      R:
+        - |-
+          {4:: (orca:1.2) 
+          |1:: (dolphin:1.2)} (cetacean,)
+    Feline:
+      R:
+        - |-
+          {4::__SpeciesSolo/Mammal/Feline/Cat/R__
+          |2:: (cheetah:1.2), 
+          |4:: (jaguar:1.2), 
+          |2:: {3::(leopard:1.2), | (clouded leopard:1.2), leopard,}
+          |2:: (snow leopard:1.2), 
+          |3:: (lion:1.2), 
+          |3:: (tiger:1.2), 
+          |1:: (lynx:1.2), 
+          |1:: (machairodontine:1.3), 
+          |1:: (cougar:1.2), 
+          |1:: (bobcat:1.2), 
+          |2:: (panther:1.2), black body, {3:: <!spots!> |leopard spots} 
+          |0.5:: (caracal:1.2), 
+          |1:: (serval:1.2), 
+          |1:: (ocelot:1.2), 
+          |2:: (charr:1.3),  {1::|2::{2::(white body, grey body,  stripes)|(tiger)|(panther) black body {|stripes}|(leopard)|(jaguar)|(snow leopard, {|spots,} <!snow, {|red mane,}!>)|cheetah}}
+          |0.5:: (hrothgar:1.3) {1::|3::{black|grey|white} body,} {|stripes,}} feline, 
+      Cat:
+        R:
+          - |-
+            {7:: (domestic cat:1.2), {5::|1::(orange body:1.2),|1::(black body:1.2),}
+            |1:: (bombay cat, domestic cat:1.2), 
+            |2:: (tuxedo cat, domestic cat:1.2),
+            |1:: (siamese,domestic cat:1.2),
+            |3:: (maine coon,,domestic cat:1.2),
+            |0.5:: (scottish fold,domestic cat:1.2),
+            |1:: (abyssinian cat,domestic cat:1.2),
+            |2:: (sphynx \(cat\),  hairless cat,  domestic cat:1.2), 
+            |1:: (birman cat,domestic cat:1.2),
+            |2:: (oriental shorthair,domestic cat:1.2),
+            |1:: (bobtail,domestic cat:1.2),
+            |2:: (calico cat,domestic cat:1.2),
+            |1:: (tabby cat,domestic cat:1.2),} 
+    Lagomorph:
+      R:
+        - |-
+          {4:: (hare:1.2), lagomorph
+          |6:: (rabbit:1.2), lagomorph
+          |1:: (domestic rabbit:1.2), rabbit, lagomorph,
+          |1:: (dutch rabbit:1.2), {|domestic rabbit,}  {1-3$$ $$two tone body,|  black body,| white body,}  lagomorph 
+          |1:: (lop rabbit:1.2), domestic rabbit, lagomorph 
+          |1:: (dwarf rabbit:1.2), {2::white body,| brown body,|black body,}  domestic rabbit, lagomorph
+          |1:: (rex rabbit:1.2), domestic rabbit, lagomorph
+          |1:: ( flemish giant:1.2), domestic rabbit, rabbit, lagomorph}
+    Mustelid:
+      R:
+        - |-
+          {2:: {({1-2$$ $$common ferret,| domestic ferret,}:1.2), weasel,
+          |2:: {(weasel:1.2), | (least weasel:1.2), weasel,|(stoat:1.2), weasel,} 
+          |1:: (mink:1.2), mustelid,
+          |2:: {(badger:1.2),|(european badger:1.2), badger, }
+          |0.5:: (honey badger, :1.2),  mustelid, 
+          |1:: (wolverine :1.2),  gulonine, mustelid, 
+          |1:: {(marten,:1.2), | ( sable \(marten\), :1.2), {|marten,} | (pine marten, :1.2), {|marten,}}
+          |4:: {2::(otter:1.2),|1::({<!river!>  river|<!sea!> sea} otter,}:1.2), otter,}} mustelid, 
+    Rodent:
+      R:
+        - |-
+          {1:: (jerboa:1.3), {2::|big ears,} rodent, 
+          |1:: (guinea pig:1.2) caviid rodent,   
+          |4:: (skaven:1.3),  (rat:1.2),  {1-3$$ $$evil,| monster,| were,}  rodent, 
+          |6:: (rat:1.2), rodent, 
+          |6:: (mouse:1.2), rodent,  
+          |1:: (squirrel:1.2), rodent, 
+          |0.1:: (porcupine:1.2), rodent,  
+          |1:: (chinchilla:1.2), rodent,  
+          |1:: ((capybara:1.2), rodent,    
+          |1:: (chinchilla:1.2), rodent,  
+          |0.25:: (beaver:1.2) rodent,
+          |1:: (chinchilla:1.3), rodent,  
+          |1:: (hamster:1.3), rodent,}
+    Ungulate:
+      R:
+       - |-
+        {4:: __SpeciesSolo/Mammal/Ungulate/Horse/R__
+        |4:: __SpeciesSolo/Mammal/Ungulate/Cattle/R__
+        |4:: {(deer:1.2), {|white spots,}|{1::(red deer:1.2), {4::|white spots,}  |1::(fallow deer,:1.2), {|white spots,}|3::(white-tailed deer:1.2), {|white spots,}} deer,} 
+        |2:: (elk:1.2), deer, 
+        |1:: (reindeer:1.2), deer, 
+        |3:: {3::(antelope:1.2), bovid, |1::(gazelle:1.2), antelope, {|bovid,} |1::(oryx:1.2), antelope, {|bovid,}} 
+        |4:: {4::(wild boar:1.2), {|2::(tusks,:__r__)}|2::(warthog, tusks:1.2),|1:: (domestic pig:1.2),} suina, 
+        |2:: ({3::|1::domestic} goat:1.2) caprine, {|bovid,}
+        |1:: (zebra:1.2), equine,
+        |2:: (water buffalo:1.2) brown body, bovid, 
+        |2:: (minotaur:1.3), {|({1-2$$ $$monster,|were,}:__r__)}  {1::|1::cattle,|1::(highland cattle,:__r__)} bovid,
+        |1:: (tauren:1.2),  {{2::|3::piebald, {|spots,}| brown body,  | white body,} bovid,| {holstein friesian cattle,|hereford cattle|2::highland cattle}} bovid, 
+        |2:: (giraffe:1.2), 
+        |2:: (donkey:1.2), 
+        |1:: (moose:1.2), 
+        |2:: (sheep:1.2), 
+        |1:: (bison:1.2), 
+        |2:: (alpaca:1.2), camelid, {2::|(long neck:__r__)}
+        |1:: (llama:1.2), camelid, {2::|(long neck:__r__)}
+        |0.5:: (camel:1.2), camelid,}
+      Horse:
+        R:
+          - |-
+            {5:: {(horse:1.2),|(draft horse:1.2), horse, }
+            |2:: (american paint horse:1.2) {two tone body,| brown and white,}
+            |0.5:: (andalusian horse:1.3) {white|brown|black|grey} body, {0-2$$ $$spots,| speckled body,} 
+            |1:: (appaloosa,:1.3) horse, {0-2$$ $$spots,| speckled body,} 
+            |1:: (arabian horse:1.3) {dark body, brown body,| black body,|white body,  } <! two tone body, countershading, !>
+            |3:: (clydesdale:1.3),  draft horse, horse, 
+            |1:: (friesian:1.3), draft horse, horse,  
+            |2:: (fjord horse:1.3), draft horse, horse, 
+            |2:: (shire:1.3)  draft horse, horse,
+            |2:: (pegasus:1.3), horse, wings, feathered wings, 
+            |2:: (pony:1.3) horse, {|<!my little pony!>}
+            |0.25:: (unicorn:1.3), horse, {|white body,} horn,}
+      Cattle:
+        R:
+          - |-
+            {3:: (cattle:1.2) {2::|3::piebald, {|spots,}| brown body,  | white body,} bovid, 
+            |3:: (holstein friesian cattle,:1.3), bovid, {1::black body, white spots, |2:: white body, black spots} {|piebald}
+            |2:: (hereford cattle:1.3), {|piebald} bovid, 
+            |2:: (highland cattle:1.3) bovid, 
+            |0.5:: (spanish fighting bull:1.3), cattle,  bovid, brown body, dark body, <! two tone body, countershading, piebald!> }
+    Ursid:
+      R:
+        - |-
+          {3:: (bear:1.2), 
+          |1:: (giant panda:1.2), {|bear,}
+          |2:: (brown bear:1.2), 
+          |1:: (grizzly bear:1.2), 
+          |3:: (polar bear:1.2), 
+          |1:: (black bear:1.2), 
+          |1:: (pandaren:1.2), {|bear,}
+          |0:: (sloth bear:1.2), 
+          |0:: (moon bear:1.2), <!(moon:1.2)!>}
+    Other:
+      R:
+        - |-
+          {2:: (skunk:1.2), 
+          |4:: (bat:1.2), {|bat nose,}
+          |2:: (raccoon:1.2), 
+          |2:: (opossum:1.2),
+          |1:: (rhinoceros:1.3), 
+          |1:: (sergal:1.2), 
+          |1:: (kagaroo:1.2), 
+          |1:: (coati:1.2), procyonid
+          |1:: (ringtail:1.2), 
+          |1:: (nu mou:1.3) white hair, floppy ears, big ears,
+          |1:: (elephant:1.3),
+          |0.5:: (hippopotamid:1.3),
+          |0.5:: (moogle:1.2),}
+  Monster:
+    R:
+      - |-
+        {4:: ({2-4$$ $$monster,| eldritch abomination,| demon,| alien,|{scalie,|mammal }} :1.2)
+        |3:: (deathclaw:1.2) 
+        |2:: (krampus:1.2), demon,  goat, {|black body,} 
+        |2:: (werewolf, monster:1.2), evil, were
+        |2:: (skull {mask|head}:1.2), canine, {|demon,} {2::|black body,} 
+        |1:: (baphomet \(deity\):1.3), goat demon, black body, {|evil,} 
+        |1:: (scp-1471:1.3) skull head, {0-2$$ $$black body,|canine,|(nightmare fuel:__r__)}   
+        |1:: (scp-682:1.3) skull head, {0-3$$ $$fluffy,| black body,|(nightmare fuel,:__r__)} {2::|(eldritch abomination,:1.2)} 
+        |1:: (gargoyle:1.3) {0-2$$ $$demon,| monster,}  {|wings,}
+        |1:: (wendigo:1.3) skull head,  {0-4$$ $$deer|black body,|(nightmare fuel:__r__)|monster,|(evil,__r__)}
+        |1:: (imp, demon:1.2) {0-2$$ $$red body,| spade tail,}  
+        |1:: (fish:1.3) (monster:1.4), (evil,:1.2)  {0-2$$ $$alien,|eldritch abomination,} 
+        |0.5:: (mind flayer,:1.3) (face tentacles), {|{purple|blue|pink} body,}  {0-2$$ $$evil,|(eldritch abomination,:__r__)} (smooth skin,:1.2) <!(tuft, fur, fluffy)!>
+        |0.5:: (behemoth \(ff\), :1.3) monster,  
+        |0:: (chimera:1.3)
+        |0:: (manticore:1.2),}
+  MonsterHunter:
+    R:
+      - |-
+        {2:: (nargacuga:1.3) flying wyvern, beak, {|(winged arms:__r__}  
+        |2:: (tobi-kadachi,:1.3), fanged wyvern, scalie, 
+        |1:: (nergigante,:1.2), elder dragon,  (scalie,) {|black body,}  horn,  
+        |1:: (odogaron:1.3) fanged wyvern, scalie, red body,  
+        |1:: (zinogre:1.3) fanged wyvern, scalie,  
+        |1:: (mizutsune,:1.3) leviathan \(mh\),  dragon, {|eastern dragon,}  scalie,
+        |1:: (tigrex:1.4), flying wyvern, scalie,  
+        |0.5:: (jagras:1.4) fanged wyvern, scalie, {|iguana,}
+        |0.5:: (rathian:1.4), rath wyvern,  flying wyvern,  scalie, 
+        |0.5:: (rathalos:1.4), rath wyvern,  flying wyvern,  scalie,
+        |0.25:: (anjanath:1.3),  brute wyvern,  dinosaur, tyrannosaurus rex, theropod, scalie,} 
+  Fish:
+    R:
+      - |-
+        {3:: (shark:1.2), 
+        |2:: (koi:1.2), 
+        |1:: (carp:1.2), 
+        |0.5:: (barracuda:1.2), 
+        |1:: (eel:1.2), 
+        |1:: (salmon:1.2), 
+        |1:: (piranha \(fish\), :1.2)
+        |1:: {(fish monster:1.2), | (fish, monster:1.2), }
+        |0::catfish, anglerfish, manta ray,stingray, goldfish, clownfish,  betta} fish,
+  Scalie:
+    R:
+      - |-
+        {2:: __SpeciesSolo/Scalie/Dragon/R__
+        |2:: __SpeciesSolo/Scalie/Lizard/R__
+        |2:: __SpeciesSolo/Scalie/Dinosaur/R__
+        |2:: __SpeciesSolo/Scalie/Crocodilian/R__
+        |1:: __SpeciesSolo/Scalie/Snake/R__
+        |1:: (kobold:1.2), scalie
+        |0.25::(bangaa:1.3),  (scalie,:1.2) {0-2$$ $$floppy ears,| orange body,} <!fur, tuft,!>  
+        |0.25:: (argonian:1.2), scalie,
+        |0.1:: (turtle:1.2), scalie,} 
+    Dragon:
+      R:
+        - |-
+          {3:: (dragon:1.2), {|wings,}   {|2::{4::red|2::blue|2::(white:1.2)|2::black|2::green|1::yellow|1::silver|1::purple|0.5::orange} body,} {2::|countershading}
+          |2:: (aquatic dragon {0-2$$sea serpent|leviathan}:1.2), {|{3::blue body,|0.5::green body,|0.5:: black body,|0.5:: red body,|1:: grey body|2::multicolored body}} {2::|countershading,}  {0-2$$ $$frill \(anatomy\),|  membrane \(anatomy\),} {|webbed hands,} {3::|webbed feet,}
+          |2:: (eastern dragon:1.2),  <!wings!> {|wingless dragon,} ({2$$ $$long torso, | long neck,}:__r__),  {|{3::red|1::blue|1::orange|1::green|1::white|1::yellow} body,}   {0-2$$ $$furred dragon,|mane, } {2::|({1-2$$ $$flesh whiskers,| barbel \(anatomy\)}:1.2)}
+          |0.25:: (feathered dragon:1.2), {1::|1:: <!wings!> |2::feathered wings,} {0-2$$ $$feathers,| feather hair,} 
+          |2:: (furred dragon:1.2) {|chest tuft,} {2::|mane, } {|(fluffy,:__r__)}
+          |3:: (western dragon:1.2),  <!furred dragon, fur!> {|<!hair!>}  {|wings,} {|2::{4::red|2::blue|2::(white:1.2)|2::black|2::green|1::yellow|1::silver|1::purple|0.5::orange} body,} {2::|countershading}
+          |1:: (wyvern:1.3), (winged arms,:1.3) {|wings,} {|frill \(anatomy\),}
+          |0:: (:1.2), ADD DRAGON POKEMON
+          |0:: (:1.2), ADD MONSTER HUNTER DRAGONS} {|scalie}
+    Lizard:
+      R:
+        - |-
+          {3:: (lizard:1.2)
+          |2:: (gecko:1.2), {2::|3::green body,|2::yellow body, {3::black|red} spots,|1::white body, black spots,|2::blue body, {red|black} spots, } {|countershading} {|lizard,} 
+          |1:: (chameleon :1.3),  <!flick \(animal crossing\),!> {green body, {|stripes,} |multicolored body, {2$$ $$green body,| yellow body,| red body,| blue body,}  stripes, }  (lizard,:__r__) 
+          |0.5:: (frilled lizard :1.2),
+          |1:: (dactyloid:1.2) {|green body,}   (lizard,:__r__) 
+          |0.5::  (collared lizard:1.2), <!collar!> multicolored body, blue body, yellow head, {|lizard,} 
+          |0.25:: (helmeted lizard:1.2), 
+          |3:: ({1-2$$ $$monitor lizard,| komodo dragon,}:1.2) {0-2$$ $$black body,| grey body,| dark body,|blue body,} {0-2$$ $$speckled body,| spots,|multicolored body,} {|lizard,} 
+          |2:: (iguanid:1.2) {|2::{3::green|red|blue} body,} {|frill \(anatomy\),} {|stripes,}  {|lizard,} 
+          |1:: (skink:1.2), {|spots,|stripes,}  
+          |2:: (gila monster, {|helodermatid,}:1.2), earless,  black body, orange {spots|stripes},  {|multicolored body,} (lizard,:__r__)  
+          } scalie, 
+    Dinosaur:
+      R:
+        - |-
+          {4:: __SpeciesSolo/Scalie/Dinosaur/Theropod/R__
+          |1:: (stegosaurus :1.2), ornithischian
+          |1:: (triceratops:1.2), ceratopsian
+          |1:: (pterodactylus:1.2), {|pterosaur,}
+          |1:: (apatosaurus:1.2), sauropod,
+          |0.5:: (ankylosaurian:1.2), ornithischian
+          |0.5:: (brontosaurus:1.2), sauropod,
+          |0.5:: (brachiosaurus:1.2), sauropod} dinosaur, {|scalie,}
+      Theropod:
+        R:
+          - |-
+            {4:: (tyrannosaurus rex:1.2),
+            |4:: ({3::velociraptor|1::utahraptor|1::deinonychus|1::troodon,|0.5::microraptor,}:1.2), {0-2$$ $$dromaeosaurid,|feathered dinosaur,}
+            |2:: (allosaurus :1.2), {2::|2::spikes,|feathered dinosaur,}
+            |1:: (dilophosaurus:1.2),
+            |0.5:: (ceratosaurus:1.2),
+            |0.25:: (archaeopteryx:1.2), {|feathered dinosaur,}} theropod,
+    Crocodilian:
+      R:
+        - |-
+          {3:: (crocodile:1.2), {3::|2:: green body,|1::brown body,}
+          |2:: (alligator:1.2), 
+          |0.5:: (caiman:1.2), 
+          |0.25:: (gharial:1.2),} crocodilian, {|countershading,} {|scalie,}
+    Snake:
+      R:
+        - |-
+          {8::(snake:1.2), 
+          |1:: (anaconda,:1.2),  {boa \(snake\),|snake,} {|spots,}
+          |1:: (boa constrictor,:1.2), {boa \(snake\),|snake,} {|spots,}
+          |1:: (coral snake:1.2), stripes, 
+          |1:: (cobra:1.2), {|snake hood,} snake,
+          |1:: (python:1.2), snake,
+          |0.5:: (rat snake:1.2), snake,
+          |0.5:: (corn snake:1.2), snake,
+          |1:: (rattlesnake:1.2), {|viper, }snake, 
+          |0.5:: (viper:1.2), snake,} {|scalie,}
+  Digimon:
+    R:
+      - |-
+        {4:: (guilmon:1.2), scalie, red body, 
+        |3:: (renamon:1.2), yellow body, {3::<!purple gloves!>|1::purple gloves,}
+        |1:: (weregarurumon:1.2), canine, {2::|werewolf,}
+        |0.5:: (flamedramon:1.2), blue body, scalie, {|<!((mask, helmet, headgear, armor))!>| headgear, armor, red armor, } 
+        |0.5::  (gabumon:1.3) horn, {|blue body, yellow body,} 
+        |0.5:: (growlmon:1.3) red body, scalie, 
+        |0.5:: (veemon:1.2)  
+        |0.5:: (agumon:1.2) orange body, scalie, 
+        |0.5:: (impmon:1.2), purple body,
+        |0.25:: (gatomon:1.2), white body, feline,
+        |0.25:: (gaomon:1.2) canine, blue body,}
+  Pokemon:
+    R:
+      - |-
+        {10:: (arcanine:1.2), 
+        |10:: (charizard:1.2), 
+        |10:: (Nidoking:1.2), 
+        |10:: (lucario:1.2), 
+        |10: (Umbreon:1.2), eeveelution
+        |10:: (incineroar:1.3) {0-2$$ $$feline,| red body} 
+        |8:: {2::(amped toxtricity,:1.3) ( toxtricity:1.2)  |1::(low key toxtricity,:1.3) (blue body, blue chest,) purple body  <!(yellow body, yellow chest)!> ( toxtricity:1.2) |2:: ( toxtricity:1.3) } 
+        |8:: (Greninja:1.2), 
+        |8:: (Salazzle:1.2), 
+        |8:: (Zoroark:1.2), 
+        |8:: (Raichu:1.2), 
+        |8:: (Pikachu:1.2), 
+        |8:: (Vaporeon:1.2), eeveelution
+        |8:: (Mewtwo:1.2), 
+        |8:: (Flareon:1.2), eeveelution
+        |8:: (Jolteon:1.2), eeveelution
+        |6:: (Garchomp:1.2), 
+        |6:: (Dragonite:1.2), {|dragon}  
+        |6:: (Typhlosion:1.2), 
+        |6:: (Lugia:1.2), 
+        |6:: (Feraligatr:1.2), 
+        |6:: (Obstagoon:1.2), 
+        |6:: (Lycanroc:1.2), 
+        |6:: (inteleon:1.2), 
+        |6:: (Lapras:1.2), 
+        |6:: (grovyle:1.2), 
+        |4:: (Espeon:1.2), eeveelution
+        |4:: (Houndoom:1.2), 
+        |4:: (Leafeon:1.2), eeveelution
+        |4:: (Eevee:1.2), 
+        |4:: (floatzel:1.2), 
+        |4:: (buizel:1.2), 
+        |4:: (Suicune:1.2), canine, blue body,
+        |4:: (Dragonair:1.2), {0-2$$ $$scalie,|dragon,}
+        |4:: (Zeraora:1.2), 
+        |3:: (decidueye:1.2), avian,
+        |3:: (Charmeleon:1.2), 
+        |3:: (Glaceon:1.2), eeveelution,
+        |2:: (Luxray:1.2), 
+        |2:: (serperior:1.2), 
+        |2:: (miraidon:1.2), dragon,
+        |2:: (koraidon:1.2), dragon,
+        |2:: (Noivern:1.2), 
+        |2:: (Snivy:1.2), 
+        |2:: (blaziken:1.2), 
+        |2:: (mightyena:1.2), 
+        |1:: (blastoise:1.2),
+        |1:: (venusaur:1.2),
+        |1:: (Sneasel:1.2), 
+        |1:: (quilava:1.2),
+        |1:: (Riolu:1.2), 
+        |1:: (Braixen:1.2), 
+        |1:: (Ninetails:1.2), 
+        |1:: (Growlithe:1.2), 
+        |1:: (Goodra:1.2), dragon,
+        |1:: (zekrom:1.2), dragonn
+        |1:: (reshiram:1.2), dragon,
+        |1:: (zacian:1.2), canine, 
+        |1:: (Gengar:1.2)
+        |1:: (Rapidash:1.2), horse,
+        |1:: (Tyrantrum:1.2)
+        |1:: (Delphox:1.2), 
+        |1:: (Absol:1.2), 
+        |0::{meowscarada, feline|cinderace, {|rabbit}|Charmander|Articuno|Sceptile|Mudkip|Swampert|Abra|Vulpix|Groudon|Kyogre|Latios|Tyranitar|Entei|Raikou}}
+  Character:
+    R:
+    - |-
+        {4:: (twitch \(lol\),:1.3), (rat), {|evil,} {goggles,|<!goggles!>} {2::cape,|<!cape!>} buckteeth, 
+        |4:: {1-2$$ $$1::(asriel dreemurr:1.2),|2:: (asriel dreemurr \(god form\):1.2), stripes, tattoo,}  (goat), floppy ears, {|white body,} {5::|1::(robe, purple topwear,)} {|}
+        |3:: (rengar \(lol\),:1.3), (lion), feline, white body, {|2::} 
+        |3:: (renekton:1.3), (crocodile), {|}  
+        |3:: (kass:1.3), (rito),  (winged arms, feather hands,)   avian, blue body, 
+        |3:: (revali:1.3), (rito),  (winged arms, feather hands,)   avian, blue body, {|} 
+        |3:: (nick wilde,:1.3), fox, {|green shirt, {|2::open shirt,}} {|tie,} {2::|100::}  
+        |2:: (blaidd \(elden ring\):1.3), wolf, {0-2$$ $$blue cape,| facial scar, } 
+        |2:: (maliketh \(elden ring\):1.3), (wolf:1.2), canine, white body, {5::(helmet,)|1::<!(helmet)!>}  {0-2$$ $$armor,| greaves,}   
+        |2:: (Wolf O'Donnell:1.3), wolf,  {| }  {|eye patch,} 
+        |2:: (fox mccloud:1.3), fox, {|} {|red bandanna,}
+        |2:: (kurama:1.3), (fox spirit), fox, {multi tail,|<!((multi tail))!>} {|}
+        |2:: (ratchet:1.3), lombax {|short stack,}  {|} 
+        |2:: (ridley:1.3), space dragon \(metroid\), purple body, {|alien,} scalie, 
+        |2:: (link \(wolf form\):1.3), (wolf), {2::|1::wolf link }
+        |2:: (shirou ogami:1.3), (wolf), white body, {|}
+        |2:: (warwick \(lol\):1.3), (werewolf),  {1::|2::} 
+        |2:: (legoshi \(beastars\):1.3), wolf, {|} 
+        |1.5:: (nasus \(lol\):1.3), ({|anubian} jackal,)  
+        |1.5:: (simba:1.3), (lion:1.2), <!(feral)!> 
+        |1.5:: (ralsei:1.3), goat, ({black body,|white body,}:1.2) floppy ears, round glasses,  {nude, topless,  <!topwear, green topwear, robe,!> |green topwear, robe,  } red scarf, {green hat, | <!hat, green hat,!>}
+        |1.5:: (foxy \(fnaf\):1.3), {3::<!animatronic!>|1:: (animatronic:1.2)}  (fox,)
+        |1.5:: (spyro the dragon:1.3), purple body, dragon,  {|} 
+        |1:: (toothless:1.3), (dragon) night fury, black body, <!feral!> {|}
+        |1:: (puro \(changed\),:1.3) skull mask,  {0-2$$ $$canine,| goo creature,}  {|} 
+        |1:: (teba \(tloz\):1.3), (rito),  (winged arms, feather hands,)   avian, white body, {|} 
+        |1:: (falco lombardi:1.3), avian,  {2::|1::}
+        |1:: (loona:1.3),  <!female, eyelashes,  !> (wolf), {|}
+        |1:: (amaterasu \(okami\):1.3), (wolf), white body, {|} 
+        |1:: (mr. wolf \(the bad guys\),:1.3), (wolf), {|mr wolf } 
+        |1:: (bowser:1.2), koopa, scalie,  
+        |1:: (amicus \(adastra\):1.3), (wolf:1.2), {0-2$$ $$gold jewelry,| red cape,} {|} 
+        |1:: (ori \(ori\):1.3), guardian spirit white body,   
+        |1:: (beerus:1.3), sphynx \(cat\),  
+        |0.5:: (jake long:1.3), (dragon), scalie, red body,
+        |0.5:: {(koops, koopa troopa:1.2),| (koopa troopa:1.3),} (turtle shell,)   (koopa,) scalie, <!(spikes, spiked shell)!> 
+        |0.5:: (acrid \(risk of rain\):1.3), smooth skin purple body {0-3$$ $$alien,| monster|evil,} {|2:: green tongue, {0-3$$ $$saliva,|drooling,|mouth open, tongue out,}}
+        |0.5:: (neferu \(adastra\):1.3), jackal, black body, gold jewelry, barazoku, 
+        |0.5:: (godzilla:1.3) scalie, 
+        |0.5:: (judy hopps:1.2), rabbit,  <!female, eyelashes!> 
+        |0.25:: (scar \(the lion king\):1.3), <!scar!> (lion:1.2), black mane,  <!(feral)!>  
+        |0.1:: (smaug:1.3), (dragon), red body, evil,}
+  Template:
+    - |-
+      {1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2), 
+      |1:: (:1.2),} groupName

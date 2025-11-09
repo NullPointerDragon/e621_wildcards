@@ -1,0 +1,99 @@
+Amazonian
+Arabian
+Argentine
+Australian
+Balkan
+Belgian
+Brazilian
+Canadian
+Caribbean
+Central Asian
+Chilean
+Chinese
+Chinese
+Chinese
+Mongolian
+Colombian
+Costa Rican
+Cuban
+Czech
+Danish
+East Asian
+Eastern European
+Eastern American
+Egyptian
+Ethiopian
+Finnish
+French
+French
+German
+German
+Ghanaian
+Greek
+Hungarian
+Icelandic
+Indian
+Indian
+Indian
+Indonesian
+Israeli
+Italian
+Italian
+Jamaican
+Japanese
+Japanese
+Kazakh
+Kenyan
+Korean
+Kyrgyz
+Latin American
+Mexican
+Mexican
+Middle Eastern
+Middle Eastern
+Moroccan
+Dutch
+New Zealander
+Nigerian
+North African
+North American
+Northern European
+Norwegian
+Oceanian
+Pakistani
+Patagonian
+Peruvian
+Polish
+Polynesian
+Portuguese
+Romanian
+Russian
+Saharan
+Senegalese
+South American
+South Asian
+Southeast Asian
+Southern European
+Southern American
+Spanish
+Sri Lankan
+Subsaharan
+Swedish
+Swiss
+Syrian
+Taiwanese
+Tanzanian
+Thai
+Tunisian
+Turkish
+American
+American
+American
+American
+Ukrainian
+British
+British
+Uzbek
+Vietnamese
+Western European
+Western American

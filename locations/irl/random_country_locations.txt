@@ -1,0 +1,38 @@
+{__locations/irl/countries_adj__} capital
+{__locations/irl/countries_adj__} metropolis
+{__locations/irl/countries_adj__} city
+{__locations/irl/countries_adj__} town
+{__locations/irl/countries_adj__} village
+{__locations/irl/countries_adj__} city center
+{__locations/irl/countries_adj__} outskirts
+{__locations/irl/countries_adj__} suburbs
+{__locations/irl/countries_adj__} rich neighbourhood
+{__locations/irl/countries_adj__} poor neighbourhood
+{__locations/irl/countries_adj__} palace
+{__locations/irl/countries_adj__} church
+{__locations/irl/countries_adj__} temple
+{__locations/irl/countries_adj__} shrine
+{__locations/irl/countries_adj__} park
+{__locations/irl/countries_adj__} apartment
+{__locations/irl/countries_adj__} house
+{__locations/irl/countries_adj__} home
+{__locations/irl/countries_adj__} rooftop
+{__locations/irl/countries_adj__} farm
+{__locations/irl/countries_adj__} cottage
+{__locations/irl/countries_adj__} villa
+{__locations/irl/countries_adj__} resort
+{__locations/irl/countries_adj__} monument
+{__locations/irl/countries_adj__} fountain
+{__locations/irl/countries_adj__} plaza
+{__locations/irl/countries_adj__} nature reserve
+{__locations/irl/countries_adj__} wilderness
+{__locations/irl/countries_adj__} field
+{__locations/irl/countries_adj__} secret base
+{__locations/irl/countries_adj__} slum
+{__locations/irl/countries_adj__} university
+{__locations/irl/countries_adj__} alley
+{__locations/irl/countries_adj__} harbour
+{__locations/irl/countries_adj__} market
+{__locations/irl/countries_adj__} cafe
+{__locations/irl/countries_adj__} restaurant
+{__locations/irl/countries_adj__} crossroads

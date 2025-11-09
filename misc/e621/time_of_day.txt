@@ -1,0 +1,17 @@
+twilight
+early morning
+morning
+noon
+midday
+daytime
+sunny
+afternoon
+late afternoon
+golden hour
+sunset
+evening
+nightfall
+night
+nighttime
+midnight
+dusk

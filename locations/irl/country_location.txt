@@ -1,0 +1,219 @@
+Costa Rica Arenal Volcano
+Costa Rica Monteverde Cloud Forest
+Costa Rica Manuel Antonio Beach
+Cuba Havana
+Cuba Varadero Beach
+Cuba Viñales Valley
+Jamaica Blue Mountains
+Jamaica Montego Bay
+Jamaica Dunn's River Falls
+Kazakhstan Almaty
+Kazakhstan Charyn Canyon
+Kazakhstan Astana
+Kyrgyzstan Bishkek
+Kyrgyzstan Issyk-Kul Lake
+Kyrgyzstan Ala Archa National Park
+Uzbekistan Samarkand
+Uzbekistan Bukhara
+Uzbekistan Tashkent
+Ethiopia Lalibela
+Ethiopia Simien Mountains
+Ethiopia Addis Ababa
+Kenya Nairobi
+Kenya Maasai Mara
+Kenya Mount Kenya
+Tanzania Mount Kilimanjaro
+Tanzania Zanzibar
+Tanzania Serengeti
+China Great Wall
+China Beijing
+China Zhangjiajie
+China Shanghai
+China Xi'an (Terracotta Army)
+China Guilin
+Hong Kong SAR Victoria Peak
+Hong Kong SAR Lantau Island
+Hong Kong SAR Kowloon
+Japan Osaka
+Japan Okinawa
+Japan Sapporo
+Japan Tokyo
+Japan Mount Fuji
+Japan Kyoto
+South Korea Seoul
+South Korea Jeju Island
+South Korea Gyeongju
+Taiwan Taipei
+Taiwan Taroko Gorge
+Taiwan Sun Moon Lake
+Czech Republic Prague
+Czech Republic Karlovy Vary
+Czech Republic Bohemian Switzerland
+Hungary Budapest
+Hungary Lake Balaton
+Hungary Buda Castle
+Poland Warsaw
+Poland Krakow
+Poland Tatra Mountains
+Romania Bucharest
+Romania Bran Castle
+Romania Transfagarasan Highway
+Russia Moscow
+Russia Lake Baikal
+Russia Saint Petersburg
+Israel/Palestine Jerusalem
+Israel/Palestine Dead Sea
+Israel/Palestine Masada
+Jordan Petra
+Jordan Wadi Rum
+Jordan Amman
+Saudi Arabia Mecca
+Saudi Arabia Riyadh
+Saudi Arabia Al-Ula
+Canada Banff National Park
+Canada Toronto
+Canada Niagara Falls
+Mexico Mexico City
+Mexico Chichen Itza
+Mexico Copper Canyon
+Mexico Oaxaca
+Mexico Guadalajara
+Mexico Tulum
+USA Grand Canyon
+USA New York City
+USA Yellowstone National Park
+USA Las Vegas
+USA Chicago
+USA Glacier National Park
+USA New Orleans
+USA Washington, D.C.
+USA Rocky Mountains
+USA San Francisco
+USA Appalachian Mountains
+USA Miami
+Egypt Cairo
+Egypt Great Pyramids
+Egypt Nile River
+Morocco Marrakech
+Morocco Atlas Mountains
+Morocco Chefchaouen
+Tunisia Tunis
+Tunisia Sahara Desert
+Tunisia Carthage
+Denmark Copenhagen
+Denmark Aarhus
+Denmark Bornholm
+Finland Helsinki
+Finland Rovaniemi
+Finland Finnish Lakeland
+Iceland Reykjavik
+Iceland Golden Circle
+Iceland Vatnajökull National Park
+Norway Oslo
+Norway Lofoten Islands
+Norway Geirangerfjord
+Sweden Stockholm
+Sweden Gotland
+Sweden Ice Hotel, Jukkasjärvi
+Australia Sydney Opera House
+Australia Great Barrier Reef
+Australia Uluru
+New Zealand Fiordland National Park
+New Zealand Auckland
+New Zealand Rotorua
+Papua New Guinea Port Moresby
+Papua New Guinea Mount Wilhelm
+Papua New Guinea Kokoda Track
+Argentina Buenos Aires
+Argentina Patagonia
+Argentina Mendoza Wine Region
+Argentina Ushuaia
+Argentina Iguazu National Park
+Argentina Cordoba
+Brazil Amazon Rainforest
+Brazil Rio de Janeiro
+Brazil Iguazu Falls
+Brazil Salvador
+Brazil Pantanal
+Brazil Sao Paulo
+Chile Santiago
+Chile Atacama Desert
+Chile Easter Island
+Colombia Cartagena
+Colombia Medellín
+Colombia Coffee Cultural Landscape
+Peru Machu Picchu
+Peru Lima
+Peru Lake Titicaca
+India Taj Mahal
+India Jaipur
+India Himalayas
+Pakistan Lahore
+Pakistan Hunza Valley
+Pakistan Mohenjo-daro
+Sri Lanka Sigiriya
+Sri Lanka Colombo
+Sri Lanka Galle
+Indonesia Bali
+Indonesia Jakarta
+Indonesia Borobudur Temple
+Thailand Bangkok
+Thailand Phi Phi Islands
+Thailand Chiang Mai
+Vietnam Ha Long Bay
+Vietnam Hanoi
+Vietnam Ho Chi Minh City
+Greece Athens
+Greece Santorini
+Greece Meteora
+Greece Crete
+Greece Thessaloniki
+Greece Mount Olympus
+Italy Florence
+Italy Lake Como
+Italy Dolomites
+Italy Rome
+Italy Venice
+Italy Amalfi Coast
+Portugal Lisbon
+Portugal Porto
+Portugal Algarve
+Spain Barcelona
+Spain Alhambra
+Spain Seville
+Spain Madrid
+Spain Ibiza
+Spain La Rioja
+Ghana Accra
+Ghana Cape Coast Castle
+Ghana Mole National Park
+Nigeria Lagos
+Nigeria Abuja
+Nigeria Yankari National Park
+Senegal Dakar
+Senegal Lake Retba
+Senegal Goree Island
+Belgium Brussels
+Belgium Bruges
+Belgium Antwerp
+France Eiffel Tower
+France Mont Saint-Michel
+France Loire Valley
+France Provence
+France Nice
+France Chamonix
+Germany Hamburg
+Germany Munich
+Germany Rhine Valley
+Germany Neuschwanstein Castle
+Germany Berlin
+Germany Black Forest
+Netherlands Amsterdam
+Netherlands Rotterdam
+Netherlands Keukenhof Gardens
+United Kingdom Edinburgh
+United Kingdom Cornwall
+United Kingdom Lake District
+United Kingdom London
+United Kingdom Scottish Highlands
+United Kingdom Stonehenge

@@ -35,3 +35,8 @@ shaded, {|{photo|}realistic,} outline, by [frans van mieris|hans makart|leonid a
 {shaded|cel shading}, {|outline,} {|toony,} {1-$$, $$(brian kesinger:1.2)|(by kenket:1.2)|by haps|by dramamine}, by [frans van mieris|hans makart|leonid afremov], by [jeannette guichard-bunel|jillian tamaki|amy sillman]
 {|cel shading, outline, {|toony,}} by {4-6$$, by $$mystikfox61|dangpa|darkgem|null-ghost|bakemonoy|strange-fox|nurinaki}
 {|cel shading, outline, {|toony,}} {4-6$$, $$Brian Kesinger|Cory Loftis|Sachin Teng|Tom Whalen|Wlop|Greg Rutkowski|Yuumei|by braeburned|by daftpatriot|by haps|by zackary911}
+8k hd, best quality, highly detailed, ((by utsuki-maito, by oouna, by thesociallyawkwardpinguin))
+8k hd, best quality, highly detailed, drawing, ((by utsuki-maito, by oouna, by thesociallyawkwardpinguin))
+(8k, uhd, hi res, detailed, shaded, shading, masterpiece, perfect lighting, ultra detailed:1.1) ((by utsuki-maito, by oouna, by thesociallyawkwardpinguin))
+(8k, uhd, hi res, detailed, shaded, shading, masterpiece, perfect lighting, ultra detailed:1.1) (by chunie, by braeburned,by tatujapa,by darkgem,by zackary911, by kenket, by strange-fox)
+(8k, uhd, hi res, detailed, shaded, shading, masterpiece, perfect lighting, ultra detailed:1.1) ({7$$ by chunie| by braeburned| by tatujapa| by darkgem| by zackary911| by kenket| by strange-fox})

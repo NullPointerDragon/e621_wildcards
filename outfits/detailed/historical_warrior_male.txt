@@ -1,0 +1,50 @@
+Frankish Crusader Knight outfit: chainmail hauberk, great helm, surcoat with cross, leather chausses, kite shield, longsword, leather boots
+Napoleonic Grenadier outfit: bearskin hat, blue wool coat, white cross belts, epaulettes, knee-high gaiters, bayonet rifle
+Ancient Greek Hoplite outfit: bronze Corinthian helmet, linothorax cuirass, leather pteruges skirt, greaves, dory spear, hoplon shield, sandals
+Samurai Warrior outfit: kabuto helmet, lamellar do-maru armor, silk obi belt, hakama trousers, katana sword, wooden geta sandals
+Viking Berserker outfit: fur-lined tunic, iron helmet, leather bracers, wool trousers, round shield, battle axe, leather boots
+Roman Legionary outfit: galea helmet, lorica segmentata armor, tunic, leather caligae sandals, scutum shield, gladius sword
+Mongol Horse Archer outfit: fur-lined deel robe, conical steel helmet, silk sash, leather boots, composite bow, quiver with arrows, saber
+Byzantine Cataphract outfit: spangenhelm helmet, lamellar cuirass, leather vambraces, mail chausses, kontos lance, scale horse barding
+Persian Immortal outfit: scale armor cuirass, felt tiara helmet, patterned tunic, bronze greaves, gorytos bow case, spear
+Zulu Impi Warrior outfit: isicoco headband, cowhide war shield, umqhele feather crown, animal skin loincloth, assegai spear
+Swiss Pikeman outfit: steel burgonet helmet, slashed doublet, woolen hose, long pike, steel breastplate, leather shoes
+Hussite War Wagonner outfit: kettle helmet, padded gambeson, wooden pavise shield, flail weapon, leather gloves
+Conquistador Soldier outfit: morion helmet, steel cuirass, red sash, rapier sword, leather boots, arquebus musket
+Carolingian Knight outfit: nasal helmet, mail hauberk, wool tunic, leather gloves, kite shield, arming sword
+Celtic Warrior outfit: bronze torc, woolen tunic, leather belt, tartan trousers, wooden shield, longsword
+Gaulish Chieftain outfit: winged bronze helmet, chainmail cuirass, wool cloak, war paint, oval shield, iron longsword
+Sikh Nihang Warrior outfit: blue chola robe, tall dastar turban, iron chakram quoit, steel gauntlets, khanda sword
+Turkish Janissary outfit: tall bork hat, red kaftan robe, leather boots, silk sash, yatagan sword, matchlock musket
+Teutonic Knight outfit: great helm, white surcoat with black cross, mail hauberk, woolen cloak, arming sword, heater shield
+Norman Knight outfit: conical nasal helmet, chainmail hauberk, wool tunic, leather chausses, kite shield, warhorse
+Chinese Ming Warrior outfit: iron lamellar armor, red silk tunic, black hat, wooden shield, dao sword, bow and arrows
+Scottish Highlander outfit: tartan plaid, leather sporran, woolen kilt, dirk dagger, basket-hilted claymore sword
+Aztec Jaguar Warrior outfit: jaguar pelt suit, feathered headdress, obsidian macuahuitl sword, wooden shield, sandals
+Apache Brave outfit: buckskin shirt, war paint, beaded moccasins, eagle feather headdress, tomahawk, bow and arrows
+Hittite Charioteer outfit: bronze scale armor, linen tunic, leather sandals, war chariot, composite bow, bronze sword
+Ethiopian Shotel Warrior outfit: lion’s mane headdress, red shamma robe, leather sandals, curved shotel sword, wooden shield
+Arab Mamluk Knight outfit: iron helmet, chainmail hauberk, silk kaftan, leather gloves, curved scimitar sword, round shield
+Caribbean Maroon Warrior outfit: conical straw hat, red cotton sash, loose linen trousers, machete, flintlock musket
+Russian Streltsy Musketeer outfit: tall fur hat, red caftan robe, silk belt, leather boots, matchlock musket, poleaxe
+French Musketeer outfit: plumed cavalier hat, blue tabard with fleur-de-lis, silk doublet, knee-high leather boots, rapier sword, musket
+Polish Winged Hussar outfit: feathered winged armor, lobster-tailed helmet, crimson sash, steel breastplate, lance, saber
+Tibetan Warrior Monk outfit: red robes, iron lamellar cuirass, prayer beads, tiger pelt boots, straight sword
+Genoese Crossbowman outfit: steel sallet helmet, padded gambeson, knee-high boots, crossbow, wooden pavise shield
+Incan Warrior outfit: gold-studded tunic, feathered headband, llama wool cape, leather sandals, atlatl spear thrower
+Boer Commando outfit: wide-brimmed hat, leather bandolier, brown wool coat, knee-high boots, bolt-action rifle
+Napoleonic Cuirassier outfit: steel breastplate, shako helmet, blue cavalry jacket, knee-high boots, curved saber
+Berber Raider outfit: blue turban, wool djellaba robe, leather belt, curved dagger, flintlock musket
+Spartan Warrior outfit: bronze Corinthian helmet, red chlamys cloak, linothorax cuirass, greaves, dory spear, xiphos sword
+Achaemenid Persian Sparabara outfit: scale armor vest, felt tiara helmet, wicker shield, long spear, leather sandals
+Maori Warrior outfit: flax piupiu skirt, ta moko facial tattoos, feathered cloak, greenstone mere club
+Japanese Ashigaru outfit: jingasa helmet, chest cuirass, cotton jacket, straw sandals, yari spear, matchlock arquebus
+Zulu Chief outfit: leopard pelt cape, isicoco headband, ceremonial spear, carved wooden shield, beaded necklace
+Hawaiian Koa Warrior outfit: feathered mahiole helmet, red loincloth, wooden shark-tooth club, palm fiber sandals
+Tatar Horseman outfit: conical iron helmet, silk tunic, quilted armor, fur-lined boots, composite bow, curved saber
+Khmer War Elephant Rider outfit: red silk sarong, golden diadem, embroidered vest, spear, wooden shield, war elephant
+Serbian Hussar outfit: tall fur kalpak hat, crimson dolman jacket, silk sash, sabretache pouch, curved saber
+Gothic Foot Soldier outfit: steel spangenhelm, iron chainmail shirt, wooden round shield, seax dagger, spear
+Dacian Falxman outfit: wolfskin headdress, linen tunic, leather belt, bronze greaves, two-handed falx sword
+Hunnic Warlord outfit: fur-trimmed deel coat, leather boots, iron scale armor, recurve bow, belt dagger
+Moro Kriss Warrior outfit: turbanned headwrap, silk sash, loose trousers, kris dagger, kampilan sword
